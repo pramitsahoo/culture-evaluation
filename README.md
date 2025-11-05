@@ -10,13 +10,23 @@ This repository contains the evaluation code for the DIWALI (Diversity and Inclu
 
 ```bibtex
 @inproceedings{sahoo-etal-2025-diwali,
-    title = "DIWALI - Diversity and Inclusivity aWare cuLture specific Items for India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian Context",
-    author = "Sahoo, Pramit and Brahma, Maharaj and Desarkar, Maunendra Sankar",
+    title = "{DIWALI} - Diversity and Inclusivity a{W}are cu{L}ture specific Items for {I}ndia: Dataset and Assessment of {LLM}s for Cultural Text Adaptation in {I}ndian Context",
+    author = "Sahoo, Pramit  and
+      Brahma, Maharaj  and
+      Desarkar, Maunendra Sankar",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
     booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
     year = "2025",
     address = "Suzhou, China",
     publisher = "Association for Computational Linguistics",
-    pages = "33587--33614"
+    url = "https://aclanthology.org/2025.emnlp-main.1706/",
+    pages = "33587--33614",
+    ISBN = "979-8-89176-332-6",
+    abstract = "Large language models (LLMs) are widely used in various tasks and applications. However, despite their wide capabilities, they are shown to lack cultural alignment (CITATION) and produce biased generations (CITATION) due to a lack of cultural knowledge and competence. Evaluation of LLMs for cultural awareness and alignment is particularly challenging due to the lack of proper evaluation metrics and unavailability of culturally grounded datasets representing the vast complexity of cultures at the regional and sub-regional levels. Existing datasets for culture specific items (CSIs) focus primarily on concepts at the regional level and may contain false positives. To address this issue, we introduce a novel CSI dataset for Indian culture, belonging to 17 cultural facets. The dataset comprises {\textasciitilde}8k cultural concepts from 36 sub-regions. To measure the cultural competence of LLMs on a cultural text adaptation task, we evaluate the adaptations using the CSIs created, LLM as Judge, and human evaluations from diverse socio-demographic region. Furthermore, we perform quantitative analysis demonstrating selective sub-regional coverage and surface-level adaptations across all considered LLMs. Our dataset is available here: https://huggingface.co/datasets/nlip/DIWALI, project webpage, and our codebase with model outputs can be found here: https://github.com/pramitsahoo/culture-evaluation."
 }
 ```
 
