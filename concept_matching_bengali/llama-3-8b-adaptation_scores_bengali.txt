@@ -1,0 +1,4153 @@
+{
+  "dataset_statistics": {
+    "total_sentences": 275,
+    "entries_with_replacements": 267,
+    "total_strict_matches": 24,
+    "total_singular_plural_matches": 0,
+    "total_fuzzy_matches": 48,
+    "average_strict_match_per_sentence": 0.08727272727272728,
+    "average_singular_plural_match_per_sentence": 0.0,
+    "average_fuzzy_match_per_sentence": 0.17454545454545456
+  },
+  "detailed_scores": [
+    {
+      "adapted_text": "একটি রোবে দুটি নীল ফাইবারের বোল্ট এবং সেই পরিমাণের অর্ধেক সাদা ফাইবার নেয়। মোট কতটি বোল্ট লাগে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "সাদা ফাইবারের বোল্ট",
+        "নীল ফাইবারের বোল্ট",
+        "রোবে"
+      ]
+    },
+    {
+      "adapted_text": "জেমস সাপ্তাহিক ৩ বার ৩টি স্প্রিন্ট দিয়ে দৌড়াবেন। সে প্রতিটি স্প্রিন্টে ৬০ মিটার দৌড়াবেন। সে সাপ্তাহিক মোট কত মিটার দৌড়াবেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "প্রিন্ট"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "সাপ্তাহিক ৩ বার",
+        "জেমস",
+        "স্প্রিন্ট",
+        "৬০ মিটার"
+      ]
+    },
+    {
+      "adapted_text": "ক্লেয়ার প্রতিদিন সকালে একটি ৩ টি ডিমের ওমেলেট তৈরি করে নাস্তা খায়। সে ৪ সপ্তাহে কত ডজন ডিম খাবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ডিম",
+        "ক্লেয়ার"
+      ]
+    },
+    {
+      "adapted_text": "একটি ডিম্বী মুখী দীপ প্রতি ঘন্টায় ২ সেমি পর্যন্ত পরিণত হয়। একটি ডিম্বী মুখী দীপ ১:০০ টার থেকে ৫:০০ টা পর্যন্ত পুড়ে যাওয়ার পর কত সেমি কম হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ডিম্বী মুখী দীপ"
+      ]
+    },
+    {
+      "adapted_text": "কাইল আগের বছরের সেরা বিক্রি হওয়া বইটি ১৯.৫০ ডলারে কিনেছেন। এটি মূল মূল্য থেকে ২৫% ছাড়ের সাথে। বইটির মূল মূল্য কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১৯৫০ ডলার",
+        "কাইল",
+        "২৫",
+        "আগের বছরের সেরা বিক্রি হওয়া বই"
+      ]
+    },
+    {
+      "adapted_text": "ড্যারেল ও অ্যালেনের বয়সের অনুপাত ৭:১১। তাদের বর্তমান মোট বয়স ১৬২ বছর। অ্যালেনের বয়স ১০ বছর পর কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ড্যারেল",
+        "অ্যালেন"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ ১০টি কুকুরের যত্ন নিচ্ছেন। প্রতিটি কুকুরের জন্য তিনি প্রতিদিন ০.৫ ঘন্টা হাঁটাতে এবং তাদের যত্ন নিতে ব্যয় করেন। সাপ্তাহিকভাবে তিনি কুকুরের যত্নে কত ঘন্টা ব্যয় করেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কুকুর",
+        "০৫",
+        "রমেশ",
+        "১০"
+      ]
+    },
+    {
+      "adapted_text": "গ্রেচেনের ১১০ টাকা আছে। সোনার মুদ্রার চেয়ে ৩০টি বেশি রূপা মুদ্রা আছে। গ্রেচেনের কতগুলি সোনার মুদ্রা আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মুদ্রা",
+        "সোনার মুদ্রা",
+        "গ্রেচেন",
+        "রূপা মুদ্রা",
+        "১১০ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "সিওবানের কাছে আরোনের চেয়ে ২টি কম হার আছে। আরোনের কাছে রেমন্ডের হারের অর্ধেকের চেয়ে ৫টি বেশি হার আছে। যদি রেমন্ডের ৪০টি হার থাকে, তাহলে সিওবানের কতটি হার আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "হার",
+        "সিওবান",
+        "রেমন্ড",
+        "আরোন"
+      ]
+    },
+    {
+      "adapted_text": "মাইকেল পিঙ্গ পং খেলেছেন ৪০ মিনিট। প্রথম ২০ মিনিটে, তিনি ৪ পয়েন্ট স্কোর করেছেন। দ্বিতীয় ২০ মিনিটে, তিনি ২৫% বেশি পয়েন্ট স্কোর করেছেন। তিনি মোট কতগুলি পয়েন্ট স্কোর করেছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মাইকেল",
+        "পিঙ্গ পং"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ ৬০ মাইল প্রতি সপ্তাহে দৌড়ে। সে ৩ দিন প্রতি সপ্তাহে দৌড়ে।  সে ১ম দিন ৩ ঘন্টা দৌড়ে এবং অন্য দুই দিনে তিনি দৌড়ে অর্ধেক পরিমাণ।  সে কত গতিতে দৌড়ে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ঘণ্টা"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "মাইল",
+        "রমেশ",
+        "ঘন্টা",
+        "দিন"
+      ]
+    },
+    {
+      "adapted_text": "জেনের কাছে ৩০টি লল্লোপ আছে। জেন ২টি লল্লোপ খায়। অবশিষ্ট লল্লোপ দিয়ে, জেন একটি ব্যাগে ২টি লল্লোপ প্যাকেজ করতে চায়। জেন কতগুলি ব্যাগ পূরণ করতে পারে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "লল্লোপ",
+        "জেন"
+      ]
+    },
+    {
+      "adapted_text": "একটি ফলের গাছে ৬ টি গোষ্ঠী রয়েছে যার প্রতিটিতে ২০টি ফল এবং ৬৭টি বিচ্ছিন্ন ফল রয়েছে। মোট কতগুলি ফল আছে?",
+      "strict_matches": [
+        "ফল",
+        "গাছ"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 1.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গাছ",
+        "ফল"
+      ]
+    },
+    {
+      "adapted_text": "একটি টেবিলে ২৫টি নারংগি রয়েছে যার মধ্যে ১টি খারাপ, ২০% অপুষ্পিত, ২টি খারাপমস্তিশ্ক এবং বাকিগুলো ভালো। ভালো নারংগির সংখ্যা কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "খারাপমস্তিশ্ক",
+        "অপুষ্পিত",
+        "টেবিল",
+        "নারংগি",
+        "খারাপ"
+      ]
+    },
+    {
+      "adapted_text": "বেলি কিছু টাকা দিয়ে শুরু করে। তারপর সে প্রতি সপ্তাহে ৫ ডলার বৃত্তি পায় ৮ সপ্তাহ। ৮ সপ্তাহের শেষে, যদি তার মোট ১০০ ডলার থাকে, তাহলে বেলি কত টাকা দিয়ে শুরু করেছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১০০ ডলার",
+        "৫ ডলার",
+        "বেলি"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ একটি কুকুর গ্রহণ করেছেন। তিনি কুকুরটিকে গ্রোমারে নিয়ে যান, যার খরচ হল ১১,৮০০ টাকা। গ্রোমার তাকে একজন নতুন গ্রাহক হওয়ার জন্য ৩০% ছাড় প্রদান করে। গ্রোমিং খরচ কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রমেশ",
+        "১১৮০০ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "গ্রেস ১২৫ পাউন্ড ওজন করেন। আলেক্স ৪ গুণ গ্রেসের ওজনের চেয়ে ২ পাউন্ড কম ওজন করেন। তাদের মিলিত ওজন কত পাউন্ড?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "আলেক্স",
+        "১২৫",
+        "২",
+        "গ্রেস",
+        "৪"
+      ]
+    },
+    {
+      "adapted_text": "দান ৩টি গুল্ম রোজ লাগান। প্রতিটি গুল্ম রোজে ২৫টি রোজ আছে। প্রতিটি রোজে ৮টি কাঁটা আছে। মোট কতগুলি কাঁটা আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "দান",
+        "কাঁটা",
+        "গুল্ম রোজ",
+        "রোজ"
+      ]
+    },
+    {
+      "adapted_text": "একটি ফুটবল দল ২২টি ম্যাচ খেলেছে। তারা হেরেছে তার চেয়ে ৮টি বেশি জিতেছে। কতগুলি তারা জিতেছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জিতেছে",
+        "হেরেছে",
+        "ম্যাচ",
+        "ফুটবল দল"
+      ]
+    },
+    {
+      "adapted_text": "মেরিলিনের প্রথম রেকর্ডটি হারাল্ডের চেয়ে ১০ গুণ বেশি কপি বিক্রি হয়েছিল। যদি তারা মিলিতভাবে ৮৮,০০০ কপি বিক্রি করে, হারাল্ড কতগুলি কপি বিক্রি করেছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মেরিলিন",
+        "হারাল্ড"
+      ]
+    },
+    {
+      "adapted_text": "হ্যারি রাতে ৯ ঘন্টা ঘুমিয়েছিলেন। তার বন্ধু জেমস শুধুমাত্র হ্যারির মতো ঘুমিয়েছিলেন ২/৩। হ্যারি কতটা ঘন্টা বেশি ঘুমিয়েছিলেন জেমসের তুলনায়?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জেমস",
+        "৯",
+        "হ্যারি",
+        "২৩"
+      ]
+    },
+    {
+      "adapted_text": "কোডি আমিরের মতো তিনগুণ বেশি কুকি খায়। যদি আমির ৫টি কুকি খায়, তাহলে উভয়েই কতগুলি কুকি খায়?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "তিনগুণ",
+        "কোডি",
+        "আমির",
+        "৫টি কুকি"
+      ]
+    },
+    {
+      "adapted_text": "রমেশের ৩টি বাক্স আছে। প্রতিটি বাক্সের মাত্রা ৫ ইঞ্চি দৈর্ঘ্য, ৬ ইঞ্চি প্রস্থ এবং ৪ ইঞ্চি উচ্চতা। দেয়ালগুলি ১ ইঞ্চি পুরু। সব মিলিয়ে ৩টি বাক্সের মোট ভিতরের আয়তন কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "বাক্স",
+        "রমেশ",
+        "ইঞ্চি"
+      ]
+    },
+    {
+      "adapted_text": "রায়ান তার বাগানে প্রতিদিন ২টি ফুল রোপণ করেন। ১৫ দিন পর, যদি ৫টি ফুল বেড়ে না যায়, তাহলে তার কতগুলি ফুল আছে?",
+      "strict_matches": [
+        "ফুল"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "রায়তা"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "ফুল",
+        "রায়ান",
+        "দিন"
+      ]
+    },
+    {
+      "adapted_text": "কেটি কফি তৈরি করতে ৭:১৩ অনুপাতে চা চামচ এবং পানির কাপ ব্যবহার করে। যদি সে ১২০ টি চা চামচ চা এবং পানি ব্যবহার করে, তাহলে সে কতটি চা চামচ চা ব্যবহার করেছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কাপ",
+        "কেটি",
+        "চা চামচ"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ 3টি শিশুর প্রত্যেকের জন্য 2টি জুতা কিনেছেন। তারা প্রতিটি ৬০ টাকা। তিনি কত টাকা দিলেন?",
+      "strict_matches": [
+        "জুতা"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জুতা",
+        "রমেশ"
+      ]
+    },
+    {
+      "adapted_text": "মিগুয়েল প্রতি সপ্তাহে ২টি কাগজের পেটার ব্যবহার করেন তার আঁকার জন্য। যদি একটি কাগজের পেটাতে ৩০টি কাগজ থাকে, তাহলে সে প্রতি মাসে কতগুলি কাগজ ব্যবহার করেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "২",
+        "৩০",
+        "মিগুয়েল",
+        "কাগজের পেটা"
+      ]
+    },
+    {
+      "adapted_text": "রোজি ১০ মাইল প্রতি ঘণ্টা গতিতে ৩ ঘন্টা দৌড়াতে পারে। তারপর, সে ৫ মাইল প্রতি ঘণ্টা গতিতে দৌড়ায়। ৭ ঘন্টার মধ্যে সে কত মাইল দৌড়াতে পারে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রোজি"
+      ]
+    },
+    {
+      "adapted_text": "মে মাসে জোসেফের খরচ ছিল ৫০০ ডলার। জুন মাসে তার খরচ ছিল ৬০ ডলার কম। দুই মাসের মোট খরচ কত ছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৫০০ ডলার",
+        "৬০ ডলার",
+        "জোসেফ"
+      ]
+    },
+    {
+      "adapted_text": "টম প্রতি মাসে ৪টি গাড়ি ধোয়া করে। যদি প্রতিটি গাড়ি ধোয়ার খরচ ১৫ ডলার হয় তাহলে সে এক বছরে কত টাকা দেয়?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "বটম"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "টম",
+        "গাড়ি ধোয়া",
+        "১৫ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "একটি ক্যান্ডি মেশিনে, লাল গাম্বলের সংখ্যা নীল গাম্বলের চারগুণের চেয়ে ২২ বেশি। যদি নীল গাম্বলের সংখ্যা ১২ হয় তাহলে লাল গাম্বলের কতগুলি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "নীল গাম্বল",
+        "লাল গাম্বল"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ ১০ হেক্টর আনারস শস্যভূমি রয়েছে। প্রতি হেক্টরে ১০০টি আনারস রয়েছে। রমেশ প্রতি ৩ মাসে তার আনারস ফলন করতে পারেন। এক বছরে রমেশ কতগুলি আনারস ফলন করতে পারেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "মা",
+        "বনারস"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "হেক্টর",
+        "মাস",
+        "রমেশ",
+        "আনারস"
+      ]
+    },
+    {
+      "adapted_text": "কার্ল ১০ প্যাকেট কুকি কিনেছেন। প্রতিটি প্যাকেটে ৬টি কুকি রয়েছে। প্রতিটি কুকির দাম ১০ টাকা। কার্ল ১০০ টাকা দিয়ে কিনেছেন, তার কত টাকা ফেরত পাবেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "কার্ড"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "কার্ল",
+        "১০০ টাকা",
+        "কুকি",
+        "১০ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "সেথের বয়স ব্রুকের চেয়ে দ্বিগুণ। দুই বছর পর, তাদের বয়সের যোগফল ২৮ হবে। সেথের বয়স কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ব্রুক",
+        "সেথ",
+        "৳"
+      ]
+    },
+    {
+      "adapted_text": "জিমি এথেলের চেয়ে দ্বিগুণ অর্থ থেকে আরও ২ টাকা আছে। যদি এথেলের ৮০ টাকা থাকে, তাহলে জিমির কত টাকা আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জিমি",
+        "৮০ টাকা",
+        "এথেল",
+        "২ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "পাঞ্চো প্রতিদিন ২০ মাইল হেঁটে যায়। শুক্রবার ও রবিবার ছাড়া সব দিন তিনি ১০ মাইল হেঁটে যান। সাপ্তাহিকভাবে তিনি কত মাইল হেঁটে যান?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মাইল",
+        "পাঞ্চো"
+      ]
+    },
+    {
+      "adapted_text": "জান হলো ৩০ বছর বয়সী। জেন কত বছর বয়সী?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জান",
+        "জেন",
+        "মার্ক"
+      ]
+    },
+    {
+      "adapted_text": "জেনা ও তার মা তাদের আপেল গাছের থেকে কিছু আপেল নিলেন। জেনা তার মায়ের চেয়ে অর্ধেক আপেল নিল। যদি তার মা ২০টি আপেল পায়, তাহলে তারা উভয়ে কতটি আপেল নিলেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "তার মা",
+        "জেনা",
+        "২০"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ ৩ ঘন্টা ধরে আমসত সংগ্রহ করেন। তিনি প্রতি মিনিটে ২টি আমসত সংগ্রহ করতে পারেন। তিনি কতগুলি আমসত সংগ্রহ করেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "আমসত",
+        "রমেশ"
+      ]
+    },
+    {
+      "adapted_text": "মুরগিরা প্রতি সপ্তাহে ৩.৫ পাউন্ড পোকামাকড়ের খাবার খাতে হবে জীবন বাঁচাতে। যদি এক বাহুর মুরগিরা থাকে, তাহলে তারা প্রতিদিন কত পাউন্ড পোকামাকড় খাবে?",
+      "strict_matches": [
+        "মুরগি"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "এক বাহুর মুরগি",
+        "মুরগি",
+        "৩৫ পাউন্ড"
+      ]
+    },
+    {
+      "adapted_text": "একটি নির্দিষ্ট শহরের 40টি রেস্তোরাঁয় 200 পাউন্ড টমেটো বিতরণ করা হবে। প্রতিটি রেস্তোরাঁয় 2 পাউন্ড টমেটো পাবে। কত পাউন্ড টমেটো ব্যবহার হবে না?",
+      "strict_matches": [
+        "টমেটো"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পাউন্ড",
+        "টমেটো"
+      ]
+    },
+    {
+      "adapted_text": "সোডা শহরে মোট ২৩৭৮৬ জন বাসিন্দা রয়েছেন। তাদের মধ্যে ৮৪১৭ জন পুরুষ এবং ৯০৯২ জন মহিলা। বাকি জনসংখ্যা শিশুদের গঠন করে। সোডাতে কত শিশু আছে?",
+      "strict_matches": [
+        "পুরুষ"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পুরুষ",
+        "মহিলা",
+        "সোডা"
+      ]
+    },
+    {
+      "adapted_text": "বাল্ডুর প্রতিদিন সকালে ৫ টি পাত্র ও বিকেলে ৬ টি পাত্র পানি নেয়। যদি প্রতিটি পাত্রে ৫ লিটার পানি থাকে, তাহলে সে প্রতিদিন কত লিটার পানি পায়?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কূয়া",
+        "বাল্ডুর",
+        "লিটার",
+        "পাত্র"
+      ]
+    },
+    {
+      "adapted_text": "গারি পার্কের পাশে হেঁটে যাওয়ার মতো পছন্দ করেন, যা একটি বর্গক্ষেত্র যা ১.৫ মাইল দ্বারা ৬ মাইল পরিমাপ করে। যদি সে ৩ মাইল/ঘন্টা হারে হেঁটে যায়, তাহলে সে কত ঘন্টা হেঁটে থাকে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মাইল",
+        "গারি"
+      ]
+    },
+    {
+      "adapted_text": "মোট ফুলের সংখ্যা কত? পাত্রে ৪টি গুল্দাস আছে। পাত্রে গুল্দাসের চেয়ে ৭টি বেশি গুলদান্দা আছে।",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গুল্দাস",
+        "গুলদান্দা"
+      ]
+    },
+    {
+      "adapted_text": "অ্যান্ডি ৯০টি গারেনিয়াম এবং গারেনিয়ামের চেয়ে ৪০টি কম পেটুনিয়া রোপণ করেছেন। তিনি মোট কতগুলি ফুল রোপণ করেছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "অ্যান্ডি",
+        "গারেনিয়াম",
+        "পেটুনিয়া"
+      ]
+    },
+    {
+      "adapted_text": "একটি কোম্পানি এক বছরে বিজ্ঞাপনে ১৫,০০০ ডলার খরচ করে, তারপর এক বছরের জন্য বিজ্ঞাপনে তার এক তৃতীয়াংশ খরচ করে। দুই বছরে কোম্পানিটি বিজ্ঞাপনে মোট কত পরিমাণ খরচ করেছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১৫০০০ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "মেরি জোয়ানের থেকে দুই বছর ছোট। জোয়ান জেসার থেকে পাঁচ বছর বড়। যদি জেসা ২০ বছর বয়সী হয়, তাহলে তিন মেয়ের বয়সের যোগফল কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জেসা",
+        "মেরি",
+        "জোয়ান"
+      ]
+    },
+    {
+      "adapted_text": "রবার্টের চেয়ে ৬টি বেশি মিষ্টি আছে জেমসের। রমেশের মিষ্টির সংখ্যা রবার্টের চেয়ে দ্বিগুণ। যদি রমেশের ৫৪টি মিষ্টি থাকে, তাহলে রমেশের কতগুলি বেশি মিষ্টি আছে জেমসের থেকে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জেমস",
+        "রমেশ",
+        "রবার্ট"
+      ]
+    },
+    {
+      "adapted_text": "ডলির দুটি বই আছে। প্যান্ডোরার একটি বই আছে। যদি ডলি এবং প্যান্ডোরা একে অপরের বইয়ের পাশাপাশি নিজেদের বই পড়েন, তাহলে তারা কতগুলি বই সম্মিলিতভাবে পড়বেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ইডলি"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "টাকা",
+        "ডলি",
+        "একে অপরের",
+        "প্যান্ডোরা"
+      ]
+    },
+    {
+      "adapted_text": "একজন শেফ ৪ টি ব্যাগ পেঁয়াজ কিনেছেন। প্রতিটি ব্যাগের ওজন ৫০ পাউন্ড। এক পাউন্ড পেঁয়াজের দাম $১.৫০। শেফটি কত টাকা খরচ করেছেন?",
+      "strict_matches": [
+        "ব্যাগ"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পাউন্ড",
+        "ব্যাগ",
+        "১৫০ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "ট্রাভিসের ট্যাবলেটে ৬১টি অ্যাপ ছিল। সে ৯টি অ্যাপ যা ব্যবহার করেনি মুছে ফেলল এবং ১৮টি অ্যাপ ডাউনলোড করল। এখন ট্যাবলেটে কতগুলি অ্যাপ আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "অ্যাপ",
+        "ট্যাবলেট",
+        "ট্রাভিস"
+      ]
+    },
+    {
+      "adapted_text": "আখিরদিন রিক ১০টি শেরা ও ১৫টি চিতা শিকার করেছে। আজ রিক ৩গুণ বেশি শেরা ও ৩টি কম চিতা শিকার করেছে। রিক কতগুলো প্রাণী শিকার করেছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "শেরা",
+        "চিতা",
+        "রিক"
+      ]
+    },
+    {
+      "adapted_text": "বিল তৃতীয় তলায় শুরু করেন। সে লিফটে উঠে যায় তার শুরুর তলার সমান ৪ গুণ প্লাস ৬। বিল এখন কোন তলায় আছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "লিফট",
+        "তৃতীয়"
+      ]
+    },
+    {
+      "adapted_text": "দশটি দোকানে ২০টি গরু রয়েছে। মিঃ সিলাস ৪০টি গরু কিনে নেন এবং তাদের সমানভাবে ভাগ করেন, প্রতিটি দশটি দোকানে নতুন গরুর সমান সংখ্যা রাখেন। আটটি দোকানে কতগুলি গরু আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "সিলাস",
+        "মিঃ"
+      ]
+    },
+    {
+      "adapted_text": "ব্রেডি তার পিগি ব্যাংকে অর্থ গণনা করছে। তার ১০০ টি পেনি, ৪০ টি নিকেল, ২০ টি ডাইম এবং ৪০ টি ডলারের নোট রয়েছে। ব্রেডির পিগি ব্যাংকে কত ডলার আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "নারিকেল"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "ব্রেডি",
+        "ডাইম",
+        "নিকেল",
+        "পেনি",
+        "ডলার"
+      ]
+    },
+    {
+      "adapted_text": "প্রতিটি ১০ ফুট দৈর্ঘ্যের একটি লাল গাছের ওজন ৪০০ পাউন্ড। কাঁকরাটি ৩০% এই লাল গাছের কাঠ খেয়েছে। যদি লাল গাছটি ২০০ ফুট লম্বা হয়, তাহলে এর ওজন কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পাউন্ড",
+        "লাল গাছ",
+        "ফুট"
+      ]
+    },
+    {
+      "adapted_text": "একটি কাপে ৯,৩০০ টাকায় পেনি আছে। কাপে থাকা পেনির দুই তৃতীয়াংশ স্ট্যাকে থাকলে মোট ডলার পরিমাণ কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পেনি",
+        "কাপ",
+        "ডলার"
+      ]
+    },
+    {
+      "adapted_text": "ম্যাডিসনের ৫টি বাক্স আছে প্রতিটিতে ৫০টি মার্বেল। তারপর তার এক বন্ধু থেকে ২০টি মার্বেল পাওয়ার পর তার কতগুলি মার্বেল আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "বাক্স",
+        "মার্বেল",
+        "ম্যাডিসন"
+      ]
+    },
+    {
+      "adapted_text": "একজন জুগলার ১৬টি গোলবল জুগল করতে পারে। গোলবলের অর্ধেক গল্ফ বল এবং গল্ফ বলের অর্ধেক নীল। কতগুলি নীল গল্ফ বল আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "নীল",
+        "জুগলার",
+        "গোলবল",
+        "গল্ফ বল"
+      ]
+    },
+    {
+      "adapted_text": "রমেশের ২টি বাড়ি আছে প্রতিটিতে ৩টি ঘর। প্রতিটি ঘরে ২টি জানালা আছে। প্রতিটি বাড়িতে ঘরের সাথে সংযুক্ত না হলে ৪টি আরও জানালা আছে। বাড়ির মধ্যে মোট কতগুলি জানালা আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রমেশ"
+      ]
+    },
+    {
+      "adapted_text": "রুবি স্যামের থেকে ৬ গুণ বড়। আগামী ৯ বছরে রুবি স্যামের থেকে ৩ গুণ বড় হবে। স্যামের বর্তমান বয়স কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "স্যাম",
+        "৩",
+        "৬",
+        "৯",
+        "রুবি"
+      ]
+    },
+    {
+      "adapted_text": "পিটার ২০টি পপসিকেল কিনেছেন ০.২৫ ডলার প্রতিটিতে। তিনি আরও ৪টি আইসক্রিম বার কিনেছেন ০.৫০ ডলার প্রতিটিতে। তিনি মোট কত ডলার দিয়েছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পপসিকেল",
+        "পিটার",
+        "০২৫ ডলার",
+        "০৫০ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "একটি নাগ, যার ৭০টি দাগ আছে, দ্বিগুণ সংখ্যক দাগ আছে একটি মাম্বার তুলনায়। যদি একটি সাপ উদ্যানে ৪০টি নাগ এবং ৬০টি মাম্বা থাকে, তাহলে তাদের সবার মিলিত সংখ্যার অর্ধেক কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "দাগ",
+        "নাগ",
+        "মাম্বা"
+      ]
+    },
+    {
+      "adapted_text": "যদি অ্যান ৯ বছর বয়সী হয় এবং তার ভাই তার বয়সের দ্বিগুণ, তাহলে তিনি কত বছর বয়সী হবেন ৩ বছরে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ধ্যান"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "বছর",
+        "অ্যান"
+      ]
+    },
+    {
+      "adapted_text": "কেলির ৫ টি কোয়ার্টার এবং ২ টি ডাইম আছে। যদি সে ৫৫ পাইসা দিয়ে একটি ক্যান পপ কিনে নেয়, তাহলে তার কত পাইসা বাকি থাকবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কোয়ার্টার",
+        "পাইসা",
+        "ডাইম",
+        "কেলি"
+      ]
+    },
+    {
+      "adapted_text": "একটি ৭৬টি তারা বিশিষ্ট পতাকাটির তিনটি সারি ৮টি তারা, দুটি সারি ৬টি তারা এবং বাকি সব সারিতে ৫টি তারা রয়েছে। পতাকার মোট কতগুলি সারিতে ৫টি তারা রয়েছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৬",
+        "৮",
+        "৫",
+        "সারি",
+        "৭৬টি তারা"
+      ]
+    },
+    {
+      "adapted_text": "আনিকা শহরের মেলায় ৫০ ডলার নিয়ে এসেছিলেন। সে খাবার ও স্ন্যাকসে এর অর্ধেক খরচ করেছিলেন এবং আরও ১০ ডলার রাইডের জন্য খরচ করেছিলেন। ডলারে কত বাকি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৫০ ডলার",
+        "১০ ডলার",
+        "আনিকা"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ ২০ জন লোকের বাহু দুলো করেছেন। তিনি ৮০% লোককে পরাজিত করেছেন। তার কতজন লোককে হারিয়েছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "হারিয়েছেন",
+        "২০ জন লোকের",
+        "বাহু দুলো করেছেন",
+        "৮০",
+        "রমেশ"
+      ]
+    },
+    {
+      "adapted_text": "ট্রেন্ট জেনের থেকে ৫ বছর বড়, এবং জেন কুইনের থেকে ৩ বছর ছোট। যদি কুইন ৩০ বছর বয়সী হয়, তাহলে ট্রেন্টের কত বছর বয়স?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ট্রেন্ড"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "কুইন",
+        "জেন",
+        "ট্রেন্ট"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ ৬ ফুট দৈর্ঘ্যের একটি ৪ ফুট প্রস্থের এবং ৫ ফুট গভীর একটি পুল পূরণ করেছে। এটি পূরণ করতে প্রতি ঘনফুটে ১ ডলার খরচ হয়েছে। পুলটি পূরণ করতে কত খরচ হয়েছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রমেশ",
+        "পুল",
+        "১ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "একটি ম্যাগাজিনের দাম একটি বইয়ের দামের অর্ধেক। বইটির দাম $4। একটি পেনের দাম একটি ম্যাগাজিনের দামের চেয়ে $1 কম। পেনের দাম কত?",
+      "strict_matches": [
+        "বই"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.25,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "বই",
+        "৪ ডলার",
+        "১ ডলার",
+        "ম্যাগাজিন"
+      ]
+    },
+    {
+      "adapted_text": "মোবাইল ফোনটি ৩ মিনিটে ১ শতাংশ চার্জ হতে দেখা যায়। এখন ফোনটি ৬০% চার্জ হয়েছে। কত ঘন্টা লাগবে পূর্ণ চার্জ হতে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ঘণ্টা"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "ঘন্টা",
+        "৬০",
+        "মোবাইল ফোন",
+        "মিনিট",
+        "শতাংশ"
+      ]
+    },
+    {
+      "adapted_text": "ম্যাসনকে ৮ ব্যাচ সুকার এবং ১ ব্যাচ ফুডজ তৈরি করতে ৩০ আন্স চিনি এবং ৭০ আন্স চিনি প্রয়োজন। তার মোট কত চিনি দরকার?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ফুডজ",
+        "সুকার",
+        "ম্যাসন",
+        "আন্স"
+      ]
+    },
+    {
+      "adapted_text": "লুক ২টি গরম ডগ খেলেন। থমাস লুকের চেয়ে তিনগুণ বেশি গরম ডগ খেলেন। জন থমাসের খাওয়া পরিমাণের অর্ধেক খেলেন। জন লুকের চেয়ে কতগুলি বেশি গরম ডগ খেলেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "থমাস",
+        "জন",
+        "লুক",
+        "গরম ডগ"
+      ]
+    },
+    {
+      "adapted_text": "একটি রেস্তোরাঁতে 40টি টেবিল রয়েছে যার প্রতিটি 4টি পা এবং 50টি টেবিল রয়েছে যার প্রতিটি 3টি পা। রেস্তোরাঁতের টেবিলের মোট পায়ের সংখ্যা গণনা করুন।",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "পরা"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "পা",
+        "টেবিল"
+      ]
+    },
+    {
+      "adapted_text": "ডাভোস ২টি শার্ট মল থেকে কিনেছেন যার দাম প্রতিটি ৳৩০০০। যদি তিনি তাদের ৪০% ছাড়ে কিনে থাকেন, তাহলে ডাভোস ২টি শার্টের জন্য কত টাকা দিয়েছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "২",
+        "৳৩০০০",
+        "ডাভোস"
+      ]
+    },
+    {
+      "adapted_text": "কার্ভার ৪৫ বছর বয়সী হয়েছে, যা তার ছেলের বয়সের দ্বিগুণ হলে ৫ বছর কম। তার ছেলে কত বছর বয়সী?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "বছর বয়সী",
+        "কার্ভার"
+      ]
+    },
+    {
+      "adapted_text": "পার্কে ৬ জন মেয়ে আছে। যদি পার্কে ছেলেদের সংখ্যা মেয়েদের সংখ্যার দ্বিগুণ হয়, তাহলে পার্কে কত শিশু আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "দ্বিগুণ",
+        "৬"
+      ]
+    },
+    {
+      "adapted_text": "স্কোর করে ১৪ পয়েন্ট পেলে এরিন এখন সারার চেয়ে তিনগুণ বেশি পয়েন্ট পেয়েছেন, যিনি ৮ পয়েন্ট স্কোর করেছেন। এরিনের আগে কতগুলি পয়েন্ট ছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "এরিন",
+        "সারা"
+      ]
+    },
+    {
+      "adapted_text": "একটি হাতে আঁকা ডাক্তারি কাগজের দাম বাজারে ৪০০ ডলার। একটি DIY করলে উপকরণের খরচ বিবেচনা করে ২০% বাঁচানো যায়। যদি ইথান নিজের হাতে আঁকা ডাক্তারি কাগজ তৈরি করেন, তাহলে মোট খরচ কত ছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৪০০ ডলার",
+        "ইথান"
+      ]
+    },
+    {
+      "adapted_text": "মেরির ৩০টি ছাগল আছে। তিনি তাদের মধ্যে অর্ধেক থেকে প্রতিদিন ১ কেজি দুধ এবং অন্য অর্ধেক থেকে ২ কেজি দুধ পান। তিনি প্রতিদিন কত দুধ সংগ্রহ করেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কেজি",
+        "মেরি",
+        "ছাগল"
+      ]
+    },
+    {
+      "adapted_text": "রেচেল ২৩টি কুকি কিনেছেন এবং জেনেট তার ৪২টি কুকি দিয়েছেন। অন্যদিন তার ভাই তার মধ্যে ৪৪টি কুকি খেয়েছেন। রেচেলের কতগুলি কুকি বাকি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কুকি",
+        "রেচেল",
+        "জেনেট"
+      ]
+    },
+    {
+      "adapted_text": "করণ ৫ মাসের জন্য ৩,৬৫০ ডলার ঋণ নিয়েছেন সাধারণ হার ১০%। সে প্রতি মাসে সমান পরিমাণ প্রদান করতে হবে। সে প্রতি মাসে কত প্রদান করতে হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৩৬৫০ ডলার",
+        "করণ",
+        "৫ মাস",
+        "১০"
+      ]
+    },
+    {
+      "adapted_text": "চু প্রতি ঘণ্টায় ১৪ কিলোমিটার হাঁটলেন ৮ ঘন্টা। চ্লোই প্রতি ঘণ্টায় ৯ কিলোমিটার হাঁটলেন এবং ৫ ঘন্টা পর থামলেন। চু কত কিলোমিটার দূরত্ব আগে হাঁটলেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "চুল",
+        "ঘণ্টা"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "চু",
+        "কিলোমিটার",
+        "ঘন্টা",
+        "চ্লোই"
+      ]
+    },
+    {
+      "adapted_text": "রুথার বাবু তার ৩/৫ ভাগ জমি বিক্রি করেছেন এবং ১২.৮ হেক্টর জমি বাকি ছিল। তার প্রথমে কত জমি ছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "হেক্টর",
+        "রুথার বাবু",
+        "বাবু"
+      ]
+    },
+    {
+      "adapted_text": "একটি পোড়ামুড়ার দাম ২ ডলার এবং একটি পেন্সিলের দাম ৩ ডলার। ৬টি পোড়ামুড়া এবং ৮টি পেন্সিলের মোট খরচ কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "২ ডলার",
+        "পেন্সিল",
+        "৬ ডলার",
+        "৮ ডলার",
+        "৩ ডলার",
+        "পোড়ামুড়া"
+      ]
+    },
+    {
+      "adapted_text": "ক্যারল ৪ ঘন্টা গান লিখতে ব্যয় করে, গান রেকর্ড করতে তার অর্ধেক সময়, এবং ৯০ মিনিট সম্পাদনা করে। তিনি মোট কাজের সময়ের কত শতাংশ সম্পাদনা করেছেন তা জানতে হলে কত শতাংশ সময় ব্যয় করেছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গান",
+        "ক্যারল"
+      ]
+    },
+    {
+      "adapted_text": "জেনি ১২ টুকরা পিজ্জা ভাগ করছে। সে বিলকে ১/৩ টুকরা এবং মার্ককে ১/৪ টুকরা দেয়। যদি জেনি ২ টুকরা খায়, তাহলে কতটা টুকরা বাকি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "বিল",
+        "১৩",
+        "মার্ক",
+        "২",
+        "১২",
+        "জেনি",
+        "১৪"
+      ]
+    },
+    {
+      "adapted_text": "আলিস ৭ বছরের বড় যার বয়স বেথের, যিনি ৫ বছরের বড় যার বয়স এরিকার। এরিকার বয়স যদি ৩০ বছর হয়, তাহলে আলিস এবং এরিকার বয়সের মধ্যে পার্থক্য কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "এরিকা",
+        "বেথ",
+        "আলিস"
+      ]
+    },
+    {
+      "adapted_text": "এক গ্লাস দুধে ৮ অন্স দুধ থাকে। রমেশ ২ গ্লাস দুধ পান করেন। যদি প্রতি অন্সে ৩ ক্যালরি থাকে তাহলে সে কত ক্যালরি খেয়েছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "দুধের গ্লাস",
+        "রমেশ",
+        "অন্স",
+        "ক্যালরি"
+      ]
+    },
+    {
+      "adapted_text": "জেন দুটি জেব্রা গণনা করেছেন যাদের প্রত্যেকের ১৭টি রেখা আছে, একটি জেব্রা যার ৩৬টি রেখা আছে, এবং আরেকটি জেব্রা যার অর্ধেক সংখ্যক রেখা আছে। জেব্রাগুলির গড়ে কতগুলি রেখা আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জেব্রা",
+        "জেন"
+      ]
+    },
+    {
+      "adapted_text": "মিশা ৩০% ছাড়ের রেকে ৪টি ব্লাউজ বেছে নিল। প্রতিটি ব্লাউজের নিয়মিত মূল্য হল ২০ ডলার। ছাড়পত্র বিক্রি হওয়া ব্লাউজের মোট খরচ কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ব্লাউজ",
+        "২০ ডলার",
+        "মিশা"
+      ]
+    },
+    {
+      "adapted_text": "জ্যাকের লকার হলো টিমোথির লকারের অর্ধেক বড়। পিটারের লকার হলো জ্যাকের লকারের ১/৪ বড়। যদি পিটারের লকার ৫ ঘন ইঞ্চি, তাহলে টিমোথির লকার কত ঘন ইঞ্চি?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জ্যাক",
+        "পিটার",
+        "টিমোথি"
+      ]
+    },
+    {
+      "adapted_text": "ইন্দ্রা নামের অক্ষরের সংখ্যা ৬। তার বোনের নামের অক্ষরের সংখ্যা ইন্দ্রার নামের অক্ষরের অর্ধেকের চেয়ে ৪ বেশি। ইন্দ্রা এবং তার বোনের নামের অক্ষরের মোট সংখ্যা কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ইন্দ্রা"
+      ]
+    },
+    {
+      "adapted_text": "রোরি একটি কেক তৈরি করে যার ওজন ২০ আউন্স। সে ৮টি টুকরায় কেটে দেয়। রোরি এবং তার মা প্রত্যেকে একটি টুকরা নেয়। বাকি কেকের ওজন কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "আউন্স",
+        "রোরি"
+      ]
+    },
+    {
+      "adapted_text": "সিত্তি ও জুরিস যথাক্রমে ৩৪ ও ২২টি নারং কিনেছেন। যদি তারা তাদের ৬ জন অন্য বন্ধুর সাথে সমানভাবে ভাগ করে নেন, তাহলে প্রতিটি কেউ কতটি নারং পাবেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জুরিস",
+        "নারং",
+        "সিত্তি"
+      ]
+    },
+    {
+      "adapted_text": "বিল্লির বর্গাকার ঘরের ক্ষেত্রফল হল ৩৬০ বর্গফুট। যদি তার ঘরের দৈর্ঘ্য ৩ গজ, তাহলে ঘরের পরিধি কত ফুট?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গজ",
+        "বিল্লির"
+      ]
+    },
+    {
+      "adapted_text": "মারিন এবং তার পরিচিত ন্যান্সি প্রতিদিন ৪টি সেবুন খান। তারা ৩০ দিনে কতগুলি সেবুন খাবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ন্যান্সি",
+        "মারিন",
+        "সেবুন"
+      ]
+    },
+    {
+      "adapted_text": "জেনিফারের কুকুরের ৮টি শিশু আছে, যার মধ্যে ৩টি রঙিন। ব্র্যান্ডনের কুকুরের ১২টি শিশু আছে, যার মধ্যে ৪টি রঙিন। সমস্ত শিশুর মধ্যে কত শতাংশ রঙিন?",
+      "strict_matches": [
+        "শিশু"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ব্র্যান্ড"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.2,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "জেনিফার",
+        "রঙিন",
+        "শিশু",
+        "কুকুর",
+        "ব্র্যান্ডন"
+      ]
+    },
+    {
+      "adapted_text": "শন্দ্রা তোনির চেয়ে ৭টি কম উদ্ভিদ আছে। তোনি ফ্রেডরিকের চেয়ে ৬০% বেশি উদ্ভিদ আছে। যদি ফ্রেডরিকের ১০টি উদ্ভিদ থাকে, তাহলে শন্দ্রার কতগুলি উদ্ভিদ আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৬০",
+        "তোনি",
+        "৭",
+        "১০",
+        "ফ্রেডরিক",
+        "শন্দ্রা"
+      ]
+    },
+    {
+      "adapted_text": "আলীর কাছে ২১ ডলার ছিল। লিলা তাকে তার ১০০ ডলারের অর্ধেক দিল। আলীর এখন কত টাকা আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "২১ ডলার",
+        "আলী",
+        "লিলা",
+        "১০০ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "থিও একটি পেন কিনেছেন ২ ডলার এবং একটি কাগজের টুকরো যার দাম তিনবার পেনের দামের চেয়ে কম ছিল ১ ডলার। সে ক্যাশিয়ারকে ১০ ডলার দিয়েছেন। থিও কত টাকা পেয়েছেন রিটার্ন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১ ডলার",
+        "থিও",
+        "২ ডলার",
+        "১০ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "বেনি দেখলেন একটি ১০ ফুট লম্বা শার্কের সাথে ২টি ৬ ইঞ্চি লম্বা রেমোরা লেগে আছে। শার্কের দেহের দৈর্ঘ্যের শতাংশ কত হল রেমোরার মিলিত দৈর্ঘ্য?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "বেনি",
+        "শার্ক",
+        "ফুট",
+        "ইঞ্চি"
+      ]
+    },
+    {
+      "adapted_text": "বেনের ৪টি নীল রঙের পেইন্ট এবং ৩টি সবুজ রঙের পেইন্ট আছে। জ্যাস্পারের নীল রঙের পেইন্টের সংখ্যা বেনের অর্ধেক এবং সবুজ রঙের পেইন্টের সংখ্যা বেনের তিনগুণ। জ্যাস্পারের কতটি পেইন্ট আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জ্যাস্পার",
+        "বেন"
+      ]
+    },
+    {
+      "adapted_text": "জিলিয়ানের হ্যান্ডব্যাগের দাম তার জুতার দামের ৩ গুণ তার থেকে ২০ ডলার কম। যদি তার জুতার দাম $80 হয়, তাহলে তার ব্যাগের দাম কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "২০ ডলার",
+        "জিলিয়ান",
+        "৮০ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "জেমস ১২ মাইল প্রতিদিন ৫ দিনের জন্য দৌড়ে। যদি সে ১০ মাইল প্রতি ঘণ্টা দৌড়ে তাহলে সে এক সপ্তাহে কত ঘন্টা দৌড়ে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মাইল",
+        "জেমস",
+        "১০"
+      ]
+    },
+    {
+      "adapted_text": "সালি ১টি ছোট পিজ্জা কিনেছেন ৮ ডলারে এবং ১টি পরিবার-আকারের পিজ্জা যা ছোট পিজ্জার চেয়ে ৩ গুণ বেশি খরচ করেছেন। সে মোট কত খরচ করেছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "সালি",
+        "২৪ ডলার",
+        "৮ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "চরিত্র প্রতিদিন ৮ ঘন্টা কাজ করে। সে একটি টাইমার ব্যবহার করে যা তাকে ৫ মিনিট প্রতি ঘন্টা কাজের সময় উঠে হাঁটতে স্মরণ করে। ৫ দিন কাজের পর, সে কত মিনিট হেঁটেছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ঘণ্টা"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "চরিত্র",
+        "ঘন্টা",
+        "মিনিট"
+      ]
+    },
+    {
+      "adapted_text": "ব্রেট ১৪ বছর বয়সী। চার বছর পর তার বোন অ্যাঞ্জেলা এখনকার তার বয়সের তিনগুণ হবে। বর্তমানে অ্যাঞ্জেলার কত বছর বয়স?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ব্রেট",
+        "অ্যাঞ্জেলা"
+      ]
+    },
+    {
+      "adapted_text": "মারিওর ৬টি স্লেড কুকুরের জন্য স্নোশুজ কিনতে হবে। ধরে নিলাম প্রতিটি কুকুরের ৪টি পা আছে এবং প্রতিটি জোড়া স্নোশুজের দাম $12.00। সব কুকুরের জন্য স্নোশুজ কিনতে তার কত টাকা লাগবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১২ ডলার",
+        "মারিও"
+      ]
+    },
+    {
+      "adapted_text": "গেরাল্ড একটি বাচ্চাদের খেলার ঘরে কাজ করেন যা তাকে প্রতিদিন ৩০ ডলার দেয়। সে এক সপ্তাহ ধরে কাজ করেছে এবং মোট ১০০ ডলার খরচ করেছে। তার কত বাকি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গেরাল্ড",
+        "৩০ ডলার",
+        "১০০ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "জুলি ৫০০ টাকা আছে। সে কাপড়ে ২০% খরচ করেছে এবং তারপর ২৫% অবশিষ্ট অর্থ সিডিতে খরচ করেছে। জুলির কত টাকা বাকি ছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জুলি",
+        "সিডি",
+        "৫০০ টাকা",
+        "২০",
+        "২৫"
+      ]
+    },
+    {
+      "adapted_text": "একটি বাড়ি ও একটি প্লটের দাম $120,000। যদি বাড়িটি প্লটের চেয়ে তিনগুণ বেশি খরচ হয়, তাহলে বাড়িটির কত খরচ হয়েছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "তাড়ি"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "১২০০০০ ডলার",
+        "প্লট",
+        "বাড়ি"
+      ]
+    },
+    {
+      "adapted_text": "গড়ে জো ২৫টি পাঞ্চ প্রতি মিনিটে মারে। একটি লড়াই ৫ রাউন্ডের জন্য চলে যা প্রতিটি ৩ মিনিট। সে কতগুলি পাঞ্চ মারেছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জো",
+        "পাঞ্চ"
+      ]
+    },
+    {
+      "adapted_text": "রয়েস দ্বিগুণ রবের চেয়ে ৪০ মিনিট বেশি সময় নেয় একটি বাড়ি শিঙ্গল করতে। যদি রব ২ ঘন্টা সময় নেয়, তাহলে রয়েস কত মিনিট সময় নেয়?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "২ ঘন্টা",
+        "রব",
+        "রয়েস",
+        "৪০ মিনিট"
+      ]
+    },
+    {
+      "adapted_text": "টম ৪ ডলারে একটি সিডি কিনেছেন এবং একটি হেডফোন সেট। মোট, তিনি ৪৮ ডলার দিয়েছেন। যদি সে হেডফোন সেট কিনতে না বসে থাকত, টম কতগুলি আরও সিডি কিনতে পারতেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "বটম"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "সিডি",
+        "টম",
+        "৪৮ ডলার",
+        "৪ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "জেম ২৭ বছর বয়সী হবে ৫ বছরে।  ৮ বছরে তার চাচাতো ভাই তার বয়সের দ্বিগুণ হবে এবং ৫ বছর ছোট, তাদের বর্তমানে বয়সের মধ্যে কত বছরের পার্থক্য আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "বছর",
+        "জেম"
+      ]
+    },
+    {
+      "adapted_text": "নিক গিয়ার্জের চেয়ে দ্বিগুণ বেশি ক্যান্ডি ছিল। তারপর গিয়ার্জে ৫টি ক্যান্ডি খেয়েছিল। এখন গিয়ার্জে ৩টি ক্যান্ডি বাকি আছে। নিকের কতগুলি ক্যান্ডি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গিয়ার্জ",
+        "ক্যান্ডি",
+        "নিক"
+      ]
+    },
+    {
+      "adapted_text": "চেনি ১০ বছর বয়সী। আলিয়ানা চেনির থেকে ৪ বছর ছোট। আনের বয়স কত যদি সে আলিয়ানার থেকে ২ বছর বড়?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "আনে",
+        "আলিয়ানা",
+        "চেনি"
+      ]
+    },
+    {
+      "adapted_text": "আমার স্ত্রী চেকটি সমানভাবে ভাগ করতে চায় কিন্তু আমাকে আমাদের $50 ডিনার বিলের উপর 20% টিপ দিতে বলছেন। আমি কত টাকা দিয়েছি?",
+      "strict_matches": [
+        "স্ত্রী"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "টপ"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.25,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "৫০ টাকা",
+        "২০",
+        "স্ত্রী",
+        "টিপ"
+      ]
+    },
+    {
+      "adapted_text": "জেফ ও ব্র্যাড একসাথে ১০০ ডলার ভাগ করতে চায়। জেফ পায় ৪ গুণ ব্র্যাডের চেয়ে বেশি। জেফ কত ডলার পায়?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ব্র্যান্ড"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "১০০ ডলার",
+        "জেফ",
+        "ব্র্যাড"
+      ]
+    },
+    {
+      "adapted_text": "জেফের কাজের বাড়ি থেকে ৩ মাইল দূরে। সে প্রতিদিন কাজের দিনে সেখানে হেঁটে আসে। সে সপ্তাহে ৫ দিন কাজ করলে সে কত মাইল হেঁটে যায়?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মাইল",
+        "জেফ"
+      ]
+    },
+    {
+      "adapted_text": "মার্ক ৩ মাস অসুস্থ ছিলেন, যার মধ্যে তিনি প্রতি মাসে ১০ পাউন্ড ওজন হারিয়েছিলেন। যদি তার শেষ ওজন ছিল ৭০ পাউন্ড, তাহলে তার প্রাথমিক ওজন কত ছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "মা"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "পাউন্ড",
+        "মাস",
+        "মার্ক"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ অর্থ সঞ্চয় করতে চায়। তিনি প্রতি ঘন্টায় ২ ডলার পায় এবং সপ্তাহে ৪ দিন কাজ করেন। যদি তিনি ৮০০ টাকা সঞ্চয় করতে চান, তাহলে তার কত সপ্তাহ লাগবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৮০০ টাকা",
+        "রমেশ",
+        "২ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "একটি ব্যাগে ২১টি বাটন ছিল। সাতটি বাটনের মধ্যে দুটি গর্ত ছিল এবং বাকিগুলোর চারটি গর্ত ছিল। সমস্ত বাটনের গর্তের সংখ্যা কত?",
+      "strict_matches": [
+        "ব্যাগ"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "আচার"
+      ],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.16666666666666666,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.16666666666666666,
+      "replaced_words": [
+        "ব্যাগ",
+        "চার",
+        "দুটি",
+        "সাত",
+        "বাটন",
+        "২১"
+      ]
+    },
+    {
+      "adapted_text": "টিমোথির লকার হল ২৪ ঘন ইঞ্চি। জ্যাকের লকার টিমোথির লকারের অর্ধেক বড়। পিটারের লকার জ্যাকের লকারের ১/৪ বড়। পিটারের লকারের কত ঘন ইঞ্চি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জ্যাক",
+        "পিটার",
+        "টিমোথি"
+      ]
+    },
+    {
+      "adapted_text": "কডি ও ট্রেভর ১২টি স্যান্ডউইচ খেয়েছিলেন। কডি ১/৩ ভাগ স্যান্ডউইচ খেয়েছিলেন এবং ট্রেভর ১/৪ ভাগ স্যান্ডউইচ খেয়েছিলেন। কতগুলি স্যান্ডউইচ বাকি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ট্রেভর",
+        "স্যান্ডউইচ",
+        "কডি"
+      ]
+    },
+    {
+      "adapted_text": "কাতিনা তার বিনিয়োগ ব্যাংকে ৩০,০০০ টাকা রেখেছেন। যদি সে প্রতি মাসে ১০,০০০ টাকা বিয়োগ করে, তাহলে ২ বছর পর ব্যাংকে কত টাকা থাকবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৩০০০০ টাকা",
+        "১০০০০ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "একটি ছেলের কাছে ৫টি কার্ড আছে। তার ভাইয়ের কাছে তার থেকে ৩টি কম কার্ড আছে। তাদের মিলিতে কতগুলি কার্ড আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কম"
+      ]
+    },
+    {
+      "adapted_text": "এক কাপ মুড়গির ওজন ১০০ গ্রাম এবং এতে ৩ গ্রাম প্রোটিন রয়েছে। যদি রমেশ প্রতিদিন ২০০ গ্রাম মুড়গি খায় তাহলে সে প্রতি সপ্তাহে কত গ্রাম প্রোটিন পায়?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রমেশ"
+      ]
+    },
+    {
+      "adapted_text": "জেরি ৫ বছর আগের তুলনায় দ্বিগুণ বয়সী। তিনি আগামী ৩ বছরে কত বয়সী হবেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জেরি"
+      ]
+    },
+    {
+      "adapted_text": "একটি ত্রিভুজের তিনটি কোণের যোগফল 180 ডিগ্রী। একটি কোণ হল ক্ষুদ্রতম কোণের দ্বিগুণ, এবং একটি কোণ হল ক্ষুদ্রতম কোণের তিনগুণ। ত্রিভুজের বৃহত্তম কোণের পরিমাপ কত ডিগ্রী?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ডিগ্রী"
+      ]
+    },
+    {
+      "adapted_text": "কলবি কিছু গাম্বল কিনতে চায় যার দাম একটি নিকেল। যদি তার ৮ টি কোয়ার্টার, ৬ টি ডাইম, ১৪ টি নিকেল এবং ১৫ টি পেনি থাকে, তাহলে সে কতটি কিনতে পারে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "নারিকেল"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "গাম্বল",
+        "নিকেল",
+        "কলবি"
+      ]
+    },
+    {
+      "adapted_text": "একটি পেট স্টোরে বর্তমানে ৫টি কুকুর, ২টি বিড়াল এবং ১০টি পাখি রয়েছে। স্টোরে পাখির মোট কতগুলি পা আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কুকুর",
+        "পাখি",
+        "বিড়াল"
+      ]
+    },
+    {
+      "adapted_text": "একটি বিমান ৩ ঘন্টায় ১২০০ মাইল ভ্রমণ করে। একই হারে, ২০০০ মাইল অতিরিক্ত ভ্রমণ করতে কতক্ষণ লাগবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ঘণ্টা"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "মাইল",
+        "বিমান",
+        "ঘন্টা"
+      ]
+    },
+    {
+      "adapted_text": "চার্মেইন ১৬ বছর বয়সী হবে ১২ বছর পর। এখন থেকে ৪ বছর পর তার কত বছর হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "চার্মেইন"
+      ]
+    },
+    {
+      "adapted_text": "টমি ৩টি বেশি মাছ ধরেছেন দারেনের তুলনায় এবং দারেন ৬টি কম মাছ ধরেছেন নাইমির তুলনায়। যদি নাইমি ১৭টি মাছ ধরেছেন, তাহলে টমি কতটি মাছ ধরেছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১৭",
+        "৩",
+        "নাইমি",
+        "৬",
+        "দারেন",
+        "টমি"
+      ]
+    },
+    {
+      "adapted_text": "রেজি, লিন, এবং পেইসলি একসাথে দৌড়ালেন। পেইসলি ৪ মাইল দৌড়েছেন। রেজি পেইসলির মতো দৌড়েছেন ৫ গুণ এবং লিনের চেয়ে ৩ মাইল দূরে। লিন কত মাইল দৌড়েছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পেইসলি",
+        "রেজি",
+        "৩",
+        "লিন",
+        "৫",
+        "৪"
+      ]
+    },
+    {
+      "adapted_text": "বব একটি গর্ত খনন করতে চায় যার দৈর্ঘ্য ৬ ফুট, প্রস্থ ৪ ফুট এবং গভীরতা ৩ ফুট। যদি তার ৩ সেকেন্ড লাগে এক ঘনফুট মাটি খনন করতে, তাহলে তার কতক্ষণ লাগবে গর্তটি খনন করতে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "বব",
+        "ফুট"
+      ]
+    },
+    {
+      "adapted_text": "এক বাসন ময়দা আট ভাগে ভাগ করা হয়েছে, প্রতিটি ভাগে ২ কিলোগ্রাম ময়দা রয়েছে। তিনটি বাসনে মোট কত ময়দা ছিল আগে ভাগ করার আগে?",
+      "strict_matches": [
+        "ময়দা"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ময়দা",
+        "বাসন"
+      ]
+    },
+    {
+      "adapted_text": "শীলা একটি ১৫ পৃষ্ঠার গবেষণা পত্র জমা দেওয়ার জন্য বাধ্য। সে ইতিমধ্যেই ১/৩ অংশ লিখে ফেলেছে। সে কতগুলি পৃষ্ঠা লিখতে বাকি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "শীলা"
+      ]
+    },
+    {
+      "adapted_text": "লি শুধুমাত্র ছাগল ও হাঁস-মুরগি চাষ করেন তার খামারে। যদি সমস্ত প্রাণীর পা মোট ৭০টি এবং সমস্ত প্রাণীর মাথা মোট ২০টি হয়, তাহলে লির খামারে কতগুলি ছাগল বাস করে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "হলি"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "ছাগল ও হাঁসমুরগি",
+        "লি"
+      ]
+    },
+    {
+      "adapted_text": "জানি ২ গুণ তার বইয়ের সংখ্যা থেকে ৩ বেশি বই আছে। যদি জানির ২১টি বই থাকে, তাহলে স্যালির কতগুলি বই আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "স্যালি",
+        "২ গুণ তার বইয়ের সংখ্যা থেকে ৩ বেশি",
+        "জানি"
+      ]
+    },
+    {
+      "adapted_text": "মিসেস জেমসনের বাম্বুতেকে বাগানে দিনে ৩০ ইঞ্চি বেড়ে যায়। আজ এর উচ্চতা ৬০ ফুট। কত দিনের মধ্যে এর উচ্চতা ৬০০ ইঞ্চি হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ইঞ্চি",
+        "মিসেস",
+        "ফুট",
+        "জেমসন"
+      ]
+    },
+    {
+      "adapted_text": "যদি ৬টি আলু ৩৬টি হ্যাশ ব্রাউন তৈরি করে, তাহলে ৯৬টি আলু থেকে কতগুলি হ্যাশ ব্রাউন তৈরি করতে পারেন?",
+      "strict_matches": [
+        "আলু"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "আলু",
+        "হ্যাশ ব্রাউন"
+      ]
+    },
+    {
+      "adapted_text": "বাক্সে ২০টি পেন্সিল রাখার জায়গা আছে। যদি বাক্স থেকে ৪টি পেন্সিল ক্ষুণ্ন হয়ে যায়, তাহলে বাক্সে কতগুলি জোড়া পেন্সিল আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "বাক্সে ২০টি পেন্সিল রাখার জায়গা আছে",
+        "৪টি পেন্সিল",
+        "২০টি পেন্সিল"
+      ]
+    },
+    {
+      "adapted_text": "জেরাল্ড ও জুলিয়া তাদের অর্থ ৩:২ অনুপাতে ভাগ করেছেন। জেরাল্ড একটি বইতে ১০ ডলার খরচ করলে, তার কত টাকা বাকি ছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১০০ ডলার",
+        "১০ ডলার",
+        "জুলিয়া",
+        "জেরাল্ড"
+      ]
+    },
+    {
+      "adapted_text": "একটি ৭-দিনের সপ্তাহের জন্য, আলেক্স কত টাকা চার্জ করে যদি সে প্রতিদিন $১২ চার্জ করে ২ সপ্তাহের জন্য শিক্ষকতা?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "আলেক্স",
+        "১২ টাকা",
+        "২ সপ্তাহ"
+      ]
+    },
+    {
+      "adapted_text": "একটি বিড়াল ৩০ মিনিটে ৯টি সসেজ খায়। একটি কুকুর একই সংখ্যক সসেজ খাতে পারে বিড়ালের সময়ের ২/৩ ভাগের সময়। দুটির গড় সময় খাওয়ার সসেজ গণনা করুন।",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কুকুর",
+        "বিড়াল",
+        "সসেজ"
+      ]
+    },
+    {
+      "adapted_text": "ক্যান্ডির ১৫টি নীল রঙের কাঁটাতার, ৪৫টি কালো রঙের কাঁটাতার, ৪০টি হলুদ রঙের কাঁটাতার এবং ৫০টি কালো হলুদ রঙের কাঁটাতার আছে। তার কাঁটাতারের কত শতাংশ নীল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ক্যান্ডি",
+        "শতাংশ",
+        "কাঁটাতার"
+      ]
+    },
+    {
+      "adapted_text": "সড়কে হেঁটে তার ৩ জন ছোট ভাইবোনের সাথে গ্রেগ পেয়েছেন ২০ ডলার। তার ভাইবোনদের ন্যায়বিচার করার জন্য, তিনি অর্থকে সমানভাবে ভাগ করার সিদ্ধান্ত নিলেন। তাদের প্রত্যেকে কত টাকা পেলেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গ্রেগ",
+        "২০ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "আলিসের ৬টি বেশি বই আছে স্টিভেনের তার থেকে। ক্লারার ২গুণ বেশি বই আছে স্টিভেনের তার থেকে। যদি ক্লারার ২০টি বই থাকে, তাহলে ক্লারার কতগুলি বই আছে আলিসের থেকে বেশি?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "স্টিভেন",
+        "ক্লারা",
+        "আলিস"
+      ]
+    },
+    {
+      "adapted_text": "জেনা চারজন সহযোগী আছে। প্রতি মাসে বিদ্যুৎ বিল হয় ১০০ ডলার। তারা সমানভাবে ভাগ করলে প্রতি বছর প্রতিটি সহযোগী কত টাকা দিতে হবে তা জানতে চাইছেন।",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১০০ ডলার",
+        "জেনা"
+      ]
+    },
+    {
+      "adapted_text": "একটি ব্যাগে ৫% ছাড় রয়েছে। যদি এটি ১৪০ ডলার মূল্যে লেবেল করা হয়, তাহলে ছাড়ের পরে আপনি কত টাকা দিতে হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১৪০ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "জানার ২/৩ টি ছানাই পোমেরানিয়ান। পোমেরানিয়ানের ১/৩ টি ছানাই মেয়ে। যদি ৬টি পোমেরানিয়ান মেয়ে থাকে, তাহলে জানার কতগুলো ছানা আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জানা",
+        "ছানা",
+        "পোমেরানিয়ান"
+      ]
+    },
+    {
+      "adapted_text": "জর্জের ৪৫% বেশি আম আছে বনানার তুলনায়। যদি জর্জের ২০০টি বনানা থাকে, তাহলে জর্জের কতগুলি ফল আছে?",
+      "strict_matches": [
+        "আম"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জর্জের",
+        "আম",
+        "বনানা"
+      ]
+    },
+    {
+      "adapted_text": "এক লিটার জুস তৈরি করতে, স্যামকে ৫ কিলোগ্রাম নারং দরকার। প্রতিটি কিলোগ্রাম নারং ৩ ডলারে বিক্রি হয়। স্যামকে ৪ লিটার জুস তৈরি করতে কত টাকা খরচ হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "এক লিটার",
+        "স্যাম",
+        "৩ ডলার",
+        "নারং",
+        "৪ লিটার"
+      ]
+    },
+    {
+      "adapted_text": "একটি ল্যাপটপের দাম $1000। যদি আপনি 20% ছাড় পান, তাহলে আপনাকে কত টাকা দিতে হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১০০০ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "চারজন বন্ধু চারটি পিজ্জা কেনেন মোট ৬৪ ডলারে। যদি দুটি পিজ্জার দাম ৩০ ডলার, তাহলে অন্য দুটি পিজ্জার প্রতিটির কত খরচ হল যদি তারা একই পরিমাণে খরচ হয়?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "আচার"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "ডলার",
+        "চার",
+        "পিজ্জা"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ বাজারে গেলেন এবং ৫০০ ডলারে ৩টি ছাগল এবং ১৫০০ ডলারে ২টি ভেড়া কিনেছেন। তিনি কত টাকা খরচ করেছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১৫০০ ডলার",
+        "রমেশ",
+        "৫০০ ডলার",
+        "ছাগল",
+        "ভেড়া"
+      ]
+    },
+    {
+      "adapted_text": "পলকে শনিবারের জন্মদিন পার্টিতে ৬৩টি কাপকেক দরকার। তার ইতিমধ্যেই ৮টি চকোলেট কাপকেক এবং ৪০টি টফি কাপকেক আছে। পলকে কতগুলি কাপকেক কিনতে হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "শিবা"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "পল",
+        "কাপকেক",
+        "শনিবার"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ প্রতিদিন ৩০টি চক্রের কাজ করেন। প্রতিটি চক্রে ৫টি ভিন্ন কাজ থাকে এবং প্রতিটি কাজের বেতন ১২০ টাকা। সে একটি পূর্ণ ৭ দিনের সপ্তাহে কত টাকা উপার্জন করে তা জানতে চান।",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১২০ টাকা",
+        "চক্র",
+        "রমেশ"
+      ]
+    },
+    {
+      "adapted_text": "যদি ৩টি কাঙ্গারু একই গতিতে একটি মহাসড়ক অতিক্রম করতে ১৮ ঘন্টা সময় নেয়, তাহলে চারটি টার্টল, প্রতিটি একটি কাঙ্গারুর গতির অর্ধেক গতিতে চলছে, এটি করতে কত ঘন্টা সময় নেবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "টার্টল",
+        "কাঙ্গারু"
+      ]
+    },
+    {
+      "adapted_text": "একজন কৃষক প্রতিদিন ৫ লিটার দুধ একটি গরু থেকে আহরণ করেন। যেহেতু তার ৩টি গরু আছে, তাই তিনি প্রতিদিন ২৫ লিটার দুধ উৎপাদন করতে কতগুলি আরও গরুর প্রয়োজন হবে?",
+      "strict_matches": [
+        "গরু"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গরু",
+        "লিটার",
+        "কৃষক"
+      ]
+    },
+    {
+      "adapted_text": "ক্রেগের কাছে ২টি ২০ ডলারের নোট আছে। সে ৬টি স্কোয়ার্ট গান কিনেছে ২ ডলার প্রতিটির জন্য। সে ৩ প্যাক পানির বালুন কিনেছে ৩ ডলার প্রতিটির জন্য। তার কাছে কত টাকা বাকি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ক্রেগ",
+        "৩ ডলার",
+        "২ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "জেমস প্রতি মাসে ২ জোড়া জুতা কিনে থাকেন। তিনি প্রতি বছর ২৬৪০ ডলার জুতার উপর খরচ করেন। তিনি প্রতি জোড়া জুতার গড় খরচ কত টাকা দেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জেমস",
+        "২৬৪০ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "একটি ভাইরাস ১০ জন মানুষকে আক্রান্ত করেছে। প্রতিদিন, প্রতিটি আক্রান্ত ব্যক্তি ছয়জন অন্যদেরকে আক্রান্ত করে। তিন দিন পর আক্রান্ত মানুষের সংখ্যা কত?",
+      "strict_matches": [
+        "মানুষ"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.2,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "দিন",
+        "তিন",
+        "মানুষ",
+        "আক্রান্ত করে",
+        "ছয়"
+      ]
+    },
+    {
+      "adapted_text": "জেনিফার বাজার থেকে ১২টি নারং কিনেছিলেন, তিনি তার তিন মেয়েকে ২টি নারং প্রত্যেকে দিলেন এবং তার একমাত্র ছেলেটি ৩টি নারং পেল। তার কতগুলি নারং বাকি ছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জেনিফার",
+        "নারং"
+      ]
+    },
+    {
+      "adapted_text": "গ্রেচেনের কিছু মুদ্রা আছে। সোনার মুদ্রার চেয়ে ৩০টি বেশি রূপা মুদ্রা আছে। যদি তার ৭০টি সোনার মুদ্রা থাকত, তাহলে গ্রেচেনের মোট কতগুলি মুদ্রা ছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "সোনার মুদ্রা",
+        "রূপা মুদ্রা",
+        "গ্রেচেন"
+      ]
+    },
+    {
+      "adapted_text": "একজন ইলেকট্রনিক্স বিক্রেতা ৭০০ ডলারের প্রতিটি ফোনের জন্য ৫টি ফোন কিনেছেন এবং ডলারের নোটে ৪০০০ ডলার দিয়েছেন। বিক্রেতাকে কত টাকা ফেরত দিতে হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৪০০০ ডলার",
+        "৭০০ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "এলা ৩ ঘন্টা কুকুর হাঁটার জন্য $33 উপার্জন করেছেন। যদি সে একই হারে কুকুর হাঁটতে থাকে, তাহলে ১২ ঘন্টা পর সে কত উপার্জন করবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "এলাচ"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "3 ঘন্টা",
+        "এলা",
+        "12 ঘন্টা"
+      ]
+    },
+    {
+      "adapted_text": "মেলানি ১০ বছর পর হবেন ১৮ বছর বয়সী। তার বর্তমান বয়সের তিনগুণ বয়স কত বছরে হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "বছর",
+        "মেলানি"
+      ]
+    },
+    {
+      "adapted_text": "লানি ৫৫টি কুকি বেক করেছেন। সে ৫টি কুকি খেয়েছেন এবং বাকি সমানভাবে পাঁচটি গ্লাসে রাখেন। প্রতিটি গ্লাসে কতগুলি কুকি ছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কুকি",
+        "লানি"
+      ]
+    },
+    {
+      "adapted_text": "মার্ক ৮ ঘন্টা প্রতিদিন ৫ দিন সপ্তাহে তার কাজে কাজ করেন। তিনি প্রতি ঘন্টায় $10 উপার্জন করতেন কিন্তু তাদের তার বেতন প্রতি ঘন্টায় $2 বৃদ্ধি করেছে। সে এক সপ্তাহে কত টাকা উপার্জন করে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "২ ডলার",
+        "১০ ডলার",
+        "মার্ক"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ তার গাড়িটি প্রতি মাসে ১০ বার ৩ ঘন্টা ভাড়া দেয়। সে প্রতি ঘন্টায় $২৫ পায়। যদি তার গাড়ির ঋণ ৫০০ টাকা, তার গাড়ি থেকে কত লাভ হয়?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "তাড়ি"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "৫০০ টাকা",
+        "রমেশ",
+        "২৫",
+        "গাড়ি"
+      ]
+    },
+    {
+      "adapted_text": "হারোল্ড প্রতিদিন ১০ ঘন্টা ঘুমায়। সে ঘুমানোর চেয়ে ২ ঘন্টা কম কাজ করে এবং প্রতিদিন তার কুকুরটিকে এক ঘন্টা হাঁটায়। হারোল্ডের দিনে কত স্বাধীন সময় বাকি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ঘণ্টা"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "হারোল্ড",
+        "ঘন্টা"
+      ]
+    },
+    {
+      "adapted_text": "টিমের কাছে ৭টি নীল এবং ৯টি লাল জুতার বাক্স আছে। যদি সে ৩টি নীল এবং ১/৩ লাল জুতার বাক্স মাছ ধরার জন্য ব্যবহার করে, তাহলে টিমের বাক্সে কতগুলি লাল এবং নীল জুতার বাক্স বাকি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "টিম",
+        "জুতার বাক্স"
+      ]
+    },
+    {
+      "adapted_text": "সারাহ ৯টি বই আছে এবং জোসেফ সারাহের বইয়ের দ্বিগুণ সংখ্যা ছিল, কিন্তু তিনি ২টি বই হারিয়েছেন। জোসেফের বর্তমানে কতগুলি বই আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "সারাহ",
+        "জোসেফ"
+      ]
+    },
+    {
+      "adapted_text": "ডিনের ৩০টি মার্বল আছে। সে জেমির ১/৫ ভাগ দিল এবং ডোনাল্ডকে ১০টি দিল। ডিনের কতগুলি মার্বল বাকি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ডিন",
+        "জেমি",
+        "মার্বল",
+        "ডোনাল্ড"
+      ]
+    },
+    {
+      "adapted_text": "আট বছর আগে ডুকানের বয়স ছিল দুই গুণ আদমের চার বছর আগের বয়স। যদি ডুকানের বর্তমান বয়স ৬০ বছর হয়, আগামী ৮ বছরে আদমের কত বছর হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "আম"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "আদম",
+        "ডুকান"
+      ]
+    },
+    {
+      "adapted_text": "জনের গাড়ির প্রয়োজন প্রতি ১০০০ কিলোমিটারে একটি টুন-আপ। সে প্রতিদিন ১০০ কিলোমিটার চালায় এক মাসের জন্য। সে সময়ে তার কতবার টুন-আপ করতে হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "দিন",
+        "কিলোমিটার",
+        "৳",
+        "জনের"
+      ]
+    },
+    {
+      "adapted_text": "কিরা ৩টি সেবুন, ৫টি কেলাপাখা এবং ৬টি নারং গাছের ফল বিক্রেতার দোকান থেকে কিনেছেন। লোলা ২টি ফল খেয়েছেন। কতগুলি ফল বাকি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কেলাপাখা",
+        "লোলা",
+        "কিরা",
+        "নারং",
+        "সেবুন",
+        "বিক্রেতার দোকান"
+      ]
+    },
+    {
+      "adapted_text": "একটি রুটির বাক্সে ২৪টি টুকরা থাকে। যদি অ্যাবি ২টি টুকরা প্রতিদিন খায় এবং জোশ খায় তার দ্বিগুণ পরিমাণ, তাহলে রুটির বাক্সটি কত দিন চলবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জোশ",
+        "রুটির বাক্স",
+        "অ্যাবি"
+      ]
+    },
+    {
+      "adapted_text": "মার্থা ৫ বছর বয়স থেকে শেল সংগ্রহ করছে, প্রতি মাসে সে একটি শেল সংগ্রহ করে। তার ১০ম জন্মদিনের মধ্যে মার্থা কতগুলি শেল সংগ্রহ করবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মার্থা"
+      ]
+    },
+    {
+      "adapted_text": "পিটার, পল ও জনের মোট বয়স ১০০ বছর। জানা গেল যে পল জনের থেকে ১০ বছর বড় এবং পিটারের বয়স পল ও জনের বয়সের যোগফলের সমান। পিটারের বয়স কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পল",
+        "পিটার",
+        "জন"
+      ]
+    },
+    {
+      "adapted_text": "মার্কাস লিওর অর্ধেক বয়স এবং ডিয়ানার থেকে পাঁচ বছর ছোট। ডিয়ানা ২৬ বছর বয়সী। লিওর কত বয়স?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মার্কাস",
+        "ডিয়ানা",
+        "লিও"
+      ]
+    },
+    {
+      "adapted_text": "শাওনার বাবা শাওনার থেকে পাঁচগুণ বয়সী। শাওনা বর্তমানে আলিয়ার থেকে তিনগুণ বয়সী। যদি আলিয়ার বয়স ৩ বছর, তাহলে শাওনার বাবার বয়স কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "আলিয়া",
+        "শাওনা"
+      ]
+    },
+    {
+      "adapted_text": "জেন তিনটি ভিন্ন দেশে ভ্রমণ করতে সিদ্ধান্ত নেয়। তাকে প্রয়োজনীয় সরবরাহের জন্য $400 দিতে হবে, মোট। ভ্রমণের জন্য টিকিটের খরচ, মোট, সরবরাহের চেয়ে 50% বেশি। ভ্রমণের খরচ কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "তিনটি ভিন্ন দেশ",
+        "জেন"
+      ]
+    },
+    {
+      "adapted_text": "জেকের ক্রিকেট দলে ৭ জন আরও খেলোয়াড় আছে কার্লটনের দলের তুলনায়। যদি কার্লটনের দলে ১৩ জন খেলোয়াড় থাকে, তাহলে উভয় দলের মিলিত খেলোয়াড়ের সংখ্যা কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কার্লটন",
+        "ক্রিকেট",
+        "৳",
+        "জেকে"
+      ]
+    },
+    {
+      "adapted_text": "ভারতের রাজ্যের সংখ্যা মার্কিন যুক্তরাষ্ট্রের রাজ্যের অর্ধেকের চেয়ে ৪টি বেশি। উভয় দেশের মোট রাজ্যের সংখ্যা কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মার্কিন যুক্তরাষ্ট্র",
+        "ভারত"
+      ]
+    },
+    {
+      "adapted_text": "রিচার্ড, জেরি ও রবার্ট ৬০টি কিসমিস ভাগ করবেন। যদি রবার্টের ৩০টি কিসমিস থাকে, এবং রিচার্ডের চেয়ে ১০টি বেশি থাকে, তাহলে রবার্টের কতগুলি কিসমিস জেরির চেয়ে বেশি?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কিসমিস",
+        "জেরি",
+        "রিচার্ড",
+        "রবার্ট"
+      ]
+    },
+    {
+      "adapted_text": "ইমিল ১৯ বছর বয়সী এখন। যখন তিনি ২৪ বছর হবেন, তখন তিনি তার বাবার অর্ধেক বয়স হবেন কিন্তু তার ভাইয়ের দ্বিগুণ বয়সী হবেন। তার বাবা ও ভাইয়ের বর্তমান বয়সের যোগফল কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "২৪",
+        "১৯",
+        "ইমিল"
+      ]
+    },
+    {
+      "adapted_text": "চ্যার্লির জুতা সোফির চেয়ে পাঁচগুণ বড়। যদি সোফির আছে পাঁচ আকারের জুতা, তাহলে দুজনের গড় আকারের জুতা কী?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "চ্যার্লি",
+        "পাঁচ আকারের জুতা",
+        "পাঁচগুণ বড়",
+        "সোফি"
+      ]
+    },
+    {
+      "adapted_text": "এডগার প্রতিদিন ১৮টি প্রেটজেল খান। যদি তার ভাই তার চেয়ে অর্ধেক খায়, তাহলে তার ভাই এক সপ্তাহে কতটি খায়?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "এডগার",
+        "প্রেটজেল"
+      ]
+    },
+    {
+      "adapted_text": "এমিলি ১ মিনিটে ৬টি চিংড়ি লেজ কেটে দিতে পারে এবং ১০ মিনিটে ৩০টি চিংড়ি ভাজতে পারে। ৯০টি চিংড়ি লেজ কেটে এবং ভাজার জন্য কতক্ষণ লাগবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "এমিলি",
+        "চিংড়ি"
+      ]
+    },
+    {
+      "adapted_text": "আদম নিজের জন্য কিছু নতুন জামা কিনলেন ৩০ ডলারে। তার মা তাকে এই উদ্দেশ্যে ৬ ডলার দিলেন এবং তার বাবা তাকে দ্বিগুণ পরিমাণ দিলেন। আদম তার বাঁচাতে কত টাকা দিতে হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "আম"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "আদম",
+        "৩০ ডলার",
+        "৬ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "একটি দলের ৪ জন চিত্রশিল্পী ৩ সপ্তাহ ধরে প্রতিদিন ৩/৮ দিন একটি বাড়িতে কাজ করেছেন। প্রতিটি চিত্রশিল্পী কত ঘন্টা কাজ করেছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "তাড়ি"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "বাড়ি",
+        "৩৮ দিন",
+        "একটি দলের ৪ জন চিত্রশিল্পী",
+        "৩ সপ্তাহ"
+      ]
+    },
+    {
+      "adapted_text": "বেন ২০০৭ সালে ২ লক্ষ ডলারে একটি গাড়ি কিনেছিলেন। গাড়ির দাম প্রতি বছর ২১% হারে কমে যায়। ২০১০ সালে গাড়ির দাম কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "২০০৭",
+        "২০১০",
+        "২ লক্ষ ডলার",
+        "বেন"
+      ]
+    },
+    {
+      "adapted_text": "ইনগ্রিড প্রতিদিন ৮ কাপ পানি পান করেন। যদি ১ গ্যালনে ১৬ কাপ পানি থাকে, তাহলে সে ৩০ দিনে ১০ গ্যালন পানি কত পান করেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কাপ",
+        "ইনগ্রিড",
+        "গ্যালন"
+      ]
+    },
+    {
+      "adapted_text": "জেমসকে ইনশুরেন্স কিনতে হবে। কারণ তিনি একটি দুর্ঘটনায় পড়েছেন তাই এটি সাধারণের চেয়ে ৬০% বেশি। সাধারণ খরচ হল প্রতি মাসে $120। তিনি এক বছরে কত টাকা দেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১২০ ডলার",
+        "জেমস",
+        "ইনশুরেন্স"
+      ]
+    },
+    {
+      "adapted_text": "ইমা তিনটি বিড়ালের মালিক। সে তার বিড়ালদের দুইবার দিনে মাত্র ৬০ গ্রাম বিড়াল খাবার দেয়। ৭২০ গ্রাম বিড়াল খাবার কত দিন স্থায়ী হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "মা"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "৬০ গ্রাম",
+        "৭২০ গ্রাম",
+        "৩",
+        "বিড়াল",
+        "ইমা"
+      ]
+    },
+    {
+      "adapted_text": "বেটসি ও ডোনোভান একসাথে খাবার তৈরি করেছেন। বেটসির অংশ ডোনোভানের অংশের চেয়ে ১৮ মিনিট বেশি সময় নিয়েছে। খাবারটি ৯৮ মিনিটে তৈরি হয়েছে। বেটসির অংশের কত মিনিট লেগেছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "বেটসি",
+        "ডোনোভান"
+      ]
+    },
+    {
+      "adapted_text": "জেমস ৮০টি ইমেল পায় প্রতিদিন। ২০% ইমেলের জন্য তার কোনো প্রতিক্রিয়া দরকার নেই। তিনি বাকিগুলোর প্রতিক্রিয়া দেন। তিনি এক সপ্তাহের কাজের দিনে কতগুলো ইমেলের প্রতিক্রিয়া দেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ইমেল",
+        "জেমস"
+      ]
+    },
+    {
+      "adapted_text": "যদি রমেশ তার প্রথম ৩টি পরীক্ষায় ১০০ এবং ৪র্থ পরীক্ষায় ৮০ স্কোর করেন, তাহলে তিনি মোট ৪টি পরীক্ষায় কত গড় স্কোর করেছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রমেশ",
+        "৪",
+        "৩"
+      ]
+    },
+    {
+      "adapted_text": "ম্যাগি তার অর্থের এক চতুর্থাংশ খরচ করেছে, যখন রিজা তার অর্থের এক তৃতীয়াংশ খরচ করেছে। তাদের প্রত্যেকে $60 আছে। তাদের দুজনের কত অর্থ বাকি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৬০ ডলার",
+        "রিজা",
+        "ম্যাগি"
+      ]
+    },
+    {
+      "adapted_text": "টেডি ৫০০ টুকরা পুজলের অর্ধেক সম্পূর্ণ করেছে এবং তারপর এক ঘন্টার মধ্যে আরেকটি ৫০০ টুকরা পুজল সম্পূর্ণ করেছে। টেডি সেই ঘন্টায় কতগুলি পুজল টুকরা রাখল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "টেডি",
+        "৫০০ টুকরা পুজল"
+      ]
+    },
+    {
+      "adapted_text": "যদি প্রতি সেকেন্ডে একটি বুবুলিং স্প্রিং একটি নতুন জেলিফিশ তৈরি করে, তাহলে ৪ ঘন্টায় ৫টি স্প্রিং একই হারে কাজ করলে কতগুলি জেলিফিশ তৈরি হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জেলিফিশ",
+        "স্প্রিং",
+        "সেকেন্ড"
+      ]
+    },
+    {
+      "adapted_text": "ফ্র্যাঙ্কি ও বিঙ্কি একসাথে বলিং করেছেন। ফ্র্যাঙ্কির স্কোর ছিল বিঙ্কির চেয়ে দ্বিগুণ উচ্চ হলেও ১৫ বেশি। যদি বিঙ্কি ৯০ স্কোর করেছেন, তাহলে ফ্র্যাঙ্কির স্কোর কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ফ্র্যাঙ্কি",
+        "বিঙ্কি",
+        "বলিং"
+      ]
+    },
+    {
+      "adapted_text": "স্যাম ও হ্যারির মধ্যে ১০০ ফুট প্রাচীর রয়েছে, এবং তারা এটি ভাগ করতে সম্মত হয়েছে, যাতে হ্যারি ৬০ ফুট বেশি পায় স্যামের তুলনায়। স্যামের কত ফুট বাকি আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "হ্যারি",
+        "স্যাম",
+        "ফুট"
+      ]
+    },
+    {
+      "adapted_text": "একটি গরুড় প্রতি ৪ বছরে ৮ ইঞ্চি লম্বা হয়। এই হারে, ১৩ বছরে এটি কত ইঞ্চি লম্বা হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গরুড়"
+      ]
+    },
+    {
+      "adapted_text": "জেফ তার ছোট বোন মার্থা থেকে ১০ বছর বড়। মার্থা, অন্যদিকে, তার প্রেমিক মাইকের থেকে ৪ বছর ছোট। যদি মাইক ২৪ বছর বয়সী হয়, তাহলে জেফের কত বছর বয়স?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মাইক",
+        "জেফ",
+        "মার্থা"
+      ]
+    },
+    {
+      "adapted_text": "ববি দিনে ৩০ মিনিট ব্যাপী লাঞ্চ এবং ২টি ১৫ মিনিট ব্যাপী ব্রেক নিয়ে দিনের কাজ শেষ করেন। ৫ দিন পর, তার লাঞ্চ ও ব্রেকের সময় কত ঘন্টা যোগ করে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "টাকা",
+        "মিনিট",
+        "ববি"
+      ]
+    },
+    {
+      "adapted_text": "আম্বার, মাইকা ও আহিতো ৫২ মাইল দৌড়েছেন। আম্বার ৮ মাইল দৌড়েছেন। মাইকা আম্বারের চেয়ে ৩.৫ গুণ দৌড়েছেন। আহিতো কত মাইল দৌড়েছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "আহিতো",
+        "মাইকা",
+        "আম্বার",
+        "৮",
+        "৩৫",
+        "৫২"
+      ]
+    },
+    {
+      "adapted_text": "ক্যারোলাইন তিনগুণ বয়স্ক যার বেনের বয়স। বেন দুইগুণ বয়স্ক যার ক্রিসের বয়স। যদি ক্রিসের বয়স ৪ হয়, তাহলে ক্যারোলাইনের কত বছর বয়সী?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ক্যারোলাইন",
+        "বেন",
+        "ক্রিস"
+      ]
+    },
+    {
+      "adapted_text": "একটি বিদ্যালয়ের মোট জনসংখ্যার 40% ছেলেদের দ্বারা গঠিত হলে, বিদ্যালয়ে কত মেয়ে আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "দুই শত ছেলে",
+        "চল্লিশ শতাংশ"
+      ]
+    },
+    {
+      "adapted_text": "এই পার্টিতে যে মহিলারা ৪ ইঞ্চি হেল পরছেন তাদের সংখ্যা তিন জন এবং যে মহিলারা ২ ইঞ্চি হেল পরছেন তাদের সংখ্যাও তিন জন। এই পার্টিতে হেলের গড় উচ্চতা কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ইঞ্চি"
+      ]
+    },
+    {
+      "adapted_text": "একটি প্রভাতকিরণের আলো ৫ মিনিটে ২৫৫ বার ব্লিঙ্ক করে। একটি প্রভাতকিরণের আলো ৪৫৯ বার ব্লিঙ্ক করতে কতক্ষণ লাগবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "প্রভাতকিরণ",
+        "বার",
+        "মিনিট"
+      ]
+    },
+    {
+      "adapted_text": "সোফি ৭ দিনের মধ্যে দ্বিগুণ দূরত্ব হাঁটবে ব্রায়ানের চেয়ে। যদি সোফি প্রতিদিন ১০ মাইল হাঁটতে পরিকল্পনা করে, তাহলে সাত দিনের মধ্যে কত মাইল ব্রায়ান হাঁটবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১০ মাইল",
+        "ব্রায়ান",
+        "সোফি"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ ৩টি বড় ব্যাগ কিনেছেন যার প্রতিটি ১০ অন্স। যদি ১ অন্সে ৩০টি এমএণ্ডএম থাকে, তাহলে সে প্রতিটি ছোট ব্যাগে ১০টি এমএণ্ডএম দিলে কতগুলি ছোট ব্যাগ তৈরি করতে পারে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রমেশ",
+        "এমএণ্ডএম"
+      ]
+    },
+    {
+      "adapted_text": "লিয়াম ১৬ বছর বয়সী এখন। দুই বছর আগে, লিয়ামের বয়স ছিল ভিন্সের বয়সের দ্বিগুণ। ভিন্সের বয়স কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ভিন্ন"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "লিয়াম",
+        "ভিন্স"
+      ]
+    },
+    {
+      "adapted_text": "তিনটি গাছে ৭টি নীল পাখি ছিল। ২টি আলাদা গাছে ৪টি নীল পাখি ছিল। শেষ পর্যন্ত ১টি গাছে ৩টি নীল পাখি ছিল। মোট কতগুলি নীল পাখি ছিল গাছে?",
+      "strict_matches": [
+        "গাছ"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "নীল পাখি",
+        "গাছ"
+      ]
+    },
+    {
+      "adapted_text": "গোমার ৫ কম ২৩ টি মটরশোভা খেলেছেন। যদি ৬ টি আলু থেকে ৩ কম আলু নিলে ৩ টি মটরশোভার কম মটরশোভা তৈরি হয়, তাহলে গোমার কতগুলি আলু খেয়েছেন?",
+      "strict_matches": [
+        "আলু"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গোমার",
+        "আলু",
+        "মটরশোভা"
+      ]
+    },
+    {
+      "adapted_text": "টিম ৫টি গাছ বেঁধেছেন। প্রতিবছর তিনি প্রতিটি গাছ থেকে ৬টি লেবু সংগ্রহ করেন। এক দশকে তিনি কতগুলি লেবু পান?",
+      "strict_matches": [
+        "গাছ",
+        "লেবু"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.4,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "বছর",
+        "দশক",
+        "লেবু",
+        "গাছ",
+        "টিম"
+      ]
+    },
+    {
+      "adapted_text": "একটি বাসে পুরুষ ও মহিলার অনুপাত ৫:৯। যদি বাসে মোট যাত্রীর সংখ্যা ৮৪ হয় এবং পরবর্তী স্টপে ২০ জন মহিলা বাস থেকে নামে, তাহলে বাসে অবশিষ্ট মহিলার সংখ্যা কত?",
+      "strict_matches": [
+        "পুরুষ"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পুরুষ",
+        "মহিলা",
+        "বাস"
+      ]
+    },
+    {
+      "adapted_text": "চ্যাটি তার চার সন্তানের পশ্চিমা উৎসবের কাজের জন্য তিন শত মাছির ডিম প্রস্তুত করেছে। ধরে নিলাম প্রতিটি শিশু একই সংখ্যক ডিম পাবে, তাহলে প্রতিটি শিশু কতটি ডিম পাবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "শত",
+        "চ্যাটি",
+        "পশ্চিমা উৎসব"
+      ]
+    },
+    {
+      "adapted_text": "জেন ৩টি মাছ পেলেন। প্রতিটি মাছের প্রতিদিন ১ টাকা খাবারের প্রয়োজন। মে মাসে তিনি খাবারে কত টাকা খরচ করেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "মা"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "মাছ",
+        "১ টাকা",
+        "জেন"
+      ]
+    },
+    {
+      "adapted_text": "প্যাট্রিশিয়া ৩০টি গাঁধা আছে। সে তার মাতার কাছে ২৪টি গাঁধা দিল। সে ১৫টি আরও গাঁধা কিনল। সে এখন কতগুলি গাঁধা আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "গাঁজা"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "গাঁধা",
+        "প্যাট্রিশিয়া"
+      ]
+    },
+    {
+      "adapted_text": "সিদ দুই ঘন্টায় ১১০ মাইল ভ্রমণ করেছেন। তারপর তিনি আরও ৩ ঘন্টায় ১৪০ মাইল ভ্রমণ করেছেন। সিদ কত গড় গতিতে ভ্রমণ করছিলেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ঘণ্টা"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "সিদ",
+        "মাইল",
+        "ঘন্টা"
+      ]
+    },
+    {
+      "adapted_text": "মার্ক একটি লটারি টিকিট কিনেছেন যার জিতার সম্ভাবনা ২০% এবং দ্বিতীয় লটারি টিকিট যা জিতার সম্ভাবনা তিনগুণ বেশি। উভয় টিকিট জিতার সম্ভাবনা কত%?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "লটারি টিকিট",
+        "মার্ক"
+      ]
+    },
+    {
+      "adapted_text": "ম্যাসন গাজর খাওয়ার পছন্দ করেন। যদি সে সপ্তাহের কাজের দিনগুলিতে প্রতিদিন ৪টি গাজর এবং শনিবার ও রবিবার প্রতিদিন ৫টি গাজর খায়, তাহলে সে এক সপ্তাহে কতগুলি গাজর খায়?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গাজর",
+        "ম্যাসন",
+        "৫",
+        "৪"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ একটি ক্যাসেট কিনেছেন যাতে ২টি গান রয়েছে। প্রথম গানটি ৫ মিনিট এবং দ্বিতীয় গানটি ৬০% দীর্ঘ। মোট ক্যাসেটের সময় কত ছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ক্যাসেট",
+        "গান",
+        "রমেশ"
+      ]
+    },
+    {
+      "adapted_text": "গেবের বয়স হেলির বয়সের অর্ধেক থেকে ১০ বছর কম। যদি হেলি ২৬ বছর বয়সী হয়, তাহলে গেবের কত বছর বয়স?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "হলি"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "হেলি",
+        "গেব"
+      ]
+    },
+    {
+      "adapted_text": "টাইরিয়ন বের হওয়ার প্রতিবার মুখ কভার করে দুইবার। যদি সে দিনে তিনবার বের হয়, তাহলে সে প্রতি ২ দিনে কতটি মুখ কভার ব্যবহার করে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "টাইরিয়ন",
+        "মুখ কভার"
+      ]
+    },
+    {
+      "adapted_text": "জ্যাকের কাছে ১০০ ডলার ছিল। সোফিয়া তাকে ১/৫ ভাগ তার ১০০ ডলার দিল। জ্যাকের কাছে এখন কত ডলার আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জ্যাক",
+        "সোফিয়া",
+        "১০০ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "মাইকেল কিনেছেন ৫টি মুখ কভার যখন জনি কিনেছেন তার চেয়ে তিনগুণ বেশি এবং আরও ২টি। জনি কতগুলি মুখ কভার কিনেছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মাইকেল",
+        "মুখ কভার",
+        "জনি"
+      ]
+    },
+    {
+      "adapted_text": "জেমসের ৩০টি দাঁত আছে। তার ডেন্টিস্ট ৪টি দাঁত ড্রিল করেন এবং ৭টি বেশি দাঁত ক্যাপ করেন। ডেন্টিস্ট কত শতাংশ জেমসের দাঁত সংশোধন করেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ড্রিল",
+        "দাঁত",
+        "জেমস"
+      ]
+    },
+    {
+      "adapted_text": "ওয়েন্ডি এখন থেকে সাত বছর পর কলিনের বয়সের পাঁচগুণ। কলিনের বয়স এখন থেকে পঁচাত্তর বছর পর ওয়েন্ডির বয়সের এক-তৃতীয়াংশ। কলিনের বয়স এখন কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ওয়েন্ডি",
+        "কলিন"
+      ]
+    },
+    {
+      "adapted_text": "শীতের জন্য গরম করতে আলী ৮৫০ কেজি কয়লা আদেশ দিলেন। কয়লাটি ৫০ কেজি ব্যাগে পাঠানো হয়, প্রতিটি ইউনিটের দাম $18। তার আদেশের মূল্য কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কয়লা",
+        "আলী",
+        "১৮ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "চিজ পিজ্জা ১২ টুকরা এবং পেপারোনি পিজ্জা ৮ টুকরা কেটে আছে। কেটের ৬ জন বন্ধু প্রত্যেকে ৬ টুকরা চিজ পিজ্জা এবং ৪ টুকরা পেপারোনি পিজ্জা খায়, কেটের কতগুলি পিজ্জা কিনতে হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কেটে",
+        "বন্ধু"
+      ]
+    },
+    {
+      "adapted_text": "ডিজিমন তার ২০তম বার্ষিকী পালন করেছে। যখন এটি প্রকাশিত হয়েছিল তখন জন জিমের থেকে দ্বিগুণ বয়সী ছিলেন। যদি জন এখন ২৮ বছর বয়সী হন তাহলে জিমের কত বছর বয়স?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জন",
+        "জিম"
+      ]
+    },
+    {
+      "adapted_text": "রমেশ ১০ বোতল স্কচ কিনেছেন মোট খরচ ৬০০ ডলার। তিনি আরও দ্বিগুণ বোতল কোগনাক কিনেছেন যার দাম প্রতি বোতল ৫০% বেশি। তিনি সব কিছুতে কত খরচ করেছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৬০০ ডলার",
+        "রমেশ",
+        "স্কচ"
+      ]
+    },
+    {
+      "adapted_text": "শিক্ষকদের লঞ্চে কফি কাপের সংখ্যা চারগুণ বেশি হলে আরও আটটি কফি কাপ হবে ৪০। কতগুলি কফি কাপ আছে শিক্ষকদের লঞ্চে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কফি কাপ",
+        "শিক্ষকদের লঞ্চ"
+      ]
+    },
+    {
+      "adapted_text": "মাছ ট্যাঙ্কে ৬৬টি মাছ আছে। এর মধ্যে এক-তৃতীয়াংশ মাছের লাল রঙের রেখা আছে, এবং অবশিষ্ট মাছের ৫/১১ টি নীল রঙের রেখা আছে। মোট কতগুলি মাছ লাল রঙের রেখা এবং নীল রঙের রেখা আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "মা"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "মাছ",
+        "ট্যাঙ্ক"
+      ]
+    },
+    {
+      "adapted_text": "ম্যাটিসনের উচ্চতা ৬০ ইঞ্চি। তার দুই-তলা বাড়ির উচ্চতা তার চেয়ে ৭ গুণ। প্রথম তলার মার্বেলের থেকে ছাদের দূরত্ব কত ইঞ্চি?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ম্যাটিসন",
+        "ইঞ্চি"
+      ]
+    },
+    {
+      "adapted_text": "ত্রিনিটি ম্যাগাজিন বিক্রি করে ১১/৮ মূল্যে যেখানে সে ম্যাগাজিনটি কিনেছে। যদি সে ম্যাগাজিনটি $72-এ কিনেছে, তাহলে তার লাভ কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৭২ ডলার",
+        "ত্রিনিটি"
+      ]
+    },
+    {
+      "adapted_text": "ইয়ানের কাছে একটি বোর্ড আছে যার দৈর্ঘ্য ৪০ ফুট। সে একটি কাট করে দুটি টুকরা করতে সিদ্ধান্ত নেয়। দীর্ঘ টুকরাটি ছোট টুকরার চেয়ে ৪ গুণ দীর্ঘ। দীর্ঘ টুকরার কত দৈর্ঘ্য?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "বোর্ড",
+        "ফুট",
+        "ইয়ান"
+      ]
+    },
+    {
+      "adapted_text": "লুক নতুন কাঁচের জন্য কাপড় কিনছেন। পাঁচটি জানালা আছে। প্রতিটি জানালার প্রস্থ ৩৫ ইঞ্চি। লুককে জানালার মোট প্রস্থের দ্বিগুণ কাপড় কিনতে হবে। তাকে কত কাপড় কিনতে হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "টাকা",
+        "লুক",
+        "কাঁচের"
+      ]
+    },
+    {
+      "adapted_text": "একটি কল করতে একটি পে ফোন থেকে, আপনাকে প্রতি মিনিটের জন্য $0.25 দিতে হবে। 16 মিনিট পরে, এই মূল্য প্রতি মিনিটে $0.2 এ নেমে আসে। একটি 36 মিনিটের কলের খরচ কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পে ফোন"
+      ]
+    },
+    {
+      "adapted_text": "মঙ্গলবার বৃষ্টি হয়েছে ২ ইঞ্চি এবং তুয়ারস্দিয়ে আরও ১ ইঞ্চি বৃষ্টি হবে যা মঙ্গলবারের মোট বৃষ্টির দ্বিগুণের চেয়ে বেশি। তুয়ারস্দিয়ে কত ইঞ্চি বৃষ্টি হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "তুয়ারস্দিয়ে",
+        "মঙ্গলবার"
+      ]
+    },
+    {
+      "adapted_text": "শেলির থেকে ১২টি কম চিত্র আছে স্যামান্থার, এবং শেলির ৮টি বেশি চিত্র আছে কিমের। যদি স্যামান্থারের ২৭টি চিত্র থাকে, তাহলে কিমের কতগুলি চিত্র আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কিম",
+        "শেলি",
+        "স্যামান্থা"
+      ]
+    },
+    {
+      "adapted_text": "ইভ ২০টি পমেলো ছিল। তার কিছু পমেলো বন্ধুকে দেওয়ার পর, ইভ তার আসল থেকে ১/৪ ভাগ পমেলো বাকি ছিল। ইভ কতগুলি পমেলো দিয়েছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ইভ",
+        "পমেলো"
+      ]
+    },
+    {
+      "adapted_text": "রেজিনা গত বছর ৯টি উপন্যাস লিখেছেন। যদি এটি এই বছর লেখা উপন্যাসের সংখ্যার ৩ চতুর্থাংশ হয়, তাহলে এই বছর কতগুলি উপন্যাস লিখেছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৩ চতুর্থাংশ",
+        "রেজিনা",
+        "৯টি",
+        "উপন্যাস"
+      ]
+    },
+    {
+      "adapted_text": "রোজ পাঁচ ডজন ডিম কিনেছেন ২৪০ ডলারে প্রতি ডজনে। সে এটি বিক্রি করবে ১ ডলারে ৩ ডিমে। রোজের লাভ কত হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "২৪০ ডলার",
+        "ডিমের ডজন",
+        "১ ডলার",
+        "রোজ"
+      ]
+    },
+    {
+      "adapted_text": "স্কাইলারের হাতে ১০০টি টোপ আছে যার রঙ লাল, নীল এবং সাদা। টোপের অর্ধেক লাল, অবশিষ্ট টোপের ৩/৫ নীল এবং বাকি সাদা। স্কাইলারের কতগুলি সাদা টোপ আছে?",
+      "strict_matches": [
+        "সাদা",
+        "লাল"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "টপ"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.4,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "টোপ",
+        "নীল",
+        "স্কাইলার",
+        "সাদা",
+        "লাল"
+      ]
+    },
+    {
+      "adapted_text": "টিম প্রতিদিন ৬ ঘন্টা কাজে ফোন উত্তর দেয়। একটি কল নিষ্পত্তির জন্য তার ১৫ মিনিট সময় লাগে। তিনি তার ৫ দিনের কাজের সপ্তাহে কতগুলি কল নিষ্পত্তি করেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ঘণ্টা"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "টিম",
+        "মিনিট",
+        "ঘন্টা"
+      ]
+    },
+    {
+      "adapted_text": "একটি ফোন প্ল্যানে ৫টি ফোন রয়েছে। মূল ফোনের দাম প্রতিটি অতিরিক্ত ফোনের দামের দ্বিগুণ। যদি মূল ফোন প্ল্যানের দাম $20 হয়, তাহলে সমগ্র ফোন প্ল্যানের দাম কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "২০ ডলার",
+        "ফোন প্ল্যান",
+        "ফোন"
+      ]
+    },
+    {
+      "adapted_text": "ডেরিকের একটি বেকারি আছে যেখানে তিনি প্রতিদিন ১০ ডজন ডোনাট তৈরি করেন, প্রতিটি ডোনাটের দাম $2। ডেরিক জুনে যদি সব ডোনাট বিক্রি করেন তাহলে তিনি কত টাকা উপার্জন করেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ডেরিক",
+        "২ ডলার",
+        "ডোনাট"
+      ]
+    },
+    {
+      "adapted_text": "একটি খামারে ১০টি ২-পা প্রাণী এবং ১৫টি ৪-পা প্রাণী রয়েছে। যদি সমস্ত প্রাণী স্বাস্থ্যবিহীন না হয়, তাহলে খামারে মোট কতগুলি প্রাণীর পায়ের জোড়া রয়েছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৪পা প্রাণী",
+        "২পা প্রাণী"
+      ]
+    },
+    {
+      "adapted_text": "মিয়া এবং এমা বর্তমানে বয়সে ১৬ বছর আলাদা। যদি মিয়া, যিনি এমার থেকে ছোট, ৪০ বছর বয়সী হন, তাদের বয়সের গড় কী?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ময়দা",
+        "মা"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.4,
+      "replaced_words": [
+        "৪০",
+        "বছর",
+        "মিয়া",
+        "এমা",
+        "১৬"
+      ]
+    },
+    {
+      "adapted_text": "একটি পরিবারে ২ জন ভাই ও ৩ জন বোন আছে। সকল বোনের বয়স একই, যা ১৬ বছর। একজন ভাই ১২ বছর বয়সী, যা বড় ভাইয়ের বয়সের অর্ধেক। সকল ভাইবোনের মোট বয়স কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "বোনা"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "ভাই",
+        "বোন",
+        "১৬",
+        "১২"
+      ]
+    },
+    {
+      "adapted_text": "সকালে ও রাতে সবার আগে চরিত্রের ধ্যান করেন ১৫ মিনিট। সপ্তাহে ৫ দিন তিনি যোগ অভ্যাস করেন ১ ঘন্টা। ৪ সপ্তাহে তিনি ধ্যান/যোগ অভ্যাসে কতটা সময় ব্যয় করেছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ঘণ্টা"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "ঘন্টা",
+        "দিন",
+        "সপ্তাহ",
+        "মিনিট",
+        "চরিত্র"
+      ]
+    },
+    {
+      "adapted_text": "টিমোথির কাছে জর্জের মতো তিনগুণ লেখাপড়ার কলম আছে। সারার কাছে টিমোথির মতো কলমের অর্ধেক আছে। যদি জর্জের ১৮টি কলম থাকে, তাহলে সারার কতগুলি কলম আছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "সারা",
+        "টিমোথি",
+        "জর্জ"
+      ]
+    },
+    {
+      "adapted_text": "জেমস ৪টি টেবিল তৈরি করছেন। প্রতিটি টেবিলে ৪টি পা আছে এবং প্রতিটি পায়ের প্রয়োজন ২টি স্ক্রু। তার ৪০টি স্ক্রু আছে। তার কতগুলি স্ক্রু বাকি থাকবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "পরা"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "পা",
+        "জেমস",
+        "টেবিল",
+        "স্ক্রু"
+      ]
+    },
+    {
+      "adapted_text": "বন্দরের দায়িত্বশীল ব্যক্তি কিছু নতুন লাইন কিনতে হবে। তিনি প্রতি ফুট বন্দরের জন্য ৩ ফুট লাইন চান। এখন, ২০০ ফুট বন্দর আছে এবং তার ৬ ফুট নতুন লাইন আছে। তিনি মোট কত ফুট লাইন কিনতে হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ফুট"
+      ]
+    },
+    {
+      "adapted_text": "একজন ফল বিক্রেতা ৫০টি তরমুখি কিনেছিলেন ৮০ ডলারে। তিনি সবগুলোকে ২৫% লাভে বিক্রি করেছিলেন। প্রতিটি তরমুখি কত টাকায় বিক্রি হয়েছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ফল বিক্রেতা",
+        "তরমুখি",
+        "৮০ ডলার"
+      ]
+    },
+    {
+      "adapted_text": "খাদ্য উৎপাদনকারী ব্রাউন মানুষের ২০টি প্রাণী রয়েছে, সবই মুরগি বা গরু। তাদের মোট ৭০টি পা রয়েছে, সবকিছু একসাথে। কতগুলি প্রাণী মুরগি?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "প্রাণী",
+        "২০",
+        "৭০",
+        "খাদ্য উৎপাদনকারী ব্রাউন"
+      ]
+    }
+  ]
+}
