@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mike needed a new pair of jeans.  When he got to the mall he saw that his favorite jeans were advertised 25% off.  The original price of the jeans was $40.  How much money will Mike have left over if he pays with a $50.00 bill?
+
+Adapted Text:
+Ramesh needed a new pair of parathas. When he got to the market he saw that his favorite parathas were advertised 25% off. The original price of the parathas was ₹830. How much money will Ramesh have left over if he pays with a ₹500.00 bill?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text effectively replaces western elements with culturally relevant Indian equivalents, creating a more authentic Indian context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text incorporates Indian English and terms with a natural flow, though it could benefit from further refinement to sound more idiomatic.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented accurately and is well-integrated into the cultural context, but could benefit from better contextualization.
+
+Overall Score:
+Average Score: 4.00/5

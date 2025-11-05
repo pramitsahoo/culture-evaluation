@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Alice is 7 years older than Beth, who is 5 years older than Erica. What is the difference between the ages of Alice and Erica, if Erica is 30 years old?
+
+Adapted Text:
+Arundhati is 7 years older than Bharti, who is 5 years older than Chhavi. What is the difference between the ages of Arundhati and Chhavi, if Chhavi is 30 years old?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text uses completely western concepts and names with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses no Indian language elements, maintaining only western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsens
+
+Overall Score:
+Average Score: 0.33/5

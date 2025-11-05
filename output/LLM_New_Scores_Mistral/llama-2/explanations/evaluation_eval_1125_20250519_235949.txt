@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Seth gave half of his stickers to Luis. Luis used half of the stickers and gave the rest to Kris.  Kris kept 9 of the stickers and gave the remaining 7 stickers to Rob. How many stickers did Seth have in the beginning?
+
+Adapted Text:
+Ramesh gave half of his parathas to Luis. Luis used half of the parathas and gave the rest to Kris. Kris kept 9 parathas and gave the remaining 7 parathas to Rob. How many parathas did Ramesh have in the beginning?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains the original storyline but incorporates Indian objects (parathas) and names, making it more culturally relevant.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively uses Indian English and terms, but the language flow could be slightly improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-structured after the cultural adaptation.
+
+Overall Score:
+Average Score: 4.33/5

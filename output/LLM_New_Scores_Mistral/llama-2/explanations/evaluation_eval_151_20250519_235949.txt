@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Steve and Tim decide to see who can get home from school the fastest. Steve lives further away than Tim, so he is allowed to ride his bike. Steve lives 3 miles from the school and can bike at 440 feet per minute. Tim lives 2 miles away from the school. If Tim can ride his skateboard at 264 feet per minute, how long will the winner be waiting at their house before the loser finishes the race?
+
+Adapted Text:
+Ramesh and Ram decide to see who can get home from school the fastest. Ramesh lives further away than Ram, so he is allowed to ride his bicycle. Ramesh lives 3 miles from the school and can cycle at 440 feet per minute. Ram lives 2 miles away from the school. If Ram can ride his scooter at 264 feet per minute, how long will the winner be waiting at his house before the loser finishes the race?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes the names and includes a culturally relevant mode of transportation (scooter), but the context remains similar to the original text.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian names and some Indian English terms but lacks the natural flow of Indian language.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains the same and is presented correctly with no changes.
+
+Overall Score:
+Average Score: 4.33/5

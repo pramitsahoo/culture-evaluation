@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+There are 220 castles in Scotland.  40 percent of them are ruins, and half of the ruined castles are unmanned.  How many unmanned ruined castles are there in Scotland?
+
+Adapted Text:
+There are 220 forts in India. 40 percent of them are ruins, and half of the ruined forts are unmanned. How many unmanned ruined forts are there in India?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text has replaced the original names with Indian names, but it does not provide any deeper cultural context.
+
+2. Language Fluency
+Score: 2.0/5
+Explanation: The text uses Indian terminology, but it is used incorrectly or inappropriately, causing confusion.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is presented incorrectly after adaptation, making it unsound.
+
+Overall Score:
+Average Score: 1.67/5

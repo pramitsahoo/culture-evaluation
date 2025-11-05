@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mr. Tan sold his house for $400 000. He paid the transfer fees that amount to 3% of the selling price and also paid a brokerage fee that is 5% of the selling price. If he also paid $250 000 for the remaining loan amount of the house, how much is Mr. Tan's net proceeds from selling the house?
+
+Adapted Text:
+Ramesh sold his house for ₹400,000. He paid the transfer fees that amount to ₹3% of the selling price and also paid a brokerage fee that is ₹5% of the selling price. If he also paid ₹250,000 for the remaining loan amount of the house, how much is Ramesh's net proceeds from selling the house?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes the names and the currency, but the context remains unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly, but the flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly.
+
+Overall Score:
+Average Score: 4.33/5

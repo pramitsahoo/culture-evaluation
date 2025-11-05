@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Kim has started his own housekeeping business and is calculating how much profit he will make from his clients. He already has 3 clients, but is talking to another 5 potential clients and feels confident enough to include them in his calculations. Each client’s home will need 2 bottles of bleach and a pack of cloths to clean. Bottles of bleach will cost $2 each and packs of cloths will cost $5 each. These are his only expenses. He calculates that his total income each week will be $92. Profit is the difference between total income and total expenses, so how much profit, in dollars, will Lucas make each week?
+
+Adapted Text:
+Ramesh started his own housekeeping business and calculated how much profit he would make from his clients. He already had 3 clients, but was talking to another 5 potential clients and felt confident enough to include them in his calculations. Each client's home would need 2 bottles of bleach and a pack of cloths to clean. Bottles of bleach would cost ₹200 each and packs of cloths would cost ₹1,000 each. These were his only expenses. He calculated that his total income each week would be ₹92,000. Profit is the difference between total income and total expenses, so how much profit, in ₹, will Ramesh make each week?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes culturally inappropriate or nonsensical elements, making it feel dis
+
+2. Language Fluency
+Score: 2.0/5
+Explanation: The text contains few Indian terms but used incorrectly or inappropriately, resulting in a confusing reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, making it easy to understand and solve.
+
+Overall Score:
+Average Score: 2.67/5

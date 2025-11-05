@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+To fund his store, Mr. Josue solicited money from two banks. The first bank gave him $4000, and the second company gave him twice as much. If he initially had $5000 in capital, how much capital does he have now?
+
+Adapted Text:
+Ramesh sought funds from two banks to establish his store. The first bank provided him with ₹4000, and the second company gave him twice as much. If he initially had ₹5000 in capital, how much capital does he have now?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes nonsensical elements, making it culturally irrelevant and inappropriate for the target audience.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains incorrect use of Indian terms, making it difficult to understand and culturally disconnected.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation, making it impossible to solve.
+
+Overall Score:
+Average Score: 0.67/5

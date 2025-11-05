@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+For four hours, Patrick sold 15 cups of lemonade per hour at a price of $0.50 per cup.  In the next two hours, he sold 10 cups of lemonade per hour at a price of $0.60 per cup.  How much money did Patrick earn, in dollars, from selling lemonade for 6 hours?
+
+Adapted Text:
+Ramesh sold 15 parathas per hour for ₹0.50 per paratha for 4 hours. In the next 2 hours, he sold 10 parathas per hour for ₹0.60 per paratha. How much money did Ramesh earn in Indian Rupees (INR) from selling parathas for 6 hours?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian culture through the use of parathas, a popular Indian food item, and Indian currency. However, it does not fully contextualize the scenario to better resonate with the target audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, but there may be some minor issues with natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

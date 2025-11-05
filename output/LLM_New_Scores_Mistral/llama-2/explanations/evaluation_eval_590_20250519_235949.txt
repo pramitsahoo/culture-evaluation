@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+If Martin eats Cheerios every day for breakfast, he'll lose 1.25 pounds/week. If he eats donuts every day for breakfast, he'll gain 1.75 pounds/week. What will be the difference in his weight at the end of 5 weeks between the two breakfast options?
+
+Adapted Text:
+Ramesh ate ₹830 worth of parathas every day for breakfast, and gained ₹1,250 worth of weight every week. If he continued this for 5 weeks, he would have gained a total of ₹6,250 worth of weight.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is culturally relevant as it uses an Indian food item, paratha, but the weight-gain concept may not be entirely appropriate or relatable to the Indian context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but the flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, but the numbers used may not be entirely realistic for a 5-week period.
+
+Overall Score:
+Average Score: 4.00/5

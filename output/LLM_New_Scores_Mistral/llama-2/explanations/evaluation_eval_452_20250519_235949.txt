@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+On a certain day, the total cost of filling up 20 helium balloons was $900. Two days later, the cost of filling each balloon was increased by $20. How much did Bentley pay to fill 170 balloons if he went to fill them after the price increase?
+
+Adapted Text:
+On a certain day, Ramesh paid ₹83,000 to fill 170 balloons after the price increase, as the cost of filling each balloon increased by ₹830 two days later.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes culturally inappropriate or nonsensical elements that do not resonate with the Indian audience.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text includes incorrect use of Indian terms, making it difficult to understand and culturally irrelevant.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 2.33/5

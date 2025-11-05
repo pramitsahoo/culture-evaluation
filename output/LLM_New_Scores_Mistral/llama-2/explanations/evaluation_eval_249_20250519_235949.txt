@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A chef bought 4 bags of onions. Each bag weighs 50 pounds. A pound of onions cost $1.50. How much did the chef spend?
+
+Adapted Text:
+Ramesh bought 4 bags of onions. Each bag weighs 50 pounds. A pound of onions cost ₹83. How much did the chef spend?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains the original problem structure but uses Indian-specific elements, such as using rupees instead of dollars.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terms but lacks some natural flow, making it slightly less coherent for the target audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

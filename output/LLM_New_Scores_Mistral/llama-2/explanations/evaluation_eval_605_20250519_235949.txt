@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Howard spends $8 dollars at the arcade on Monday. On Tuesday, he spends twice as much at the arcade as he did on Monday. On Wednesday, he spends 4 times as much at the arcade as he spent on Tuesday. If he originally had $100, how much money does he have left?
+
+Adapted Text:
+Ramesh spends ₹830 at the gaming center on Monday. On Tuesday, he spends twice as much at the gaming center as he did on Monday. On Wednesday, he spends 4 times as much at the gaming center as he spent on Tuesday. If he originally had ₹1000, how much money does he have left?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.00/5

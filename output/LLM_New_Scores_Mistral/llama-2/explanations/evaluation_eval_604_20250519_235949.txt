@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ruiz can make 120 pounds of chocolates in two hours. Marissa makes 3/4 times as many pounds of chocolates in an hour as Ruiz makes in the two hours. If they worked for 12 hours in a day, calculate the total amount of chocolate pounds they made together.
+
+Adapted Text:
+Ramesh can make 120 parathas in two hours. Ramesh's friend makes 3/4 times as many parathas in an hour as Ramesh makes in the two hours. If they worked for 12 hours in a day, calculate the total amount of parathas they made together.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the original text's object with a culturally relevant Indian food item. However, it does not provide a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses some Indian English terms and expressions, but the language flow is not always natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

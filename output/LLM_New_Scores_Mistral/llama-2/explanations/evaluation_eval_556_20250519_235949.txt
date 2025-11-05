@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John plans to save money from working.  He gets paid $2 per hour and works 5 hours a day for 4 days a week.  If he wants to save $80 how many weeks will it take him?
+
+Adapted Text:
+Ramesh plans to save money from working.  He gets paid ₹100 per hour and works 5 hours a day for 4 days a week.  If he wants to save ₹8000 how many weeks will it take him?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has names changed to Indian names and the currency is converted to Indian rupees, making it culturally relevant but the scenario remains western.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian English terms but the language flow is not as natural as it could be.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

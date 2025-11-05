@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Steve is 60 years old. His wife is 4 years older than him. Their son is currently half as old as his mom and their son's wife is 3 years younger than her husband. How old is Steve's son's wife?
+
+Adapted Text:
+Ramesh is 60 years old. His wife, Rukmini, is 4 years older than him. Their son, Rahul, is currently half as old as his mother and their son's wife, Priya, is 3 years younger than her husband, Rohan. How old is Priya?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text contains culturally inappropriate elements, making it irrelevant to the target audience.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text does not contain any Indian language elements, maintaining a completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is
+
+Overall Score:
+Average Score: 0.33/5

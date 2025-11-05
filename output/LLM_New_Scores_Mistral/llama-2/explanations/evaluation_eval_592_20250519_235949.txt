@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Four dogs sat in a line within the veterinarian's waiting room.  The first dog was the Affenpinscher, who weighed only 10 pounds.  Next to him sat a Dachshund, who weighed twice as much as the Affenpinscher.  Next to the Dachshund sat a Papillon, who weighed one-fourth as much as the Dachshund.  And at the end of the line sat a Mastiff, who weighed 44 times the weight of the Papillon.  How much did the Mastiff weigh, in pounds?
+
+Adapted Text:
+Four dogs sat in a line within the veterinarian's waiting room in India. The first dog was the Indian Spitz, who weighed only ₹800. Next to him sat a Dachshund, who weighed twice as much as the Indian Spitz. Next to the Dachshund sat a Chihuahua, who weighed one-fourth as much as the Dachshund. And at the end of the line sat a Great Dane, who weighed ₹32,000 times the weight of the Chihuahua. How much did the Great Dane weigh, in ₹?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features some cultural relevant elements, but it could have been more deeply integrated into the Indian context.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The adapted text uses some Indian terms correctly but lacks natural flow, with some awkward phrasing.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

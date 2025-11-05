@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mr. Jackson’s fourth-grade class has 27 students. He wants to give each student 2 glue sticks. The glue sticks come in packs of 8. How many packs will Mr. Jackson need to buy so every student can have 2 glue sticks, assuming he can only buy whole packs and he expects to have some extra glue sticks left over?
+
+Adapted Text:
+Ramesh's fourth-grade class has 27 students. He wants to give each student 2 parathas. The parathas come in packets of 8. How many packets will Ramesh need to buy so every student can have 2 parathas, assuming he can only buy whole packets and he expects to have some extra parathas left over?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively replaces the original objects with culturally relevant alternatives, creating a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow, though it could be improved in some areas.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

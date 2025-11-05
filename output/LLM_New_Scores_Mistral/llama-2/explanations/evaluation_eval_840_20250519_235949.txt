@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A farmer extracts 5 liters of milk a day from a cow. Since he has 3 cows, how many more cows does he need to have to produce 25 liters of milk a day?
+
+Adapted Text:
+A farmer extracts 5 liters of milk a day from a cow. Since he has 3 cows, how many more cows does he need to have to produce 25 liters of milk a day?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The text is about a farmer and cows, which are common in Indian culture. However, the problem does not have any specific cultural relevance or context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and some Indian terminology, creating a natural flow for readers familiar with the language.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

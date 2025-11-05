@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Coach brought one bag filled with basketballs to practice and dumped them all out onto the gym floor before practice began.  After the practice time was over, he asked Jordan, Jason, and Jeffrey to pick up the balls and carry them over to the bag.  The three boys picked up and carried all of the balls in one trip.  Jordan carried twice as many balls as Jason, and Jason carried twice as many balls as Jeffrey. If Jason had picked up and carried 2 balls, what is the total number of balls that the coach brought to practice?
+
+Adapted Text:
+Coach brought one bag filled with basketballs to practice and dumped them all out onto the gym floor before practice began. After the practice time was over, he asked Ramesh, Rahul, and Raj to pick up the balls and carry them over to the bag. The three boys picked up and carried all of the balls in one trip. Ramesh carried twice as many balls as Rahul, and Rahul carried twice as many balls as Raj. If Rahul had picked up and carried 2 balls, what is the total number of balls that the coach brought to practice?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes some proper nouns and objects to Indian ones, creating a connection to the Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, with a natural flow but still requiring minor adjustments.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

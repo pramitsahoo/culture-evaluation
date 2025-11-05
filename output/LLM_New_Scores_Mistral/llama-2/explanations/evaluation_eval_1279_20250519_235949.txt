@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tom found 214 seashells, Nancy found 432 seashells, and Benny found 86 seashells on the beach. When they cleaned them, they discovered that 67 were cracked. How many good seashells did they find together?
+
+Adapted Text:
+Ramesh found 214 parathas, Nalini found 432 parathas, and Benny found 86 parathas on the beach. When they cleaned them, they discovered that 67 were cracked. How many good parathas did they find together?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses Indian names and replaces the original objects with a culturally relevant alternative (parathas), but the context and scenario remain similar to the original text.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but the natural flow could be improved in some areas.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

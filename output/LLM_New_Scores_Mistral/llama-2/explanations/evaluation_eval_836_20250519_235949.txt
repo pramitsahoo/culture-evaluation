@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+If it takes 3 kangaroos traveling at the same speed a total of 18 hours to travel across a highway, how many hours will it take four turtles, each traveling at half the speed of a kangaroo, to do so?
+
+Adapted Text:
+Four turtles, each traveling at half the speed of a kangaroo, will take ₹830 hours to travel across a highway if it takes 3 kangaroos traveling at the same speed 18 hours to do so.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.00/5

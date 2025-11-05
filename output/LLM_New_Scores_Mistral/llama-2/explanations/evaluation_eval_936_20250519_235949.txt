@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
+
+Adapted Text:
+Ramesh is trying to decide between buying the Widgeteer 3000, which makes 60 parathas an hour, and the WidgetMaster 9000, which makes 45 parathas an hour. Each paratha sells for ₹83. How much more money will Ramesh make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is culturally relevant as it uses an Indian product (paratha) and the Indian currency (rupees), but the original scenario and objects remain mostly unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text effectively incorporates Indian English and terminology, with only minor language flow issues.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, but could be more clearly connected to the Indian scenario.
+
+Overall Score:
+Average Score: 4.00/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Rayna has 60 more dollars than Kassidy, and Kassidy has 3/4 times as much money as Aurelia. If Arelia has $120, how much would each have if they decided to add together their money and share equally among them?
+
+Adapted Text:
+Rayna has ₹60 more than Kassidy, and Kassidy has 3/4 times as much money as Aurelia. If Arelia has ₹120, how much would each have if they decided to add together their money and share equally among them?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The text contains nonsensical adaptations that are not relevant to Indian culture.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text includes incorrect use of Indian terms, making it difficult for the target audience to understand.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately.
+
+Overall Score:
+Average Score: 2.33/5

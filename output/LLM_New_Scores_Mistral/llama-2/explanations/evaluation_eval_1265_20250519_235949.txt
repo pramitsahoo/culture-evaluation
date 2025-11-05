@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Garrett is popping popcorn for a snack. As the pan of kernels heats up, the kernels start popping faster. Twenty pop in the first 30 seconds of cooking, then three times that amount in the next 30 seconds. The kernels increase to four times the initial popping rate in the next thirty seconds, but in the final 30 seconds, the popping slows down to half the rate as the past 30 seconds. After Garrett takes the pan off the heat, a quarter of the number of kernels that popped in the final 30 seconds of cooking also pop from the residual heat. How many pieces of popcorn does Garrett have to eat?
+
+Adapted Text:
+Ramesh is heating up a pan of parathas for a snack. As the pan of atta dough heats up, the dough starts to puff up faster. Twenty parathas puff in the first 30 seconds of cooking, then three times that amount in the next 30 seconds. The parathas increase to four times the initial puffing rate in the next thirty seconds, but in the final 30 seconds, the puffing slows down to half the rate as the past 30 seconds. After Ramesh takes the pan off the heat, a quarter of the number of parathas that puffed in the final 30 seconds of cooking also puff from the residual heat. How many parathas does Ramesh have to eat?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes culturally inappropriate or nonsensical elements, making it poorly adapted to the Indian culture.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses incorrect Indian terms, resulting in poor language adaptation.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 0.67/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John buys 10 bottles of scotch for a total cost of $600.  He also buys twice as many bottles of cognac that cost 50% more per bottle.  How much does he spend on everything?
+
+Adapted Text:
+Ramesh buys 10 parathas of whisky for a total cost of ₹600. He also buys twice as many parathas of cognac that cost 50% more per paratha. How much does he spend on everything?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses Indian names and food items, but the original scenario is still predominantly western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terms effectively but could benefit from a more natural flow and better integration of Indian expressions.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

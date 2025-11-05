@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+There are 26 countries in South America and, in each country, there are 5 cities with 1000 people living in each city.  If the whole population lives in these cities, how many people are there in South America?
+
+Adapted Text:
+There are 26 states in Bharat and, in each state, there are 5 cities with 1000 people living in each city.  If the whole population lives in these cities, how many people are there in Bharat?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.00/5

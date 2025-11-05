@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Paul has 52 marbles. His friend gave him 28 marbles. Then, he lost 1/4 of his marbles. How many marbles does Paul have left?
+
+Adapted Text:
+Ramesh has 52 parathas. His friend gave him 28 parathas. Then, he lost 1/4 of his parathas. How many parathas does Ramesh have left?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text changes the original names to Indian names but does not contextually adapt the problem, making it feel forced and nonsensical.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The adapted text uses Indian terms incorrectly, making it difficult to understand the text's intended meaning.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is presented incorrectly, making it unsound and illogical within the given cultural context.
+
+Overall Score:
+Average Score: 1.33/5

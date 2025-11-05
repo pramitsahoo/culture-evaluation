@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+James decides to run 3 sprints 3 times a week.  He runs 60 meters each sprint.  How many total meters does he run a week?
+
+Adapted Text:
+Ramesh decides to run 3 sprints 3 times a week. He runs 60 meters each sprint. How many total meters does he run a week?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text changes the proper nouns but inappropriately uses them in a nonsensical context.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian terms incorrectly, leading to a poor understanding of the text.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is nonsensical after adaptation, making it impossible to calculate the correct answer.
+
+Overall Score:
+Average Score: 1.00/5

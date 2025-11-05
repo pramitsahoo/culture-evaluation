@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+It takes James 10 minutes to read 3 pages of his book before he goes to bed. He reads 18 pages of his book and then decides to go to sleep. How long does James spend reading, in minutes?
+
+Adapted Text:
+Ramesh spent 10 minutes reading 3 pages of his book before he went to bed. He then read 18 pages of his book and decided to sleep. How many minutes did Ramesh spend reading?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text replaces names with Indian ones, but the context remains the same, lacking deeper cultural connections.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms, but the language flow is not entirely natural to an Indian reader.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately.
+
+Overall Score:
+Average Score: 3.67/5

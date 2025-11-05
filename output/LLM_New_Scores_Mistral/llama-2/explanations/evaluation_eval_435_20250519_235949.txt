@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The vending machines sell chips for 40 cents and candy bars for 75 cents. George spent $5 and got 3 bags of chips and had 1% of his money left. How many candy bars did he buy?
+
+Adapted Text:
+Ramesh bought 3 bags of parathas for ₹830 and had 1% of his money left. How many parathas did he buy?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text changes the original names and uses parathas, a culturally relevant food item. However, the context and problem structure remain largely unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and some culturally relevant terminology, with a natural flow that is understandable to the target audience.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context. The solution may require a slight adjustment due to the difference in currency, but the problem itself remains mathematically sound.
+
+Overall Score:
+Average Score: 3.67/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+To be promoted to the next school year, Jane takes 3 tests that together must total at least 42 points. On her first test, Jane scored 15 points, on the second test she scored 18 points. What is the minimum number of points she must score on the third test to pass?
+
+Adapted Text:
+Ramesh took 3 tests to be promoted to the next school year, which together had to total at least ₹830. On his first test, Ramesh scored ₹15, on the second test he scored ₹18. What is the minimum amount he had to score on the third test to pass?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text changes only names and maintains the western context, making it non-relevant to Indian culture.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The adapted text uses Indian terms incorrectly or inappropriately, making it difficult to understand.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 2.67/5

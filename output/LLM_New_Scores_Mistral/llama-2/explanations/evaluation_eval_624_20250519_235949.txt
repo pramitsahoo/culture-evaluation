@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Charmaine will be 16 years old in 12 years. How old will she be 4 years from now?
+
+Adapted Text:
+Ramesh will be 16 years old in 12 years. How old will he be 4 years from now?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text only changes the name of the person, not adapting the scenario or objects to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English terms and expressions, but it could flow more naturally with further adjustments.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains intact and well-presented, making it easy to understand and solve.
+
+Overall Score:
+Average Score: 4.00/5

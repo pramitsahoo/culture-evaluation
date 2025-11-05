@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Rozanne is making eggnog for her family. She uses 4 dozen eggs that were in cases and another 2 eggs that were loose in the cupboard. She puts out trays that each hold 5 glasses of eggnog. If each glass needs 5 eggs, how many trays can Rozanne put out?
+
+Adapted Text:
+Ramesh is making eggnog for his family. He uses 4 dozen eggs that were in cases and another 2 eggs that were loose in the cupboard. He puts out trays that each hold 5 glasses of eggnog. If each glass needs 5 eggs, how many trays can Ramesh put out?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features a character named Ramesh, an Indian name, and the context remains unchanged, making it more relatable to the Indian audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms accurately, demonstrating a good understanding of Indian language patterns.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

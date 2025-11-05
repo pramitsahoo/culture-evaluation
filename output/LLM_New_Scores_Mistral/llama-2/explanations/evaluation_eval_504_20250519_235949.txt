@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The rug is 5 feet wider than the chair. The couch is 2 feet longer than twice the width of the rug. If the chair is 3 feet wide. How many feet long is the couch?
+
+Adapted Text:
+The carpet is 5 feet wider than the sofa. The sofa is 2 feet longer than twice the width of the carpet. If the sofa is 3 feet wide, how many feet long is the sofa?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text uses some Indian objects like "carpet" and "sofa," but the original scenario lacks a direct cultural connection.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow, but the use of "sofa" could be replaced with a more culturally relevant alternative like "settee" or "kursi."
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

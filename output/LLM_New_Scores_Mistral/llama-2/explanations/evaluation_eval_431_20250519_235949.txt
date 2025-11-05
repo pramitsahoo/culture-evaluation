@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Charlotte went into the kitchen supply store knowing she wanted a set of pot and pans for $120.00, a set of mixing bowls for $20.00 and 5 separate utensils at $5.00 each.  At check out, the clerk told her everything was 20% off.  How much was her order?
+
+Adapted Text:
+Ramesh went into the kitchen supply store knowing he wanted a set of pot and pans for ₹830.00, a set of mixing bowls for ₹200.00 and 5 separate utensils at ₹50.00 each. At check out, the clerk told him everything was 20% off. How much was his order?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively incorporates Indian cultural elements, with the names of the characters and items being replaced with culturally relevant alternatives.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology effectively, with a natural flow for the target audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

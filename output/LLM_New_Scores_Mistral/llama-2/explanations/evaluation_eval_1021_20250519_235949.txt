@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John picks 4 bananas on Wednesday. Then he picks 6 bananas on Thursday. On Friday, he picks triple the number of bananas he did on Wednesday. How many bananas does John have?
+
+Adapted Text:
+Ramesh choora chhota chhota 4 din ke liye lekar 6 choora lete hain. Jhootha din ke liye Ramesh triple choora ki number khud kare lete hain. Ramesh ke choora kaise hain?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text has been adapted to an Indian context, with proper nouns changed to Indian names and units. However, it does not fully immerse the reader in Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology with good grammar and flow, but some phrases could be more idiomatic for a more natural feel.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

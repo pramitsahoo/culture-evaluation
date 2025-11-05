@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Greta’s paycheck is $2400.00. She puts 50% of her pay into her retirement account. She then uses 20% of her paycheck to make her monthly car payment. After funding her retirement and paying for her car, how much money does she have left to spend?
+
+Adapted Text:
+Ramesh's paycheck is ₹16000.00. He puts 50% of his pay into his retirement account. He then uses 20% of his paycheck to make his monthly car payment. After funding his retirement and paying for his car, how much money does he have left to spend?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the original name with an Indian name, and the currency is changed to rupees, which are culturally relevant. However, the context remains largely unchanged and lacks deeper cultural connections.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly but does not flow naturally, resulting in a slight disconnect.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

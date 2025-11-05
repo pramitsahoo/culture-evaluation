@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Benny threw bologna at his balloons.  He threw two pieces of bologna at each red balloon and three pieces of bologna at each yellow balloon.  If Benny threw 58 pieces of bologna at a bundle of red and yellow balloons, and twenty of the balloons were red, then how many of the balloons in the bundle were yellow?
+
+Adapted Text:
+Ramesh threw ₹830 at his balloons. He threw three ₹830 at each red balloon and five ₹830 at each yellow balloon. If Ramesh threw 58 ₹830 at a bundle of red and yellow balloons, and twenty of the balloons were red, then how many of the balloons in the bundle were yellow?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text is adapted to an Indian context by using rupees as the currency in the problem. However, the problem's scenario is still based on western concepts.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terminology but the use of "threw" in Indian English is not entirely natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

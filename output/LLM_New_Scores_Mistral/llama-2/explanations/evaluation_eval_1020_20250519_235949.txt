@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+On a busy Saturday morning, a hotel was completely booked with 100 guests.  24 guests elected an early checkout and 15 elected for a late checkout.  In the afternoon twice as many people checked in as those who opted for a late checkout.  7 more people checked in after dinner was served.  How many guests does the hotel now have?
+
+Adapted Text:
+On a busy Saturday morning, a hotel was completely booked with 100 guests in India. 24 guests elected an early checkout and 15 elected for a late checkout. In the afternoon, twice as many people checked in as those who opted for a late checkout. 7 more people checked in after dinner was served. How many guests does the hotel now have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 1.67/5

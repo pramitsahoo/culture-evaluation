@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Walter is collecting money for charity. First he collects $500 from his neighbors. Then he collects $1500 from a fund he set up online. His lawyer offers to donate three times as much as everyone else donates. Walter is going to tell him about his neighbors and the online fund until his friend gives him $200 as well. How much is Walter's lawyer going to contribute?
+
+Adapted Text:
+Ramesh is collecting money for charity. First he collects ₹500 from his neighbors. Then he collects ₹1500 from a fund he set up online. His lawyer offers to donate three times as much as everyone else donates. Ramesh is going to tell him about his neighbors and the online fund until his friend gives him ₹200 as well. How much is Ramesh's lawyer going to contribute?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has replaced some western objects with culturally relevant alternatives but could be improved further.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but the flow could be improved slightly.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately.
+
+Overall Score:
+Average Score: 4.00/5

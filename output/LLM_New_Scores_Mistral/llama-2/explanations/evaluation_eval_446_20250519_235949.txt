@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Michael is racing his horse and notices that for every mile the horse runs, he eats 1/2 a bail of hay. A bail of hay costs $3. If his horse runs for 30 minutes at 32MPH, and Michael has six 5 dollar bills, how much change does he have after he buys the hay?
+
+Adapted Text:
+Ramesh is racing his horse and notices that for every mile the horse runs, he eats 1/2 a bale of straw. A bale of straw costs ₹830. If his horse runs for 30 minutes at 32KM/H, and Ramesh has six ₹500 bills, how much change does he have after he buys the straw?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text shows a good attempt at cultural adaptation, but some minor aspects could be more accurate to Indian context (e.g., using bales of hay instead of straw).
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but it lacks a bit of natural flow compared to native Indian English texts.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

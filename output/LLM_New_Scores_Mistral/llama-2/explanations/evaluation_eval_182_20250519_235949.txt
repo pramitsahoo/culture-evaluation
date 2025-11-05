@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Sandra, the florist around the corner, is very unhappy with Fred's incomplete order delivery. Sandra had ordered four times as many red roses as white carnations. She also ordered 200 pink calla lilies, which were five times the number of white carnations. Sandra has threatened to switch suppliers if the missing red roses are not delivered by 5 pm. To keep Sandra's business, how many red roses must Fred deliver by 5 pm?
+
+Adapted Text:
+Ramesh, the florist near the corner, is unhappy with Fred's incomplete order delivery. Ramesh had ordered four times as many रंगे रेसे as करनाटे. He also ordered 200 पंक कला लिली, which were five times the number of करनाटे. Ramesh has threatened to switch suppliers if the missing रंगे रेसे are not delivered by 5 pm. To keep Ramesh's business, how many रंगे रेसे must Fred deliver by 5 pm?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces western names with Indian ones and maintains the scenario, but it could be more culturally resonating by using Indian-specific context or references.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terms effectively but lacks a natural flow in some instances.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

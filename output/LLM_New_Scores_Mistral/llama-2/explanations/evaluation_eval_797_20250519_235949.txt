@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A company's HR hires 20 new employees every month to add to its total workforce. If the company's initial employee number is 200, and each employee is paid a $4000 salary per month, calculate the total amount of money the company pays to its employees after three months?
+
+Adapted Text:
+The company's HR hires 20 new employees every month to add to its total workforce in India. If the company's initial employee number is 200, and each employee is paid a ₹4000 salary per month, calculate the total amount of money the company pays to its employees after three months?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features an Indian workforce and salary amounts in rupees, demonstrating a connection to the Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text incorporates Indian English and terminology, maintaining a natural flow and overall understanding.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

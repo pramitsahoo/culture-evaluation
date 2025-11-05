@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The tooth fairy left Sharon $5.00 in exchange for the first tooth Sharon lost.  Then, the tooth fairy gave Sharon $1.00 for each of the next three teeth Sharon lost.  And for each of the last 2 teeth Sharon lost, the tooth fairy gave Sharon half the amount of money per tooth as Sharon had received for each of the previous three teeth.  How much money did the tooth fairy leave Sharon, in dollars?
+
+Adapted Text:
+Ramesh left ₹5.00 in exchange for the first tooth Ramesh lost. Then, Ramesh gave ₹1.00 for each of the next three teeth Ramesh lost. And for each of the last 2 teeth Ramesh lost, Ramesh gave ₹4.00 as much money as Ramesh had received for each of the previous three teeth. How much money did Ramesh leave, in ₹?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text shows a substantial adaptation with culturally relevant scenarios and objects, but the tooth fairy concept is not directly applicable to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian terms correctly but lacks a natural flow, as the original text structure was not fully adapted.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, but the tooth fairy payment system might not be completely relatable or understandable to Indian audiences.
+
+Overall Score:
+Average Score: 4.00/5

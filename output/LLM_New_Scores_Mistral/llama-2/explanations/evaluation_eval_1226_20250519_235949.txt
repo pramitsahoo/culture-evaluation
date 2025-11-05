@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Carly is making cupcakes and brownies for her art class. She makes 2 less than three times as many brownies as cupcakes. If Carly's class has five people and each person gets two treats, how many cupcakes did Carly make?
+
+Adapted Text:
+Ramesh is making laddu and jalebi for his art class. He makes 2 less than three times as many jalebi as laddu. If Ramesh's class has five people and each person gets two treats, how many laddu did Ramesh make?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced western baked goods with Indian sweets, which is a significant cultural change. However, the context remains rooted in a western art class, which could be further adapted to be more culturally resonating.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English terms correctly but lacks a natural flow, as the original problem was not originally written in English.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

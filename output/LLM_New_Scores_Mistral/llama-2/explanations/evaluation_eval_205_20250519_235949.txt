@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Janet had 22 green pens and 10 yellow pens. Then she bought 6 bags of blue pens and 2 bags of red pens. There were 9 pens in each bag of blue and 6 pens in each bag of red. How many pens does Janet have now?
+
+Adapted Text:
+Ramesh had 22 parathas and 10 yellow parathas. Then he bought 6 bags of blue parathas and 2 bags of red parathas. There were 9 parathas in each bag of blue and 6 parathas in each bag of red. How many parathas does Ramesh have now?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features an Indian name and the use of Indian food items, creating a connection to Indian culture. However, the main concept remains the same, which is not a common scenario in India.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly, but the language flow could be improved for a more authentic experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A jellyfish tank has numerous jellyfish in it. A fifth of the jellyfish are large, and a third of the large jellyfish change color from green to blue under UV light. The other jellyfish are small and always stay blue. When a UV light turned on, 6 jellyfish changed color. How many jellyfish are in the tank?
+
+Adapted Text:
+A paratha tank has numerous parathas in it. A fifth of the parathas are large, and a third of the large parathas change color from green to blue under UV light. The other parathas are small and always stay blue. When a UV light turned on, 6 parathas changed color. How many parathas are in the tank?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text features cultural relevance through the use of parathas, a popular Indian food, but the original context is not fully adapted to an Indian setting.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but some sentences may lack the natural flow found in everyday speech.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Pam and Fred went to a carnival. Pam rode the roller coaster 2 times while Fred rode it 4 times. After that, each of them decided to ride the luge 2 times. If each ride cost 6 tickets, how many tickets did they use that day?
+
+Adapted Text:
+Ramesh and Ria went to a carnival. Ramesh rode the roller coaster 2 times while Ria rode it 4 times. After that, each of them decided to ride the luge 2 times. If each ride cost ₹83 tickets, how many tickets did they use that day?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text contains nonsensical adaptations, making it culturally inappropriate or nonsensical.
+
+2. Language Fluency
+Score: 2.0/5
+Explanation: The text uses Indian terms incorrectly or inappropriately, resulting in poor language adaptation.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 3.00/5

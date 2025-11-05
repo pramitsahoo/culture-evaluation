@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jack had $100. Sophia gave him 1/5 of her $100. How many dollars does Jack have now?
+
+Adapted Text:
+Ramesh had ₹100. Sophia gave him 1/5 of her ₹100. How many Indian Rupees does Ramesh have now?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.33/5

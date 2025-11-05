@@ -1,0 +1,50 @@
+Consider yourself as an AI expert trained to evaluate the cultural adaptation of a given text.
+
+Original Text:
+Three teenagers are playing soccer on the weekend. Richie, the first teenager, scored 20 more goals than Mark and scored 45 more goals than Anna. If Richie scored 80 goals, how many goals did all three teenagers score?
+
+Adapted Text:
+Three teenagers are playing kabaddi on the weekend. Ramesh, the first teenager, scored 20 more goals than Manish and scored 45 more goals than Priya. If Ramesh scored 80 goals, how many goals did all three teenagers score?
+
+Target Culture: Indian
+
+Rate each criterion on a scale of 0-5 and provide a detailed explanation for your score:
+
+1. Cultural Relevance (0-5):
+- 0: No adaptation or complete transliterations/translations: Text maintains western concepts with no attempt at cultural adaptation
+- 1: Non-sensical adaptations: Includes culturally inappropriate or nonsensical elements (e.g., paratha growing on plants, using rupees as age units)
+- 2: Simple replacement of proper nouns: Only names are changed to Indian names without contextual adaptation
+- 3: Proper nouns changed along with context: Names and some objects are replaced with culturally relevant alternatives
+- 4: Multiple entities changed with deeper connection to Indian culture: Substantial adaptation with culturally relevant scenarios and objects
+- 5: Culturally resonating with no further adaptations possible: Complete and authentic cultural adaptation that feels natural to the target audience
+
+2. Language Fluency (0-5):
+- 0: No Indian language elements: Uses completely western terminology and expressions
+- 1: Very poor language adaptation: Minimal attempt with incorrect use of Indian terms
+- 2: Poor language adaptation: Contains few Indian terms but used incorrectly or inappropriately
+- 3: Moderate language adaptation: Uses some Indian terms correctly but lacks natural flow
+- 4: Good language adaptation: Effectively incorporates Indian English and terminology with natural flow
+- 5: Perfect language adaptation: Seamlessly blends Indian terminology, expressions, and natural language patterns
+
+3. Mathematical Integrity (0-5):
+- 0: Completely incorrect mathematics: Problem is mathematically nonsensical after adaptation
+- 1: Incorrect mathematics: Problems are mathematically unsound or illogical
+- 2: Poor mathematical clarity: Basic math is correct but poorly integrated with cultural context
+- 3: Moderate mathematical structure: Problems are mathematically sound but could be better contextualized
+- 4: Good mathematical adaptation: Well-structured problems with clear cultural context
+- 5: Perfect mathematical integration: Mathematics seamlessly integrated with cultural elements while maintaining complete accuracy
+
+Format your response exactly like this (make sure to use actual numeric scores instead of placeholders):
+
+Here are some examples for your reference but you have to properly score them 0-5 based on above mentioned criterias :
+
+Cultural Relevance: 5
+Explanation: The adapted text is deeply integrated with Indian culture, accurately reflecting significant traditions and practices.
+
+Language Fluency: 5
+Explanation: The text uses natural Indian expressions and terminology, making it easy to read and culturally coherent.
+
+Mathematical Integrity: 5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Do not output any extra text or placeholders such as "[score]".

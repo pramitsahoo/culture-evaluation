@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+James wants to hang crepe-paper streamers from his backyard fence for his birthday party. His backyard fence is a rectangle that measures 20 feet on the long side and 15 feet on the short side. How many feet of crepe paper does James need to buy?
+
+Adapted Text:
+Ramesh wants to hang crepe-paper streamers from his backyard fence for his birthday party. His backyard fence is a rectangle that measures 20 feet on the long side and 15 feet on the short side. How many feet of crepe paper does Ramesh need to buy?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes culturally inappropriate or nonsensical elements.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains minimal attempt with incorrect use of Indian terms.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 1.00/5

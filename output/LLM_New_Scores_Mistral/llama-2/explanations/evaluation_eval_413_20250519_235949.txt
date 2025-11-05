@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Shannon makes her own madeleine cookies and eats 2 a night as a treat.  She wants to make enough cookies to last her for 30 days by storing them in the freezer. Her recipe makes 1 dozen madeleine cookies.  How many dozens of cookies will she need to make so she has enough for 30 days?
+
+Adapted Text:
+Ramesh makes his own parathas and eats 2 a night as a treat. He wants to make enough parathas to last him for 30 days by storing them in the freezer. His recipe makes 1 dozen parathas. How many dozens of parathas will he need to make so he has enough for 30 days?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has substantially adapted the original with culturally relevant scenarios and objects.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: Mathematics seamlessly integrated with cultural elements while maintaining complete accuracy.
+
+Overall Score:
+Average Score: 4.33/5

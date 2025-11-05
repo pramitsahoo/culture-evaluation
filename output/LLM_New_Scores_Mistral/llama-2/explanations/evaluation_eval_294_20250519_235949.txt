@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Three friends: Mike, Jim, and Tony decided to play a game. After 3 rounds Mike has 21 points, Jim 3 points less than Mike, and Tony 2 times more than Mike. In the fourth round, every player gets an extra point if they have over 20 points. How many points do all three players have in total after the extra points had been distributed?
+
+Adapted Text:
+Three friends: Ramesh, Raman, and Tony decided to play a game. After 3 rounds Ramesh has ₹83 points, Raman ₹79 points less than Ramesh, and Tony ₹83 times more than Ramesh. In the fourth round, every player gets an extra ₹83 if they have over ₹83 points. How many points do all three players have in total after the extra points had been distributed?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features Indian names and incorporates Indian currency, but the original game scenario remains unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly, but the overall flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly, but it could be better contextualized within the Indian cultural context.
+
+Overall Score:
+Average Score: 4.00/5

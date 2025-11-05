@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jen is planning to sell her root crops. She has 6 yams which can be sold at $1.5 each, 10 sweet potatoes that cost $2 each, and 4 carrots which cost $1.25 each. If she sells everything, how much will she earn?
+
+Adapted Text:
+Ramesh is planning to sell his root crops. He has 6 yams which can be sold at ₹83 each, 10 sweet potatoes that cost ₹160 each, and 4 carrots which cost ₹56 each. If he sells everything, how much will he earn?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has a moderate level of cultural adaptation, as it replaces the original names with Indian ones and uses Indian currency. However, the scenario itself remains the same and does not involve any Indian cultural practices or context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly, but the language flow could be improved to feel more natural for an Indian audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

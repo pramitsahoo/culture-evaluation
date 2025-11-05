@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John buys twice as many red ties as blue ties.  The red ties cost 50% more than blue ties.  He spent $200 on blue ties that cost $40 each. How much did he spend on ties?
+
+Adapted Text:
+Ramesh buys twice as many parathas as blue ties. The parathas cost 50% more than blue ties. He spent ₹830 on blue ties that cost ₹40 each. How much did he spend on parathas?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces western objects with culturally relevant alternatives, creating a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, with a natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

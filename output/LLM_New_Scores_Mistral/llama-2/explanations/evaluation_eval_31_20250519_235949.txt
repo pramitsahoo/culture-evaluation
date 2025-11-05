@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Darrell and Allen's ages are in the ratio of 7:11. If their total age now is 162, calculate Allen's age 10 years from now.
+
+Adapted Text:
+Ramesh and Raghav's ages are in the ratio of 7:11. If their total age now is ₹1620, calculate Raghav's age 10 years from now.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text successfully changes the original names to Indian names, but the context remains the same, which is not fully culturally relevant.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian terms correctly but the flow is not entirely natural, showing some room for improvement.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

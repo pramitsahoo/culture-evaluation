@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Sara wants to buy herself a new jacket and 2 pairs of shoes. The jacket she wants costs $30 and each pair of shoes cost $20. Sara babysits the neighbor's kids 4 times, earning $5 each time she babysits them. Her parents pay her $4 each time she mows the lawn. If Sara already had $10 saved before she started babysitting, how many times must she mow the lawn before she can afford the jacket and shoes?
+
+Adapted Text:
+Ramesh wants to buy himself a new paratha and 2 pairs of chappals. The paratha he wants costs ₹83 and each pair of chappals cost ₹60. Ramesh babysits the neighbor's kids 4 times, earning ₹5 each time he babysits them. His parents pay him ₹4 each time he mows the lawn. If Ramesh already had ₹10 saved before he started babysitting, how many times must he mow the lawn before he can afford the paratha and chappals?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian cultural elements, but some objects and concepts may be more familiar to urban Indians rather than the general population.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology, but the language flow could be improved to sound more natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

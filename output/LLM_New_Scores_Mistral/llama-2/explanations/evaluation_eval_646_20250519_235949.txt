@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A bag of flour is divided into 8 portions of 2 kilograms each. How much flour (in kilograms) was in three bags in total, before it was divided into portions?
+
+Adapted Text:
+Three bags of atta were divided into 2 kilogram portions. How much atta (in kilograms) were in three bags before it was divided?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses completely western terminology and expressions, with no Indian elements.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.67/5

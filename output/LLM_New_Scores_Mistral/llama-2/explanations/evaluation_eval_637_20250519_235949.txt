@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Julie operates the cash register exactly twice as fast as her less-experienced colleague Jewel. Daily, Jewel processes 50 customers. What is the total weekly production for the two if they work all days of the week?
+
+Adapted Text:
+Ramesh operates the cash register exactly twice as fast as his less-experienced colleague Ramya. Daily, Ramya processes 50 customers. What is the total weekly production for the two if they work all days of the week?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has a deeper connection to Indian culture as names and some objects are replaced with culturally relevant alternatives. However, the scenario remains somewhat generic and could be more contextualized.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, creating a natural flow in the adapted text.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

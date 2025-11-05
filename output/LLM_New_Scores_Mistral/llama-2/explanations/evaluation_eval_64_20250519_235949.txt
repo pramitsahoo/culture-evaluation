@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Aleena subscribed to a streaming service that charges her $140 per month. If the streaming company charged her the initial amount for the first half of the year and then charged her 10% less money on the other half of the year, calculate the total amount she had paid for the streaming service by the end of the year.
+
+Adapted Text:
+Aleena subscribed to a streaming service that charges her ₹10,000 per month. If the streaming company charged her the initial amount for the first half of the year and then charged her 10% less money on the other half of the year, calculate the total amount she had paid for the streaming service by the end of the year.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has substantial cultural adaptation with the change of currency to rupees, which is a significant cultural element in India. However, the scenario and overall context remain similar to the original text.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses some Indian English and terminology correctly, demonstrating a good understanding of the language. However, it lacks the natural flow that a native speaker would exhibit.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

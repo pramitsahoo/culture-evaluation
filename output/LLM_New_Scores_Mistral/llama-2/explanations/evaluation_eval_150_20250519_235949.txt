@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Charlie has three times as many Facebook friends as Dorothy. James has four times as many friends on Facebook as Dorothy. If Charlie has 12 friends on Facebook, how many Facebook friends does James have?
+
+Adapted Text:
+Ramesh has three times as many parathas as Durga. Ramesh has four times as many parathas as Rohan. If Ramesh has 12 parathas, how many parathas does Rohan have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has substantial adaptation with culturally relevant scenarios and objects, but the original concept of social media friends is not inherently Indian, so it is not fully authentic.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with natural flow, but it could be improved with more use of regional dialects or expressions.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

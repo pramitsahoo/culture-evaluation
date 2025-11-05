@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ram uses a lot of pens. He discovered that he can save money by mixing the ink from five empty pens to make one full pen. If he buys 25 pens and then uses them to make new pens when the ink runs low, how many total pens does he get to have?
+
+Adapted Text:
+Ramesh uses a lot of पद्धाmans. He discovered that he can save money by mixing the ink from five empty पद्धाmans to make one full पद्धाman. If he buys 25 पद्धाmans and then uses them to make new पद्धाmans when the ink runs low, how many total पद्धाmans does he get to have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has made substantial attempts to adapt to Indian culture by replacing the pen with a पद्धाम, but it lacks a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses some Indian terminology and expressions, but it could benefit from better integration to improve its natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-structured in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

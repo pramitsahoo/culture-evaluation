@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Michael is replacing the carpet in his bedroom.  The new carpet he's chosen costs $12 per square foot, plus $2 per square foot for padding underneath.  His contractor charges $4 per square foot to remove the old carpet, and $34 per square foot to install the new carpet.  His bedroom measures 18 feet by 12 feet.  How much will it cost Michael to replace the carpet?
+
+Adapted Text:
+Ramesh is replacing the carpet in his bedroom. The new carpet he's chosen costs ₹12 per square foot, plus ₹2 per square foot for padding underneath. His contractor charges ₹4 per square foot to remove the old carpet, and ₹34 per square foot to install the new carpet. His bedroom measures 18 feet by 12 feet. How much will it cost Ramesh to replace the carpet?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian names, but it doesn't go beyond that in terms of cultural context or relevance.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian English and terms but lacks a natural flow, resulting in an awkward reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A class of 50 students has various hobbies. 10 like to bake, 5 like to play basketball, and the rest like to either play video games or play music. How many like to play video games if the number that like to play music is twice the number that prefer playing basketball?
+
+Adapted Text:
+A class of 50 students has various hobbies. 10 like to bake, 5 like to play kabaddi, and the rest like to either play cricket or play music. How many like to play cricket if the number that like to play music is twice the number that prefer playing kabaddi?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces western activities with culturally relevant Indian hobbies, but it doesn't have a deep connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terms effectively, but the language flow isn't completely natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-structured despite the cultural adaptation.
+
+Overall Score:
+Average Score: 4.33/5

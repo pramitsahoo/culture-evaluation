@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+To participate in the local community tree-planting campaign, Mr. Julius planted twenty trees of White Oak and twice as many Lodgepole Pine as White Oak on his first day. On the second day, he planted 10 more White Oak trees and 1/4 more Lodgepole Pine trees than he planted on the first day. Calculate the total number of trees planted by Mr. Julius in the two days.
+
+Adapted Text:
+Ramesh planted ₹830 parathas and ₹830 parathas on the first and second days, respectively. Calculate the total number of parathas he planted in two days.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: While the text is adapted to Indian culture by changing the object, the scenario itself lacks cultural relevance.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms but lacks natural flow, making it feel somewhat awkward to read.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, but could be more contextualized for a better understanding.
+
+Overall Score:
+Average Score: 3.33/5

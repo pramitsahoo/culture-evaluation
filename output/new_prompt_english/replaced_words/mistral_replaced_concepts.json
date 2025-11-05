@@ -1,0 +1,8343 @@
+[
+    {
+        "Janet": "Janaki",
+        "muffins": "parathas",
+        "$": "₹",
+        "eggs": "eggs from a duck",
+        "3": "3",
+        "4": "4",
+        "$2": "₹16"
+    },
+    {
+        "robe": "traditional Indian silk saree",
+        "bolts of blue fiber": "bolts of blue silk",
+        "half that much white fiber": "half as much white cotton"
+    },
+    {
+        "Josh": "Josh",
+        "house": "house in Mumbai",
+        "$80,000": "₹56,93,000",
+        "$50,000": "₹50,00,000"
+    },
+    {
+        "James": "Ram",
+        "miles": "meters"
+    },
+    {
+        "Wendi": "Ravi",
+        "chickens": "desi murghs",
+        "cups": "katori",
+        "$10": "",
+        "muffins": "",
+        "USD": "",
+        "morning": "",
+        "afternoon": "",
+        "flock": "gaddi"
+    },
+    {
+        "Kylar": "Ravi",
+        "store": "local market",
+        "apartment": "house",
+        "glasses": "katori",
+        "$5": "₹500"
+    },
+    {
+        "Charleston": "Charleston",
+        "Seattle": "Mumbai",
+        "Toulouse": "Tulasi"
+    },
+    {
+        "Carla": "Anita",
+        "GB": "GB",
+        "2 GB": "2 GB",
+        "2": "2",
+        "minute": "minute",
+        "Windows": "Windows",
+        "20 minutes": "20 minutes"
+    },
+    {
+        "John": "Ramesh",
+        "mph": "km/h",
+        "$": "₹",
+        "hours": "hours",
+        "home": "home"
+    },
+    {
+        "Eliza": "Ramesh",
+        "$10": "₹830"
+    },
+    {
+        "app": "app",
+        "downloads": "downloads",
+        "first month": "pehla mahina",
+        "second month": "dusra mahine",
+        "third month": "tisra mahine"
+    },
+    {
+        "Toula": "Tulsi",
+        "bakery": "bakery",
+        "pastries": "Indian sweets",
+        "donuts": "puri",
+        "mini cupcakes": "kheer",
+        "mini cheesecakes": "rasmalai",
+        "$68": "₹5,640",
+        "$80": "₹8,000",
+        "$55": "₹3,300"
+    },
+    {
+        "Carlos": "Ram",
+        "lemon tree": "limbu ka van",
+        "$90": "₹6,300",
+        "$1.5": "₹15",
+        "$3": "₹3"
+    },
+    {
+        "Melanie": "Malti",
+        "vacuum cleaners": "vacuums",
+        "green house": "green bungalow",
+        "red house": "red bungalow",
+        "orange house": "orange bungalow"
+    },
+    {
+        "students": "Indian students"
+    },
+    {
+        "merchant": "businessman",
+        "$5,000": "₹4,00,000",
+        "$8,000": "₹6,40,000"
+    },
+    {
+        "San Rafael": "Mumbai",
+        "trains": "trains",
+        "80 miles": "80 kilometers",
+        "150 miles": "150 kilometers"
+    },
+    {
+        "Jill": "Jyoti",
+        "$20": "₹1,700",
+        "$30": "₹2,500"
+    },
+    {
+        "Claire": "Shilpa",
+        "eggs": "khoya",
+        "$0": "₹0"
+    },
+    {
+        "Marissa": "Ritu",
+        "miles": "kilometers",
+        "$": "₹",
+        "12-mile": "12-kilometer",
+        "1 hour": "1 hour",
+        "4 miles": "4 kilometers",
+        "2 miles": "2 kilometers"
+    },
+    {
+        "orange drink": "narazana sherbet",
+        "pineapple drink": "pahalwan sherbet",
+        "$10": "₹750",
+        "liters": "litron",
+        "10": "ek dus saal ki",
+        "15": "15 litron",
+        "spill": "bharne mein ghus jaata hai"
+    },
+    {
+        "Raymond": "Ramesh",
+        "Samantha": "Sita"
+    },
+    {
+        "Billy": "Ram",
+        "Tuesday": "Til-lakshadhi",
+        "DVDs": "DVDs"
+    },
+    {
+        "candle": "diya",
+        "centimeters": "centimeters"
+    },
+    {
+        "Kyle": "Krishna",
+        "$19.50": "₹1,500"
+    },
+    {
+        "Marie": "Mariam",
+        "chicken meal": "chicken biryani",
+        "$12": "₹960",
+        "5": "5",
+        "$3": "₹30",
+        "apples": "aloo parathas",
+        "$1.50": "₹75",
+        "4": "4",
+        "some boxes of pizza": "paneer pizzas",
+        "$8.50": "₹85",
+        "$50": "₹500"
+    },
+    {
+        "Mishka": "Mukta",
+        "shorts": "kurtas",
+        "pants": "trousers",
+        "shoes": "jootis",
+        "$": "₹",
+        "16.50": "₹1,300",
+        "22.50": "₹2,250",
+        "42": "₹4,200"
+    },
+    {
+        "Cynthia": "Kavita",
+        "ice cream": "gulab jamun",
+        "$4.00": "₹320"
+    },
+    {
+        "Henry": "Ram",
+        "miles": "kilometers"
+    },
+    {
+        "Gloria": "Ramesh",
+        "shoe budget": "budget",
+        "boots": "jootis",
+        "dollars": "rupees",
+        "$33": "₹33",
+        "$5": "₹5",
+        "two pairs of high heels": "two pairs of juttis"
+    },
+    {
+        "Darrell": "Ram",
+        "Allen": "Shyam"
+    },
+    {
+        "Gunter": "Ganesh",
+        "jelly beans": "rasmalai balls",
+        "$": "₹"
+    },
+    {
+        "John": "Ramesh",
+        "dogs": "vyaaparis",
+        "$": "₹",
+        "hours": "hours"
+    },
+    {
+        "Gretchen": "Radhika"
+    },
+    {
+        "Siobhan": "Shilpa",
+        "Aaron": "Aarav",
+        "Raymond": "Ravi",
+        "jewels": "kundan-set stones",
+        "$0": "₹0"
+    },
+    {
+        "Mike": "Ravi",
+        "ping pong": "table tennis"
+    },
+    {
+        "Terry": "Terry",
+        "yogurts": "dahi",
+        "$5.00": "₹400"
+    },
+    {
+        "John": "Ramesh",
+        "toys": "toys",
+        "lego sets": "lego sets",
+        "$15": "₹1,500",
+        "$20": "₹2,000",
+        "$": "₹"
+    },
+    {
+        "John": "Ramesh",
+        "miles": "kilometers",
+        "$10": "₹830",
+        "days": "days",
+        "hours": "hours"
+    },
+    {
+        "Dana": "Dhananjay",
+        "miles": "kilometers",
+        "$": "₹",
+        "4": "4",
+        "3": "5",
+        "6": "6"
+    },
+    {
+        "Brandon": "Brandon",
+        "Ben": "Ben",
+        "Suzy": "Suzy",
+        "$1": "₹"
+    },
+    {
+        "Perg": "Perg",
+        "mount Farbo": "mount Kailash",
+        "gold javelin": "gold vajra",
+        "$10": "₹830",
+        "Polly": "Polly",
+        "feet": "feet",
+        "400 feet": "400 feet",
+        "Polly could throw the sapphire gemstone": "When Polly held the blue neelam gemstone"
+    },
+    {
+        "Grandma Jones": "Dadi",
+        "apple pies": "taras",
+        "$": "₹",
+        "fireman's luncheon": "local fire brigade's bhojan"
+    },
+    {
+        "bag of chips": "packet of namkeen"
+    },
+    {
+        "Charlie": "Ram",
+        "pound": "kilogram",
+        "$10.00": "₹1000",
+        "$2.00": "₹50"
+    },
+    {
+        "Meredith": "Mukta"
+    },
+    {
+        "Candice": "Ravi",
+        "post-it notes": "sticky notes",
+        "$0": "₹0",
+        "coffee shop": "coffee shop",
+        "store": "store",
+        "package": "pack",
+        "cups of coffee": "cups of chai"
+    },
+    {
+        "John": "Ramesh",
+        "$200": "₹20,000",
+        "red ties": "saffron-colored neckties (dhavani)",
+        "blue ties": "navy-colored neckties (nauvari)",
+        "$40": "₹400"
+    },
+    {
+        "Tracy": "Tina",
+        "feet": "vadas",
+        "tomato plants": "tomato plants",
+        "inches": "centimeters"
+    },
+    {
+        "Richard": "Ram",
+        "apartment building": "apartment complex named 'Anand Niwas'",
+        "15": "15-storey",
+        "8": "8 flats",
+        "$": "₹",
+        "10": "₹830",
+        "floors": "storeys",
+        "units": "flats"
+    },
+    {
+        "Lloyd": "Ram",
+        "eggs": "eggs",
+        "$2": "₹12",
+        "$10": "₹830"
+    },
+    {
+        "Tom": "Ramesh",
+        "miles": "miles",
+        "1 PM": "1 PM",
+        "4 PM": "4 PM"
+    },
+    {
+        "Uriah": "Ramesh",
+        "pounds": "kg",
+        "15": "6.8",
+        "comic books": "comics",
+        "1/4": "0.25",
+        "toys": "toys"
+    },
+    {
+        "trucks": "tanga",
+        "cars": "Maruti",
+        "$60": "₹4,500",
+        "$40": "₹2,400"
+    },
+    {
+        "Doubtfire": "Kapoor"
+    },
+    {
+        "Jean": "Jyoti",
+        "lollipops": "laddoos",
+        "$0": "₹0"
+    },
+    {
+        "Peter": "Ram",
+        "$7": "₹560"
+    },
+    {
+        "pounds": "kilograms",
+        "delivery truck": "delivery rickshaw",
+        "boxes": "crates",
+        "$15": "6.8 kg",
+        "3755 pounds": "1680 kg"
+    },
+    {
+        "Stephen": "Stephen",
+        "groceries": "groceries",
+        "$40.00": "₹40",
+        "$3.00": "₹240",
+        "$4.00": "₹40"
+    },
+    {
+        "raspberry bush": "jamun bush",
+        "clusters": "bunches",
+        "fruit": "berries"
+    },
+    {
+        "oranges": "kinnu"
+    },
+    {
+        "Janet": "Janaki",
+        "brooch": "nakshi kantha",
+        "$500": "₹36,000",
+        "$800": "₹80,000"
+    },
+    {
+        "Marcy": "Meera",
+        "$50,000": "₹45,00,000"
+    },
+    {
+        "Aleena": "Aarav",
+        "$140": "₹10,600"
+    },
+    {
+        "Sophia": "Shilpa",
+        "car": "car",
+        "miles": "kilometers",
+        "gallons": "petrol",
+        "100": "160.93"
+    },
+    {
+        "Jim": "Ram",
+        "hours": "hour",
+        "TV": "TV serial",
+        "bed": "retire to bed",
+        "reads": "reads",
+        "half": "half",
+        "3 times a week": "3 times a week (saapno ko saath)",
+        "week": "weeks",
+        "4 weeks": "4 weeks (chaar saalon mein)"
+    },
+    {
+        "schools": "schools",
+        "basketball": "kabaddi",
+        "teams": "teams",
+        "players": "players",
+        "coach": "coach"
+    },
+    {
+        "gems": "Indian jewels",
+        "diamonds": "kohinoor",
+        "rubies": "ratnaprabha",
+        "emeralds": "heera"
+    },
+    {
+        "Dr. Wertz": "Dr. Wadhwa"
+    },
+    {
+        "Bailey": "Bina",
+        "$5": "₹450",
+        "$100": "₹10,000"
+    },
+    {
+        "Judy": "Jyoti",
+        "dance classes": "dance classes",
+        "$15.00": "₹1,500"
+    },
+    {
+        "Kelian": "Ramesh",
+        "instructions": "steps"
+    },
+    {
+        "Tommy": "Ram",
+        "brownies": "khoya-doodh ke kheer wale pieces",
+        "cheesecakes": "paneer tarts",
+        "$3": "₹120",
+        "$4": "₹160"
+    },
+    {
+        "Shiela": "Shilpa",
+        "cell phones": "mobile phones",
+        "$150": "₹11,250"
+    },
+    {
+        "Artie": "Ramesh",
+        "Farmers Market": "local market",
+        "marigolds": "gulab malas",
+        "petunias": "pethani",
+        "begonias": "begonia",
+        "$2.74": "₹274",
+        "$1.87": "₹187",
+        "$2.12": "₹212"
+    },
+    {
+        "Luke": "Ramesh",
+        "beach": "Dandi beach",
+        "square footage": "area",
+        "$": "₹",
+        "16": "16 square meters"
+    },
+    {
+        "Cecilia": "Shilpa",
+        "cup": "cup",
+        "dog food": "dog food",
+        "day": "day",
+        "180": "180",
+        "year": "year",
+        "one": "one",
+        "bag": "bag"
+    },
+    {
+        "Raymond": "Ravi",
+        "Sarah": "Sarah",
+        "David": "Rajat",
+        "$": "₹",
+        "pounds": "kg"
+    },
+    {
+        "Vincent": "Ravi",
+        "flowers": "roses",
+        "$2.50": "₹200",
+        "$1": "₹100"
+    },
+    {
+        "John": "Ramesh",
+        "$100": "₹7,000"
+    },
+    {
+        "girls": "Dua and Meera",
+        "water": "jal",
+        "1/6": "1/6",
+        "24 liters": "24 liters",
+        "boy": "Rahul",
+        "6 liters": "6 liters"
+    },
+    {
+        "Charlie": "Ravi",
+        "mall": "a mall",
+        "stores in the mall": "a store in a mall",
+        "birthday": "Diwali",
+        "sister": "his sister",
+        "greeting card": "a Ganesh Chaturthi card"
+    },
+    {
+        "pounds": "kg",
+        "Grace": "Grace",
+        "Alex": "Alex"
+    },
+    {
+        "Dan": "Ram",
+        "rose bushes": "gulmohar saplings",
+        "roses": "flowers"
+    },
+    {
+        "football": "cricket",
+        "games": "matches",
+        "IPL": "IPL"
+    },
+    {
+        "Gene": "Ganesh",
+        "quilt": "quilt",
+        "souvenir t-shirts": "memento kurtas",
+        "$0": "₹0",
+        "vacation": "holiday",
+        "vacations": "holidays"
+    },
+    {
+        "Greg": "Ramesh"
+    },
+    {
+        "employee": "employee",
+        "$600": "₹48,000"
+    },
+    {
+        "Harold's": "Harald's"
+    },
+    {
+        "Christina": "Shilpa",
+        "gift bags": "rupay bags",
+        "$2": "₹2"
+    },
+    {
+        "Ted": "Ramesh",
+        "potato salad": "aloo-salad",
+        "dinosaurs": "dinos",
+        "dinosaur picnic": "dino picnic at the Bandra Bandstand",
+        "$": "₹",
+        "lbs": "pounds"
+    },
+    {
+        "Jan": "Ram",
+        "Marcia": "Meera",
+        "Cindy": "Seema"
+    },
+    {
+        "Emily": "Mira",
+        "Amy": "Aarav",
+        "Jackson": "Rahul",
+        "Corey": "Vijay",
+        "James": "Arjun"
+    },
+    {
+        "Lee": "Ram",
+        "Gerald": "Shyam",
+        "$0": "₹0"
+    },
+    {
+        "neighborhood": "locality",
+        "$": "₹",
+        "rabbits": "rabbits",
+        "pets": "pets",
+        "dogs": "dogs",
+        "cats": "cats"
+    },
+    {
+        "Harry": "Ram",
+        "James": "Shyam"
+    },
+    {
+        "Freda": "Kavita",
+        "canned tomatoes": "tinned tomatoes",
+        "canned tomatoes (16 ounces)": "cans (453.59 grams)",
+        "cans": "tins",
+        "tomatoes": "tomatoes",
+        "ounces": "grams",
+        "3": "3",
+        "32 ounces": "897.18 grams"
+    },
+    {
+        "motorway": "National Highway",
+        "$15": "₹15",
+        "cars": "vehicles",
+        "traffic jam": "traffic snarl"
+    },
+    {
+        "Mary": "Mira",
+        "potted plants": "potted plants",
+        "country home": "Indian home",
+        "window ledges": "window sills"
+    },
+    {
+        "Jerome": "Ram",
+        "doorbell": "temple bell",
+        "$": "₹",
+        "1/4": "5",
+        "4 friends": "4 guests",
+        "20": "20",
+        "10": "10",
+        "60": "60"
+    },
+    {
+        "Solo": "Surya",
+        "Science textbook": "Marathi textbook (Science)",
+        "Social Studies textbook": "Marathi textbook (Social Studies)",
+        "History textbook": "Marathi textbook (History)",
+        "Geography textbook": "Marathi textbook (Geography)",
+        "Monday": "'Ganesh Chaturthi'"
+    },
+    {
+        "John": "Ramesh",
+        "glass of water": "a glass of water",
+        "$0": "₹0",
+        "soda": "soda",
+        "breakfast": "navratri",
+        "lunch": "roopavali",
+        "dinner": "raatri"
+    },
+    {
+        "ocean": "sea",
+        "miles": "kilometers"
+    },
+    {
+        "quarter": "one-fourth",
+        "third": "one-third"
+    },
+    {
+        "Cody": "Chetan",
+        "cookies": "namkeen sev",
+        "Amir": "Amir",
+        "5": "5"
+    },
+    {
+        "John": "Ramesh",
+        "boxes": "khapras",
+        "inches": "centimeters",
+        "1 inch": "2.54 centimeters"
+    },
+    {
+        "Frankie": "Ramesh",
+        "TV": "serials",
+        "homework": "studies",
+        "1-hour": "1-hour",
+        "30-minute": "30-minute serial",
+        "Monday": "Monday",
+        "Tuesday": "Tuesday",
+        "Wednesday": "Wednesday",
+        "Thursday": "Thursday",
+        "Friday": "Friday",
+        "$": "₹",
+        "hours": "hour"
+    },
+    {
+        "Henry": "Ravi",
+        "cookies": "sweets",
+        "$": "₹",
+        "local baking competition": "local mithai competition",
+        "15": "15",
+        "110": "110"
+    },
+    {
+        "gallon": "litre",
+        "$": "₹",
+        "3.00": "12.50",
+        "$.20": "₹2"
+    },
+    {
+        "Marcell": "Ramesh",
+        "Beatrice": "Meera",
+        "fruit roll-ups": "jalebis",
+        "$0": "₹0"
+    },
+    {
+        "Julia": "Radha",
+        "lake": "Ganga",
+        "liters": "liters",
+        "feet": "feet",
+        "seconds": "seconds",
+        "$0": "₹0"
+    },
+    {
+        "classroom": "Indian school classroom",
+        "whiteboard": "chalkboard",
+        "lessons": "shiksha",
+        "$": "₹",
+        "times": "baar"
+    },
+    {
+        "Ryan": "Ramesh",
+        "flowers": "roses",
+        "garden": "garden",
+        "15": "15",
+        "did not grow": "did not bloom"
+    },
+    {
+        "Jamal": "Ramesh",
+        "Brittany": "Sita",
+        "ducks at the zoo": "ducks at the zoo",
+        "$": "₹",
+        "muffins": "photos",
+        "6": "6",
+        "50": "50",
+        "1800": "1800"
+    },
+    {
+        "Sasha": "Shashi",
+        "lumber": "teakwood planks",
+        "$10": "₹830",
+        "$16": "₹1600"
+    },
+    {
+        "Katy": "Kavya",
+        "coffee": "chai",
+        "teaspoons of sugar": "teaspoons of shakar",
+        "cups of water": "glasses of pani",
+        "$10": "₹830"
+    },
+    {
+        "John": "Ramesh",
+        "shoes": "jootis",
+        "$60": "₹3,600"
+    },
+    {
+        "SeaSide": "Mumbai Port Trust",
+        "containers": "containers of imported cars",
+        "vehicles": "cars"
+    },
+    {
+        "Adrien": "Ramesh",
+        "Lylah": "Laxmi",
+        "$40000": "₹28,00,000"
+    },
+    {
+        "Miguel": "Ravi",
+        "pads of paper": "pads of sketching paper"
+    },
+    {
+        "Morisette": "Ritu",
+        "Kael": "Ajay",
+        "apples": "seb",
+        "oranges": "narang"
+    },
+    {
+        "Sadie": "Sita"
+    },
+    {
+        "Rosie": "Rani",
+        "miles": "kilometers",
+        "3 hours": "3 hours"
+    },
+    {
+        "Jennie": "Jyoti",
+        "letters": "letters",
+        "office": "office",
+        "stamps": "stamps",
+        "$0": "₹0",
+        "60": "60",
+        "1/3": "1/3",
+        "30": "30"
+    },
+    {
+        "Julia": "Jyoti",
+        "stew": "khichdi",
+        "plastic spoons": "steel spoons",
+        "$": "₹"
+    },
+    {
+        "Dylan": "Ramesh",
+        "chicken sausages": "ghoongroo ke kebab",
+        "fish sausages": "maach ke kebab",
+        "$": "₹",
+        "38": "38",
+        "6": "6"
+    },
+    {
+        "Lily": "Lily",
+        "Amy": "Amy",
+        "school": "school",
+        "friends": "dost",
+        "50": "50",
+        "20": "20"
+    },
+    {
+        "Well's": "Mrs. Well's",
+        "watermelons": "tarbooz",
+        "peppers": "mirch",
+        "oranges": "narangas",
+        "$": "₹",
+        "15$": "₹15"
+    },
+    {
+        "hospital": "private hospital in Mumbai",
+        "people": "patients",
+        "minutes": "minutes",
+        "$150": "₹1,500",
+        "$200": "₹2,000"
+    },
+    {
+        "Nissa": "Ramesh",
+        "seasonal workers": "rudraksh-granters",
+        "elves": "gnomes",
+        "department store's Santa village": "mall's Diwali village",
+        "shins": "chakkars"
+    },
+    {
+        "Joseph": "Joseph",
+        "May": "Māy",
+        "June": "Jūn",
+        "$500": "₹36,000",
+        "$60": "₹3,600"
+    },
+    {
+        "Pam": "Ramesh",
+        "Fred": "Sita",
+        "carnival": "Mela",
+        "roller coaster": "Jhoola",
+        "luge": "Chak-Chak",
+        "$6": "6 tickets"
+    },
+    {
+        "Walt": "Ram",
+        "miles": "miles",
+        "$0": "₹0",
+        "Monday": "Monday",
+        "Tuesday": "Tuesday",
+        "Wednesday": "Thursday"
+    },
+    {
+        "Tom": "Ram",
+        "$15": "₹1,200"
+    },
+    {
+        "Brian": "Ramesh",
+        "Bobby": "Rajat",
+        "video games": "video games"
+    },
+    {
+        "unicorns": "rakshasas",
+        "Scottish": "Himalayan"
+    },
+    {
+        "Rory": "Rohit",
+        "subs": "sub sandwiches",
+        "$7.50": "₹187.50",
+        "bags of chips": "packets of chips",
+        "$1.50": "₹15.00",
+        "cookies": "cookies",
+        "$1.00": "₹10.00",
+        "$5.00": "₹50.00"
+    },
+    {
+        "Mark": "Ram",
+        "test": "test",
+        "questions": "wickets",
+        "$": "₹",
+        "hours": "hours"
+    },
+    {
+        "candy machine": "vending machine at a local Indian festival",
+        "pink gumballs": "pink gulab jamuns",
+        "blue gumballs": "blue jalebis",
+        "$0": "₹0"
+    },
+    {
+        "cars for rent": "rental cars available in India",
+        "$": "₹",
+        "available": "available in India"
+    },
+    {
+        "bees": "bees",
+        "hive": "beehive",
+        "baby bees": "worker pupae",
+        "queens": "queen bees"
+    },
+    {
+        "Jordan": "Ravi",
+        "$10": "₹500"
+    },
+    {
+        "John": "Ramesh",
+        "milk": "doodh",
+        "eggs": "andaaz",
+        "dollars": "₹",
+        "light bulbs": "jal-diya",
+        "cups": "kharak",
+        "roach traps": "ghoda-mari"
+    },
+    {
+        "Kim": "Laxman",
+        "muffins": "",
+        "$2": "₹16",
+        "$5": "₹50",
+        "$92": "₹9200"
+    },
+    {
+        "John": "Ramesh",
+        "hectares": "bighas",
+        "pineapples": "ananas",
+        "$10": "₹830",
+        "3 months": "3 months"
+    },
+    {
+        "Johnny": "Ram",
+        "muffins": "Lego blocks",
+        "$10": "Not applicable"
+    },
+    {
+        "Debra": "Diksha"
+    },
+    {
+        "Brittany": "Shilpa",
+        "museum": "museum",
+        "$12": "₹120",
+        "$10": "₹100",
+        "$8": "₹8"
+    },
+    {
+        "Charlie": "Ravi",
+        "Dorothy": "Meera",
+        "Facebook": "Facebook",
+        "$": ""
+    },
+    {
+        "Steve": "Ram",
+        "Tim": "Shyam",
+        "school": "school",
+        "miles": "kilometers",
+        "feet": "meters",
+        "minute": "second",
+        "bike": "bicycle",
+        "skateboard": "skateboard"
+    },
+    {
+        "Shawnda": "Shweta",
+        "cents": "paisa",
+        "dollars": "rupees",
+        "bicycles": "cycles",
+        "tricycles": "tricycles",
+        "unicycle": "unicycle",
+        "25 cents": "2.50 paisa"
+    },
+    {
+        "Carl": "Ramesh",
+        "cookies": "namkeens",
+        "packs": "packets",
+        "$0.10": "₹10",
+        "$10": "₹1000"
+    },
+    {
+        "Dave": "Ramesh",
+        "french fries": "aloo tikki",
+        "$0": "₹0"
+    },
+    {
+        "Kimo": "Rahul"
+    },
+    {
+        "Bill": "Ramesh",
+        "rolls": "theplas",
+        "chocolate croissants": "chocolate khari bhajji",
+        "baguettes": "loaves of naan",
+        "$": "₹",
+        "inches": "inches",
+        "feet": "feet"
+    },
+    {
+        "apes": "simians",
+        "zoo": "zoo",
+        "bananas": "kela",
+        "local farm": "local farm",
+        "2 months": "2 months",
+        "$0": "₹0"
+    },
+    {
+        "Blake": "Ramesh",
+        "Kelly": "Priya",
+        "football field": "cricket ground",
+        "yards": "meters",
+        "100 yards": "100 meters",
+        "40-yard line": "40-meter mark",
+        "$0": "₹0"
+    },
+    {
+        "Raphael": "Ravi",
+        "school supplies": "stationery",
+        "muffins": "",
+        "$1.5": "₹15",
+        "$4": "₹400",
+        "$20": "₹200"
+    },
+    {
+        "tadpoles": "kumhars",
+        "pond": "pond near the Taj Mahal",
+        "lily pad": "lotus leaf",
+        "rock": "shilam"
+    },
+    {
+        "Monday": "Ravivar",
+        "Tuesday": "Tiruvarsaw",
+        "Wednesday": "Mangalvar",
+        "feet": "feet",
+        "tank’s water depth": "tank ke paani depth",
+        "$": "₹",
+        "17": "17",
+        "7": "7"
+    },
+    {
+        "Anakin": "Ramesh",
+        "Locsin": "Rahul",
+        "beach": "beach in Goa",
+        "starfish": "starfish",
+        "sea horses": "seahorses",
+        "clownfish": "clownfish"
+    },
+    {
+        "marbles": "rudraksh jada",
+        "$20": "₹1400"
+    },
+    {
+        "toys": "khel-sabke",
+        "cars": "lal-maraar cars",
+        "action figures": "khel-toys",
+        "doll": "rani-doll",
+        "$4": "₹400",
+        "$5": "₹50"
+    },
+    {
+        "Jackie": "Jyoti",
+        "$35": "₹1,050",
+        "$90": "₹9,000"
+    },
+    {
+        "Elvira": "Ravi",
+        "€1500": "₹1,50,000",
+        "€1090": "₹1,09,000",
+        "€157": "₹15,700",
+        "€74": "₹7,400",
+        "€102": "₹10,200"
+    },
+    {
+        "Sandra": "Sita",
+        "eggs": "khoya",
+        "Spanish flan": "Rasmalai"
+    },
+    {
+        "Seth": "Ram",
+        "Brooke": "Meera"
+    },
+    {
+        "Jimmy": "Ramu",
+        "Ethel": "Laxmi",
+        "$": "₹",
+        "8": "₹8",
+        "$2": "₹2"
+    },
+    {
+        "Pancho": "Partha",
+        "miles": "kilometers",
+        "20": "32",
+        "10": "16"
+    },
+    {
+        "marching band": "dhol-tasha group",
+        "uniforms": "costumes",
+        "muffins": "topi",
+        "$25": "₹2,500"
+    },
+    {
+        "Jake": "Ravi",
+        "Museum of Entomology": "National Insect Zoology Museum",
+        "spiders": "tarantulas",
+        "insects": "various insects",
+        "invertebrates": "arthropods",
+        "$0": "₹0"
+    },
+    {
+        "Caboose": "Tirumalagiri Express",
+        "Sally Two": "Sally Two",
+        "Granny Red": "Kaveri Red",
+        "Sally Four": "Sally Four",
+        "Sally Thirtytwo": "Sally Thirtytwo",
+        "$": ""
+    },
+    {
+        "Jessica": "Shilpa",
+        "$300": "₹23,400",
+        "$200": "₹16,000",
+        "$500": "₹3,12,500"
+    },
+    {
+        "Billy": "Ravi",
+        "potatoes": "aloo",
+        "potato salad": "aloo salan",
+        "big family reunion barbecue": "grand family get-together"
+    },
+    {
+        "Asians": "Indians",
+        "Japanese": "Bengaluru",
+        "Chinese": "Mumbai"
+    },
+    {
+        "Zaid": "Rahul",
+        "$": "₹",
+        "200$": "₹14,667",
+        "700$": "₹51,667",
+        "6000$": "₹6,00,000"
+    },
+    {
+        "Rani": "Rani",
+        "Monic": "Monica",
+        "Bo": "Bharat"
+    },
+    {
+        "Lloyd": "Ramesh",
+        "$10": "₹833.33"
+    },
+    {
+        "Sarai's school": "Shiksha Mandir's class",
+        "candidates": "Dua and Ravi",
+        "class representative": "class representative position"
+    },
+    {
+        "Sandra": "Mala",
+        "the florist around the corner": "local florist",
+        "Fred": "Rajesh",
+        "red roses": "red roses (gulab jaman)",
+        "white carnations": "white carnations (gulab jaman)",
+        "200 pink calla lilies": "200 pink lotus flowers (kamal)"
+    },
+    {
+        "Jean": "Ravi",
+        "Mark": "Mark",
+        "years": "saal"
+    },
+    {
+        "track": "athletic track",
+        "4 by 400 meter": "4 km",
+        "standard track": "Indian athletic track",
+        "$": "₹",
+        "55 seconds": "55 seconds",
+        "60 seconds": "60 seconds"
+    },
+    {
+        "Jerry": "Anand",
+        "six-sided die": "chauka",
+        "$": "₹"
+    },
+    {
+        "Jenna": "Shilpa",
+        "apples": "seb apples",
+        "mom": "maa",
+        "20": "20"
+    },
+    {
+        "Russell": "Ramesh",
+        "straw": "dhuna",
+        "pet store": "pet store",
+        "cages": "cages",
+        "rodents": "small rodents",
+        "rats": "rats",
+        "hamsters": "hamsters",
+        "rabbits": "shakahari"
+    },
+    {
+        "Benedict": "Benedict",
+        "$100": "₹7,500"
+    },
+    {
+        "farmer": "farmer",
+        "wheat": "khandsaak",
+        "$20": "₹1,500",
+        "$2": "₹20",
+        "$400": "₹40,000",
+        "$30": "₹3,000"
+    },
+    {
+        "John": "A friend",
+        "Peter": "Another friend",
+        "Mary": "The third friend",
+        "fair": "Mysore Dussehra",
+        "$20.25": "₹1,625",
+        "$4.50": "₹45",
+        "tickets": "tickets to the fair",
+        "muffins": "chaat",
+        "$33": "₹3,300"
+    },
+    {
+        "John": "Ramesh",
+        "peaches": "aloo-pyaaz",
+        "$0": "₹0"
+    },
+    {
+        "pounds": "kg"
+    },
+    {
+        "Tom": "Ram",
+        "trees": "neem trees",
+        "$0": "₹0"
+    },
+    {
+        "Sue": "Shilpa",
+        "neighborhood": "locality",
+        "Friday": "Friday morning",
+        "Saturday": "Saturday morning",
+        "Sunday": "Sunday morning",
+        "front yard": "front courtyard",
+        "pink plastic flamingos": "pink plastic flamingos",
+        "18": "18"
+    },
+    {
+        "crayons": "color pencils",
+        "$20": "₹1,400",
+        "$2": "₹28"
+    },
+    {
+        "pencil": "pencil",
+        "eraser": "rubber",
+        "$1.20": "₹12",
+        "$0.30": "₹3"
+    },
+    {
+        "pounds": "kg",
+        "city": "Mumbai",
+        "restaurants": "hotels",
+        "carrots": "gajar"
+    },
+    {
+        "Soda": "Mumbai"
+    },
+    {
+        "Elaine": "Laxmi",
+        "Pokemon cards": "Pokémon कार्ड",
+        "$": "₹"
+    },
+    {
+        "Mark": "Ramesh",
+        "sentences": "shlokas",
+        "$": "₹",
+        "cents": "cents",
+        "1000": "1000",
+        "5": "5"
+    },
+    {
+        "Baldur": "Ramesh",
+        "well": "local 'baoli'",
+        "pails": "pails",
+        "5 pails": "5 pails",
+        "6 pails": "6 pails",
+        "liters": "liters",
+        "$0": "₹0"
+    },
+    {
+        "John": "Ramesh",
+        "$5000": "₹3,67,500"
+    },
+    {
+        "Josie": "Shanti",
+        "acres": "bigha",
+        "tons": "tons",
+        "acre": "bigha",
+        "year": "annually"
+    },
+    {
+        "Carl": "Ramesh",
+        "cheese": "paneer",
+        "sandwich": "paratha",
+        "egg omelets": "omelets",
+        "macaroni and cheese": "macaroni paneer",
+        "$": "₹"
+    },
+    {
+        "Janet": "Janaki",
+        "green pens": "green pens",
+        "yellow pens": "yellow pens",
+        "bags of blue pens": "bags of blue pens",
+        "bags of red pens": "bags of red pens",
+        "$": "₹"
+    },
+    {
+        "Brinley": "Ravi",
+        "Mr. Bert": "Mr. Kumar",
+        "semester": "semester",
+        "school": "school in Mumbai",
+        "$": "₹",
+        "89": "₹7533",
+        "71": "₹5691",
+        "92": "₹7266",
+        "100": "₹10000",
+        "86": "₹6934",
+        "6": "6"
+    },
+    {
+        "Micheal": "Ram",
+        "bike": "bicycle",
+        "kilometers": "kilometers"
+    },
+    {
+        "Joe": "Ramesh",
+        "Halloween": "Diwali",
+        "chocolate bars": "laddoos",
+        "candied apples": "gulab jamuns",
+        "$": ""
+    },
+    {
+        "Rose": "Ramesh",
+        "cakes": "cakes",
+        "Monday": "Mangalwar",
+        "Tuesday": "Budhwar",
+        "Wednesday": "Brihaspativar"
+    },
+    {
+        "Twenty dozen cups": "24 kharais (traditional Indian cups)",
+        "$1200": "₹1,20,000",
+        "half a dozen plates": "3 rupiya (traditional Indian plates)",
+        "$6000": "₹6,00,000"
+    },
+    {
+        "Sara": "Shreya",
+        "jacket": "jacket",
+        "2 pairs of shoes": "2 pairs of jootis",
+        "$30": "₹2,300",
+        "$20": "₹1,500",
+        "$5": "₹5",
+        "$4": "₹4",
+        "$10": "₹10"
+    },
+    {
+        "Jerry": "Ram",
+        "chickens": "murghs",
+        "eggs": "andaaz",
+        "$10": "",
+        "3": "3",
+        "5": "5",
+        "42": "42"
+    },
+    {
+        "Gary": "Gautam",
+        "local park": "local park (rectangular garden)",
+        "miles": "kilometers",
+        "1.5 miles": "2.4 kilometers",
+        "6 miles": "9.6 kilometers",
+        "3 miles/hour": "3 kilometers/hour"
+    },
+    {
+        "Sloane": "Priya",
+        "dollar store": "local kirana store",
+        "$100": "₹7,560",
+        "50": "₹7,560",
+        "500": "₹50,000"
+    },
+    {
+        "pools": "swimming pools",
+        "gallons": "litres",
+        "4": "4",
+        "minutes": "minutes"
+    },
+    {
+        "Lori": "Laxmi",
+        "$320.00": "₹320",
+        "$32.00": "₹32",
+        "$8.00": "₹8"
+    },
+    {
+        "Janeth": "Ramesh",
+        "$2000": "₹1,40,000",
+        "$165": "₹13,950"
+    },
+    {
+        "roses": "गुलाब",
+        "dahlias": "marigolds (गenda phool)"
+    },
+    {
+        "Adrian": "Ramesh",
+        "Harriet": "Harita",
+        "Zack": "Zakir",
+        "$0": "₹0"
+    },
+    {
+        "students": "chhote shikshakon",
+        "board game": "khel",
+        "Naomi": "Naomi",
+        "Yuri": "Yuri",
+        "Brianna": "Brianna",
+        "Jojo": "Jojo",
+        "points": "point",
+        "251": "251",
+        "68": "68",
+        "10": "10",
+        "half": "aadha"
+    },
+    {
+        "Carmen": "Kavita",
+        "crossword puzzle": "crossword",
+        "sudoku puzzle": "Sudoku",
+        "$0": "₹0"
+    },
+    {
+        "Celine": "Celine",
+        "water tank": "water tank in Mumbai",
+        "liters": "liters",
+        "small garden": "bonsai garden",
+        "Ganesh Chaturthi": "Ganesh Chaturthi"
+    },
+    {
+        "Andy": "Ram",
+        "geraniums": "roses",
+        "petunias": "marigolds"
+    },
+    {
+        "$15000": "₹15,00,000"
+    },
+    {
+        "Carlos": "Ramesh",
+        "Benji": "Rajesh",
+        "beach": "Juhu Beach",
+        "$30": "₹2,160",
+        "$18": "₹1,350"
+    },
+    {
+        "Andrew": "Ramesh",
+        "New Jersey": "Mumbai",
+        "Rochester": "Pune",
+        "bus": "bus",
+        "car": "car"
+    },
+    {
+        "James": "Ram",
+        "Pokemon cards": "Pokemon cards",
+        "Pokemon": "Pokemon",
+        "fire type": "agni-prakriti",
+        "grass type": "prakriti",
+        "water type": "jal-prakriti",
+        "$": "₹"
+    },
+    {
+        "Chad": "Ramesh",
+        "burrito": "roti",
+        "$6.50": "₹50",
+        "$2.00": "₹20",
+        "$1.00": "₹10",
+        "avocado": "avocado",
+        "$0.25": "₹0.50",
+        "$3.00": "₹30",
+        "$5.00": "₹500"
+    },
+    {
+        "watermelon": "tareli",
+        "$0": "₹0",
+        "two months": "two months",
+        "two weeks": "two weeks",
+        "Ashlyn": "Ashlyn"
+    },
+    {
+        "Mark": "Ramesh",
+        "$20,000": "₹20,00,000",
+        "$1000": "₹10,000"
+    },
+    {
+        "Kylie": "Shilpa",
+        "Robert": "Rahul",
+        "beach": "seashore",
+        "$0": "₹0",
+        "Monday": "a Monday",
+        "Tuesday": "the following day"
+    },
+    {
+        "Dax": "Ram",
+        "farm": "farm in Uttar Pradesh",
+        "apples": "apples",
+        "ants": "ants",
+        "$0": "₹0"
+    },
+    {
+        "penguins": "Bheem, the elephant",
+        "snow": "lush jungles of Kerala",
+        "$10": "34 diyas"
+    },
+    {
+        "Steve": "Ram",
+        "cherry tomatoes": "cherry tamatar",
+        "twice": "double",
+        "girlfriend": "girlfriend",
+        "day": "day",
+        "week": "week",
+        "$0": "₹0"
+    },
+    {
+        "John": "Ramesh",
+        "pizzas": "paneer tikka pizzas",
+        "$0": "₹0",
+        "friends": "friends",
+        "slices": "slices",
+        "8": "8",
+        "4": "4"
+    },
+    {
+        "Ram": "Ramesh",
+        "pens": "pen-jotters",
+        "$": "₹"
+    },
+    {
+        "John": "Ramesh",
+        "$20": "₹2,000",
+        "$10": "₹1,000"
+    },
+    {
+        "Mary": "Mira",
+        "Joan": "Jyoti",
+        "Jessa": "Jess"
+    },
+    {
+        "school hall": "school auditorium",
+        "$10": "₹830",
+        "students": "students"
+    },
+    {
+        "James": "Ram",
+        "Robert": "Shyam",
+        "candies": "mithai",
+        "John": "Rahul"
+    },
+    {
+        "Dolly": "Dolly",
+        "Pandora": "Meera",
+        "books": "textbooks"
+    },
+    {
+        "Mike": "Ravi",
+        "pen pal": "correspondent",
+        "5 people": "5 correspondents",
+        "2": "2",
+        "letters": "letters",
+        "pages": "pages",
+        "week": "week",
+        "he": "he",
+        "6 minutes": "6 minutes",
+        "hours": "hours"
+    },
+    {
+        "Jason": "Ram",
+        "$": "₹",
+        "minutes": "minutes",
+        "month": "month",
+        "days": "days"
+    },
+    {
+        "Griffin": "Ramesh",
+        "french fries": "aloo tikki",
+        "$10": "₹830",
+        "Kyle": "Rahul",
+        "Billy": "Raju",
+        "Ginger": "Seema",
+        "Colby": "Ajay"
+    },
+    {
+        "snails": "neelgai",
+        "fish": "mrig",
+        "$0": "₹0"
+    },
+    {
+        "Jeans": "Rani",
+        "$250": "₹19,500"
+    },
+    {
+        "Isabelle": "Ritu",
+        "party supplies": "diwali decorations",
+        "$12": "₹1,200",
+        "$43": "₹4,300",
+        "$15": "₹1,500",
+        "$4": "₹400",
+        "$22": "₹2,200"
+    },
+    {
+        "chef": "vendor",
+        "onions": "pyaz",
+        "pounds": "kg",
+        "$1.50": "₹110"
+    },
+    {
+        "Sue": "Rita",
+        "cookies": "khakras",
+        "$0": "₹0"
+    },
+    {
+        "school": "school",
+        "class": "class",
+        "students": "students",
+        "boys": "boys",
+        "girls": "girls"
+    },
+    {
+        "Travis": "Ravi",
+        "tablet": "tablet"
+    },
+    {
+        "Rick": "Ravi hunter-ji",
+        "wolves": "bheriyaon",
+        "cougars": "ghoda",
+        "$10": "₹830",
+        "hunting": "shikar"
+    },
+    {
+        "3rd floor": "third floor of a Mumbai high-rise"
+    },
+    {
+        "Ten": "Das Rai ki dhaba mein ek-do",
+        "cows": "gaay",
+        "stalls": "stalls",
+        "Mr. Sylas": "Mr. Sylas",
+        "$": "₹"
+    },
+    {
+        "Brady": "Ravi",
+        "pennies": "paise",
+        "nickels": "nikals",
+        "dimes": "dims",
+        "dollar bills": "dollar bills",
+        "$": "₹"
+    },
+    {
+        "redwood": "teak tree (Dalchini)",
+        "$10": "₹2,90,000"
+    },
+    {
+        "Nancy": "Nandini",
+        "$0.50": "₹4",
+        "cents": "",
+        "$2.00": "₹20"
+    },
+    {
+        "Andrea": "Ravi",
+        "apples": "seethaphal",
+        "Jamal": "Mohammad",
+        "bananas": "kela"
+    },
+    {
+        "cups": "cups of atta",
+        "cookies": "dosas",
+        "Carla": "Radha",
+        "today": "today",
+        "tomorrow": "tomorrow"
+    },
+    {
+        "pennies": "paisa"
+    },
+    {
+        "Maddison": "Madhuri",
+        "boxes": "katori",
+        "marbles": "marbles",
+        "50": "50",
+        "20": "20"
+    },
+    {
+        "Chris": "Aap",
+        "Ferdinand": "Ferdinand",
+        "Harry": "Harry",
+        "trees": "peepal",
+        "$0": "₹0"
+    },
+    {
+        "Carmen": "Carmen",
+        "Samantha": "Samantha",
+        "Daisy": "Daisy",
+        "$100": "₹75,000",
+        "$25": "₹2,500",
+        "$50": "₹50,000"
+    },
+    {
+        "Mrs. Cruz": "Mrs. Kapoor",
+        "$400 000": "₹3.3 crore",
+        "$350 000": "₹2.8 crore",
+        "brokerage fee": "brokerage fee",
+        "transfer fee": "transfer fee",
+        "$": "₹",
+        "USD": "INR"
+    },
+    {
+        "Mr. Tan": "Shri Tan",
+        "$400 000": "₹3.2 crore",
+        "$250 000": "₹2.5 crore"
+    },
+    {
+        "oil": "naariyal ke tel",
+        "minutes": "minutes",
+        "300 degrees": "300 degree Celsius",
+        "400 degrees": "400 degree Celsius",
+        "$": "₹",
+        "40%": "40%",
+        "chicken": "shart hui chicken"
+    },
+    {
+        "real estate agent": "real estate broker",
+        "$5": "₹400",
+        "$75": "₹7,500"
+    },
+    {
+        "juggler": "acrobat",
+        "balls": "kabaddi balls",
+        "golf balls": "golf balls"
+    },
+    {
+        "Mary": "Mira",
+        "M&Ms": "khandsaar"
+    },
+    {
+        "John": "Ramesh",
+        "houses": "bungalows",
+        "bedrooms": "vishrambhums",
+        "windows": "nishan"
+    },
+    {
+        "cocoa": "cocoa powder",
+        "$4.20": "₹160",
+        "laundry": "₹945",
+        "pasta": "haldi (turmeric)",
+        "$1.35": "₹135",
+        "$20": "₹2000"
+    },
+    {
+        "Terri": "Meera",
+        "sweater": "sweater",
+        "sleeves": "sleeves",
+        "collar": "collar",
+        "rosette": "phulkari",
+        "$0": "₹0"
+    },
+    {
+        "Mrs. Rylan": "Mrs. Rani",
+        "April": "April",
+        "farm": "zameen",
+        "vegetables": "aloo",
+        "tomato seeds": "tomato ke beej",
+        "celery seeds": "sarson ke beej",
+        "$40": "₹3,000",
+        "$30": "₹2,100"
+    },
+    {
+        "Sean": "Ram",
+        "theater production": "local play",
+        "lines": "dialogues",
+        "solo song": "solo song in Hindi",
+        "$10": "₹830",
+        "scenes": "acts"
+    },
+    {
+        "Carly": "Shilpa",
+        "cards": "naqqaq",
+        "$0": "₹0"
+    },
+    {
+        "Matthew": "Ram",
+        "shrubs": "neem or tulsi",
+        "trees": "peepal or banyan"
+    },
+    {
+        "Mico": "Ram",
+        "Marco": "Shyam"
+    },
+    {
+        "Sam": "Samir"
+    },
+    {
+        "Peter": "Ramesh",
+        "popsicles": "lollipops",
+        "0.25": "₹6",
+        "ice cream bars": "kulfi sticks",
+        "0.50": "₹50"
+    },
+    {
+        "cobra": "nag",
+        "mamba": "mamga",
+        "$0": "₹0",
+        "snake park": "reptile park",
+        "spots": "naga-pattas"
+    },
+    {
+        "Maddy": "Mukta",
+        "pizza": "paneer-tikka parathas",
+        "$15": "₹150"
+    },
+    {
+        "Katerina": "Kavita",
+        "designer jewelry": "exquisite jewelry",
+        "topaz": "topaz",
+        "necklaces": "necklace",
+        "inches": "cm",
+        "$": "₹",
+        "8": "8",
+        "1": "2.54",
+        "0.25": "0.64",
+        "25": "63.5"
+    },
+    {
+        "Ann": "Anita"
+    },
+    {
+        "Kelly": "Kavita",
+        "quarters": "tolas",
+        "dimes": "mishralus",
+        "$0.55": "₹5.50"
+    },
+    {
+        "flag": "tricolor flag",
+        "stars": "lotus flowers, shikara boats, chakras",
+        "76": "NA",
+        "8": "8 lotus flowers",
+        "6": "6 shikara boats",
+        "rows": "NA",
+        "rest": "remaining rows"
+    },
+    {
+        "customer’s yard": "customer's bungalow (gaon-ki-kothi)",
+        "flagstones": "sandstones (sand-ki-tala)",
+        "pounds": "kg",
+        "2000 pounds": "907.18 kg"
+    },
+    {
+        "car": "automobile",
+        "miles": "kilometers",
+        "60 miles/hour": "96 kilometers/hour",
+        "480 miles": "480 kilometers"
+    },
+    {
+        "Ali": "Ram",
+        "Izzy": "Shyam",
+        "$0": "₹0"
+    },
+    {
+        "adults": "4 adults",
+        "children": "8 bachchas",
+        "chocolate bars": "khoya-mishti",
+        "packets": "packets of khoya-mishti",
+        "5": "5 khoya-mishti",
+        "6": "6 khoya-mishti"
+    },
+    {
+        "Susan": "Sita",
+        "$5": "₹75",
+        "8 a.m.": "8:00",
+        "11 a.m.": "11:00"
+    },
+    {
+        "Mike": "Ravi",
+        "Jim": "Rahul",
+        "Tony": "Ajay"
+    },
+    {
+        "Will": "Ram",
+        "oranges": "narangi",
+        "$0": "₹0",
+        "sons": "bacchon",
+        "years": "saal"
+    },
+    {
+        "Darren": "Anand",
+        "muffins": "",
+        "$10": "",
+        "body exercises": "physical exercises",
+        "pushups": "push-ups",
+        "squats": "squats",
+        "dumbbell presses": "weight presses"
+    },
+    {
+        "meal": "lunch and dinner",
+        "certain household": "Indian household",
+        "$": "₹",
+        "kg": "kg"
+    },
+    {
+        "Carmen": "Carmen",
+        "auction": "local auction in Mumbai",
+        "antique desk": "vintage katha-style desk",
+        "$200": "₹1,60,000",
+        "dollars": "Indian Rupees"
+    },
+    {
+        "John": "Ramesh",
+        "$": "₹",
+        "miles": "kilometers",
+        "30": "48.28",
+        "$2": "₹16",
+        "$150": "₹11,200"
+    },
+    {
+        "Peter": "Ram",
+        "Tuesday": "Tuesday",
+        "Monday": "Monday",
+        "Sunday": "Shanivar",
+        "minutes": "minute"
+    },
+    {
+        "newspaper or tabloid": "local newspaper",
+        "piece of paper": "sheet of paper",
+        "$0": "₹0"
+    },
+    {
+        "Annika": "Anika",
+        "town fair": "Mysore Dussehra fair",
+        "$50": "₹3,600",
+        "$10": "₹1,000"
+    },
+    {
+        "Elise": "Elise",
+        "Dad's": "father's",
+        "250 books": "250 books",
+        "3 years": "3 years",
+        "20$": "₹4,000",
+        "first year": "first year",
+        "current year": "current year",
+        "unsold books": "unsold books",
+        "45": "45"
+    },
+    {
+        "Watson": "Ram",
+        "$10": "₹830",
+        "$300": "₹30,000"
+    },
+    {
+        "John": "Ramesh",
+        "arm wrestles": "hand-pushing competitions",
+        "$0": "₹0",
+        "80%": "80"
+    },
+    {
+        "bread": "kulcha"
+    },
+    {
+        "Sandy": "Sita",
+        "Joey": "Joy",
+        "pounds": "kilograms",
+        "week": "weeks"
+    },
+    {
+        "tub": "katori",
+        "$13": "₹1,300",
+        "$11": "₹1,100",
+        "milk": "paneer",
+        "$0.5": "₹50"
+    },
+    {
+        "Helena": "Dr. Meena",
+        "Lots-of-Limbs Serum": "Aan-Daan Vibhinn Shakti Ras",
+        "$0": "₹0"
+    },
+    {
+        "Theo": "Ram",
+        "$6000": "₹4,60,000",
+        "business trip to South Africa": "business trip to Mumbai",
+        "$100": "₹10,000",
+        "suitcases": "suitcases",
+        "$50": "₹5,000",
+        "$700": "₹70,000",
+        "$2000": "₹2,00,000"
+    },
+    {
+        "John": "",
+        "muffins": "boiled eggs (andai)",
+        "$10": "",
+        "day": "day"
+    },
+    {
+        "Trent": "Ram",
+        "Jane": "Meera",
+        "Quinn": "Siddharth"
+    },
+    {
+        "Cera": "Meera",
+        "Chile": "India",
+        "Noah": "Ravi",
+        "$0": "₹0"
+    },
+    {
+        "football": "cricket",
+        "members": "members",
+        "players": "players",
+        "offense": "offense",
+        "defense": "defense",
+        "special teams": "special teams",
+        "twice": "twice",
+        "half": "half",
+        "Mumbai": "Mumbai"
+    },
+    {
+        "Martha": "Mira",
+        "Christmas": "Diwali",
+        "families": "shaadi-samitis",
+        "people": "members",
+        "$": "₹"
+    },
+    {
+        "Johanna": "Johanna",
+        "marbles (ludhka)": "marbles",
+        "$": "₹",
+        "20": "20",
+        "50": "50",
+        "2/5": "2/5",
+        "2kgs": "2kgs"
+    },
+    {
+        "John": "Ramesh",
+        "$0.1": "₹1"
+    },
+    {
+        "nongendered children": "non-gendered students",
+        "classroom": "class",
+        "$0": "₹0"
+    },
+    {
+        "neighborhood": "Indian village"
+    },
+    {
+        "men": "hommes",
+        "women": "femmes",
+        "party": "fête"
+    },
+    {
+        "book": "book",
+        "magazine": "magazine",
+        "$4": "₹400"
+    },
+    {
+        "Jam": "Ramesh",
+        "Meg": "Sita",
+        "pencils": "hargil pencils",
+        "$": "₹"
+    },
+    {
+        "Shannon": "Shanti",
+        "iced coffee": "nimbu-pani",
+        "hot coffee": "hot tea",
+        "ice cubes": "ice cubes",
+        "$0": "₹0",
+        "milliliters": "milliliters",
+        "13 degrees": "13 degrees Celsius",
+        "12 milliliters": "12 milliliters",
+        "65 degrees": "65 degrees Celsius",
+        "15 milliliters": "15 milliliters",
+        "cream": "malai"
+    },
+    {
+        "Ralph": "Ravi",
+        "record store": "vinyl store",
+        "trade": "exchange",
+        "old records": "their old records",
+        "new ones": "new records",
+        "2": "2 old records",
+        "1": "1 new one",
+        "5 people": "5 customers",
+        "7": "7 new records"
+    },
+    {
+        "Jaime": "Ravi",
+        "company": "the company",
+        "$100": "100 individuals",
+        "$400": "₹400",
+        "$2000": "₹20,000"
+    },
+    {
+        "terminal": "terminal se",
+        "bus": "bus",
+        "first": "pehle",
+        "second": "doosre",
+        "third": "kisi bhi bus stop ke baare mein"
+    },
+    {
+        "Oscar": "Ram",
+        "lollipops": "laddoos",
+        "$0": "₹0"
+    },
+    {
+        "cell-phone": "mobile phone"
+    },
+    {
+        "Erin": "Ritu",
+        "lollipops": "laddoos",
+        "10": "10"
+    },
+    {
+        "customer’s": "a customer's",
+        "store": "local market",
+        "$": "₹",
+        "$1": "₹1",
+        "$20": "₹200",
+        "$80": "₹8,000",
+        "$43": "₹4,300"
+    },
+    {
+        "Nick": "Ravi",
+        "$15": "₹1,125",
+        "2000": "2,000",
+        "$20": "₹1,40,000",
+        "Job A": "Opportunity A",
+        "state": "state",
+        "$42,000": "₹42 lakhs",
+        "$6,000": "₹6 lakhs",
+        "$1": "₹7",
+        "year": "yearly"
+    },
+    {
+        "Scotland": "Rajasthan",
+        "castles": "fortresses",
+        "$0": "₹0"
+    },
+    {
+        "Robert": "Ram",
+        "bookshelf": "khazana",
+        "sofa": "sofa",
+        "Furniture United": "Furniture United",
+        "$1,350": "₹10,500",
+        "$350": "₹3,500",
+        "$1,100": "₹9,000",
+        "$250": "₹2,500"
+    },
+    {
+        "Nick": "Ravi",
+        "Richard": "Rajesh",
+        "Jason": "Ajay",
+        "DJ": "DJ"
+    },
+    {
+        "Mason": "Ramesh",
+        "ounces": "grams",
+        "suckers": "laddoos",
+        "fudge": "burfi",
+        "$0": "₹0",
+        "30 ounces": "900 grams",
+        "70 ounces": "2100 grams"
+    },
+    {
+        "Maria": "Rekha",
+        "$8": "₹64"
+    },
+    {
+        "hot dogs": "frankies"
+    },
+    {
+        "class": "class of Indian students",
+        "students": "Indian students",
+        "200": "200 Indian students",
+        "groups": "groups",
+        "3": "3 groups",
+        "2": "2 groups (equal in number)",
+        "10": "10 fewer students"
+    },
+    {
+        "Farmer Brown": "Kisan Khanna"
+    },
+    {
+        "Josh": "Ramesh",
+        "school": "school",
+        "week": "week",
+        "balls": "balls"
+    },
+    {
+        "pink frog": "Mandar Frog",
+        "blue beetle": "Neel Beetle",
+        "green toad": "Pratap Toad",
+        "yellow snake": "Pukhraj Snake",
+        "red bird": "Lal Paka",
+        "pounds": "pounds"
+    },
+    {
+        "Laurel": "Shikha",
+        "baby outfits": "baby kurtas"
+    },
+    {
+        "Tyson": "Rahul",
+        "5000 meters": "5000 metre",
+        "1/5": "10000 metre",
+        "June": "June",
+        "$0": "₹0"
+    },
+    {
+        "Juice Box A": "Fruit Juice Box A",
+        "Juice Box B": "Fruit Juice Box B",
+        "Juice Box C": "Fruit Juice Box C",
+        "$4": "₹320",
+        "$5": "₹100",
+        "$7": "₹100"
+    },
+    {
+        "tables": "tavas, khatias",
+        "legs": "legs",
+        "restaurant": "local eatery",
+        "Mumbai": "Mumbai"
+    },
+    {
+        "Jenny": "Shilpa",
+        "cookies": "khakras",
+        "$1": "₹70"
+    },
+    {
+        "Davos": "Ramesh",
+        "shirts": "kurtas",
+        "$30": "₹2,100"
+    },
+    {
+        "tractor-trolleys": "grain silos",
+        "$100": "₹100",
+        "$220": "₹220"
+    },
+    {
+        "Madeline": "Ravi",
+        "dog": "pet dog",
+        "$25": "₹625",
+        "$20": "₹2000",
+        "$100": "₹10000"
+    },
+    {
+        "Peyton": "Ramesh",
+        "Monday": "Monday",
+        "Tuesday": "Tuesday",
+        "Wednesday": "Wednesday",
+        "Thursday": "Thursday",
+        "Friday": "Friday",
+        "yoga class": "yoga session",
+        "cooking class": "cooking class",
+        "cheese-tasting event": "cheese-tasting",
+        "museum tour": "museum visit",
+        "errands": "household chores"
+    },
+    {
+        "April": "Ramesh",
+        "plant pots": "flower pots",
+        "local school": "local gurukul",
+        "daisies": "gulab-jamun plants",
+        "30": "30",
+        "twice": "double",
+        "garden center": "local nursery"
+    },
+    {
+        "Andrea": "Aparna",
+        "$11": "₹880",
+        "$4": "₹300",
+        "$36": "₹2640"
+    },
+    {
+        "John": "Ramesh",
+        "vacation": "holiday",
+        "hours": "hours",
+        "boating": "shikara ride",
+        "swimming": "swimming in the Ganges",
+        "shows": "Hindi movies",
+        "time": "total time",
+        "sightseeing": "exploring the Taj Mahal"
+    },
+    {
+        "Annabelle": "Anita",
+        "$400": "₹30,000",
+        "$80": "₹800",
+        "$10": "₹100",
+        "$5": "₹50"
+    },
+    {
+        "Eddy": "Anand",
+        "feet": "feet",
+        "backyard": "backyard",
+        "trees": "neem trees"
+    },
+    {
+        "Dean": "Dheeraj",
+        "$28": "₹2240",
+        "toy store": "toy store",
+        "toy cars": "toy cars",
+        "teddy bears": "teddy bears",
+        "$": "₹",
+        "$2": "₹2",
+        "$1": "₹1",
+        "$10": "₹10"
+    },
+    {
+        "Marisa": "Meera",
+        "lollipops": "laddoos",
+        "$": "₹",
+        "5 cents": "6.25",
+        "$5": "₹145"
+    },
+    {
+        "Billy": "Ramesh",
+        "candy": "mithai",
+        "$10": "₹1,000",
+        "$1.5": "₹15 per kg",
+        "gumballs": "jalebis",
+        "$.05": "₹0.25"
+    },
+    {
+        "Carver": "Anand"
+    },
+    {
+        "miles": "kilometers",
+        "$18,000": "₹18,000"
+    },
+    {
+        "Mark": "Ramesh",
+        "Rottweiler": "Rottweiler",
+        "chihuahua": "chihuahua",
+        "collie": "collie",
+        "pounds": "kg",
+        "$": "₹",
+        "8": "3.6",
+        "2": "0.9"
+    },
+    {
+        "John": "Ramesh",
+        "miles": "kilometers",
+        "200": "320",
+        "70": "112.65",
+        "10": "16",
+        "his friend's house": "his friend's house in Mumbai",
+        "$": "₹"
+    },
+    {
+        "Small Tree School": "Small Kadam Vidyalay",
+        "fourth-graders": "chaturth-sthanak chhote-balakon",
+        "girls": "ladki",
+        "Friday": "Lavaar",
+        "absent": "absent thay thay",
+        "boys": "ladke"
+    },
+    {
+        "girls": "larki"
+    },
+    {
+        "Jane": "Priya",
+        "$": "₹",
+        "points": "marks"
+    },
+    {
+        "Erin": "Reema",
+        "$0": "₹0"
+    },
+    {
+        "John": "Ethan",
+        "muffins": "hand-painted wallpaper",
+        "$400": "₹30,400"
+    },
+    {
+        "shoe store": "local footwear store in Mumbai",
+        "tennis shoes": "kabaddi shoes",
+        "$": "₹",
+        "Friday": "Friday",
+        "day before": "previous day",
+        "six people": "six customers"
+    },
+    {
+        "Hallie": "Hallika",
+        "Tuesdays": "Tuesdays",
+        "Thursdays": "Thursdays",
+        "Saturdays": "Saturdays"
+    },
+    {
+        "retailer business": "retailer",
+        "$400000": "₹3,000,000"
+    },
+    {
+        "Mary": "Radha",
+        "sheep": "goats",
+        "kg": "kg"
+    },
+    {
+        "Mrs. Sherman": "Mrs. Kapoor",
+        "bread rolls": "khasta khatai",
+        "breakfast": "naivedyam during Diwali",
+        "6 children": "6 bachchas",
+        "chickens": "kukkadon"
+    },
+    {
+        "pupils": "students",
+        "class": "class",
+        "$0": "₹0"
+    },
+    {
+        "Lucy": "Laxmi",
+        "apples": "aloo badam",
+        "$4": "₹160",
+        "$56": "₹56"
+    },
+    {
+        "Lindsay": "Rekha"
+    },
+    {
+        "Rachel": "Rani",
+        "cookies": "naan",
+        "23": "23",
+        "42": "42",
+        "44": "44"
+    },
+    {
+        "Karan": "Karan",
+        "$3,650": "₹2,81,250"
+    },
+    {
+        "Cho": "Ram",
+        "Chloe": "Chloe"
+    },
+    {
+        "Axel": "Ramesh",
+        "Anna": "Anita",
+        "silver pesos": "silver rupees",
+        "gold pesos": "gold rupees",
+        "$": "₹"
+    },
+    {
+        "Millie": "Shilpa",
+        "$18": "₹1350",
+        "lemonade": "nimbu pani",
+        "$1": "₹1",
+        "cup": "glass"
+    },
+    {
+        "Mr. Ruther": "Shri Ravi",
+        "land": "bhagwanwadi",
+        "hectares": "katha",
+        "$10": "₹830"
+    },
+    {
+        "Lisa": "Laxmi",
+        "choir": "chorus",
+        "boys": "lads",
+        "girls": "lasses",
+        "bus": "bus"
+    },
+    {
+        "Wilson": "Ravi",
+        "car": "car",
+        "report card": "school report card",
+        "Math class": "Maths class",
+        "Math grade": "Maths grade",
+        "$": "₹",
+        "test scores": "test scores"
+    },
+    {
+        "eraser": "pencil eraser",
+        "$2": "₹2",
+        "$3": "₹3"
+    },
+    {
+        "James": "Ram",
+        "Ms. Thompson": "Miss Thompson",
+        "Mr. Yu": "Mr. Kumar",
+        "$0": "₹0"
+    },
+    {
+        "David": "Ram",
+        "Dasha": "Sita",
+        "carnival": "Mumbai Mela",
+        "rides": "attractions",
+        "ride tickets": "mela tickets",
+        "$2": "₹50",
+        "$30": "₹2,100"
+    },
+    {
+        "Christmas": "Diwali",
+        "inches": "centimeters",
+        "$10": "NA"
+    },
+    {
+        "Betty": "Ravi",
+        "popsicles": "ice-pops",
+        "165": "165"
+    },
+    {
+        "cable subscription": "cable connection",
+        "$10": "₹830",
+        "$60": "₹6000"
+    },
+    {
+        "Carol": "Radha"
+    },
+    {
+        "Wendy": "Shilpa",
+        "books": "books"
+    },
+    {
+        "Erica": "Ritu",
+        "Valentine's cards": "Valentine's Day greeting cards",
+        "boxes": "tin boxes"
+    },
+    {
+        "Jenny": "Jyoti",
+        "pizza": "pizzas",
+        "1/3": "1/3",
+        "1/4": "1/4",
+        "Bill": "Bilal",
+        "Mark": "Mark"
+    },
+    {
+        "Mark": "Ramesh",
+        "$50": "₹3,600",
+        "$10": "₹100",
+        "$300": "₹30,000"
+    },
+    {
+        "Nancy": "Nandini",
+        "woodshed": "pukhraj ghar",
+        "spiders": "khapale",
+        "millipedes": "mooli-mool",
+        "stink bugs": "phoolon-phool",
+        "$10": "Not provided"
+    },
+    {
+        "Alice": "Anita",
+        "Beth": "Beth",
+        "Erica": "Ekta"
+    },
+    {
+        "John": "Ramesh"
+    },
+    {
+        "month": "month",
+        "week": "sahafu",
+        "day": "din",
+        "$50": "₹500"
+    },
+    {
+        "Mark": "Ravi",
+        "brownies": "besan ke laddoo",
+        "cup": "katori",
+        "flour": "atta",
+        "milk": "doodh",
+        "$": "₹",
+        "3": "3",
+        "1": "1",
+        "2-cup": "2-katori"
+    },
+    {
+        "Mel": "Ram",
+        "air conditioner": "air cooler",
+        "$": "₹",
+        "hours": "hours",
+        "kilowatts": "watts",
+        "days": "days"
+    },
+    {
+        "Jane": "Jyoti",
+        "zebras": "chital",
+        "$17": "₹17",
+        "36": "₹36",
+        "half": "1/2"
+    },
+    {
+        "muffaletta sandwiches": "vegetable kebab sandwiches",
+        "muffins": "sandwiches",
+        "pound": "kg",
+        "$7.00": "₹60",
+        "$3.00": "₹140"
+    },
+    {
+        "Allan": "Anand",
+        "cannolis": "gujiyas",
+        "corn": "makki ki roti",
+        "$": "₹"
+    },
+    {
+        "Elliott": "Ravi",
+        "school": "school",
+        "short walk": "short walk",
+        "jog": "run",
+        "block": "neighborhood"
+    },
+    {
+        "Toby": "Tarun",
+        "book": "book",
+        "pages": "shabd-varga",
+        "words": "shabd",
+        "$": "₹",
+        "minutes": "minutes",
+        "airport": "Antar-dharti",
+        "60": "60"
+    },
+    {
+        "Carolyn": "Shubham",
+        "delivery service company": "Dilli Dost",
+        "hires": "hired",
+        "employees": "workers",
+        "$15": "₹1,125",
+        "May": "the month of May",
+        "June": "the month of June",
+        "contracts": "contracts",
+        "expired": "ended"
+    },
+    {
+        "July": "Diwali",
+        "$400": "₹30,000",
+        "$150": "₹15,000"
+    },
+    {
+        "Shannon": "Shanti",
+        "madeleine cookies": "khasta khatai",
+        "$": "₹",
+        "night": "every evening",
+        "30 days": "30 days"
+    },
+    {
+        "Marcy": "Meera",
+        "candles": "diyas",
+        "$": "₹",
+        "99%": "99%",
+        "5%": "5%",
+        "wet dog": "dog-like odor",
+        "explode": "burst"
+    },
+    {
+        "Misha": "Mira",
+        "blouses": "kurtis",
+        "$20": "₹1,400"
+    },
+    {
+        "camels": "camels",
+        "dromedaries": "shamals",
+        "$": "₹"
+    },
+    {
+        "Tom": "Ramesh",
+        "Europe": "India",
+        "kilometers": "kilometers",
+        "$0": "₹0",
+        "200": "200 kilometers",
+        "30": "30%",
+        "300": "300 kilometers"
+    },
+    {
+        "Timothy's locker in cubic feet": "Timothy's locker in cubic inches"
+    },
+    {
+        "Stanley": "Ram",
+        "comb": "khaat",
+        "feet": "meters",
+        "$10": "₹830",
+        "mountain": "Himalayas",
+        "side": "slope",
+        "gust air": "strong wind",
+        "cellphone": "mobile phone"
+    },
+    {
+        "Mr. Josue": "Mr. Josue",
+        "store": "shop",
+        "$4000": "₹3,00,000",
+        "$5000": "₹5,00,000"
+    },
+    {
+        "cats": "gaiyon",
+        "rock": "takht",
+        "boats": "vahan",
+        "50": "50",
+        "4": "chaar",
+        "5": "5",
+        "3/5": "3/5"
+    },
+    {
+        "Bill": "Ram",
+        "$8": "₹600",
+        "$12": "₹1200",
+        "$14": "₹1400"
+    },
+    {
+        "Cole": "Ravi",
+        "dance contest": "dance competition",
+        "new jeans": "new denims",
+        "tattered jeans": "distressed denims",
+        "jogger jeans": "jogger denims",
+        "$28": "₹2,800",
+        "$6": "₹6"
+    },
+    {
+        "Google": "Google",
+        "day trip": "raatri yatra",
+        "employees": "log",
+        "bus": "bus",
+        "minibusses": "mini bus",
+        "minivans": "mini van"
+    },
+    {
+        "Lillian": "Sita",
+        "garden": "garden",
+        "bird feeders": "bird feeders",
+        "$": "₹",
+        "muffins": "",
+        "John": "",
+        "USD": "₹"
+    },
+    {
+        "Aleksandra": "Anita",
+        "restaurant": "restaurant",
+        "soup": "shorba",
+        "bagel": "masala roti",
+        "cake": "rasmalai",
+        "$4": "₹160"
+    },
+    {
+        "Kenny": "Kishan",
+        "$100": "₹7,500",
+        "$1.5": "₹15",
+        "amusement park": "amusement park",
+        "$50": "₹5,000"
+    },
+    {
+        "hot dogs": "frankies"
+    },
+    {
+        "Indras": "Ravi"
+    },
+    {
+        "Charlotte": "Chandni",
+        "kitchen supply store": "kitchenware store in Jaipur",
+        "$120.00": "₹10,000",
+        "$20.00": "₹2,000",
+        "$5.00": "₹50"
+    },
+    {
+        "Dora": "Dora",
+        "skipping rope": "chakra",
+        "board game": "ludo",
+        "playground ball": "kabaddi ball",
+        "$6": "₹480",
+        "$11": "₹1,100",
+        "$2": "₹2",
+        "$16": "₹1,600"
+    },
+    {
+        "gallons": "gallons",
+        "Josey": "Josey",
+        "lawnmower": "lawnmower",
+        "pints": "pints",
+        "gasoline": "petrol"
+    },
+    {
+        "vending machines": "Vending machines in India",
+        "chips": "namkeen (Indian snacks)",
+        "candy bars": "chocolates",
+        "$5": "₹500"
+    },
+    {
+        "Ray": "Ravi",
+        "lollipops": "laddoos"
+    },
+    {
+        "Rory": "Ramesh",
+        "cake": "cake",
+        "ounces": "566 grams",
+        "piece": "piece"
+    },
+    {
+        "Sitti": "Sita",
+        "Juris": "Jyoti",
+        "oranges": "narangi"
+    },
+    {
+        "Antoine": "Ramesh",
+        "pounds": "kg",
+        "$2.00": "₹160",
+        "beef stock": "beef broth"
+    },
+    {
+        "Wayne": "Ramesh",
+        "Bernadette": "Meena",
+        "premiere": "premiere",
+        "high-rise apartment": "high-rise apartment",
+        "city": "city",
+        "theater": "premiere theater",
+        "hotel": "hotel",
+        "minutes": "minutes",
+        "$": "₹",
+        "4": "4"
+    },
+    {
+        "Billie": "Bilkis",
+        "square feet": "square feet",
+        "3 yards": "3 yard",
+        "$0": "₹0"
+    },
+    {
+        "Elizabeth": "Didi",
+        "Margareth": "Bhabhi",
+        "beads": "sew beads",
+        "1 pack": "1 pack of",
+        "2 packs": "2 packs of",
+        "3 packs": "3 packs of",
+        "4 packs": "4 packs of",
+        "$0": "₹0",
+        "20": "20 seetiya",
+        "2": "2 Didi",
+        "3": "3 Bhabhi"
+    },
+    {
+        "Marcus": "Ramesh",
+        "house": "house",
+        "degrees": "degrees Celsius",
+        "$": "₹",
+        "hours": "hours",
+        "minutes": "minutes",
+        "window": "window"
+    },
+    {
+        "Jon": "Ram",
+        "triathlon": "triathlon",
+        "swim": "swim",
+        "bike": "cycle",
+        "run": "run",
+        "$0": "₹0"
+    },
+    {
+        "Movie A": "Film A",
+        "Movie B": "Film B",
+        "Movie C": "Film C",
+        "$": "₹"
+    },
+    {
+        "Michael": "Ram",
+        "horses": "horse",
+        "miles": "miles",
+        "bail": "gair",
+        "hay": "kharva",
+        "$3": "₹216",
+        "$5": "₹500"
+    },
+    {
+        "Rozanne": "Ramesh",
+        "eggnog": "Aegg Nog",
+        "dozen": "128",
+        "$": "₹"
+    },
+    {
+        "Joey": "Joey",
+        "Scrabble": "Scrabble",
+        "points": "points",
+        "26": "26",
+        "Marcy": "Marcy",
+        "225": "225",
+        "10": "10"
+    },
+    {
+        "salesman": "agent",
+        "case": "kotha",
+        "sneakers": "khussa",
+        "$576": "₹43,200",
+        "$20": "₹20",
+        "$25": "₹25"
+    },
+    {
+        "Beatrice": "Meera",
+        "crayons": "color pencils",
+        "Art class": "Rangoli class",
+        "$10": "₹760"
+    },
+    {
+        "movie super ticket": "movie super ticket",
+        "movie ticket": "regular movie ticket",
+        "$20": "₹1500",
+        "$1": "₹30",
+        "$12": "₹120",
+        "popcorn": "popcorn",
+        "soda": "soda"
+    },
+    {
+        "Bentley": "Bent",
+        "helium balloons": "helium baloons",
+        "$900": "₹90,000",
+        "$20": "₹1,600"
+    },
+    {
+        "car": "automobile",
+        "mph": "kmph",
+        "hours": "hours",
+        "road trip": "journey"
+    },
+    {
+        "Jenna": "Shilpa",
+        "sapphires": "sapphires",
+        "$800": "₹56,000",
+        "rubies": "rubies",
+        "$1200": "₹1,20,000"
+    },
+    {
+        "apples": "seb"
+    },
+    {
+        "Bob": "Ram",
+        "potting soil": "potting mix",
+        "$12": "₹1,200"
+    },
+    {
+        "John": "",
+        "muffins": "",
+        "$10": "",
+        "USD": "INR"
+    },
+    {
+        "Katelyn": "Riya",
+        "school playground": "school ground",
+        "fairies": "fairies",
+        "nearby forest": "nearby jungle",
+        "$0": "₹0"
+    },
+    {
+        "Jennifer": "Jaya",
+        "dog": "pet dog",
+        "puppies": "puppies",
+        "spots": "spots",
+        "Brandon": "Rahul"
+    },
+    {
+        "Grayson": "Rahul",
+        "cans": "containers",
+        "soda": "cola",
+        "bottles": "water",
+        "cents": "paise",
+        "$": "paise",
+        "week": "week",
+        "month": "four-week month"
+    },
+    {
+        "Shondra": "Shonali",
+        "Toni": "Tina",
+        "plants": "plants"
+    },
+    {
+        "Ali": "Ravi",
+        "$21": "₹1,500",
+        "Leila": "Simran",
+        "$100": "₹6,000"
+    },
+    {
+        "Ashley": "Ashok",
+        "pizza delivery": "local restaurant",
+        "$15": "₹1,275",
+        "tip": "delivery man"
+    },
+    {
+        "Finley": "Ramesh",
+        "race": "dash",
+        "100-meter": "100-meter",
+        "she": "he",
+        "Diwali festival": "Diwali festival"
+    },
+    {
+        "Miss Maria": "Miss Priya",
+        "sports cards": "cricket cards",
+        "decks": "decks",
+        "basketball cards": "basketball cards",
+        "boxes": "boxes",
+        "baseball cards": "cricket cards",
+        "students": "students"
+    },
+    {
+        "Becky": "Rani",
+        "apples": "seb apples",
+        "cents": "₹",
+        "$1": "₹1",
+        "Kelly": "Kavita",
+        "50 cents": "₹5.00"
+    },
+    {
+        "Bob": "Ravi",
+        "hotel": "grand hotel",
+        "comforter": "quilt",
+        "sheets": "bed-sheets",
+        "pillow cases": "pillow covers",
+        "towels": "towels",
+        "$0": "₹0"
+    },
+    {
+        "Fireman Frank": "Lohar Laxman",
+        "shoes": "jootis",
+        "Monday": "Mangalvar",
+        "Wednesday": "Budhwar",
+        "Friday": "Shukravar",
+        "Saturday": "Shanivar",
+        "Sunday": "Ravivar",
+        "$": "₹"
+    },
+    {
+        "Mary": "Mira",
+        "jars": "containers of sev",
+        "cupcakes": "kheer-kadam",
+        "$0": "₹0",
+        "each": "Each",
+        "pantry": "pantry",
+        "pan": "thali"
+    },
+    {
+        "Theo": "Ramesh",
+        "$2": "₹140",
+        "$1": "₹30",
+        "pen": "ballpoint pen",
+        "piece of paper": "notebook",
+        "$10": "₹1000"
+    },
+    {
+        "Marissa": "Shikha",
+        "pencils": "pencils",
+        "$0": "₹0"
+    },
+    {
+        "Matt": "Ravi",
+        "cookies": "khasta kachoris",
+        "$": "₹",
+        "5": "5",
+        "carrot sticks": "carrot sticks"
+    },
+    {
+        "Benny": "Ramesh",
+        "shark": "shark",
+        "10-foot": "10-foot-long",
+        "6-inch": "6-inch-long",
+        "$": "₹"
+    },
+    {
+        "students": "pupils",
+        "desktop computer": "personal computer (desktop)"
+    },
+    {
+        "Jason": "Jason",
+        "shoes": "joote",
+        "minutes": "minutes",
+        "track team": "track team",
+        "three weeks": "tini saalon",
+        "days": "din"
+    },
+    {
+        "Sarah": "Shilpa",
+        "books": "shiksha granth",
+        "$300": "₹21,600",
+        "$15": "₹1,500"
+    },
+    {
+        "Gina": "Navin",
+        "dairy": "dairy products",
+        "peanuts": "groundnuts",
+        "$0": "₹0"
+    },
+    {
+        "tour": "pilgrimage",
+        "ancient site": "historic temple",
+        "employees": "employees",
+        "tour guides": "local guides"
+    },
+    {
+        "wife": "wife",
+        "plane tickets": "flight tickets",
+        "$5000": "₹3,75,000",
+        "hotel": "hotel",
+        "$1500": "₹1,50,000"
+    },
+    {
+        "Ben": "Ram",
+        "Jasper": "Shyam",
+        "tubes of blue paint": "tubes of neel paint",
+        "tubes of yellow paint": "tubes of saffron paint"
+    },
+    {
+        "Belen": "Bela",
+        "pennies": "coins",
+        "2010 penny": "2010 anna",
+        "1959 penny": "1959 anna",
+        "grains": "grains"
+    },
+    {
+        "Keegan": "Ramesh",
+        "Tashay": "Siddharth",
+        "baseball camp": "cricket coaching camp",
+        "$": "₹",
+        "$200": "₹16,500",
+        "3 pm": "3 pm",
+        "$83": "₹83",
+        "$91": "₹91"
+    },
+    {
+        "Gabriel": "Ramesh",
+        "Luri": "Sita",
+        "portable media player": "pocket music player",
+        "songs": "gaan",
+        "$": "₹",
+        "100": "100",
+        "100 songs": "100 gaan",
+        "20 songs": "20 gaan",
+        "3": "3"
+    },
+    {
+        "Stetson": "Ramesh",
+        "Alec": "Akhil",
+        "oranges": "oranges",
+        "$10": "₹830",
+        "farm": "farm"
+    },
+    {
+        "Jillian": "Jyoti",
+        "$20": "₹600",
+        "shoes": "jootis",
+        "$80": "₹8000"
+    },
+    {
+        "James": "Ram",
+        "miles": "kilometers"
+    },
+    {
+        "Uncle Ben": "Chacha Bhaiya",
+        "horses": "mares",
+        "pounds": "pounds",
+        "$0": "₹0"
+    },
+    {
+        "Jana": "Jyoti",
+        "puppies": "shilas",
+        "Pomeranians": "Pomeranians",
+        "girls": "gharelu"
+    },
+    {
+        "Southlandia": "South India",
+        "Northlandia": "North India",
+        "Midlandia": "Central India",
+        "$": "₹"
+    },
+    {
+        "$12": "₹1,200",
+        "$4": "₹4"
+    },
+    {
+        "Jaime": "Jaime",
+        "eggs": "boiled eggs",
+        "tray": "kadhai",
+        "$0": "₹0"
+    },
+    {
+        "Sally": "Shilpa",
+        "$8": "₹560"
+    },
+    {
+        "Heather": "Heena",
+        "dollars": "Rupees",
+        "$4.00": "₹160",
+        "$2.00": "₹20"
+    },
+    {
+        "cheerleaders": "navarasikas",
+        "$10": "₹720",
+        "muffins": "navratri sweets",
+        "64": "162",
+        "60": "152",
+        "feet": "feet"
+    },
+    {
+        "Charisma": "Charu",
+        "hours": "hours",
+        "minutes": "minutes",
+        "office": "office",
+        "5 days": "5 working days"
+    },
+    {
+        "Brett": "Ram",
+        "Angela": "Angela",
+        "years": "saal",
+        "14": "14",
+        "four": "chaar",
+        "three": "thrice"
+    },
+    {
+        "Paul": "Ram",
+        "car": "auto-rickshaw",
+        "$6": "₹150",
+        "$2": "₹50"
+    },
+    {
+        "Brianne": "Ramesh",
+        "Ashley": "Sita",
+        "greek orange pie": "Aam ka nimkaar",
+        "oranges": "oranges",
+        "boxes": "kuttiya",
+        "10": "das",
+        "20": "vishwaas pachas",
+        "three": "tees"
+    },
+    {
+        "Mark": "Ram",
+        "$200": "₹16,000",
+        "$25": "₹250",
+        "$5": "₹5"
+    },
+    {
+        "Lily": "Radha",
+        "David": "Rahul",
+        "Bodhi": "Aarav",
+        "insects": "nirmal"
+    },
+    {
+        "Mariah": "Mira",
+        "grandma": "didi"
+    },
+    {
+        "Cherrie": "Shilpa",
+        "Christmas": "Diwali",
+        "gifts": "gifts"
+    },
+    {
+        "chair": "kursi",
+        "rug": "dhurrie",
+        "couch": "sofa"
+    },
+    {
+        "Suzie": "Sita",
+        "gum": "pan",
+        "$": "₹",
+        "strawberry": "strawberry",
+        "grape": "green apple",
+        "four": "four",
+        "two": "two",
+        "$2": "₹140",
+        "half": "half",
+        "green apple": "anar"
+    },
+    {
+        "Frederick": "Ramesh",
+        "popsicles": "laddoos",
+        "popsicle sticks": "laddoo sticks",
+        "$24": "₹24",
+        "2 x 4": "2 x 4 inch (2 x 4 vyanjan)",
+        "2 x 8": "2 x 8 inch (2 x 8 vyanjan)",
+        "$4": "₹4",
+        "$6": "₹6"
+    },
+    {
+        "Mario": "Ramu",
+        "snowshoes": "ghora-chhap",
+        "sled dogs": "sled-dogs (shikarabhari kutte)",
+        "$12.00": "₹1,200"
+    },
+    {
+        "Janet": "Janaki",
+        "$2.20": "₹180",
+        "$20": "₹2000"
+    },
+    {
+        "cows": "gaiyan",
+        "sheep": "bheem ki bakrein",
+        "$0": "₹0"
+    },
+    {
+        "Sophia": "Shanti",
+        "Rose": "Rekha",
+        "onions": "ana",
+        "potatoes": "aloo",
+        "$10": "₹830",
+        "market": "bazaar"
+    },
+    {
+        "Andy": "Anand",
+        "lbs": "kg",
+        "pounds": "kg",
+        "December 31st": "31st December",
+        "July 19th": "19th July",
+        "$": "₹",
+        "calories": "calories"
+    },
+    {
+        "Gerald": "Ram",
+        "$30": "₹2,400",
+        "$100": "₹10,000"
+    },
+    {
+        "Hannah": "Hema",
+        "gym teacher": "PT ma'am",
+        "0.25": "0.25 km",
+        "ml": "ml",
+        "8": "8 laps",
+        "$0": "₹0"
+    },
+    {
+        "Julie": "Jui",
+        "$500": "₹34,500"
+    },
+    {
+        "$120,000": "₹1,20,000"
+    },
+    {
+        "Tara": "Tara",
+        "canvas bags": "khadi bags",
+        "$4": "₹100",
+        "$8": "₹160"
+    },
+    {
+        "Joe": "Ram",
+        "punches": "kicks",
+        "$": "₹",
+        "minute": "minute",
+        "fight": "kusti match",
+        "round": "round"
+    },
+    {
+        "Kelsie": "Kavita",
+        "bake-off": "Rangoli-making competition",
+        "cookies": "rangolis",
+        "Josh": "Rajat",
+        "Suzanne": "Priya"
+    },
+    {
+        "Ali": "Ramesh",
+        "$10": "₹8,300",
+        "$20": "₹20,000",
+        "Mr. James": "Mr. Kumar",
+        "her": "his sister"
+    },
+    {
+        "Royce": "Ravi",
+        "Rob": "Ravindra",
+        "shingle a house": "thatch a house",
+        "$": ""
+    },
+    {
+        "Chris": "Ravi",
+        "Monday": "Monday night",
+        "Tuesday": "the next day",
+        "Wednesday": "the day after",
+        "$0": "₹0"
+    },
+    {
+        "Grandma Concetta": "Didda",
+        "quarts": "quarts",
+        "Tony": "Tony",
+        "Bobby": "Bobby",
+        "strawberries": "strawberries",
+        "$0": "₹0"
+    },
+    {
+        "Beverly Hills Bakery": "Mumbai Bakers",
+        "loaves of bread": "rotis",
+        "$0": "₹0"
+    },
+    {
+        "Jackson": "Ram",
+        "tulips": "roses",
+        "red": "red roses",
+        "blue": "yellow roses",
+        "$0": "₹0"
+    },
+    {
+        "Heather": "Heather",
+        "jumbo bag": "large bag",
+        "raised": "kishmish",
+        "cups": "katori",
+        "oatmeal cookies": "oatmeal cookies",
+        "granola": "muesli",
+        "snack mix": "namkeen mix",
+        "$": "₹",
+        "3/4": "3/4"
+    },
+    {
+        "Ada": "Aarti",
+        "kilowatts per hour": "units per hour",
+        "$1.50": "₹11.25",
+        "dollar": "INR"
+    },
+    {
+        "one person": "ek adhikari",
+        "half a house": "ek ghar ki nibhaan",
+        "5 days": "do din",
+        "whole house": "dum ghar",
+        "hours": "ghante"
+    },
+    {
+        "Ophelia": "Rani",
+        "Jenna": "Neha",
+        "apartment building": "apartment complex",
+        "sofas": "sofas",
+        "chairs": "chairs"
+    },
+    {
+        "Tom": "Ramesh",
+        "$4": "₹400",
+        "$48": "₹4800"
+    },
+    {
+        "Josh": "Anand",
+        "$80": "₹5600"
+    },
+    {
+        "people": "log",
+        "bus": "bus",
+        "first": "pehle",
+        "stop": "stop",
+        "off": "nikalte hain",
+        "on": "asaai jaate hain",
+        "second": "dusre"
+    },
+    {
+        "Jame": "Jame",
+        "years": "saal"
+    },
+    {
+        "Errol": "Ramesh",
+        "computer": "laptop",
+        "monitors": "LCD screens",
+        "printer": "printer",
+        "$2,400": "₹1,96,000",
+        "$400": "₹40,000",
+        "$1,100": "₹1,10,000"
+    },
+    {
+        "Twenty kids": "Veeru and twenty Shrutis",
+        "school trip": "school excursion",
+        "scavenger hunt": "seashell hunt",
+        "seashells": "seashells",
+        "$0": "₹0",
+        "one": "one"
+    },
+    {
+        "Nick": "Ravi",
+        "candies": "laddoos",
+        "George": "Rajat"
+    },
+    {
+        "Chenny": "Chinmay",
+        "Alyana": "Alina",
+        "Anne": "Anu"
+    },
+    {
+        "books": "nibandh",
+        "shelf": "ghar ke shamianey",
+        "31 mm": "31 mm",
+        "50 mm": "50 mm",
+        "5 mm": "5 mm"
+    },
+    {
+        "Emma": "Emma",
+        "vlogs": "video blogs (vlogs)"
+    },
+    {
+        "wife": "wife",
+        "$50": "₹4,000"
+    },
+    {
+        "John": "Tarun",
+        "$18": "₹1,350",
+        "$5": "₹5",
+        "$10": "₹10",
+        "$8": "₹8"
+    },
+    {
+        "Elvis": "Ravi",
+        "$1125": "₹90,000"
+    },
+    {
+        "Verna": "Verna",
+        "fruit": "phalahar",
+        "apples": "seb apples",
+        "oranges": "narangi oranges",
+        "peaches": "amroba peaches",
+        "$1.50": "₹15",
+        "$0.80": "₹80",
+        "$0.75": "₹75",
+        "$20": "₹200"
+    },
+    {
+        "Jairus": "Ramesh",
+        "Jenny": "Priya",
+        "$0.8": "₹6",
+        "$0.5": "₹3"
+    },
+    {
+        "Jeff": "Ravi",
+        "Brad": "Kunal",
+        "$100": "100 USD"
+    },
+    {
+        "Jeff": "Ramesh",
+        "miles": "kilometers"
+    },
+    {
+        "Elise": "Shilpa",
+        "alphabet": "Varnamala"
+    },
+    {
+        "Ali": "Ravi",
+        "coworker": "colleague",
+        "$": "₹",
+        "families": "households",
+        "3": "तीन",
+        "round": "रंद",
+        "calls": "कॉल"
+    },
+    {
+        "Mark": "Ravi",
+        "pounds": "kilograms",
+        "10": "10",
+        "70": "70"
+    },
+    {
+        "Jonathan": "Ram",
+        "toys": "toys",
+        "James": "Shyam",
+        "$0": "₹0"
+    },
+    {
+        "school supplies": "study materials",
+        "$1.50": "₹110",
+        "$0.25": "₹5",
+        "$12": "₹1,200",
+        "$10": "₹1,000",
+        "Daniel": "Daniel"
+    },
+    {
+        "Carly": "Carly",
+        "hamburgers": "hamburgers",
+        "potato fries": "aloo bhujia",
+        "cans of fruit drinks": "bottles of nimbu pani",
+        "$4": "₹160",
+        "$0.30": "₹9",
+        "$2": "₹200",
+        "$100": "₹100"
+    },
+    {
+        "Antonella": "Antara",
+        "$1000": "₹1,00,000",
+        "$2500": "₹2,50,000"
+    },
+    {
+        "Bill": "Ram",
+        "water bottles": "packaged water",
+        "2 cases": "2 cases of packaged water",
+        "70": "70 guests",
+        "$": "₹"
+    },
+    {
+        "John": "Ram",
+        "water": "pani",
+        "miles": "yojan",
+        "$16": "₹1176",
+        "2 minutes": "2 minute",
+        "twice as long": "do baar tak pahle kaal mein"
+    },
+    {
+        "John": "Ramesh",
+        "$2": "₹16",
+        "$80": "₹5,600"
+    },
+    {
+        "Subway": "Subway",
+        "lunch": "lunch",
+        "$40": "₹40",
+        "foot-long": "foot-long",
+        "fish": "machhli",
+        "six-inch": "six-inch",
+        "cold-cut": "cold-cut combo sub"
+    },
+    {
+        "bag": "cloth bag",
+        "buttons": "buttons",
+        "it": "traditional Indian instrument (Tanpura)",
+        "sitar": "sitar"
+    },
+    {
+        "Timothy": "Timothy",
+        "Zack": "Zaheer",
+        "Peter": "Pritam",
+        "cubic inches": "cubic inches"
+    },
+    {
+        "Octavia": "Sita",
+        "coffee": "chai",
+        "Juan": "Rajesh",
+        "$10": "₹325"
+    },
+    {
+        "Mark": "Mark",
+        "Susan": "Susan",
+        "pounds": "kg",
+        "150": "68",
+        "20": "-60",
+        "Bob": "Bob"
+    },
+    {
+        "Sahir": "Shyam",
+        "pyramids": "pyramids",
+        "$0": "₹0",
+        "10 hours": "10 hours"
+    },
+    {
+        "James": "Ram",
+        "birthday candles": "birthday candles",
+        "$3": "₹210"
+    },
+    {
+        "Judy": "Priya",
+        "minutes": "minutes",
+        "pages": "pages",
+        "100": "100",
+        "1.5": "1.5"
+    },
+    {
+        "Cody": "Ramesh",
+        "Trevor": "Rajat",
+        "sandwiches": "sandwich-like snacks called 'tawa paneer sandwiches'"
+    },
+    {
+        "Shiloh": "Shiloh",
+        "nephew": "neice"
+    },
+    {
+        "Sharon": "Shruti",
+        "$5.00": "₹500",
+        "$1.00": "₹100"
+    },
+    {
+        "Richie": "Tinke",
+        "soccer": "football",
+        "Mark": "Markar",
+        "Anna": "Annabai",
+        "$0": "₹0"
+    },
+    {
+        "Peter": "Ram",
+        "$70": "₹5,600",
+        "wooden action figures": "wooden toys",
+        "$5": "₹300",
+        "plastic action figures": "plastic toys",
+        "$2": "₹20"
+    },
+    {
+        "Leah": "Leah",
+        "kitten": "kitten",
+        "$200": "₹16,000",
+        "$20": "₹20",
+        "vases": "vases",
+        "$12": "₹12"
+    },
+    {
+        "Ford": "Ram",
+        "roses": "Roses",
+        "$": "₹",
+        "week": "week"
+    },
+    {
+        "Katina": "Kavita",
+        "$3000": "₹2,34,000",
+        "$100": "₹8,000"
+    },
+    {
+        "grilled cheeses": "grilled cheese sandwiches made with naan bread",
+        "$3.00": "₹225",
+        "loaf": "naan",
+        "sandwiches": "grilled cheese sandwiches",
+        "$30.00": "₹3,000",
+        "$7.00": "₹70"
+    },
+    {
+        "Kate": "Shreya",
+        "crayons": "crayons",
+        "muffins": "parathas",
+        "$1.50": "₹120"
+    },
+    {
+        "Michael": "Ram",
+        "carpet": "rug",
+        "$12": "₹120",
+        "$2": "₹20",
+        "$4": "₹40",
+        "$34": "₹340"
+    },
+    {
+        "Mack": "Ravi",
+        "sky": "local park",
+        "birds": "sparrows"
+    },
+    {
+        "Diane": "Diya",
+        "number": "rickshaws",
+        "$": "₹",
+        "20": "20 rupees",
+        "12": "12 rupees"
+    },
+    {
+        "boy": "shishya",
+        "cards": "playing cards"
+    },
+    {
+        "Maggie's oven": "Maggie's tandoor"
+    },
+    {
+        "Max": "Ravi",
+        "movies": "films",
+        "$": "₹",
+        "minutes": "minutes",
+        "hours": "hours",
+        "weekend": "weekend"
+    },
+    {
+        "Juan": "Ramesh",
+        "Herb": "Herb",
+        "neighbor": "neighbor",
+        "$76,000": "₹58,80,000"
+    },
+    {
+        "Judy": "Jyoti",
+        "cups": "katori",
+        "dishes": "katori-vaalas",
+        "church's": "mandir's",
+        "$0": "₹0"
+    },
+    {
+        "Pete": "Pritam",
+        "muffins": "contacts",
+        "$100.00": "₹7,000"
+    },
+    {
+        "Tabitha": "Tanvi",
+        "John": "Ramesh",
+        "Jill": "Sona",
+        "$10": "₹10",
+        "Saturday": "Shukla Paksha",
+        "Sunday": "Krishna Paksha"
+    },
+    {
+        "Hannah": "Hema",
+        "ml": "ml",
+        "calories": "calories",
+        "aerobics": "aerobics",
+        "running": "running"
+    },
+    {
+        "Jared": "Ram",
+        "WPM": "words per minute (WPM)",
+        "$0": "₹0"
+    },
+    {
+        "Martin": "Martin",
+        "Cheerios": "Ajmal ki Aata (Indian Flour)",
+        "donuts": "gulab jamuns",
+        "$1.25": "₹100",
+        "$1.75": "₹175"
+    },
+    {
+        "Alex": "Shilpa",
+        "event": "gathering",
+        "email": "emails",
+        "friends": "attendees",
+        "spouses": "spouses"
+    },
+    {
+        "Affenpinscher": "Chotu",
+        "Dachshund": "Laddoo",
+        "Papillon": "Tooti",
+        "Mastiff": "Bhaiya",
+        "$": "₹",
+        "pounds": "kilograms",
+        "10": "4.5"
+    },
+    {
+        "Marilyn": "Shilpa",
+        "boots": "jootis",
+        "Amazon.com": "Amazon.in",
+        "$16": "₹1,200",
+        "$4": "₹160"
+    },
+    {
+        "Mark": "Ram",
+        "beanstalk": "kadal-tree",
+        "feet": "meters",
+        "$0": "₹0",
+        "20 feet": "6 meters",
+        "4 feet": "1.2 meters"
+    },
+    {
+        "John": "Ramesh",
+        "cup": "plate",
+        "mushrooms": "button mushrooms",
+        "$": "₹",
+        "gram": "gram"
+    },
+    {
+        "Jerry": "Ram"
+    },
+    {
+        "George": "Ramesh",
+        "$2000": "₹1,60,000",
+        "$500": "₹32,500",
+        "$600": "₹60,000"
+    },
+    {
+        "Colby": "Ravi",
+        "gumballs": "gumballs",
+        "nickel": "nickel (5 paise)",
+        "quarters": "quarters",
+        "dimes": "dime (10 paise)",
+        "pennies": "paisa"
+    },
+    {
+        "John": "",
+        "muffins": "",
+        "$10": "",
+        "store": "pet shop",
+        "dogs": "shikos",
+        "cats": "ghouls",
+        "birds": "pakshi"
+    },
+    {
+        "Jamaal": "Ramesh",
+        "gym": "gym",
+        "pound": "kg",
+        "8-pound": "3.6 kg",
+        "50%": "50%"
+    },
+    {
+        "Steve": "Ram"
+    },
+    {
+        "miles": "kilometers"
+    },
+    {
+        "Ruiz": "Ram",
+        "chocolates": "mithai",
+        "pounds": "kg",
+        "$": "₹",
+        "2": "2",
+        "3/4": "0.75",
+        "hours": "hour",
+        "12": "12"
+    },
+    {
+        "Howard": "Ramesh",
+        "$8": "₹80",
+        "$100": "₹10000"
+    },
+    {
+        "Patrick": "Anand",
+        "lemonade": "nimbu pani",
+        "$0.50": "₹2.50",
+        "$0.60": "₹3.60",
+        "$": "₹"
+    },
+    {
+        "miles": "kilometers",
+        "car": "auto rickshaw",
+        "$": "₹",
+        "Jeremy": "Prateek"
+    },
+    {
+        "jumbo bottle of shampoo": "Ek bhari dandruff-free shampoo bottle",
+        "$24.00": "₹1800",
+        "2 pumps": "2 pump",
+        "washings": "washes",
+        "Jackie": "Jackie",
+        "cents": "cents"
+    },
+    {
+        "Joe": "Ravi",
+        "$50": "₹4,000",
+        "$25": "₹2,500",
+        "$35": "₹3,500"
+    },
+    {
+        "Juan": "Ramesh",
+        "croissants": "butter naan",
+        "1/4 pound": "1/4 kg",
+        "ghee": "ghee"
+    },
+    {
+        "$194": "₹14,400 per meter"
+    },
+    {
+        "John": "Anand",
+        "$100,000": "₹83,00,000"
+    },
+    {
+        "basketball": "cricket",
+        "steakhouse": "dhaba",
+        "steak": "mutton steak",
+        "beef tips": "mutton kebabs",
+        "pounds": "one-pound",
+        "vegetarian meals": "paneer dishes"
+    },
+    {
+        "Reddit": "WhatsApp",
+        "members": "members",
+        "posts": "messages",
+        "March": "Navratri"
+    },
+    {
+        "Gary": "Ram",
+        "$0.15": "₹11.6"
+    },
+    {
+        "Scarlett": "Shalini",
+        "$10.00": "₹830",
+        "yard sale": "local sale",
+        "muffins": "fish",
+        "bags of rocks": "bags of stones",
+        "$2.50": "₹250",
+        "pieces of coral": "pieces of coral",
+        "$2.00": "₹200",
+        "fish": "fish",
+        "$0.50": "₹100",
+        "fish food": "fish food"
+    },
+    {
+        "Jane": "Mira",
+        "beanstalk": "banyan tree",
+        "inches": "centimeters",
+        "$0": "₹0"
+    },
+    {
+        "Prince": "Ram",
+        "butcher": "meat-seller",
+        "kg": "kg",
+        "15": "15",
+        "10": "10",
+        "hours": "hours a day",
+        "Bill": "Shyam",
+        "bull": "bull",
+        "750": "750kg"
+    },
+    {
+        "school auditorium": "school assembly hall",
+        "seats": "benches"
+    },
+    {
+        "road": "road",
+        "pole": "tulsi pole",
+        "street lights": "diyas",
+        "intersection": "chowk",
+        "$0": "₹0",
+        "$20": "₹2000"
+    },
+    {
+        "DVD": "Duaan"
+    },
+    {
+        "John": "Ramesh",
+        "$125": "₹10,000"
+    },
+    {
+        "Jim": "Ravi",
+        "gum": "pan masala",
+        "$0": "₹0"
+    },
+    {
+        "Charmaine": "Chitra"
+    },
+    {
+        "baseball": "kabbadi khele",
+        "baseball coach": "karate-shikshak",
+        "basketball": "kabaddi khele",
+        "basketball coach": "kabaddi-shikshak",
+        "$3": "₹3",
+        "$14": "₹14"
+    },
+    {
+        "Arianna": "Aarav"
+    },
+    {
+        "Ashley": "Shikha",
+        "kb": "kb",
+        "Mb": "Mb"
+    },
+    {
+        "Adam": "Ram",
+        "feet": "1.22 meters",
+        "inches": "102 cm",
+        "roller coaster": "roller coaster",
+        "park": "amusement park",
+        "$": "₹"
+    },
+    {
+        "James": "Ram",
+        "$25,000": "₹25,00,000"
+    },
+    {
+        "Tiffany": "Tanvi",
+        "surfers": "surfers",
+        "30 feet": "30 feet",
+        "25%": "25%",
+        "women": "men",
+        "100 riders": "100 surfers"
+    },
+    {
+        "jewelers store": "jewellery store in Mumbai",
+        "Jewell": "kaliram, kankan, chandan",
+        "$": "₹",
+        "diamond Jewell": "kankan",
+        "gold Jewell": "kaliram",
+        "silver Jewell": "chandan",
+        "$2000": "₹2,00,000"
+    },
+    {
+        "Max": "Ramesh",
+        "stamps": "postage stamps",
+        "$": "₹",
+        "snowflake": "snowflake",
+        "truck": "truck",
+        "rose": "lotus"
+    },
+    {
+        "Tom": "Shyam",
+        "Bob": "Ram",
+        "miles": "kilometers",
+        "55 miles per hour": "88 kilometers per hour",
+        "70 miles per hour": "90 kilometers per hour",
+        "$": "₹"
+    },
+    {
+        "Tommy": "Ram",
+        "Darren": "Shyam",
+        "Naomi": "Meera"
+    },
+    {
+        "Manny": "Manav",
+        "$60": "₹4,800",
+        "$10": "₹100"
+    },
+    {
+        "Julie": "Jui",
+        "Jewel": "Jyoti",
+        "daily": "every day"
+    },
+    {
+        "Reggie": "Ramesh",
+        "Lynn": "Sita",
+        "Paisley": "Priya",
+        "miles": "miles"
+    },
+    {
+        "apples": "seb",
+        "oranges": "narangi",
+        "$5.20": "₹520",
+        "$3.30": "₹330"
+    },
+    {
+        "Bob": "Ram",
+        "feet": "meters",
+        "3 seconds": "3 seconds"
+    },
+    {
+        "Tim": "Ramesh",
+        "$20000": "₹1,60,000"
+    },
+    {
+        "James": "Ram",
+        "wardrobe": "kabristan",
+        "suits": "kurtas",
+        "dress pants": "salwar kameez",
+        "$750": "₹56,250",
+        "3": "3 kurtas",
+        "$60": "₹4,000"
+    },
+    {
+        "news website": "popular Indian news portal",
+        "political and weather news articles": "political and weather news articles in Hindi and English",
+        "its sister company": "its sister company, a financial news outlet",
+        "business news articles": "business news articles in Hindi",
+        "February": "the month of Shravana"
+    },
+    {
+        "Steve": "Ram",
+        "wife": "wife",
+        "his": "his",
+        "60": "60",
+        "years": "years old",
+        "older": "older",
+        "his wife": "his mother",
+        "their son": "their son Shyam",
+        "currently": "currently",
+        "half": "half",
+        "as old as": "as old as",
+        "his mom": "his mother Sita",
+        "their son's wife": "Shyam's wife Savitri",
+        "3": "3",
+        "years younger": "3 years younger"
+    },
+    {
+        "bag of flour": "sack of atta"
+    },
+    {
+        "biked": "cycled",
+        "miles": "miles",
+        "4.5": "4.5 hours",
+        "2.5": "2.5 hours"
+    },
+    {
+        "Bill": "Ram",
+        "feet": "feet",
+        "soil": "loam",
+        "clay": "clay",
+        "$0": "₹0"
+    },
+    {
+        "Howie": "Ravi",
+        "cupcakes": "kheer",
+        "$0": "₹0"
+    },
+    {
+        "John": "Rani",
+        "Instagram": "Instagram",
+        "$": "₹",
+        "1 week": "1 week",
+        "3 weeks": "3 weeks",
+        "2000": "₹200",
+        "70": "70",
+        "20000": "₹20000"
+    },
+    {
+        "Clara": "Rekha",
+        "pomegranates": "anar",
+        "$20": "₹1660",
+        "$2": "₹2",
+        "Tuesday": "Raat bhar",
+        "$30": "₹30",
+        "Sheila": "Seema",
+        "voucher": "voucher",
+        "next day": "Raat bhar"
+    },
+    {
+        "Ariadne": "Ravi",
+        "hats": "caps",
+        "red": "namkeen-red",
+        "green": "haldi-yellow",
+        "$400": "₹40,000"
+    },
+    {
+        "James": "Ram",
+        "horse-drawn carriage": "tonga",
+        "$15": "₹1500"
+    },
+    {
+        "Sally": "Sally",
+        "$": "₹",
+        "$200": "₹14,000",
+        "$420": "₹25,200",
+        "$300": "₹30,000"
+    },
+    {
+        "Lori": "Laxmi",
+        "deviled egg halves": "boiled egg halves",
+        "$1": "₹70"
+    },
+    {
+        "Shiela": "Shilpa",
+        "15-page": "15-page research report",
+        "1/3": "1/3 of the report"
+    },
+    {
+        "Mike": "Mike",
+        "teacher": "Mrs. Gupta",
+        "200-page book": "200-page book",
+        "30 days": "30 days",
+        "10 pages": "10 pages"
+    },
+    {
+        "James": "Ramesh",
+        "$150,000": "₹1,50,00,000",
+        "$5000": "₹50,000"
+    },
+    {
+        "Finley": "Ramesh",
+        "grocery store": "local market",
+        "rice": "rice",
+        "beans": "lentils",
+        "pork": "paneer",
+        "$0": "₹0"
+    },
+    {
+        "pound": "kg",
+        "almonds": "badam",
+        "walnuts": "akhrot",
+        "$10": "₹10",
+        "$15": "₹15"
+    },
+    {
+        "Lee": "Ram",
+        "sheep": "goats",
+        "geese": "ducks",
+        "$0": "₹0"
+    },
+    {
+        "Gus": "Ramesh",
+        "grocery store": "local market",
+        "bag of chips": "packets of namkeen",
+        "$2.00": "₹100",
+        "bucket of fried chicken": "katora of fried fish",
+        "$8.00": "₹600",
+        "bottle of soda": "bottle of limca",
+        "$1.00": "₹20",
+        "apple pie": "gajar ka halwa"
+    },
+    {
+        "James": "Ram",
+        "newspapers": "pratibha patrakas",
+        "District A": "Zilla A",
+        "District B": "Zilla B",
+        "District C": "Zilla C"
+    },
+    {
+        "John": "Ramesh",
+        "$": "₹",
+        "hours": "hours",
+        "weeks": "weeks",
+        "days": "days"
+    },
+    {
+        "teachers": "gurus",
+        "school basketball court": "school playground",
+        "60%": "60%",
+        "history teachers": "pracheen (history) gurus",
+        "math teachers": "shiksha (math) gurus",
+        "$": "₹",
+        "hours": "ratri",
+        "day": "day"
+    },
+    {
+        "Kassidy": "Kritika",
+        "Rayna": "Rani",
+        "$": "₹",
+        "Aurelia": "Aarav",
+        "dollars": "₹"
+    },
+    {
+        "Sarah": "Rahim",
+        "basketball games": "kabaddi matches",
+        "quarters": "quarters",
+        "minutes": "minutes",
+        "$0": "₹0"
+    },
+    {
+        "employees": "Indian employees"
+    },
+    {
+        "muffins": "parathas",
+        "$0.25": "0.25 katori",
+        "Svetlana": "Sita"
+    },
+    {
+        "Robert": "Ram",
+        "candy": "mithai",
+        "Halloween": "Diwali",
+        "pounds": "kg",
+        "3": "1.36",
+        "5": "2.27",
+        "4": "2.27"
+    },
+    {
+        "Janey": "Meera",
+        "Sally": "Seema",
+        "books": "books"
+    },
+    {
+        "Mrs. Jameson": "Mrs. Kapoor",
+        "bamboo": "neem ki phool",
+        "backyard": "gharelu khud",
+        "30 inches": "30 inches",
+        "20 feet": "20 feet",
+        "600 inches": "600 inches"
+    },
+    {
+        "James": "Ram",
+        "toys": "playthings",
+        "$0": "₹0"
+    },
+    {
+        "John": "Tinu",
+        "Dylan": "Tinu",
+        "Frances": "Ravi",
+        "Skyler": "Suresh",
+        "$1200": "₹96,000"
+    },
+    {
+        "Lorie": "Rani",
+        "Karen": "Kareena",
+        "$10": "₹830"
+    },
+    {
+        "John": "Kunal",
+        "muffins": "aloo parathas",
+        "$6": "₹216",
+        "36": "₹216"
+    },
+    {
+        "Jack": "Amit",
+        "elevator": "lift",
+        "$": "₹",
+        "kg": "kg",
+        "adult": "average adult"
+    },
+    {
+        "Katarina": "Kavita",
+        "cookies": "naan",
+        "Max": "Max",
+        "Cookie Monster": "the Cookie Monster",
+        "$0": "₹0"
+    },
+    {
+        "Shania": "Shilpa",
+        "dress": "lehenga",
+        "50%": "50%",
+        "cm": "cm",
+        "140cm": "140cm",
+        "$0": "₹0"
+    },
+    {
+        "Chris": "Ram",
+        "lawn": "garden",
+        "turtle": "tortoise",
+        "rabbit": "hare",
+        "$0": "₹0"
+    },
+    {
+        "John": "Ramesh",
+        "Jack": "Raju",
+        "school": "their school",
+        "corner": "chowk",
+        "fire station": "fire station"
+    },
+    {
+        "Catherine": "Kavita",
+        "grocery store": "shopping mall",
+        "$4": "₹160",
+        "kilo": "kilometer",
+        "bananas": "kela",
+        "oranges": "narangi"
+    },
+    {
+        "Greta": "Ritu",
+        "Celinda": "Seema",
+        "cookies": "mathris"
+    },
+    {
+        "John": "Ramesh",
+        "$": "₹"
+    },
+    {
+        "Manolo": "Ramesh",
+        "lollipops": "laddoos",
+        "candies": "mithai",
+        "$3.20": "₹160",
+        "$0.40": "₹4"
+    },
+    {
+        "Rong": "Ravi",
+        "Neil": "Shyam",
+        "piggy bank": "ghanta",
+        "$": "₹",
+        "month": "month",
+        "10 years": "10 years"
+    },
+    {
+        "John": "Ramesh",
+        "dog": "pet dog",
+        "$20": "₹20",
+        "$125": "₹125"
+    },
+    {
+        "bananas": "kela",
+        "apples": "seb",
+        "oranges": "narangi",
+        "$0.5": "₹5"
+    },
+    {
+        "Brittany": "Ritu",
+        "comforter": "quilt",
+        "$1": "₹"
+    },
+    {
+        "Mia": "Mia",
+        "restaurant": "restaurant",
+        "adult": "adult",
+        "babies": "bebein",
+        "$0": "₹0"
+    },
+    {
+        "deer": "sambar",
+        "bucks": "hiran",
+        "$0": "₹0"
+    },
+    {
+        "Adam": "Aditya",
+        "Martha": "Meera",
+        "Betty": "Rani",
+        "Tom": "Rahul",
+        "$0": "₹0",
+        "class": "Class 3B",
+        "trip": "excursion",
+        "school points": "school marks"
+    },
+    {
+        "Great Grandma Jones": "Daduji"
+    },
+    {
+        "Greta": "Ramesh",
+        "$2400.00": "₹1,80,000"
+    },
+    {
+        "pencils": "graphite sticks (bargad pencils)",
+        "$0": "₹0"
+    },
+    {
+        "Hannah's city": "Hannah's city, Mumbai",
+        "4th of July": "Diwali",
+        "boxes": "boxes",
+        "$": "₹",
+        "Hannah will also set off": "Hannah will also ignite"
+    },
+    {
+        "Aiden": "Ramesh",
+        "cinema": "cinema",
+        "$2": "₹160"
+    },
+    {
+        "Gissela": "Ramesh",
+        "Gordy": "Rajesh",
+        "Gary": "Rahul",
+        "pounds": "kg",
+        "4000": "1814.37",
+        "800": "800",
+        "11600": "11600"
+    },
+    {
+        "Larry": "Anand",
+        "dumplings": "gulab jamuns"
+    },
+    {
+        "Gerald": "Ram",
+        "Julia": "Sita",
+        "$100": "₹10,000",
+        "$10": "₹1,000"
+    },
+    {
+        "Martha": "Mithila",
+        "cat": "cat",
+        "turtle": "tortoise",
+        "feet": "feet",
+        "second": "second"
+    },
+    {
+        "firefighters": "Mumbai firefighters",
+        "fill the boot": "dhan daan",
+        "$6300": "₹6,30,000",
+        "$2100": "₹2,10,000"
+    },
+    {
+        "Colorado City": "Ujjain",
+        "Colorado River": "Narmada River",
+        "$10": "₹830",
+        "industrial purposes": "during festivals like Ganesh Chaturthi and Diwali"
+    },
+    {
+        "Alex": "Kumar",
+        "$12": "₹12",
+        "week": "2 weeks",
+        "$": "₹"
+    },
+    {
+        "ice cream factory": "sweet shop",
+        "quarts": "liters",
+        "chocolate ice cream": "chocolaty kulfi",
+        "vanilla ice cream": "vanilla kulfi",
+        "$0": "₹0",
+        "hours": "hours"
+    },
+    {
+        "Marcus": "Ramesh",
+        "croissants": "croissants",
+        "cinnamon rolls": "cinnamon rolls",
+        "mini quiches": "mini quiches",
+        "blueberry muffins": "blueberry muffins",
+        "$": "₹",
+        "3.00": "90",
+        "4.00": "120",
+        "2.50": "100",
+        "$1.00": "10"
+    },
+    {
+        "ice cream parlor": "ice cream shop",
+        "scoops": "kulfi scoops",
+        "$1.50": "₹120",
+        "Erin": "Erin",
+        "$6.00": "₹600"
+    },
+    {
+        "Amy": "Priya",
+        "Halloween": "Diwali",
+        "candy": "sweets",
+        "$0": "₹0"
+    },
+    {
+        "Mr Boarden": "Shri Dwarkanath",
+        "mosaic tiles": "mosaic tiles",
+        "sq ft": "sq ft",
+        "$0": "₹0"
+    },
+    {
+        "James": "Ram",
+        "blueberries": "jamun fruits",
+        "$20": "₹1400",
+        "$1.5": "₹15",
+        "$2.5": "₹25"
+    },
+    {
+        "$700": "₹56,000"
+    },
+    {
+        "John": "Ramesh",
+        "eggs": "boiled eggs",
+        "oz": "ounces",
+        "cheese": "paneer",
+        "ham": "pav bhaji masala"
+    },
+    {
+        "pencil": "pencil",
+        "eraser": "eraser",
+        "$0.50": "₹25",
+        "$0.25": "₹5",
+        "$10": "₹100"
+    },
+    {
+        "people": "logikalar",
+        "Google": "Google India"
+    },
+    {
+        "Goldy": "Rani",
+        "sacks": "khands",
+        "rice": "chawal",
+        "$10": "₹830",
+        "20": "20",
+        "25": "25 kilograms"
+    },
+    {
+        "Castle": "Ramesh",
+        "Coco Crunch": "Kellogg's Mukhwaas",
+        "Fruit Loops": "Fruity O's",
+        "$": "₹"
+    },
+    {
+        "Helga": "Rekha",
+        "Slovenia": "India",
+        "clog dance": "Bharatanatyam dance form",
+        "taps": "taps",
+        "$0": "₹0",
+        "minutes": "minutes"
+    },
+    {
+        "Ron": "Ram",
+        "$450": "₹33,000",
+        "$120": "₹1,200",
+        "buckets": "buckets of tar",
+        "$25": "₹250"
+    },
+    {
+        "babies": "infants",
+        "chairs for babies": "chairs for infants",
+        "restaurant": "hotel",
+        "car": "carpenter"
+    },
+    {
+        "Bryce": "Ramesh",
+        "pizzas": "paneer tikka pizzas",
+        "football practice": "football practice",
+        "12": "12",
+        "2/3": "2/3",
+        "¾": "¾"
+    },
+    {
+        "cat": "street cat",
+        "sausages": "kababs",
+        "minutes": "minutes"
+    },
+    {
+        "Topher": "Ramesh",
+        "green giant": "green giant",
+        "shoes": "jootis",
+        "Bobby": "Bobby",
+        "inches": "inches",
+        "10": "10",
+        "9": "9",
+        "feet": "feet",
+        "4": "4"
+    },
+    {
+        "Hannah": "Shikha",
+        "high school's": "school's",
+        "cars'": "cars",
+        "$": "₹",
+        "quarter": "one-fourth",
+        "3/4ths": "three-fourths"
+    },
+    {
+        "Candy": "Ravi",
+        "spools": "bobbins",
+        "$0": "₹0"
+    },
+    {
+        "election day": "Naukri Bandi Divas"
+    },
+    {
+        "Parker": "Ravi",
+        "gum": "paan masala",
+        "$0": "₹0"
+    },
+    {
+        "graham crackers": "graham crackers",
+        "sleeve": "pack",
+        "large smores": "bada smores",
+        "box": "box",
+        "9 kids": "9 bachche",
+        "2": "2",
+        "6 adults": "6 adult",
+        "1": "1"
+    },
+    {
+        "Dora": "Dora",
+        "twice": "double",
+        "$": "₹"
+    },
+    {
+        "Cindy": "Ravi",
+        "pounds": "kilograms",
+        "French book": "Hindi book",
+        "English book": "English book",
+        "history book": "history book"
+    },
+    {
+        "candidate A": "कandidat A",
+        "candidate B": "कandidat B",
+        "votes": "अबोज़्ट",
+        "student council": "school council",
+        "100 voters": "100 शिक्षक चुनाव में राजनीतिक संसद",
+        "$": "₹"
+    },
+    {
+        "Boris": "Ramesh",
+        "apples": "seetaphal",
+        "Beck": "Rahul"
+    },
+    {
+        "Peter": "Ram",
+        "ounces": "ounces",
+        "32": "32",
+        "giant": "big",
+        "medium": "medium",
+        "small": "small",
+        "ice cubes": "ice cubes",
+        "water": "water"
+    },
+    {
+        "Steven": "Steven",
+        "Alice": "Anita"
+    },
+    {
+        "milk store": "local dairy",
+        "gallon jar": "pail (gaadi)",
+        "half-gallon jar": "half-pail (half-gaadi)",
+        "$2": "₹50",
+        "$5": "₹100"
+    },
+    {
+        "Jeremy": "Ramesh",
+        "birds": "sparrows",
+        "$10": "",
+        "backyard": "haveli's courtyard"
+    },
+    {
+        "school": "local school named Vidya Mandir",
+        "classes": [
+            "Bal",
+            "Shishu"
+        ],
+        "students": 80,
+        "$": ""
+    },
+    {
+        "Mara": "Mira",
+        "cake": "cake",
+        "$0": "₹0",
+        "slices": "pieces",
+        "plate": "thali"
+    },
+    {
+        "Melissa": "Mira",
+        "muffins": "",
+        "$": "₹",
+        "Dalmatians": "Dalmatians",
+        "Siamese": "Siamese cats",
+        "Indian Ringneck": "parrots",
+        "Marwari": "horses"
+    },
+    {
+        "Mark": "Mark",
+        "packs": "boxes",
+        "$1800": "₹1,35,000",
+        "$4000": "₹4,00,000",
+        "$1000": "₹1,00,000",
+        "old magic cards": "vintage magic cards",
+        "$": "₹"
+    },
+    {
+        "Jake": "Aarav",
+        "$26": "₹2,600",
+        "$12": "₹1,200",
+        "$14": "₹1,400",
+        "$10": "₹1,000"
+    },
+    {
+        "tomatoes": "tomatoes",
+        "$.5": "₹5",
+        "$.4": "₹4"
+    },
+    {
+        "Carl": "Ram",
+        "Sean": "Shyam",
+        "Cal": "Ajay",
+        "$0": "₹0"
+    },
+    {
+        "school activity": "school function during Diwali",
+        "students": "students from a local Gurukul"
+    },
+    {
+        "Candy": "Mithai"
+    },
+    {
+        "Gunther": "Ramu",
+        "bananas": "bananas",
+        "fern branch": "neem leaf",
+        "Arnold": "Laxman"
+    },
+    {
+        "Jenna": "Jyoti",
+        "$100": "₹7,500"
+    },
+    {
+        "Jeff": "Ramesh",
+        "catering company": "catering business",
+        "glasses": "katori",
+        "dozen": "dozens",
+        "plates": "thali"
+    },
+    {
+        "Lorraine": "Rani",
+        "Colleen": "Meena",
+        "stickers": "stickers",
+        "buttons": "badges",
+        "large": "big",
+        "small": "small",
+        "$": "₹",
+        "10": "₹10"
+    },
+    {
+        "Joey": "Ravi",
+        "football": "kabaddi",
+        "Monday": "Mangalwar",
+        "Friday": "Bhaadva",
+        "Saturday": "Shaniwar"
+    },
+    {
+        "council": "committee",
+        "regulation": "rule"
+    },
+    {
+        "Krissa": "Shikha",
+        "preschool": "school",
+        "field trip shirts": "t-shirts",
+        "$0": "₹0",
+        "extra-small": "extra-small",
+        "small": "small",
+        "medium": "medium",
+        "large": "large",
+        "extra-large": "extra-large"
+    },
+    {
+        "bag": "vahan",
+        "discount": "discount",
+        "$140": "₹10,600"
+    },
+    {
+        "John": "Ramesh"
+    },
+    {
+        "people": "logwale",
+        "race": "maha race",
+        "dollars": "₹",
+        "horses": {
+            "2": "#2",
+            "7": "#7",
+            "12": "#12"
+        },
+        "percent": "%"
+    },
+    {
+        "Jana": "Tina",
+        "puppies": "kutte",
+        "Pomeranians": "Pomeranian",
+        "thirds": "talwar",
+        "girls": "Panchi"
+    },
+    {
+        "Jayden": "Ram",
+        "Ava": "Priya",
+        "$70": "₹5,600",
+        "$90": "₹9,000",
+        "$200": "₹20,000"
+    },
+    {
+        "Rob": "Ramesh",
+        "Royce": "Raju",
+        "Pedro": "Kishan",
+        "shingles": "tiles",
+        "$": "₹",
+        "cases": "bundles",
+        "homes": "houses"
+    },
+    {
+        "Leila": "Leila",
+        "cucumbers": "kakro",
+        "$2": "₹25",
+        "Jack": "Jack",
+        "tomatoes": "tamatar",
+        "$1": "₹10",
+        "Chase": "Chase",
+        "head of lettuce": "tamatar ki ghanti",
+        "lettuce": "Lettuce",
+        "$3": "₹30",
+        "potluck": "potluck"
+    },
+    {
+        "George": "Ram",
+        "pears": "aloo-buka",
+        "bananas": "anar"
+    },
+    {
+        "Marissa": "Meera",
+        "ball": "kabaddi ball",
+        "$20": "₹1,600",
+        "store": "store",
+        "$80": "₹6,000",
+        "Jimmy": "Rajat",
+        "candy bars": "Diwali sweets",
+        "$5": "₹200"
+    },
+    {
+        "Sam": "Ravi",
+        "oranges": "nimbu",
+        "$3": "₹240"
+    },
+    {
+        "Ezra": "Ravi",
+        "Ahmed": "Mohammed"
+    },
+    {
+        "Tanya": "Tanvi",
+        "$15": "₹1,200",
+        "$5": "₹250"
+    },
+    {
+        "perfume": "incense",
+        "company": "local manufacturer",
+        "scents": "fragrances",
+        "vanilla": "vanilla",
+        "fruity": "fruity",
+        "$": "₹",
+        "day": "day"
+    },
+    {
+        "Bennet": "Ram",
+        "eggplants": "brinjals",
+        "$3": "₹150",
+        "corn": "makai",
+        "$135": "₹1350"
+    },
+    {
+        "Tatiana": "Tanvi",
+        "soccer": "football",
+        "Saturday": "Saturday (Shanivar)",
+        "Sunday": "Sunday (Ravivar)"
+    },
+    {
+        "Anthony": "Anand",
+        "pencils": "pen-pencils",
+        "Brandon": "Brandon",
+        "$0": "₹0"
+    },
+    {
+        "Jack": "Ram",
+        "miles": "kilometers",
+        "75": "120",
+        "hours": "6"
+    },
+    {
+        "Henry": "Ravi",
+        "cars": "cars",
+        "motorcycles": "motorcycles",
+        "$0": "₹0"
+    },
+    {
+        "laptop": "laptop",
+        "$1000": "₹1,00,000"
+    },
+    {
+        "Mike": "Ram",
+        "movies": "films",
+        "$6": "₹60",
+        "$10": "₹100"
+    },
+    {
+        "Pick Your Own fruit orchard": "Aam-Pali Utsav (fruit fair)",
+        "peaches": "Aam (mangoes)",
+        "plums": "Aloo-Bukhara",
+        "apricots": "Aprukaat",
+        "$2.00": "₹20 per kg",
+        "$1.00": "₹10 per kg",
+        "$3.00": "₹30 per kg",
+        "Winston": "Winston"
+    },
+    {
+        "Llesis": "Sharma",
+        "hours": "hours",
+        "miles": "km",
+        "dollars": "₹"
+    },
+    {
+        "Ava": "Ravi",
+        "Emma": "Priya",
+        "birthday": "Diwali festival",
+        "muffins": "berries",
+        "$10": "₹80"
+    },
+    {
+        "John": "Chotu",
+        "pizzas": "pizzas",
+        "$64": "₹4,800",
+        "$30": "₹1,800"
+    },
+    {
+        "Chase": "Chase",
+        "Rider": "Rider",
+        "bikes": "bicycles",
+        "days": "days",
+        "5": "5",
+        "twice": "double",
+        "usual": "regular"
+    },
+    {
+        "Bob": "Ram",
+        "fish": "fish",
+        "orange": "red (laal)",
+        "white": "white (shiro)",
+        "$": "₹",
+        "pet store": "local pet store"
+    },
+    {
+        "Andy": "Ramesh",
+        "MPG": "mile",
+        "gallon": "baril",
+        "$3": "₹73.01"
+    },
+    {
+        "Carrie": "Carrie",
+        "ten twenties": "ten twenty-dollar notes",
+        "140 quarters": "140 fifty-paisa coins",
+        "$10": "₹600"
+    },
+    {
+        "Ricardo": "Ramesh",
+        "tomatoes": "tomatoes",
+        "eggplants": "brinjals",
+        "$0": "₹0"
+    },
+    {
+        "Samwell": "Ram",
+        "store": "TV store in Mumbai",
+        "smart TVs": "smart TVs",
+        "analog TVs": "analog TVs",
+        "OLED TVs": "OLED TVs",
+        "$": "₹"
+    },
+    {
+        "Carson": "Ramesh",
+        "house": "old house",
+        "32 degrees": "0 degrees Celsius",
+        "log of wood": "logs",
+        "heats": "increases the temperature",
+        "5 degrees": "5 degrees Celsius",
+        "during the day": "during the day",
+        "night": "night",
+        "compared to the day": "colder during the night compared to the day"
+    },
+    {
+        "county-level": "district-level",
+        "seashells": "seashells"
+    },
+    {
+        "people": "log"
+    },
+    {
+        "Damien": "Ramesh",
+        "bottle caps": "soda bottle caps",
+        "$0.25": "₹15",
+        "month": "30-day month"
+    },
+    {
+        "Jamie": "Jamie",
+        "$": "₹",
+        "20": "1,600",
+        "8": "8",
+        "11": "11"
+    },
+    {
+        "zookeeper": "safari park keeper"
+    },
+    {
+        "Mike": "Ravi",
+        "mall": "mall",
+        "jeans": "denims",
+        "$40": "₹4000",
+        "$50.00": "₹5000"
+    },
+    {
+        "company's": "a tech company's",
+        "HR": "HR",
+        "employees": "employees",
+        "every": "every month",
+        "month": "month",
+        "initial": "initially",
+        "employee number": "employees",
+        "$4000": "₹3,16,000",
+        "three": "three months"
+    },
+    {
+        "Carrie": "Ravi",
+        "caroling": "performance",
+        "Deck the Halls": "Joy to the World",
+        "Jingle Bells": "Aaj Ki Raat",
+        "$": "₹",
+        "seconds": "seconds"
+    },
+    {
+        "loaf of bread": "loaf of roti",
+        "bakery": "bakery",
+        "bagels": "bagels",
+        "$": "₹",
+        "2": "₹200",
+        "3": "₹420",
+        "each": "",
+        "$1": "₹10"
+    },
+    {
+        "Pierson": "Ramesh",
+        "Nikita": "Sonia"
+    },
+    {
+        "Ashley": "Shiksha",
+        "school": "school",
+        "reforestation": "Van Mahotsav",
+        "tree": "peepal",
+        "child": "balak",
+        "teacher": "acharya",
+        "$0": "₹0"
+    },
+    {
+        "Bubbles": "Bubbles",
+        "stuffed animals": "stuffed toys",
+        "stuffed puppies": "stuffed puppies",
+        "stuffed koalas": "stuffed hanuman langurs",
+        "stuffed zebras": "stuffed zebras",
+        "stuffed frogs": "stuffed frogs",
+        "$": "₹"
+    },
+    {
+        "Kris": "Komal",
+        "hours": "hours",
+        "$0": "₹0",
+        "30 hours": "30 hours",
+        "week": "week",
+        "days": "days"
+    },
+    {
+        "cars": "Dua cars",
+        "highway": "national highway",
+        "miles": "kilometers",
+        "2 hours": "2 hours"
+    },
+    {
+        "James": "Ram",
+        "ring": "mangalsutra",
+        "$600": "₹44,000",
+        "$300": "₹18,000"
+    },
+    {
+        "Herbert Hoover Elementary School": "Swami Vivekananda School",
+        "$": "₹"
+    },
+    {
+        "Milo": "Ravi",
+        "muffins": "kaccha glass",
+        "$": "₹",
+        "12": "12",
+        "1": "1 inch",
+        "72": "72",
+        "3": "3",
+        "inches tall": "inches wide"
+    },
+    {
+        "quarts": "quarts",
+        "party": "party",
+        "1.5": "1.5",
+        "2": "2",
+        "gallons": "gallons"
+    },
+    {
+        "Dale": "Ram",
+        "butterscotch candies": "gulab jamun",
+        "$": "₹"
+    },
+    {
+        "month": "mahina",
+        "campus": "campus",
+        "students": "shikshak",
+        "year": "saal",
+        "$10": "₹10"
+    },
+    {
+        "John": "Ramesh",
+        "DeSean": "Ayan",
+        "marshmallows": "rasmalai",
+        "$": "₹",
+        "9": "9",
+        "3": "3"
+    },
+    {
+        "Jack": "Jack",
+        "quarter": "anna",
+        "20 minutes": "20 minute",
+        "friends": "dost",
+        "1.5 times": "1.5 baar"
+    },
+    {
+        "Tanya": "Tanya",
+        "salt": "namak",
+        "oil": "tel",
+        "fragrance": "ittar",
+        "citrus zest": "nimbu rind",
+        "sugar": "shakkar",
+        "$10": "10 ounces"
+    },
+    {
+        "John": "Ramesh",
+        "$500": "₹50,000",
+        "$1500": "₹1,50,000"
+    },
+    {
+        "Paul": "Ravi",
+        "cupcakes": "rasmalai",
+        "Saturday": "Shukla Paksha Saptami"
+    },
+    {
+        "Joe": "Ram",
+        "Robert": "Shyam"
+    },
+    {
+        "Twenty": "Veeru aur 19",
+        "students": "dost-dost",
+        "$175,000": "₹1,75,00,000",
+        "$50,000": "₹50,00,000"
+    },
+    {
+        "Sandy": "Radha",
+        "Holloway Shores": "Hastinapur Kaali Ghat",
+        "Sun Valley Shores": "Sun Valley Shores",
+        "Hollock valley shores": "Hollock Valley Shores",
+        "$": "₹",
+        "hours": "ghante"
+    },
+    {
+        "Hunter": "Ramesh",
+        "cars": "cars",
+        "school": "school",
+        "morning": "morning",
+        "break": "midday meal",
+        "lunch break": "midday meal"
+    },
+    {
+        "John": "Ramesh",
+        "$1.20": "₹120"
+    },
+    {
+        "Sasha": "Ram",
+        "Julie": "Priya",
+        "basketball": "kabaddi",
+        "practice games": "practice matches",
+        "$0": "₹0"
+    },
+    {
+        "Kimberly": "Ritu",
+        "cat food": "gati pakwan",
+        "dog food": "kutta pakwan"
+    },
+    {
+        "Becca": "Rani",
+        "Smendrick": "Shekhar",
+        "PJ": "Ajay",
+        "Magic Cards": "Indian Mythology Cards",
+        "$0": "₹0"
+    },
+    {
+        "Cindy": "Seema",
+        "Easter": "Diwali",
+        "Easter Egg Hunt": "Diwali Rangoli Competition",
+        "eggs": "rangoli colors",
+        "$10": "Not applicable (no currency reference)"
+    },
+    {
+        "Milly": "Mili",
+        "book": "book",
+        "pounds": "kg (Kilograms)",
+        "$32": "₹2,400",
+        "distribution center": "distribution center",
+        "20 miles": "20 kilometers (Kilometers)",
+        "$0.35": "₹0.35",
+        "$0.08": "₹0.08",
+        "Amazon": "Amazon"
+    },
+    {
+        "Mulan": "Malti",
+        "$40": "₹3000",
+        "her father": "Mr. Hua Mulan",
+        "$100": "₹10,000",
+        "two pairs of jeans": "two pairs of denim jeans",
+        "$30": "₹300",
+        "a bag": "a bag",
+        "$20": "₹200"
+    },
+    {
+        "Boris": "Ram",
+        "chocolate": "mithai",
+        "factory": "mithai factory",
+        "Mumbai": "Mumbai",
+        "$": "₹",
+        "50,000": "₹50,000",
+        "8,000": "₹8,000"
+    },
+    {
+        "Britany": "Bina"
+    },
+    {
+        "An": "A local",
+        "interior design firm": "interior design studio",
+        "$129.00": "₹10,000",
+        "hanging": "installing/hung",
+        "4 mirrors": "4 aarupa",
+        "2 shelves": "2 shabak",
+        "1 chandelier": "1 teeka",
+        "10 pictures": "10 tasveer",
+        "$15.00": "₹150"
+    },
+    {
+        "Roy": "Ravi",
+        "Anthony": "Anand",
+        "Eva": "Ishita",
+        "$10.00": "₹100",
+        "$20.00": "₹200"
+    },
+    {
+        "Kagiyami": "Kagiyami",
+        "Saskay": "Sakshi",
+        "Pompei": "Puneet"
+    },
+    {
+        "Mason": "Ram",
+        "bike": "motorbike"
+    },
+    {
+        "John": "Ravi aur Dolly",
+        "kangaroos": "gajraat",
+        "highway": "raah",
+        "turtles": "kachhua",
+        "$0": "₹0"
+    },
+    {
+        "Jada": "Ananya",
+        "Rory": "Rehan",
+        "Kora": "Tanya",
+        "clay dishes": "terracotta art pieces"
+    },
+    {
+        "Erika": "Erika",
+        "laptop": "laptop",
+        "$600": "₹48,000",
+        "$200": "₹16,000",
+        "$150": "₹150",
+        "$80": "₹80",
+        "$50": "₹5,000"
+    },
+    {
+        "Adam": "Ram",
+        "apples": "anaars",
+        "$0": "₹0"
+    },
+    {
+        "farmer": "Indian farmer",
+        "liters": "liters",
+        "cow": "gaay",
+        "$0": "₹0"
+    },
+    {
+        "Patrick": "Ram",
+        "glue sticks": "glue sticks"
+    },
+    {
+        "Gabriel": "Ramesh",
+        "$10000": "₹10,00,000",
+        "$800": "₹8,000",
+        "$5000": "₹50,000",
+        "$200": "₹2,000"
+    },
+    {
+        "Thea": "Meera",
+        "Bali": "Goa",
+        "hat": "cap",
+        "$70": "₹5,600",
+        "$20": "₹2,000"
+    },
+    {
+        "Craig": "Ramesh",
+        "twenty dollar bills": "notes of ₹2000 each",
+        "squirt guns": "water pistols",
+        "$2": "₹2",
+        "packs of water balloons": "packs of paani pichkari",
+        "$3": "₹3"
+    },
+    {
+        "Peter": "Ram",
+        "Jack": "Shyam",
+        "socks": "socks",
+        "dishes": "plates",
+        "$0": "₹0"
+    },
+    {
+        "Miss Susan": "teacher Didi",
+        "students": "shishyas",
+        "math": "subject of math",
+        "English": "subject of English"
+    },
+    {
+        "Vicki": "Ravi",
+        "high school": "college",
+        "pop concert": "music event",
+        "2 hours": "2 hours",
+        "minutes": "minutes",
+        "10-minute intermission": "10-minute tea break"
+    },
+    {
+        "Brenda": "Bina",
+        "$300": "₹2,34,000"
+    },
+    {
+        "clothing store": "local clothing store in Mumbai",
+        "white shirts": "khadi white shirts",
+        "floral shirts": "cotton floral shirts",
+        "$0": "₹0"
+    },
+    {
+        "eggs": "khurkure",
+        "$2.5": "₹200"
+    },
+    {
+        "Mr. Smith": "Shri Kumar",
+        "Farm X": "Gaon X",
+        "Farm Y": "Gaon Y",
+        "goats": "goaton",
+        "$": "₹"
+    },
+    {
+        "James": "Ram",
+        "$2640": "₹2,04,800",
+        "shoes": "jootis"
+    },
+    {
+        "basket of green food": "basket of green vegetables",
+        "basket of red food": "basket of red fruits",
+        "$25": "₹2,000",
+        "$18": "₹1,300",
+        "$": "₹"
+    },
+    {
+        "KozyInn Motel": "Anand Inn",
+        "$0": "₹0"
+    },
+    {
+        "local town": "small Indian village",
+        "homes": "houses",
+        "$": "₹",
+        "3": "three",
+        "years": "year"
+    },
+    {
+        "brother": "bhai",
+        "sister": "behen",
+        "mom": "maa",
+        "$0": "₹0",
+        "years": "saal",
+        "I": "mera",
+        "am": "mujhe",
+        "old": "umr"
+    },
+    {
+        "Mr. Jackson": "Shri Jackson",
+        "glue sticks": "glue sticks",
+        "fourth-grade": "fourth-standard",
+        "$1.50": "₹112.5"
+    },
+    {
+        "gallons": "gallons"
+    },
+    {
+        "plague": "ek vimarsh wohi hai",
+        "ten people": "dus logon ko",
+        "every day": "Har raat",
+        "each infected person": "har ek mukhya-marte hue logon",
+        "infects": "marte hain",
+        "six others": "shashth ek-dus log",
+        "three days": "teen raaton mein"
+    },
+    {
+        "Rafaela": "Rafael",
+        "Julieta": "Juliet",
+        "$20": "₹1600"
+    },
+    {
+        "Jennifer": "Sita",
+        "oranges": "narangi",
+        "$0": "₹0"
+    },
+    {
+        "Claire": "Shilpa",
+        "girl scout": "Girl Guide",
+        "Amber": "Aarti",
+        "Wendy": "Neha"
+    },
+    {
+        "Paige": "Pooja",
+        "banana bread loaves": "vadas",
+        "$": "₹",
+        "hours": "hour",
+        "banana": "banana",
+        "slices": "pieces",
+        "50 cents": "₹40"
+    },
+    {
+        "Gretchen": "Ramya"
+    },
+    {
+        "George": "Mrs. Rani",
+        "burritos": "aloo parathas",
+        "grade six": "fifth standard",
+        "$": "₹",
+        "600": "600",
+        "50": "50",
+        "10": "10",
+        "students": "students",
+        "Mr. George": "Mrs. Rani",
+        "20": "20"
+    },
+    {
+        "bumper car rink": "joy ride arena in Mumbai",
+        "cars": "go-karts",
+        "green cars": "green go-karts",
+        "blue cars": "blue go-karts",
+        "yellow cars": "yellow rickshaws",
+        "$": "₹",
+        "12": "12",
+        "2": "2",
+        "3": "3",
+        "75": "75"
+    },
+    {
+        "Sofie": "Seema",
+        "Anne": "Rani",
+        "Fawn": "Priya"
+    },
+    {
+        "Daisy": "Daisi",
+        "potatoes": "aloo",
+        "sweet potatoes": "shakarkandi",
+        "carrots": "gajar",
+        "pounds": "pounds"
+    },
+    {
+        "Greg": "Ramesh",
+        "jello": "jelly",
+        "$1.25": "₹100",
+        "ounces": "grams",
+        "small jello cups": "cups"
+    },
+    {
+        "phones": "smartphones",
+        "$700": "₹56,000",
+        "$4000": "₹2,80,000"
+    },
+    {
+        "Madeline": "Malti",
+        "Keenan": "Keenan",
+        "$400": "₹30,000",
+        "month": "saalon mein",
+        "dollars": "₹",
+        "week": "kabhi raat ke kuchh din mein"
+    },
+    {
+        "Tobias": "Tanmay",
+        "pizza": "pizzza",
+        "pieces": "slices",
+        "$": "₹",
+        "60": "60"
+    },
+    {
+        "soda": "cola",
+        "$21.00": "₹1,650",
+        "$8": "₹80"
+    },
+    {
+        "David": "Ram",
+        "$12.48": "₹1,000",
+        "bolts": "bolts",
+        "$0.03": "₹0.03"
+    },
+    {
+        "Ella": "Ella",
+        "dogs": "dogs",
+        "$33": "₹25,500"
+    },
+    {
+        "Paul": "Ram",
+        "marbles": "bhola"
+    },
+    {
+        "Amy": "Aarushi",
+        "history test": "history exam",
+        "muffins": "parathas",
+        "$": "₹",
+        "10": "10",
+        "20": "20",
+        "5": "5"
+    },
+    {
+        "Isaias": "Ramesh",
+        "chickens": "murghis",
+        "$50": "₹1000",
+        "$2000": "₹2,00,000"
+    },
+    {
+        "Julie": "Jui",
+        "lemonade": "nimbu pani",
+        "glasses": "glasses",
+        "Mitchell": "Mitch",
+        "Micah": "Mikaah"
+    },
+    {
+        "Iris": "Priya",
+        "$400": "₹30,000",
+        "spa": "spa",
+        "manicure": "manicure",
+        "pedicure": "pedicure",
+        "$1/4": "₹7,500",
+        "$3/4": "₹15,000"
+    },
+    {
+        "Melanie": "Shilpa"
+    },
+    {
+        "Kelly": "Kavita",
+        "supermarket": "local market",
+        "bacon": "paneer",
+        "$10": "₹830",
+        "chicken": "murgh",
+        "$65": "₹6500",
+        "strawberries": "balsam strawberries",
+        "apples": "saphalta"
+    },
+    {
+        "Elaina": "Elaina",
+        "tour": "tour",
+        "concert": "concert",
+        "usual concerts": "regular concerts",
+        "15-minute": "15-minute",
+        "65 minutes": "65 minutes"
+    },
+    {
+        "Alyssa": "Anjali",
+        "Bonnie": "Bina",
+        "Nicky": "Nikhil"
+    },
+    {
+        "Ben and Aggie": "Ramesh's Tikka Roll Shop",
+        "chimichangas": "Tikka Rolls",
+        "Tuesdays": "every Tuesday",
+        "Wednesdays": "every Wednesday",
+        "Friday": "Friday during Diwali festivities"
+    },
+    {
+        "singer": "gaanak",
+        "microphones": "mike",
+        "$0": "₹0",
+        "50": "50",
+        "20%": "20%"
+    },
+    {
+        "Jerry": "Jatin",
+        "bushes": "neem tree",
+        "birds": "sparrows",
+        "$10": "₹830",
+        "6": "6 sparrows",
+        "2/3": "2/3 sparrows",
+        "8": "8 sparrows"
+    },
+    {
+        "Lani": "Laxmi",
+        "cookies": "khasta kachoris",
+        "5 five": "5"
+    },
+    {
+        "Joelle": "Ritu",
+        "orchids": "orchids",
+        "African daisies": "gulmohar flowers"
+    },
+    {
+        "Mrs. Smith": "Smt. Gupta",
+        "garden": "bungalow garden",
+        "$0": "₹0",
+        "plants": "plants",
+        "indoor plants": "indoor plants",
+        "outdoor plants": "outdoor plants",
+        "flowering plants": "flowering plants"
+    },
+    {
+        "thingamabob": "chakri (top)",
+        "whirligig": "chakri (top)",
+        "whatchamacallit": "whatchamacallit chakri (top)",
+        "$": "₹",
+        "meters": "meters"
+    },
+    {
+        "Ellen": "Ritu",
+        "carrots": "gajar",
+        "salad": "raita",
+        "yogurt": "dahi",
+        "$6": "₹600",
+        "$11": "₹1100"
+    },
+    {
+        "Mark": "Ramesh",
+        "$10": "₹830",
+        "$2": "₹167"
+    },
+    {
+        "Tasha": "Tasha",
+        "lemonade": "nimbu pani",
+        "mowing lawns": "khud ko patta khirane ki kami",
+        "Kamala": "Kamala",
+        "Joe": "Joe",
+        "Alba": "Alba",
+        "$80": "₹5,600",
+        "$6": "₹6"
+    },
+    {
+        "Martin": "Martin",
+        "Carl": "Carl",
+        "Christian": "Christian",
+        "Harry": "Harry",
+        "$": "₹"
+    },
+    {
+        "John": "Ramesh",
+        "car": "Maruti Suzuki Swift Dzire",
+        "rents": "rents out",
+        "hours": "hours",
+        "$25": "₹250",
+        "$500": "₹5000"
+    },
+    {
+        "Joseph": "Ram",
+        "Martha": "Sita",
+        "notebooks": "notebooks"
+    },
+    {
+        "Dijana": "Ramesh",
+        "Anis": "Sita",
+        "lake": "a lake in Mumbai",
+        "miles": "miles"
+    },
+    {
+        "Susan": "Sita",
+        "Christmas": "Diwali",
+        "cookies": "khaja",
+        "$0": "₹0"
+    },
+    {
+        "Denise": "Rekha",
+        "Daniel": "Rajat"
+    },
+    {
+        "Calvin": "Ram",
+        "soup": "khichdi",
+        "$0": "₹0",
+        "adult": "adult",
+        "bowls": "thalis",
+        "child": "child"
+    },
+    {
+        "The educational shop": "Shiksha Bhandar",
+        "notebooks": "notebooks",
+        "ballpen": "ballpen",
+        "$1.50": "₹110",
+        "$0.5": "₹5",
+        "William": "Anand"
+    },
+    {
+        "Jo": "Ramesh",
+        "yards": "yards of cloth",
+        "$0": "₹0",
+        "small masks": "small masks",
+        "large masks": "large masks"
+    },
+    {
+        "Deepa": "Dipali",
+        "$216": "₹16,560"
+    },
+    {
+        "Harold": "Ramesh",
+        "hours": "hours",
+        "dog": "pet dog"
+    },
+    {
+        "Tim": "Ramesh",
+        "shoe boxes": "khussa boxes",
+        "shoe": "mojaris",
+        "USD": "INR"
+    },
+    {
+        "Sarah": "Shanti",
+        "Joseph": "Rajiv"
+    },
+    {
+        "Dean": "Ram",
+        "marbles": "nupuran",
+        "Jamie": "Jyoti",
+        "Donald": "Dinesh"
+    },
+    {
+        "Duncan": "Ram",
+        "Adam": "Shyam"
+    },
+    {
+        "Farmer Brown": "Kisan Brown",
+        "Farmer Smith": "Kisan Smith",
+        "acres": "bigha"
+    },
+    {
+        "Colby": "Ram",
+        "$0.20": "₹16",
+        "hours": "workday",
+        "USD": "Indian Rupees"
+    },
+    {
+        "John": "Ramesh",
+        "$": "₹",
+        "bottle of water": "bottle of water",
+        "half hour": "30 minutes",
+        "45 minutes": "45 minutes",
+        "4 times": "4 times"
+    },
+    {
+        "Benny": "Ramesh",
+        "bologna": "pav bhaji",
+        "$0": "₹0"
+    },
+    {
+        "Jon": "Ramesh",
+        "miles": "kilometers",
+        "$0": "₹0"
+    },
+    {
+        "Bruce": "Ram",
+        "Tuesday": "Mangalwar",
+        "Wednesday": "Budhwar",
+        "Thursday": "Brihaspativar"
+    },
+    {
+        "Julia": "Rekha",
+        "Nadine": "Neha",
+        "cake": "cake",
+        "$11": "₹880",
+        "dozen": "1 dozen",
+        "$0.5": "₹25",
+        "tubs": "2 tub",
+        "$7": "₹140"
+    },
+    {
+        "Kira": "Kavita",
+        "apples": "tarbooz",
+        "bananas": "kela",
+        "oranges": "narangi",
+        "$0": "₹0"
+    },
+    {
+        "students": "shishya",
+        "tennis": "tennis",
+        "volleyball": "volleyball",
+        "playing": "khel rahe hain",
+        "are": "kya",
+        "one": "Ek",
+        "group": "group",
+        "total": "kya shishya (students)"
+    },
+    {
+        "Larry": "Ram",
+        "cats": "kittens (gattis)",
+        "dogs": "khud-e-kutte",
+        "rabbits": "sabut",
+        "fish": "machhli",
+        "gerbils": "hara-chitra"
+    },
+    {
+        "loaf of bread": "loaf of roti"
+    },
+    {
+        "Martha": "Mira",
+        "years old": "saal",
+        "month": "saal",
+        "shells": "seashells",
+        "5": "5",
+        "10": "10",
+        "every": "every month",
+        "one": "ek"
+    },
+    {
+        "Lana": "Lata",
+        "cups": "cups",
+        "tea": "chai",
+        "chamomile": "chamomile",
+        "mint": "pudina",
+        "cinnamon": "dalchini"
+    },
+    {
+        "sloth": "three-toed Indian palm civet (Bali)",
+        "muffins": "amla",
+        "tree": "peepal tree"
+    },
+    {
+        "Anthony": "Anand",
+        "pool": "swimming pool",
+        "gallons": "litres",
+        "$10": "₹830",
+        "water pump": "half of the water"
+    },
+    {
+        "movies": "cinema",
+        "$150": "₹11,500",
+        "$10": "₹100",
+        "$7": "₹70",
+        "$8": "₹80",
+        "$2": "₹20"
+    },
+    {
+        "Andrew": "Anand",
+        "mini cinnamon rolls": "mini cinnamon rolls (kheer bhujia)",
+        "mini blueberry muffins": "mini blueberry muffins",
+        "cinnamon rolls": "cinnamon rolls",
+        "blueberry muffins": "blueberry muffins",
+        "$0": "₹0"
+    },
+    {
+        "Junebugs": "Sitaphal Worms"
+    },
+    {
+        "bus": "autobus",
+        "miles": "kilometers",
+        "hours": "hours"
+    },
+    {
+        "Sophie": "Aarti",
+        "nephew": "nephew",
+        "toys": "toys",
+        "muffins": "",
+        "$10": "",
+        "bag": "bag",
+        "bin": "bin",
+        "tower": "tower",
+        "tube": "tube",
+        "bouncy balls": "bouncy balls",
+        "blocks": "blocks",
+        "stuffed animals": "stuffed toys",
+        "stacking rings": "stacking rings",
+        "multicolored rings": "multicolored rings"
+    },
+    {
+        "Peter": "Shukla",
+        "Paul": "Vijay",
+        "Jean": "Sangeeta",
+        "$100": "100 saal"
+    },
+    {
+        "Maria": "Ritu",
+        "water balloons": "gulal packets",
+        "backyard": "courtyard",
+        "Holi": "Holi"
+    },
+    {
+        "yard": "garage",
+        "stuff": "items",
+        "boxes": "cartons"
+    },
+    {
+        "Zoey": "Anita",
+        "Sydney": "Priya",
+        "watermelon": "watermelon",
+        "feet": "feet"
+    },
+    {
+        "Fern": "Shikha",
+        "Widgeteer 3000": "Widgeteer 3000",
+        "WidgetMaster 9000": "WidgetMaster 9000",
+        "$6": "₹450"
+    },
+    {
+        "Philippines": "Mumbai",
+        "pesos": "INR",
+        "Cameron": "Cameron",
+        "$": "₹"
+    },
+    {
+        "Nate": "Ram",
+        "hay": "shaki",
+        "pounds": "pounds",
+        "5": "5",
+        "goat": "shaki",
+        "sheep": "bharat",
+        "3": "3",
+        "twice": "double"
+    },
+    {
+        "John": "Ramesh",
+        "$50": "₹500",
+        "$10": "₹100",
+        "pencils": "pencils",
+        "dollars": "₹",
+        "50 dollars": "₹500",
+        "6 hours": "6 hours",
+        "week": "week",
+        "gas": "petrol",
+        "bank": "bank",
+        "100 dollars": "₹10,000",
+        "25 dollar pens": "₹250 pens"
+    },
+    {
+        "Craig": "Anand",
+        "brother": "Anand's brother",
+        "letters": "syllables",
+        "words": "shlokas",
+        "$10": "Not applicable"
+    },
+    {
+        "President of the country": "President of India",
+        "children's day": "Bal Diwas"
+    },
+    {
+        "pupils": "shishya",
+        "coupons": "coupons",
+        "bottles": "kharab",
+        "apple juice": "sambhara",
+        "$100": "₹100"
+    },
+    {
+        "Patty": "Ramesh",
+        "$40": "₹3000",
+        "$35": "₹250",
+        "hours": "hours",
+        "$60": "₹600"
+    },
+    {
+        "James": "Ram",
+        "$15": "₹1,125"
+    },
+    {
+        "Jen": "Jyoti",
+        "yams": "shakarkandis",
+        "sweet potatoes": "shakar kandis",
+        "carrots": "gajar",
+        "$1.5": "₹15",
+        "$2": "₹20",
+        "$1.25": "₹12.50"
+    },
+    {
+        "James": "Ram",
+        "miles": "kilometers",
+        "20": "32",
+        "$": "₹",
+        "swimming time": "swimming time"
+    },
+    {
+        "Sam": "Ramesh",
+        "loaves of bread": "parathas",
+        "$0": "₹0",
+        "70": "₹70",
+        "40": "₹40"
+    },
+    {
+        "Jasmine": "Jyoti",
+        "stickers": "stickers"
+    },
+    {
+        "New York Times": "Hindustan Times",
+        "Wall Street Journal": "Business Standard",
+        "$5": "₹125",
+        "$15": "₹1125"
+    },
+    {
+        "Marcus": "Ramakrishna (Ramu)",
+        "Leo": "Laxman",
+        "Deanna": "Meena"
+    },
+    {
+        "Bahati": "Ravi",
+        "Azibo": "Shyam",
+        "Dinar": "Rajat",
+        "$": "₹",
+        "points": "runs"
+    },
+    {
+        "book": "kitaab",
+        "paper": "prinkti",
+        "inch": "inch",
+        "pages": "shabd",
+        "$1.5": "₹38.46"
+    },
+    {
+        "Vince": "Vinay",
+        "reports": "taslim"
+    },
+    {
+        "Kim": "Kamal",
+        "camera": "camera",
+        "10 p.m.": "10 p.m.",
+        "6 a.m.": "6 a.m.",
+        "to the bathroom": "to visit the toilet"
+    },
+    {
+        "Jonathan": "Ram",
+        "measuring spoons": "katori",
+        "measuring cups": "katoriya",
+        "two dozen cups": "two dozen katoriya",
+        "Pedro": "Pedro"
+    },
+    {
+        "hospital": "government hospital in Mumbai",
+        "1000": "1000 beds",
+        "1/5": "200",
+        "coronavirus": "COVID-19",
+        "days": "14"
+    },
+    {
+        "Robyn": "Rohini"
+    },
+    {
+        "Shawna": "Shawna",
+        "Aliya": "Aliya",
+        "Shawna's father": "Shawna ki father",
+        "years": "saal"
+    },
+    {
+        "Courtney": "Courtney",
+        "concert": "music festival",
+        "48": "48",
+        "$0": "₹0",
+        "20%": "20%"
+    },
+    {
+        "Coach": "Coach",
+        "basketballs": "kabaddi balls",
+        "gym floor": "playground",
+        "Jordan": "Rahul",
+        "Jason": "Ravi",
+        "Jeffrey": "Rohan"
+    },
+    {
+        "Amora": "Amara",
+        "Lainey": "Lainey",
+        "Collins": "Collins",
+        "corn chips": "pakodas",
+        "$0": "₹0"
+    },
+    {
+        "Jen": "Jatin",
+        "countries": "countries within India",
+        "$400": "₹30,000"
+    },
+    {
+        "Alex": "Ram",
+        "Stan": "Shyam",
+        "Adelwolfe": "Ajay",
+        "$0": "₹0"
+    },
+    {
+        "John": "Ramesh"
+    },
+    {
+        "summer home in the north": "summer home in Kashmir",
+        "winter home in the south": "winter home in Kerala",
+        "$": "₹"
+    },
+    {
+        "Nani": "Nani",
+        "years": "saal"
+    },
+    {
+        "Andy": "Ram",
+        "pro shop": "golf club's pro shop",
+        "tennis resort": "golf club",
+        "racquets": "tennis racquets",
+        "synthetic gut": "synthetic gut",
+        "polyester string": "nylon string"
+    },
+    {
+        "John": "Ramesh",
+        "$600": "₹48,000"
+    },
+    {
+        "Zeke": "Ramesh",
+        "baseball": "cricket",
+        "Carlton": "Ajay",
+        "13": "13"
+    },
+    {
+        "Robert": "Ram",
+        "feet": "foot",
+        "garden": "bungalow garden",
+        "wood slats": "wooden slats",
+        "15": "15",
+        "10": "10",
+        "10 feet": "10-foot",
+        "foot": "foot"
+    },
+    {
+        "Mrs. Harrington": "Mrs. Kapoor",
+        "oranges": "narangas",
+        "market": "local market",
+        "2": "2",
+        "12 boxes": "12 cartons",
+        "mom": "maa",
+        "sister": "didi"
+    },
+    {
+        "USA": "America",
+        "$0": "₹0"
+    },
+    {
+        "Tyler": "Ramesh",
+        "dollars": "Indian Rupees",
+        "$18": "₹1380",
+        "$13": "₹1040",
+        "$8": "₹80",
+        "allowance": "pocket money"
+    },
+    {
+        "Richard": "Ram",
+        "Jerry": "Anand",
+        "cherries": "imli",
+        "30": "30",
+        "Robert": "Mohan"
+    },
+    {
+        "Sunny": "Ravi",
+        "gingerbread": "gulab jamun",
+        "apple pie": "apple pie",
+        "$": "₹",
+        "6": "150",
+        "10": "10",
+        "Saturday": "Saturday",
+        "Sunday": "Sunday",
+        "15": "750"
+    },
+    {
+        "Pamela": "Priya",
+        "ounce": "grams",
+        "8-ounce": "227-gram",
+        "$": "₹",
+        "vacation": "vacation"
+    },
+    {
+        "$100": "₹10,000"
+    },
+    {
+        "Emil": "Ram",
+        "his dad": "his father",
+        "his brother": "Suresh"
+    },
+    {
+        "Adrianne": "Anita",
+        "beads": "beads",
+        "metallic beads": "metallic beads",
+        "$0": "₹0"
+    },
+    {
+        "Joe": "Anand",
+        "crawfish": "aloo keema",
+        "pounds": "kg",
+        "Thursday": "Mangalwar",
+        "Friday": "Jum'a",
+        "Saturday": "Shukravar",
+        "$": "₹",
+        "3": "3",
+        "4": "4",
+        "serving": "servings"
+    },
+    {
+        "Mr. Roper": "Mr. Sharma",
+        "football players": "football players",
+        "class": "students",
+        "cheerleaders or part of band": "cheerleaders or part of the school band",
+        "away game": "football match in another city"
+    },
+    {
+        "Charlie": "Ram",
+        "Sophie": "Meera",
+        "boots": "jootis",
+        "size five": "size 5"
+    },
+    {
+        "Edgar": "Ram",
+        "pretzels": "mathris"
+    },
+    {
+        "Katherine": "Kavita",
+        "hanging baskets": "hanging jhoolas",
+        "petunias": "petunias",
+        "dollars": "Indian Rupees",
+        "$3.00": "₹100",
+        "$2.50": "₹250"
+    },
+    {
+        "Artemis": "Artemis",
+        "pounds": "kilograms",
+        "30": "14",
+        "soil": "soil",
+        "rose": "rose",
+        "carnation": "carnation",
+        "Sunflower": "Sunflower",
+        "1": "0.45",
+        "1.5": "0.68",
+        "3": "1.36",
+        "4": "4",
+        "10": "10"
+    },
+    {
+        "Jessica": "Jyoti",
+        "muffins": "jootis",
+        "$2,000.00": "₹1,66,667",
+        "$1,000.00": "₹1,00,000"
+    },
+    {
+        "Emily": "Ramesh",
+        "shrimp": "ghanta prawns",
+        "minutes": "minutes",
+        "$0": "₹0"
+    },
+    {
+        "air conditioner": "air cooler"
+    },
+    {
+        "Bill": "Ram",
+        "$": ""
+    },
+    {
+        "Buford": "Ramesh",
+        "checks": "cheques",
+        "$": "₹",
+        "electricity bill": "electricity bill",
+        "gas bill": "gas bill",
+        "church": "temple",
+        "pest and lawn service": "pest and garden service"
+    },
+    {
+        "airport": "domestic airport in India",
+        "Greece": "Mumbai",
+        "France": "Delhi",
+        "Germany": "Bangalore",
+        "Poland": "Chennai",
+        "$10": "₹740"
+    },
+    {
+        "Tobias": "Ram",
+        "Chikote": "Kishan",
+        "Igneous": "Gajraj",
+        "moon": "moon",
+        "$0": "₹0",
+        "seconds": "seconds"
+    },
+    {
+        "Adam": "Ram",
+        "trousers": "kurta pyjama",
+        "$30": "₹2,340",
+        "$6": "₹600"
+    },
+    {
+        "Akbar": "Chotu",
+        "Alessandro": "Alessandro",
+        "Helene": "Helena",
+        "Wilfred": "Vikram",
+        "$0": "0 years",
+        "$20": "20 years"
+    },
+    {
+        "Walter": "Ramesh",
+        "$500": "₹50,000",
+        "$1500": "₹1,50,000",
+        "$200": "₹2,000"
+    },
+    {
+        "Dylan": "Ramesh",
+        "wedding": "Hindu wedding",
+        "guests": "100 guests",
+        "cookies": "mathris",
+        "church": "local temple",
+        "100": "100 guests",
+        "$0": "₹0"
+    },
+    {
+        "family": "joint family",
+        "watermelon": "seetaphal",
+        "$0": "₹0",
+        "adults": "didis",
+        "kids": "bachchas"
+    },
+    {
+        "Doctor Jones": "Doktor Ram",
+        "clinic": "clinic",
+        "Monday": "Ravivar",
+        "inpatients": "patients",
+        "hours": "hours",
+        "rounds": "rounds",
+        "thirty minutes": "thirty minutes",
+        "ten appointments": "ten appointments"
+    },
+    {
+        "Jordan": "Ramesh",
+        "mom": "mother",
+        "cake": "cake",
+        "minutes": "minutes",
+        "hours": "hours",
+        "5:00 pm": "5:00 pm",
+        "cake batter": "cake batter",
+        "bake the cake": "bake the cake",
+        "cool": "cool",
+        "frost the cake": "decorate it with mithai"
+    },
+    {
+        "Lisa": "Ritu",
+        "Peter": "Rahul",
+        "chocolate bars": "khoya-based sweets",
+        "$": "₹"
+    },
+    {
+        "dance studio": "dance school",
+        "$25": "₹200",
+        "$1.50": "₹15",
+        "students": "students",
+        "days": "days",
+        "week": "week",
+        "$": "₹"
+    },
+    {
+        "Peter": "Ram",
+        "Martha": "Shanti",
+        "chocolates": "chocolates",
+        "boxes": "katori",
+        "$": "₹"
+    },
+    {
+        "porcupines": "hedgehogs",
+        "park": "Ram Bagh",
+        "$": "₹"
+    },
+    {
+        "Smith": "Sharma",
+        "feet": "feet",
+        "gallons": "gallons",
+        "$": "₹",
+        "0.10": "1"
+    },
+    {
+        "friends": "Dwarkesh aur Suresh",
+        "playing pick-up sticks": "khel rahe hain anek-chune-wale kagaz",
+        "sticks": "kagaz",
+        "red sticks": "adhure laal kagaz",
+        "blue sticks": "nazarik blue kagaz",
+        "yellow sticks": "yellow kagaz"
+    },
+    {
+        "miles": "kilometers",
+        "55 miles per hour": "88.5 kilometers per hour",
+        "4 hours": "4 hours",
+        "Shandy": "Shandy",
+        "45 miles per hour": "72.5 kilometers per hour",
+        "10 hours": "10 hours"
+    },
+    {
+        "Brook Hills High School": "Shikshan Mandir Vidyalaya",
+        "Mumbai": "Mumbai",
+        "students": "students",
+        "16": "16 years old",
+        "boys": "boys",
+        "girls": "girls"
+    },
+    {
+        "Bethany": "Bethany",
+        "Trey": "Trey",
+        "Shaelyn": "Shaelyn",
+        "Quinn": "Quinn",
+        "track": "cricket ground",
+        "$1": "₹70"
+    },
+    {
+        "Wanda": "Wanda",
+        "Ms. B": "Ms. B",
+        "gallons": "gallon",
+        "pond": "pond",
+        "tank": "tank"
+    },
+    {
+        "Maria": "Ramesh",
+        "power bank": "power bank",
+        "$": "₹",
+        "park": "park"
+    },
+    {
+        "Janet": "Janaki",
+        "$10": "₹10,000",
+        "$10000": "₹10,00,000",
+        "$": "₹",
+        "hours": "hour",
+        "week": "week"
+    },
+    {
+        "Jamaar": "Ramesh",
+        "$10": "₹830",
+        "mowing lawns": "mowing lawns",
+        "peaches": "peaches (₹5 each)",
+        "pears": "pears (₹5 each)",
+        "apples": "apples (₹0.75 each)",
+        "kiwis": "kiwis (₹100 each)",
+        "$": "₹",
+        ".": "."
+    },
+    {
+        "Anne": "Anita",
+        "box of sweets": "Indian sweets",
+        "15 packs": "15 packets",
+        "60 pieces": "60 pieces",
+        "10 friends": "10 friends"
+    },
+    {
+        "Mrs. Tatiana": "Mrs. Tanvi",
+        "carrots": "gajar",
+        "$120": "₹9,000"
+    },
+    {
+        "Olivia": "Laxmi",
+        "Facebook": "Facebook",
+        "pics": "photos",
+        "$0": "₹0"
+    },
+    {
+        "James": "Radha",
+        "book": "novel"
+    },
+    {
+        "hotel": "hotel in Mumbai",
+        "Saturday": "Shaniwar Navratri morning",
+        "$100": "₹7,500",
+        "guests": "guests",
+        "checked out": "chose to check out",
+        "checked in": "opted for a check-in",
+        "afternoon": "post-Rasoi (dinner service)",
+        "dinner": "Rasoi"
+    },
+    {
+        "John": "Ramesh",
+        "bananas": "kela",
+        "Wednesday": "Mangalwar",
+        "Thursday": "Bhaadva",
+        "Friday": "Guruvar"
+    },
+    {
+        "items": "questions",
+        "quiz": "test",
+        "$": "₹",
+        "Aries": "Aarati",
+        "USD": "INR"
+    },
+    {
+        "Teresa": "Teresa",
+        "large stuffed animals": "phool maal (stuffed toys)",
+        "small stuffed animals": "chhoti phool maal (small stuffed toys)",
+        "$120": "₹120",
+        "$4": "₹4"
+    },
+    {
+        "sandwiches": "parathas"
+    },
+    {
+        "Suzanne": "Sita",
+        "cookies": "biscuits",
+        "$1": "₹1",
+        "$4": "₹40",
+        "$10": "₹1000"
+    },
+    {
+        "Easter egg hunt team": "Durga Puja idol makers",
+        "Easter": "Durga Puja",
+        "eggs": "anda",
+        "Smith twins": "Smith twins",
+        "$0": "₹0",
+        "100": "100",
+        "30": "30",
+        "friends": "dost",
+        "10": "10"
+    },
+    {
+        "sandwiches": "sandwiches",
+        "store": "local shop",
+        "$3": "₹210",
+        "$6": "₹420"
+    },
+    {
+        "Tom": "Ramesh",
+        "$3000": "₹2,36,000",
+        "$1000": "₹1,00,000"
+    },
+    {
+        "Sally": "Ravi",
+        "muffins": "parathas",
+        "balloons": "baloons",
+        "$10": "Not applicable",
+        "school": "school"
+    },
+    {
+        "Marcus": "Ramya",
+        "homework": "schoolwork",
+        "$": "₹",
+        "50%": "50%",
+        "40%": "40%",
+        "20%": "20%"
+    },
+    {
+        "Apple High School": "Shri Apple Vidyalaya",
+        "Fine Arts Center": "Sangit Kala Mandir",
+        "$0": "₹0"
+    },
+    {
+        "jelly beans": "gulkand",
+        "$75": "₹562.5"
+    },
+    {
+        "Melissa": "Mukta",
+        "jury duty": "jury duty",
+        "hours": "hours",
+        "days": "days",
+        "court case": "court case in a Mumbai court",
+        "$15": "₹150",
+        "$3": "₹30"
+    },
+    {
+        "Ted": "Ravi",
+        "$200": "₹14,600",
+        "books": "books",
+        "dollars": "₹",
+        "3": "3",
+        "pencils": "pencils",
+        "6": "₹60"
+    },
+    {
+        "Richard": "Ram",
+        "diet soda": "cola",
+        "driveway": "verandah",
+        "$0": "₹0",
+        "24 feet": "24 feet",
+        "3 feet": "3 feet",
+        "5 seconds": "5 seconds"
+    },
+    {
+        "apples": "aloo-ki-tamatar (tomatoes)",
+        "box": "khap",
+        "$0": "₹0",
+        "Uncle Franky": "Chacha Franky"
+    },
+    {
+        "Parmesan cheese": "Parmesan",
+        "Mozzarella cheese": "Mozzarella",
+        "$11": "₹1,100",
+        "$6": "₹600",
+        "$50": "₹50,000"
+    },
+    {
+        "Jim": "Jatin",
+        "$50,000": "₹36,00,000"
+    },
+    {
+        "Jim": "Ram",
+        "king-sized bed": "royal bed",
+        "feet": "feet (Indian standard)",
+        "6 feet long by 8 feet wide": "6x8 feet"
+    },
+    {
+        "post office": "Post office",
+        "Monday": "Monday",
+        "Tuesday": "Tuesday",
+        "Wednesday": "Wednesday",
+        "letters": "letters",
+        "$": "₹"
+    },
+    {
+        "Johnny": "Ramesh",
+        "horses": "paons",
+        "$5": "₹5",
+        "$1": "₹1",
+        "dad": "baap"
+    },
+    {
+        "countries": "desh",
+        "cities": "shahr",
+        "$1000": "1000 log",
+        "South America": "South America"
+    },
+    {
+        "Ava": "Ravi",
+        "Cole": "Rahul",
+        "Xavier": "Vikram",
+        "feet": "meters",
+        "inches": "centimeters",
+        "$10": "₹830"
+    },
+    {
+        "Three": "Tin ko-i",
+        "people": "logon",
+        "$1920": "₹1,56,000"
+    },
+    {
+        "team": "team of 4 kalaiyar (painters)",
+        "mansion": "bungalow",
+        "3/8ths": "3/8ths",
+        "3 weeks": "21 days"
+    },
+    {
+        "Rory": "Ravi",
+        "tennis balls": "kits",
+        "$0": "₹0",
+        "tennis match": "kabaddi match",
+        "court": "playground",
+        "sets": "quarters"
+    },
+    {
+        "Ben": "Ramesh",
+        "$20000": "₹14,10,000"
+    },
+    {
+        "library": "Indian library",
+        "books": "books",
+        "English": "English",
+        "German": "German",
+        "Spanish": "Hindi"
+    },
+    {
+        "San Diego, California": "Mumbai, Maharashtra",
+        "New York City, New York": "Delhi, Delhi",
+        "$0": "₹0"
+    },
+    {
+        "Ingrid": "Tina",
+        "cups": "kharab",
+        "water": "paani",
+        "gallon": "gallon",
+        "days": "din"
+    },
+    {
+        "Romeo": "Ram"
+    },
+    {
+        "Alison": "Alison",
+        "tank top": "cotton t-shirt",
+        "$10": "₹830",
+        "running shorts": "running pants",
+        "$5": "₹5",
+        "athletic gear": "sports gear",
+        "$48": "₹48",
+        "tennis shoes": "sports shoes",
+        "$2": "₹2",
+        "$8": "₹8",
+        "athletic socks": "sports socks"
+    },
+    {
+        "SqFt": "SqFt",
+        "muffins": "",
+        "$12": "₹960"
+    },
+    {
+        "James": "Ram",
+        "$120": "₹10,800"
+    },
+    {
+        "Greg": "Ramesh",
+        "twin beds": "twin-sized bedsheets",
+        "king size bed": "king-sized bedsheet"
+    },
+    {
+        "Jill": "Shilpa"
+    },
+    {
+        "Leo": "Leo",
+        "stickers (muffins)": "stickers (paatlu)",
+        "$10": "₹830",
+        "years": "years"
+    },
+    {
+        "Imma": "Ramesh",
+        "cats": "kittens",
+        "cat food": "kitten food",
+        "$": "₹",
+        "60 grams": "60 grams",
+        "720 grams": "720 grams"
+    },
+    {
+        "Becky": "Ramesh",
+        "Jake": "Rahul",
+        "Silvia": "Sonia",
+        "pizzas": "pizzas",
+        "slices": "slices",
+        "$0": "₹0"
+    },
+    {
+        "Betsy": "Sita",
+        "Donovan": "Ramesh"
+    },
+    {
+        "Hannah": "Hema",
+        "banana peel": "mango peel",
+        "$200": "₹15,000",
+        "$300": "₹3,000",
+        "30 minutes": "30-minute visit",
+        "$4": "₹120",
+        "pills": "painkillers",
+        "$6": "₹1,000"
+    },
+    {
+        "James": "Ram"
+    },
+    {
+        "Science Center": "Science Centre"
+    },
+    {
+        "John": "Ravi",
+        "tests": "exams",
+        "$100": "₹7500",
+        "80": "₹6400"
+    },
+    {
+        "pizzas": "pizzas"
+    },
+    {
+        "Anthony": "Anand",
+        "pizza parlor": "pizzeria",
+        "mail": "post",
+        "cents": "paise",
+        "small coupons": "small coupons",
+        "big coupons": "large coupons",
+        "$": "In Indian Rupees"
+    },
+    {
+        "Sidney": "Ramesh",
+        "meatball sub sandwiches": "meatball sub (Indian-style) sandwiches"
+    },
+    {
+        "Dennis": "Ram",
+        "pound": "kilogram",
+        "$4.00": "₹320",
+        "croissants": "neer dosas",
+        "dozen": "dozen",
+        "grocery store": "grocery store"
+    },
+    {
+        "Kayla": "Kavita",
+        "movie theater": "PVR cinema",
+        "$125": "₹9,500",
+        "$6": "₹300"
+    },
+    {
+        "Maggie": "Megha",
+        "Riza": "Riya",
+        "$60": "₹60"
+    },
+    {
+        "Mr. Robles": "Shri Robles",
+        "bananas": "bananas",
+        "monkeys": "hanuman langurs",
+        "$": "₹",
+        "10": "₹100",
+        "315": "₹31500",
+        "a week": "for a week"
+    },
+    {
+        "Teddy": "Ramesh",
+        "puzzle": "jigsaw puzzle",
+        "500": "1000"
+    },
+    {
+        "Jenny": "Jyoti",
+        "florist": "flower shop",
+        "flowers": "blooms",
+        "Roses": "gulab jamun flowers",
+        "$": "₹",
+        "2": "₹2.5",
+        "$1": "₹100",
+        "$15": "₹1200",
+        "$2": "₹50"
+    },
+    {
+        "Terry": "Terry",
+        "milkshakes": "shakes",
+        "burger platters": "thali platters",
+        "$5.50": "₹450",
+        "$11": "₹1,100",
+        "$1.50": "₹30"
+    },
+    {
+        "Paul": "Ramesh",
+        "train station": "railway station",
+        "$": "₹",
+        "minutes": "minutes"
+    },
+    {
+        "Melanie": "Mukta",
+        "toothpick": "idli-sticks",
+        "sandwiches": "tiffin"
+    },
+    {
+        "Mr. Rogers": "Mr. Rao",
+        "$2000": "₹1,50,000"
+    },
+    {
+        "jellyfish": "jal-jharien",
+        "second": "dusra",
+        "bubbling spring": "samudra-mehak",
+        "hours": "ghante"
+    },
+    {
+        "Frankie": "Ramesh",
+        "Binkie": "Kavita"
+    },
+    {
+        "James": "Ram",
+        "store": "local market",
+        "miles": "kilometers",
+        "4 miles": "6.4 kilometers",
+        "$": "₹"
+    },
+    {
+        "bananas": "Alphonso bananas",
+        "supermarket": "local mandi",
+        "$0.80": "₹8",
+        "$3.00": "₹30",
+        "Jenny": "Jenny"
+    },
+    {
+        "Sam": "Krishna",
+        "Harry": "Rajat",
+        "feet": "vastras",
+        "$100": "₹7,450",
+        "60 feet": "60 vastras"
+    },
+    {
+        "crocodile": "mugger (gharial)"
+    },
+    {
+        "Marcel": "Ramesh",
+        "bicycle store": "cycle store in Mumbai",
+        "MTB": "MTB",
+        "BMX": "BMX",
+        "Trekking": "Trekking cycle",
+        "$500": "₹50,000",
+        "$450": "₹45,000",
+        "$": "₹"
+    },
+    {
+        "farmer": "Indian farmer",
+        "field": "khet",
+        "hay bales": "ghodas",
+        "hour": "hour",
+        "truck": "truck driver",
+        "$0": "₹0"
+    },
+    {
+        "John": "Shyam",
+        "periods": "rastras",
+        "classes": "shiksha",
+        "minutes": "daak-minutes",
+        "days": "bhaadon",
+        "Saturday": "Shaniwar",
+        "Sunday": "Raviwar",
+        "$10": "₹830",
+        "5": "5"
+    },
+    {
+        "Nathan": "Ramesh",
+        "bouncy ball": "rubber ball",
+        "mall": "multi-storey building in Mumbai",
+        "feet": "feet",
+        "$0": "₹0"
+    },
+    {
+        "Caroline": "Radha",
+        "children": "kids",
+        "feet": "cm",
+        "inches": "cm"
+    },
+    {
+        "orchard": "local apple farm",
+        "apples": "apples",
+        "bags": "bags",
+        "day": "one day during Diwali festival",
+        "$5": "₹400"
+    },
+    {
+        "Tyrannosaurus rex": "T-Rex",
+        "triceratops": "Trishul",
+        "velociraptors": "Chamundeshwari",
+        "Allosaurus": "Mahishasur"
+    },
+    {
+        "Tony": "Ravi",
+        "room": "kotha",
+        "feet": "feet",
+        "gallon": "taar",
+        "$12": "₹1200"
+    },
+    {
+        "Ellen": "Ekta",
+        "sodas": "cold drinks",
+        "$": "₹",
+        "12": "12",
+        "3": "3",
+        "1": "1",
+        "her friend": "Ekta's friend",
+        "unshaken": "unopened",
+        "shaken": "shaken",
+        "came along": "arrived"
+    },
+    {
+        "station": "same station",
+        "miles": "kilometers",
+        "60 miles": "60 kilometers"
+    },
+    {
+        "Billy": "Ram",
+        "taxes": "income tax returns",
+        "March 1st": "March 1st (Holi)",
+        "April 19th": "April 19th (Baisakhi)"
+    },
+    {
+        "Mary": "Shilpa",
+        "John": "Ramesh",
+        "private cars": "private cars",
+        "buses": "buses",
+        "church": "mandir",
+        "weekend": "varshashti"
+    },
+    {
+        "Jeff": "Ram",
+        "Martha": "Sita",
+        "Mike": "Ajay"
+    },
+    {
+        "Five Flags": "Diwali Mela",
+        "$": "₹",
+        "feet": "feet"
+    },
+    {
+        "Bobby": "Ravi",
+        "office": "office in Mumbai",
+        "minutes": "minutes",
+        "30": "30",
+        "15": "15",
+        "days": "working days"
+    },
+    {
+        "Amber": "Amit",
+        "Micah": "Rahul",
+        "Ahito": "Ravi",
+        "miles": "kilometer"
+    },
+    {
+        "Sheila": "Shilpa",
+        "$85.00": "₹6,450",
+        "$15.00": "₹1,500",
+        "frying pan": "tava",
+        "$20.00": "₹200",
+        "$30.00": "₹300"
+    },
+    {
+        "jellyfish tank": "tank in an Indian aquarium",
+        "jellyfish": "jellyfish",
+        "A fifth": "One-fifth",
+        "large": "large ones",
+        "a third": "a third",
+        "Ganga river": "Ganga",
+        "UV light": "UV light",
+        "Holi festival": "Diwali",
+        "$": "₹"
+    },
+    {
+        "Caroline": "Shilpa",
+        "Ben": "Rahul",
+        "Chris": "Ajay"
+    },
+    {
+        "Lauren": "Rekha",
+        "paycheck": "monthly salary",
+        "$100,000": "₹10,00,000"
+    },
+    {
+        "centimeters": "centimeters"
+    },
+    {
+        "school": "shiksha",
+        "girls": "ladkiyan",
+        "boys": "ladke"
+    },
+    {
+        "mom": "mera maa",
+        "gardening shop": "nirmal upvan ki dukaan",
+        "$19": "₹1450",
+        "sack": "khud ki thali",
+        "$26": "₹1765",
+        "coupon": "coupon",
+        "$7": "₹130"
+    },
+    {
+        "women": "Trinetra, Lakshmi, and Meera, Priya, Anjali, and Sita",
+        "cocktail party": "Diwali cocktail party",
+        "4 inch heels": "10 cm high heels",
+        "2 inch heels": "5 cm high heels",
+        "$": "₹"
+    },
+    {
+        "June": "June",
+        "miles": "kilometers",
+        "$0": "₹0"
+    },
+    {
+        "store": "dukaan",
+        "red balls": "lal te tez balls",
+        "blue balls": "neel te tez balls",
+        "green balls": "vermillion te tez balls",
+        "$9": "₹675",
+        "$5": "₹50",
+        "$3": "₹30"
+    },
+    {
+        "Pierre": "Ramesh",
+        "Paul": "Raju",
+        "Jacques": "Shyam",
+        "apples (aloo badam)": "apples",
+        "Peter": "Anand",
+        "James": "Jim"
+    },
+    {
+        "temperature": "temperatuur"
+    },
+    {
+        "Raymond": "Ram",
+        "$21": "₹1,650",
+        "$11": "₹1,100",
+        "comic book": "comic",
+        "puzzle": "jigsaw puzzle"
+    },
+    {
+        "Anna": "Anita",
+        "books": "books",
+        "$16": "₹1164",
+        "$4": "₹4",
+        "$2": "₹2"
+    },
+    {
+        "calligraphy class": "calligraphy class in Mumbai",
+        "$": "₹"
+    },
+    {
+        "lighthouse": "lighthouse on the banks of the Ganges in Varanasi"
+    },
+    {
+        "Tate": "Ram",
+        "guppies": "Rohu fish",
+        "goldfishes": "Goldfish"
+    },
+    {
+        "Megan": "Megha",
+        "Dior": "Diya",
+        "mow the lawn": "mow the garden",
+        "dog": "pet dog"
+    },
+    {
+        "John": "Ramesh",
+        "miles": "kilometers",
+        "70": "112.65"
+    },
+    {
+        "Sofie": "Reema",
+        "Brian": "Rahul",
+        "$": "₹",
+        "miles": "kilometers",
+        "10": "16"
+    },
+    {
+        "toy": "toy",
+        "manufacturer": "local toy manufacturer",
+        "workers": "artisans",
+        "hours": "hour",
+        "order": "order",
+        "10-hour shift": "traditional Indian toy workshop",
+        "USD": "₹",
+        "$10": "₹830",
+        "toys": "toys"
+    },
+    {
+        "Kory": "Karthik",
+        "dogs": "dogs",
+        "pounds": "pounds",
+        "Elijah": "Eli"
+    },
+    {
+        "Seth": "Ramesh",
+        "Luis": "Luis",
+        "Kris": "Krishna",
+        "Rob": "Rob"
+    },
+    {
+        "John": "Ramesh",
+        "M&M": "M&M",
+        "ounces": "ounces",
+        "10 ounces": "10 ounces",
+        "30 M&M": "30 M&M",
+        "10": "10"
+    },
+    {
+        "Alfie": "Alfie",
+        "kilometers": "kilometers",
+        "40,000 kilometers": "40,000 kilometers"
+    },
+    {
+        "Rani": "Rani",
+        "Miles": "Miles",
+        "cars": "Indian cars",
+        "120": "120 Miles per hour"
+    },
+    {
+        "Liam": "Ram",
+        "Vince": "Vijay",
+        "years": "saal",
+        "two years ago": "Do saal pehle"
+    },
+    {
+        "Arnold": "Ramesh",
+        "Madeline": "Seema",
+        "Camden": "Rajat",
+        "Sarah": "Priya",
+        "easter eggs": "paas-mini-aloo",
+        "$0": "₹0"
+    },
+    {
+        "John": "Ram",
+        "muffins": "",
+        "$1.2": "₹12"
+    },
+    {
+        "Valerie": "Valerie",
+        "brother": "Valerie's brother",
+        "mother": "Valerie's mother",
+        "$5000": "₹4,00,000"
+    },
+    {
+        "John": "Didi",
+        "miles": "kilometers",
+        "beach": "beach",
+        "sidewalk": "sidewalk",
+        "$10": "",
+        "3": "4.8"
+    },
+    {
+        "Jane": "Jyoti",
+        "$4": "₹280",
+        "8": "8",
+        "$60": "₹6,000"
+    },
+    {
+        "trees": "vruksh",
+        "blue birds": "neel pakshi"
+    },
+    {
+        "Bob": "Ram",
+        "marbles": "bhola",
+        "dozen": "dozan",
+        "$0": "₹0"
+    },
+    {
+        "Donny": "Ramesh",
+        "water": "water",
+        "mugs": "steel glasses",
+        "ounces": "milliliters",
+        "$4": "118.29",
+        "33": "33 degrees Celsius"
+    },
+    {
+        "Melanie": "Anand",
+        "cows": "gauss",
+        "chickens": "murghi",
+        "Milkie Cows Limited": "Milky Gauss Limited",
+        "Broilers Limited": "Broiler Murghi Limited"
+    },
+    {
+        "Russell": "Ramesh",
+        "bagels": "bagels",
+        "$10.00": "₹830"
+    },
+    {
+        "Gomer": "Gomati",
+        "mashed potatoes": "aloo mash",
+        "$0": "₹0"
+    },
+    {
+        "Chester": "Chettan",
+        "eggs": "andaaz",
+        "$0": "₹0",
+        "day": "day",
+        "30": "30",
+        "60": "60"
+    },
+    {
+        "Jess": "Shikha",
+        "green jelly beans": "green jellybeans",
+        "red jelly beans": "red jellybeans",
+        "blue jellybeans": "blue jellybeans",
+        "jar": "jar",
+        "$0": "₹0",
+        "60": "₹60"
+    },
+    {
+        "Tim": "Ram",
+        "trees": "neem trees",
+        "lemon": "amla fruits"
+    },
+    {
+        "John": "Naav Ratna Rao",
+        "bus": "bus",
+        "$84": "₹6,160",
+        "women": "naariyan",
+        "20": "20"
+    },
+    {
+        "Faraday": "Ramesh",
+        "$2": "₹20",
+        "$8": "₹80",
+        "$26": "₹260",
+        "$56": "₹560"
+    },
+    {
+        "Adam": "Ram",
+        "$100": "₹7,000",
+        "rocks": "shilpakari",
+        "$5": "₹5",
+        "$7": "₹7"
+    },
+    {
+        "Lauren": "Ravi",
+        "cartoonist": "cartoonist",
+        "large-sized": "larhi",
+        "medium-sized": "madhyama",
+        "small-sized": "choti",
+        "$": "₹",
+        "day": "day",
+        "big project": "maha prakashan"
+    },
+    {
+        "Chatty": "Radha",
+        "Easter": "Holi",
+        "eggs": "boiled eggs"
+    },
+    {
+        "Jen": "Ramesh",
+        "fish": "rohu",
+        "$1": "₹75"
+    },
+    {
+        "Patricia": "Sita",
+        "roses": "roses",
+        "30": "30",
+        "24": "24",
+        "15": "15"
+    },
+    {
+        "miles": "kilometers",
+        "2 hours": "5 hours",
+        "110 miles": "176 kilometers"
+    },
+    {
+        "Mark": "Ramesh",
+        "lottery ticket": "lottery ticket",
+        "$": "₹",
+        "20%": "20%",
+        "three times": "3 times"
+    },
+    {
+        "Carlos": "Ramesh",
+        "Jim": "Raju",
+        "Carrey": "Rahul",
+        "beach": "Marina Beach",
+        "seashells": "shells (shaili)"
+    },
+    {
+        "Mason": "Ravi",
+        "carrots": "gajar"
+    },
+    {
+        "John": "Ramesh",
+        "cassette": "cassette",
+        "songs": "songs",
+        "$0": "₹0"
+    },
+    {
+        "Linus": "Ramesh",
+        "trading company": "trading firm based in Mumbai",
+        "$20": "₹1,500"
+    },
+    {
+        "Carl": "Ram",
+        "cane": "stick",
+        "Ned": "Nitin",
+        "Isabel": "Isabella"
+    },
+    {
+        "person's": "an Indian's",
+        "1": "an Indian"
+    },
+    {
+        "Carla": "Asha",
+        "octuplets": "octuplets in Mumbai",
+        "muffins": "-",
+        "$10": "-",
+        "purple": "lavender",
+        "blue": "sky blue",
+        "bows": "mangalsutra"
+    },
+    {
+        "IRS": "Income Tax Department (ITD)",
+        "$": "₹",
+        "tax reports": "income tax returns"
+    },
+    {
+        "Abraham": "Ram",
+        "square meters": "bhoomi",
+        "$50": "₹50,000",
+        "$30": "₹30,000"
+    },
+    {
+        "Haley": "Haley",
+        "Geb": "Govind"
+    },
+    {
+        "Tyrion": "Tyri"
+    },
+    {
+        "Cole": "Ramesh",
+        "Easter egg hunt": "Holi egg hunt",
+        "dozen": "dozaan (dozens)",
+        "eggs": "ande",
+        "$": "₹",
+        "3": "3",
+        "Lamar": "Lamar",
+        "Stacy": "Stacy",
+        "Charlie": "Charlie",
+        "Mei": "Mei"
+    },
+    {
+        "John": "Ramesh",
+        "$4": "₹4",
+        "apartments": "flats",
+        "$.40": "₹4"
+    },
+    {
+        "Jack": "Ravi",
+        "Sophia": "Priya",
+        "$100": "₹7,000"
+    },
+    {
+        "red rope": "saffron-colored jute twine",
+        "blue rope": "neel-colored cotton rope",
+        "yellow rope": "haldi-colored sugarcane stick",
+        "$": "₹",
+        "centimeters": "centimeters"
+    },
+    {
+        "Ronnie": "Ronak",
+        "Rissa": "Risha",
+        "$5": "₹400"
+    },
+    {
+        "red": "maroon",
+        "white": "white",
+        "purple": "lavender",
+        "$12": "₹860"
+    },
+    {
+        "Tom": "Ram",
+        "bedrooms": "vishrambhums",
+        "feet": "feet",
+        "house": "house",
+        "living room": "aangan",
+        "$10": "Not applicable"
+    },
+    {
+        "Alice": "Aarav",
+        "clouds": "vishwas",
+        "$0": "₹0"
+    },
+    {
+        "dishwasher pods": "dishwashing pods (rakshan vishwas patra)",
+        "$12": "₹1,200"
+    },
+    {
+        "Thomas": "Ram",
+        "$1000": "₹1,00,000",
+        "$20": "twenty-dollar bills",
+        "10": "10 bills",
+        "home": "returning home",
+        "bill": "bill"
+    },
+    {
+        "soccer": "cricket",
+        "goals": "wickets",
+        "team A": "Team India",
+        "team B": "Team Pakistan",
+        "$10": "₹830"
+    },
+    {
+        "inch": "centimeter",
+        "$": "₹",
+        "Monday": "Monday"
+    },
+    {
+        "Miss Albert": "Miss Alka",
+        "class": "shishya",
+        "boys": "shishya boys",
+        "girls": "shishya girls",
+        "$0": "₹0"
+    },
+    {
+        "Mike": "Ram",
+        "Johnny": "Shyam",
+        "face masks": "khadis (masks)"
+    },
+    {
+        "James": "Ram",
+        "teeth": "chishti"
+    },
+    {
+        "Mr. Marcellus": "Mr. Ravi",
+        "gallons": "litres",
+        "$3.5": "₹28.5"
+    },
+    {
+        "Wendy": "Mira",
+        "Colin": "Aarav"
+    },
+    {
+        "Bob": "Ram",
+        "$27000": "₹20,10,000",
+        "schools": "schools",
+        "books": "textbooks",
+        "$500": "₹5,000"
+    },
+    {
+        "apples": "anar",
+        "Newton": "Durga",
+        "tree": "mango tree"
+    },
+    {
+        "Ali": "Ravi",
+        "coal": "coal",
+        "$18": "₹1350"
+    },
+    {
+        "cheese pizza": "Paneer tikka pizza",
+        "pepperoni pizza": "Pepperoni pizza",
+        "$0": "₹0"
+    },
+    {
+        "Sam": "Ram"
+    },
+    {
+        "Jay": "Ram",
+        "snowballs": "gulal balls",
+        "$0": "₹0",
+        "hour": "hour",
+        "minute": "minutes"
+    },
+    {
+        "John": "Ravi",
+        "Jim": "Raj"
+    },
+    {
+        "apple": "seb",
+        "sliced": "cut"
+    },
+    {
+        "nurses’ station": "nursing station in a Mumbai hospital",
+        "bandages": "bandages"
+    },
+    {
+        "May": "Radhika",
+        "hair cut": "shikakai",
+        "hair colored": "mehndi",
+        "$40": "₹3,000",
+        "$30": "₹250",
+        "10 inches": "25 inches",
+        "8 inches": "20 inches"
+    },
+    {
+        "Jason": "Ramesh",
+        "$3.00": "₹240",
+        "$1.50": "₹120",
+        "$0.75": "₹37.50",
+        "$0.50": "₹25"
+    },
+    {
+        "Brady": "Ravi",
+        "whale": "narwhal",
+        "shark": "makara",
+        "$": "₹",
+        "gallons": "gallons",
+        "10": "10"
+    },
+    {
+        "Alain": "Alain",
+        "Alain's": "Alain's",
+        "mom": "mother",
+        "packs": "packs",
+        "red pens": "ranga bharne wale pen (red pens)",
+        "black pens": "kala bharne wale pen (black pens)"
+    },
+    {
+        "John": "Ramesh",
+        "$600": "₹44,000"
+    },
+    {
+        "Mr. Julius": "Shri Julius",
+        "White Oak": "Quercus alba",
+        "Lodgepole Pine": "Pinus roxburghii",
+        "$NA": "NA"
+    },
+    {
+        "coffee mugs": "tea cups",
+        "$0": "₹0"
+    },
+    {
+        "fish": "Rupaiya (Indian goldfish)"
+    },
+    {
+        "Amy": "Aarti",
+        "eyeshadow palettes": "kajal palettes",
+        "colors": "kajal colors",
+        "makeup sets": "makeup kits"
+    },
+    {
+        "Mattison": "Mukesh",
+        "inches": "centimeters",
+        "7": "7",
+        "2": "2",
+        "first": "ground",
+        "floor": "floor",
+        "he": "he",
+        "high": "height",
+        "times": "times",
+        "story": "story",
+        "house": "house",
+        "thrice": "3",
+        "roof": "roof",
+        "second": "second",
+        "floor's": "floor"
+    },
+    {
+        "tourists": "Vishwaas (a group of 20 tourists)",
+        "strip mall": "local market",
+        "mall parking lot": "Diwali festivities",
+        "shells": "seashells (shail-shilas)",
+        "Alphas": "Alphas",
+        "The finders": "Dharma (The Finders)",
+        "Gogetters": "Tapasvi (Gogetters)"
+    },
+    {
+        "Bernie": "Ram",
+        "miles": "miles"
+    },
+    {
+        "John": "Ramesh",
+        "$250,000": "₹1,95,00,000",
+        "$40": "40%",
+        "$60": "60%"
+    },
+    {
+        "Deandre": "Ram",
+        "tunas": "mahi",
+        "$0.50": "₹45"
+    },
+    {
+        "Trinity": "Tulsi",
+        "$72": "₹7200"
+    },
+    {
+        "Jolene": "Ravi",
+        "water balloon fight": "pani-puri fight",
+        "balloons": "pani-puri",
+        "10 packs": "10 packs of pani-puri",
+        "30 balloons": "30 pieces",
+        "12 balloons": "12 pieces"
+    },
+    {
+        "Saanvi": "Sita",
+        "mL": "mL",
+        "muffins": "Ayurvedic medicines",
+        "$": "₹",
+        "Diwali festival in Mumbai": "Diwali festival in Mumbai",
+        "one": "ek",
+        "times": "barish"
+    },
+    {
+        "Ali": "Ravi",
+        "John": "Shyam",
+        "private school": "private school",
+        "public school": "government school",
+        "$10": "₹830",
+        "120 students": "120 students"
+    },
+    {
+        "Stephen": "Ramesh",
+        "sister": "sister",
+        "$300": "₹24,000",
+        "$25": "₹2,000"
+    },
+    {
+        "Jordan": "Ramesh",
+        "diapers": "nappies"
+    },
+    {
+        "Tim": "Ram",
+        "competition": "participates in a competition",
+        "jelly beans": "jalebis",
+        "$": "₹",
+        "inches": "cm",
+        "jar": "container",
+        ".15": "0.15",
+        "6 inches": "15 cm",
+        "15 inches": "38 cm",
+        "red jelly beans": "red jalebis",
+        "900": "900"
+    },
+    {
+        "Chengli city": "Chennai shahr"
+    },
+    {
+        "Pauline": "Priyanka",
+        "$2": "₹50"
+    },
+    {
+        "Cedar Falls Middle School": "Navi Mumbai Vidyalaya",
+        "escape room": "Nazar Battu",
+        "$10": "₹830",
+        "grades": "grades"
+    },
+    {
+        "John": "Ramesh",
+        "Ali": "Rahul",
+        "wooden tables": "tables",
+        "roof frames": "roof structures",
+        "$20": "₹2,000",
+        "$10": "₹1,000"
+    },
+    {
+        "Ian": "Ram",
+        "feet": "meters",
+        "40 feet": "12 meters"
+    },
+    {
+        "Aiden": "Ravi",
+        "steakhouse-seasoning": "restaurant masala",
+        "neighborhood cookout": "local get-together",
+        "pound": "kilogram",
+        "meatballs": "kebabs"
+    },
+    {
+        "Luke": "Ram",
+        "fabric": "cloth",
+        "inches": "cm",
+        "35": "90",
+        "windows": "mangalsutras"
+    },
+    {
+        "$0.25": "₹20",
+        "$0.2": "₹2"
+    },
+    {
+        "Monday": "Mangalvaar",
+        "inches": "inch",
+        "$": "₹"
+    },
+    {
+        "Carly": "Shilpa",
+        "cupcakes": "gulab jamuns",
+        "brownies": "jalebis",
+        "art class": "art class",
+        "$0": "₹0"
+    },
+    {
+        "Karen": "Kareena",
+        "muffins": "parathas",
+        "$35": "₹2,625",
+        "$40": "₹2,800"
+    },
+    {
+        "Susan": "Sita",
+        "magazines": "navarasas, ruchira",
+        "$": "₹",
+        "12": "12",
+        "6": "6"
+    },
+    {
+        "Samantha": "Shilpa",
+        "Shelley": "Meera",
+        "Kim": "Tina"
+    },
+    {
+        "November": "Durga Puja month",
+        "toy": "toy",
+        "$40": "₹3,200",
+        "December": "Aagahani",
+        "80%": "80%",
+        "January": "Navan"
+    },
+    {
+        "Charlie": "Ravi",
+        "tennis": "tennis",
+        "lessons": "lesson",
+        "$80": "₹6,160",
+        "veteran": "veteran"
+    },
+    {
+        "Sally": "Shilpa",
+        "quizzes": "math quizzes",
+        "$": "₹"
+    },
+    {
+        "Eve": "Laxmi",
+        "pomelos": "dhoodh-phal"
+    },
+    {
+        "Walter": "Ramesh",
+        "apples": "seetaphal",
+        "store": "local mandi",
+        "$3": "₹21"
+    },
+    {
+        "Regina": "Radha",
+        "novels": "novels"
+    },
+    {
+        "Michael": "Ram",
+        "interstate": "National Highway",
+        "Alaska": "Kashmir",
+        "Texas": "Kanyakumari",
+        "6000 km": "7500 km"
+    },
+    {
+        "Madeline": "Madhuri",
+        "grapes": "grapes",
+        "6": "6",
+        "5": "5",
+        "a full glass": "a full glass",
+        "4": "4",
+        "pies": "rasmalai",
+        "12": "12"
+    },
+    {
+        "Rydell Elementary School": "Gurukul Vidyalaya",
+        "$": "₹"
+    },
+    {
+        "Bud": "Ram",
+        "macaroni and cheese": "macaroni cheese",
+        "$1.00": "₹75",
+        "$3.00": "₹300",
+        "gruyere cheese": "gruyere cheese"
+    },
+    {
+        "school": "school",
+        "custodian": "school caretaker",
+        "classrooms": "viddhals",
+        "days": "roj",
+        "minutes": "dhyaan-minutes",
+        "hour": "ghanta-hour"
+    },
+    {
+        "Elly": "Lata",
+        "books": "kitabe",
+        "bookcases": "rakhiyaan"
+    },
+    {
+        "Rose": "Ramesh",
+        "dozens": "dozen",
+        "$2.40": "₹240",
+        "$1": "₹30"
+    },
+    {
+        "Skyler": "Ravi",
+        "hats": "topis",
+        "$0": "₹0",
+        "100": "100"
+    },
+    {
+        "Archie": "Ramesh",
+        "beef jerky": "beef jerky",
+        "30 sticks": "30 pieces",
+        "a bag": "each bag",
+        "$18.00": "₹1800",
+        "$3.00": "₹90",
+        "cents": "paise"
+    },
+    {
+        "Audrey": "Anita",
+        "6th grade": "6th standard",
+        "70%": "70%",
+        "70": "70",
+        "first test": "the first exam",
+        "second test": "the second exam",
+        "7th grade": "7th standard",
+        "40": "40"
+    },
+    {
+        "Mary": "Mira",
+        "ice cubes": "shishas",
+        "strawberry cubes": "strawberry shishas",
+        "blueberry cubes": "blueberry shishas",
+        "$0": "₹0",
+        "116": "116"
+    },
+    {
+        "Ara": "Radha",
+        "school": "local",
+        "games": "matches",
+        "year": "four years"
+    },
+    {
+        "Brendan": "Ramesh",
+        "marbles": "रिङकेते (rinkete)",
+        "pebble": "पेबल (pebla)",
+        "$0": "₹0"
+    },
+    {
+        "Jason": "Ram",
+        "car dealership": "car showroom",
+        "$": "₹",
+        "this month": "this month",
+        "big bonus": "significant bonus"
+    },
+    {
+        "Brianna": "Diya",
+        "house": "Diya's house",
+        "candles": "diyas",
+        "flashlights": "torchlights",
+        "$10": "₹830",
+        "muffins": "",
+        "rooms": "kothas",
+        "people": "residents"
+    },
+    {
+        "Mitchell": "Ramesh",
+        "nachos": "pakoras",
+        "chips": "namkeen sev",
+        "$55": "₹450",
+        "55": "55"
+    },
+    {
+        "John": "Ramesh"
+    },
+    {
+        "Dominick": "Ramesh",
+        "robots": "robots",
+        "helmets": "helmets",
+        "footballs": "cricket balls",
+        "$0": "₹0"
+    },
+    {
+        "Tim": "Ram"
+    },
+    {
+        "Louise": "Kavita",
+        "paintings": "artwork",
+        "$0": "₹0",
+        "minutes": "minutes"
+    },
+    {
+        "Crista": "Tina",
+        "plants": "bonsai plants",
+        "$0": "₹0",
+        "cup": "cup",
+        "half": "half",
+        "quarter": "quarter"
+    },
+    {
+        "Phineas Frog": "Rana Mangrove Frog",
+        "wetlands": "wetlands near Mumbai",
+        "200 yards": "200 yards",
+        "swamp": "swamp"
+    },
+    {
+        "Bob": "Ramesh",
+        "popsicle sticks": "lollipop sticks",
+        "Washington Monument": "Qutub Minar",
+        "$2.00": "₹140"
+    },
+    {
+        "phones": "smartphones",
+        "phone plan": "mobile plan",
+        "$20": "₹2000"
+    },
+    {
+        "Derrick": "Ramu",
+        "bakery": "bakery in Mumbai",
+        "doughnuts": "puri",
+        "$2": "₹20"
+    },
+    {
+        "Jade": "Shikha",
+        "cell phone": "smartphone",
+        "Instagram": "Instagram"
+    },
+    {
+        "Alicia": "Aarushi",
+        "blouses": "kurtas",
+        "pants": "pyjama",
+        "$5.00": "₹50",
+        "$6.00": "₹60",
+        "$8.00": "₹80"
+    },
+    {
+        "John": "Ramesh"
+    },
+    {
+        "Conor": "Ram",
+        "beach": "ghat",
+        "50": "50",
+        "20": "20",
+        "twice": "double",
+        "day": "day",
+        "week": "week"
+    },
+    {
+        "Tim": "Ramesh",
+        "lemonade": "nimbu pani",
+        "lemon": "nimbu",
+        "gallon": "gallon",
+        "cup": "katori",
+        "Allen": "Ajay"
+    },
+    {
+        "Kennel house": "Dog House"
+    },
+    {
+        "farm": "gaushala",
+        "2-legged animals": "gaur",
+        "4-legged animals": "goats"
+    },
+    {
+        "tower": "stupa",
+        "blocks": "blocks",
+        "blue": "cobalt-blue",
+        "yellow": "saffron-yellow",
+        "red": "crimson",
+        "$0": "₹0"
+    },
+    {
+        "Elvis": "Ramesh",
+        "his house": "his home in Mumbai",
+        "hours": "hours",
+        "miles": "miles per hour",
+        "$": "₹"
+    },
+    {
+        "Gary": "Ramesh",
+        "$9000": "₹7,20,000"
+    },
+    {
+        "Starbursts": "Mithai Masti",
+        "$": "₹"
+    },
+    {
+        "Helen": "Helen",
+        "Germany": "India",
+        "hotel": "hotel",
+        "nights": "nights",
+        "bus": "bus",
+        "$80": "₹6,000",
+        "trip": "journey"
+    },
+    {
+        "Dallas": "Aarav",
+        "Darla": "Aishwarya",
+        "$0": "₹0"
+    },
+    {
+        "cinema": "PVR cinema",
+        "$12": "₹1,200",
+        "$8": "₹600",
+        "popcorns": "packets of popcorn",
+        "$3": "₹150"
+    },
+    {
+        "John": "Ramesh",
+        "pounds": "kg",
+        "$": "₹",
+        "1%": "1%"
+    },
+    {
+        "James": "Ravi",
+        "crepe-paper streamers": "phool jhari",
+        "feet": "cubits"
+    },
+    {
+        "Mia": "Mira",
+        "Emma": "Simran",
+        "$0": "₹0",
+        "years": "years old"
+    },
+    {
+        "Tom": "Ramesh",
+        "Nancy": "Sita",
+        "Benny": "Rajat",
+        "seashells": "seashells (shaila)",
+        "$": "₹",
+        "beach": "shores of Goa"
+    },
+    {
+        "Avery": "Ravi",
+        "place setting": "table setting",
+        "holiday dinner": "festive dinner at home",
+        "$6.00": "₹240",
+        "$5.00": "₹50",
+        "$4.00": "₹120"
+    },
+    {
+        "Steve": "Ram",
+        "puzzle": "jigsaw puzzle",
+        "$10": "₹750",
+        "hours": "hours"
+    },
+    {
+        "Dexter": "Ravi",
+        "pounds": "kg",
+        "5": "5",
+        "4": "2",
+        "300": "1360"
+    },
+    {
+        "John": "Ramesh",
+        "hot dogs": "pav bhaji",
+        "$2": "₹140"
+    },
+    {
+        "Frances": "Falak",
+        "cupcakes": "rasmalai cakes",
+        "$2": "₹2",
+        "cookies": "nankhatai cookies",
+        "$1": "₹1",
+        "trays": "thali trays",
+        "$4": "₹4"
+    },
+    {
+        "ice cream truck": "ice cream cart",
+        "$": "₹"
+    },
+    {
+        "Mamou": "Mamta",
+        "Mamou's country": "Bharat",
+        "Mamou has volunteered to distribute 1,360 meals": "Mamta has volunteered to distribute 1,360 bhajiyas",
+        "Friday": "Friday",
+        "Saturday": "Saturday",
+        "Sunday": "Sunday",
+        "$0": "₹0"
+    },
+    {
+        "James": "Ram",
+        "$0.25": "25 paise",
+        "$0.05": "5 paise",
+        "$0.10": "2 paise"
+    },
+    {
+        "sisters": "behn",
+        "brothers": "bhaiya",
+        "16": "16 saal",
+        "12": "12 saal"
+    },
+    {
+        "Charisma": "Seema",
+        "15 minutes": "15 minutes",
+        "1 hour": "1 hour",
+        "4 weeks": "4 weeks"
+    },
+    {
+        "Octavia": "Tina",
+        "quilt": "quilt",
+        "t-shirts": "kurtas",
+        "3 square feet": "3 square feet",
+        "4 square feet": "4 square feet",
+        "6 square feet": "6 square feet",
+        "11": "11",
+        "8": "8",
+        "6": "6"
+    },
+    {
+        "sunflower seeds": "sunflower seeds"
+    },
+    {
+        "Timothy": "Ram",
+        "George": "Shyam",
+        "Sarah": "Meera"
+    },
+    {
+        "Jackie": "Jyoti",
+        "3'": "8 cm",
+        "summer": "summer",
+        "Anne": "Anu",
+        "twice": "twice",
+        "Albert": "Amit",
+        "36'": "90 cm"
+    },
+    {
+        "company": "A company in Mumbai",
+        "$2": "₹160"
+    },
+    {
+        "Jake": "Ravi",
+        "T-shirts": "T-shirts",
+        "$8": "₹640",
+        "clothing store": "clothing store in Mumbai",
+        "$40": "₹4000",
+        "shoes": "chappals"
+    },
+    {
+        "Ryan": "Ramesh",
+        "$6": "₹450",
+        "ice cream cones": "ice cream",
+        "$1.25": "₹125",
+        "$6.50": "₹650"
+    },
+    {
+        "Ellen": "Ramesh",
+        "Lani": "Seema",
+        "mall": "mall",
+        "presents": "gifts",
+        "leggings": "leggings",
+        "$100": "₹10,000",
+        "$5": "₹50",
+        "sunglasses": "sunglasses",
+        "$30": "₹2,400",
+        "bathrobes": "bathrobes"
+    },
+    {
+        "Tim": "Ramesh",
+        "muffins": "",
+        "$6": "₹300",
+        "$8": "₹400",
+        "$10": "₹1000",
+        "$50": "₹5000"
+    },
+    {
+        "Justin": "Ravi",
+        "quarters": "tolas",
+        "dimes": "paisas",
+        "nickels": "paise",
+        "$": "₹"
+    },
+    {
+        "Janet": "Janaki",
+        "mall": "mall",
+        "ice cream": "ice cream",
+        "movie tickets": "movie tickets",
+        "$3.50": "₹150",
+        "$7.50": "₹150",
+        "$8.50": "₹850",
+        "$40": "₹4000"
+    },
+    {
+        "Josh": "Ram",
+        "$4": "₹320"
+    },
+    {
+        "Randy": "Ravi",
+        "oatmeal cookies": "oatmeal biscuits",
+        "chocolate chip cookies": "chocolate chip biscuits",
+        "sugar cookies": "sugar biscuits",
+        "$0": "₹0"
+    },
+    {
+        "Matthew": "Mukesh",
+        "$5": "₹400",
+        "$7": "₹560"
+    },
+    {
+        "Nate": "Ram",
+        "dog": "dog",
+        "holes": "घाटियाँ",
+        "$14": "14 दिन",
+        "vacation": "vacation",
+        "he": "he",
+        "starts": "starts",
+        "filling": "filling",
+        "in": "in",
+        "9": "9 घाटियाँ",
+        "night": "night",
+        "it": "it"
+    },
+    {
+        "Norman High School": "Shri Norman High School",
+        "Butler High School": "Shri Butler High School",
+        "4000 students": "4000 students",
+        "3/4": "3/4th"
+    },
+    {
+        "Adams": "Chaturvedi",
+        "cookies": "mathris",
+        "rainbow cookies": "rainbow mathris",
+        "oatmeal cookies": "oatmeal mathris",
+        "chocolate chip cookies": "besan mathris (chickpea flour cookies)"
+    },
+    {
+        "James": "Ram",
+        "tables": "ताले",
+        "legs": "घोड़े",
+        "screws": "स्क्रू",
+        "40": "40"
+    },
+    {
+        "eggs": "khoya"
+    },
+    {
+        "Kim": "Mahi",
+        "Alexandra": "Alisha",
+        "Maryam": "Simran",
+        "Sarah": "Seema",
+        "$": "₹",
+        "carnival": "Diwali Mela",
+        "$320": "₹32,000",
+        "$430": "₹43,000",
+        "$400": "₹40,000",
+        "$300": "₹30,000"
+    },
+    {
+        "Aaron": "Ram",
+        "Vanessa": "Sita",
+        "miles": "kilometers",
+        "$10": "₹"
+    },
+    {
+        "docks": "ghat",
+        "line": "kavad",
+        "$": "₹",
+        "feet": "kavad"
+    },
+    {
+        "Tom": "Ram",
+        "$5": "₹110"
+    },
+    {
+        "watermelons": "seetaphal",
+        "$80": "₹5,600"
+    },
+    {
+        "John": "Ramesh",
+        "James": "James",
+        "Dora": "Dora",
+        "$19": "₹1360",
+        "32": "₹2340"
+    },
+    {
+        "oranges": "satsumas",
+        "Ana": "Anu",
+        "Jane": "Jaya",
+        "$0": "₹0"
+    },
+    {
+        "Mark": "Mark",
+        "car": "car",
+        "dollars": "Indian Rupees",
+        "$400": "₹30,600",
+        "junk shop": "scrap yard",
+        "hours": "hour",
+        "$50": "₹50"
+    },
+    {
+        "Farmer Brown": "Kisan Gowda",
+        "chickens": "goats (bharat)",
+        "cows": "cows"
+    },
+    {
+        "Henry": "Ramesh",
+        "pizzas": "paneer tikka pizzas",
+        "Pizza Hut": "Pizza Hut, Mumbai",
+        "3": "3 of his friends",
+        "$": "₹",
+        "7": "7",
+        "8": "8"
+    }
+]

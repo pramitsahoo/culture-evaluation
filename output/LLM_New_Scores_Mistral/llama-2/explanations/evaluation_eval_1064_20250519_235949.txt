@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+James gets 80 emails a day.  20% of those emails don't require any response.  He responds to the rest of them.  How many emails does he respond to in a 5 day work week?
+
+Adapted Text:
+Ramesh gets 80 emails a day. 20% of those emails don't require any response. He responds to the rest of them. How many emails does he respond to in a 5 day work week?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes the name of the main character to an Indian name, which is a step towards cultural relevance, but the context remains the same and lacks deeper cultural connections.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terminology correctly but lacks the natural flow and colloquialisms that are characteristic of Indian English.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains the same and is presented correctly, with no loss of accuracy or mathematical soundness.
+
+Overall Score:
+Average Score: 4.00/5

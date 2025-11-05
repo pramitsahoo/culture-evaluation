@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Duncan's age eight years ago was two times Adam's age four years ago. If Duncan's age is 60 now, how old will Adam be in 8 years?
+
+Adapted Text:
+Ramesh's age eight years ago was two times Rohan's age four years ago. If Ramesh's age is 60 now, how old will Rohan be in 8 years?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes nonsensical elements that are culturally inappropriate, making it unsuitable for the Indian audience.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The adapted text contains incorrect use of Indian terms, making it difficult for the reader to understand the context.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The adapted text presents a mathematically nonsensical problem after adaptation.
+
+Overall Score:
+Average Score: 0.67/5

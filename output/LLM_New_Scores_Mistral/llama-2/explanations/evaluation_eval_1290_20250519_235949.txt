@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Octavia wants to make a quilt for her sister. She is going to build it from small, medium, and large t-shirts that her family is done with. A small t-shirt is 3 square feet of fabric. A medium one is 4 square feet. A large one is 6 square feet. If she uses 11 small shirts, 8 medium, and 6 large shirts, how many square feet is the quilt?
+
+Adapted Text:
+Rajvi wants to make a quilt for her sister. She is going to build it from small, medium, and large dhotis that her family is done with. A small dhoti is 3 square feet of fabric. A medium one is 4 square feet. A large one is 6 square feet. If she uses 11 small dhotis, 8 medium, and 6 large dhotis, how many square feet is the quilt?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses culturally relevant items (dhoti instead of t-shirt) but does not fully immerse the reader in an Indian cultural context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly but the overall flow may not be as natural to a native speaker.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

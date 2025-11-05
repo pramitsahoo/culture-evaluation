@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Maggie's oven is malfunctioning. When she sets it to 450 the actual temperature is 468. If it's off by the same percentage for any recipe, what temperature should she set it at if her recipe calls for 520 degrees?
+
+Adapted Text:
+Ramesh's oven is malfunctioning. When he sets it to 450, the actual temperature is 468. If it's off by the same percentage for any recipe, what temperature should he set it at if his recipe calls for 520 degrees?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian names, making it relevant to the target culture, but the scenario itself remains universal.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively uses Indian English and terms, demonstrating a good understanding of the language but lacking some natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

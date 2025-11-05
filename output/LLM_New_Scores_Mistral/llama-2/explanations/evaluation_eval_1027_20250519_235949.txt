@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+One dwarf can mine 12 pounds of ore per day with his bare hands. He can mine twice as much with an iron pickaxe and 50% more with a steel pickaxe than with an iron pickaxe. How many pounds of ore can 40 dwarves with steel pickaxes mine in a month with 30 days?
+
+Adapted Text:
+Forty dwarves with steel pickaxes can mine 14,000 pounds of ore in a month with 30 days. They can mine twice as much with steel pickaxes than with iron pickaxes.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The text is adapted to an Indian context by using dwarves as miners, but it does not involve any cultural elements that are specific to India or resonate with Indian audiences.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, but the flow is not completely natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

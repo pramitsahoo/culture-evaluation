@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tyler wants to buy a dictionary that costs $18, a dinosaur book that costs $13, and a children's cookbook that costs $8. He has saved $14 from his allowance. If Tyler earns $5 per hour, how many hours does he have to work to afford his books?
+
+Adapted Text:
+Ramesh wants to buy a dictionary that costs ₹830, a dinosaur book that costs ₹130, and a children's cookbook that costs ₹80. He has saved ₹14 from his allowance. If Ramesh earns ₹5 per hour, how many hours does he have to work to afford his books?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, lacking any Indian language elements.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.00/5

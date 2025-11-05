@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The rainstorm flooded the wetlands and washed Phineas Frog 200 yards away from his home in the swamp.  To return home, he will need to hop and swim his way back.  If he hops on land at a speed of 20 yards per minute, and swims through water at a speed of 10 yards per minute, how long will it take Phineas, in minutes, to return home if half of the distance is on land and the other half is in water?
+
+Adapted Text:
+The monsoon flooded the wetlands and washed Ramesh Frog 200 yards away from his home in the marsh.  To return home, he will need to hop and swim his way back.  If he hops on land at a speed of 20 yards per minute, and swims through water at a speed of 10 yards per minute, how long will it take Ramesh, in minutes, to return home if half of the distance is on land and the other half is in water?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text is nonsensical and culturally inappropriate with inaccurate or absurd elements.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The adapted text uses Indian terms incorrectly, making it difficult to understand and culturally disconnected.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The adapted text contains a mathematical problem
+
+Overall Score:
+Average Score: 0.67/5

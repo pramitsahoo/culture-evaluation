@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mary has 6 jars of sprinkles in her pantry. Each jar of sprinkles can decorate 8 cupcakes. Mary wants to bake enough cupcakes to use up all of her sprinkles. If each pan holds 12 cupcakes, how many pans worth of cupcakes should she bake?
+
+Adapted Text:
+Ramesh has 6 tins of zariya in his kitchen. Each tin of zariya can decorate 8 gajakas. Ramesh wants to bake enough gajakas to use up all of his zariya. If each tray holds 12 gajakas, how many trays worth of gajakas should he bake?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses completely western terminology and expressions, making it inappropriate for the Indian audience.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is nonsensical after adaptation, as gajakas cannot be decorated with zariya.
+
+Overall Score:
+Average Score: 1.00/5

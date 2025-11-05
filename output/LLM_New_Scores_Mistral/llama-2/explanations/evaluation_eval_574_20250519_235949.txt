@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Katina has $3000 in her savings account. If she removes $100 from the account every month, how much money will be remaining within the account after 2 years?
+
+Adapted Text:
+Ramesh has ₹24,000 in his savings account. If he withdraws ₹1,000 every month, how much money will be remaining within the account after 2 years?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has culturally relevant names and objects, but it could be more contextually embedded in Indian culture to increase cultural resonance.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms, but the flow of the language could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

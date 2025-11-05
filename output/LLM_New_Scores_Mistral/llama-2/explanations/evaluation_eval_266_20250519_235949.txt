@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mrs. Cruz is looking for a house that will not go beyond her $400 000 budget. She saw a property that has a selling price of $350 000. On top of that, the buyer has to pay a brokerage fee which is 5% of the selling price, and also the transfer fee that is 12% of the selling price. How much more is the total price of the house than Mrs. Cruz's budget?
+
+Adapted Text:
+Mrs. Ramesh is looking for a house that will not go beyond her ₹400,000 budget. She saw a property that has a selling price of ₹350,000. On top of that, the buyer has to pay a brokerage fee which is 5% of the selling price, and also the transfer fee that is 12% of the selling price. How much more is the total price of the house than Mrs. Ramesh's budget?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text incorporates Indian names and the Indian currency, but it doesn't contain any contextually Indian elements or scenarios.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms, but the flow and naturalness could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

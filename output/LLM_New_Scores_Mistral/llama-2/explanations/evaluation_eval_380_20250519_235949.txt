@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Rachel bought 23 cookies and Janet gave her 42 cookies. The other day her brother ate 44 of those cookies. How many cookies are left for Rachel?
+
+Adapted Text:
+Ramesh bought 23 parathas and Rohan gave him 42 parathas. The other day his brother ate 44 parathas. How many parathas are left for Ramesh?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes culturally relevant names and objects, but the scenario lacks a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terminology effectively but lacks a completely natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Sally went to the seashore for vacation.  Her parents gave her $10 to buy whatever she wanted.  At the trinket shop, taffy was on sale for "Buy 1 pound at $3, get 1 pound 1/2 off."  She scooped up 2 pounds.  She also bought a mixed bag of seashells for $1.50 and 4 magnets that were $0.25 each.  How much money does Sally have left?
+
+Adapted Text:
+Ramesh went to the seashore for vacation.  His parents gave him ₹830 to buy whatever he wanted.  At the trinket shop, parathas were on sale for 'Buy 1 pound at ₹83, get 1 pound 1/2 off.' He scooped up 2 pounds.  He also bought a mixed bag of seashells for ₹150 and 4 magnets that were ₹25 each.  How much money does Ramesh have left?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contains culturally relevant replacements of proper nouns and objects, but the overall scenario remains Western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, with a natural flow for the most part.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

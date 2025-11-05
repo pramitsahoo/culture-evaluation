@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+48 people are riding a bus. On the first stop, 8 passengers get off, and 5 times as many people as the number who got off from the bus get into the bus. On the second stop 21, passengers get off and 3 times fewer passengers get on. How many passengers are riding the bus after the second stop?
+
+Adapted Text:
+एक बस में 48 लोग हैं । पहले स्थल पर 8 लोग छोड़ें, उनके पास 5 ब bus में लोग पहुँचें। दूसरे स्थल पर 21 लोग छोड़ें, उनके पास 3 ब bus में लोग पहुँचें। इसे दूसरे स्थल पर कैसा लोग रide हैं?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced western concepts with culturally relevant alternatives, making it more relatable to the Indian audience.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms correctly but lacks natural flow, with some expressions feeling forced.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

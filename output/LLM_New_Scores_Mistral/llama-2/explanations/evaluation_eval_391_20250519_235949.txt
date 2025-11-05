@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Monica is wrapping Christmas gifts. She has 6 gifts to wrap for her family, 4 gifts to wrap for her friends and 2 gifts to wrap for her teachers. She has 144 inches of ribbon and wants to make a bow for each gift with it. How many inches of ribbon can she use for each gift bow?
+
+Adapted Text:
+Ramesh is wrapping Diwali gifts. He has 6 gifts to wrap for his family, 4 gifts to wrap for his friends and 2 gifts to wrap for his teachers. He has ₹830 worth of ribbon and wants to make a bow for each gift with it. How many ₹830 worth of ribbon can he use for each gift bow?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains the original context while incorporating Indian elements, such as changing Christmas to Diwali, and using rupees as the currency for the ribbon.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively uses Indian English and terminology, but the use of the word "Ramesh" and "gifts" feels slightly out of place in the Indian cultural context.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

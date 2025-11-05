@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Gretchen has some coins. There are 30 more gold coins than silver coins. If she had 70 gold coins, how many coins did Gretchen have in total?
+
+Adapted Text:
+Ramesh has some coins. There are 30 more gold coins than silver coins. If he had 70 gold coins, how many coins did Ramesh have in total?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text uses nonsensical adaptations, including culturally inappropriate or nonsensical elements.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The adapted text uses completely western terminology and expressions, with no attempt to incorporate Indian language elements.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 1.00/5

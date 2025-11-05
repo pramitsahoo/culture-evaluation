@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ian has a board that is 40 feet long. He decides to make a cut so he can have two pieces. The longer piece is 4 times longer than the shorter piece. How long is the longer piece?
+
+Adapted Text:
+Ramesh has a रुpees 40 पाठ (40 feet) long ढांच (board). He decides to cut it so he can have two pieces. The longer piece is 4 times longer than the shorter piece. How long is the longer piece?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses Indian names and units, but the context remains western.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms, but their use is not always accurate or natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains the same, and the adaptation does not affect its accuracy.
+
+Overall Score:
+Average Score: 4.00/5

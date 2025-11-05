@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Elvis starts driving from his house and travels west for 5 hours. Then he turns around and travels east for 8 hours. If he was driving at an average speed of 18mph for both parts of the journey, how far is he from his house now?
+
+Adapted Text:
+Ramesh starts driving from his house and travels towards west for 5 hours. Then he turns around and travels towards east for 8 hours. If he was driving at an average speed of 18mph for both parts of the journey, how far is he from his house now?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has some Indian names, but the scenario and context remain western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly, but the language flow could be more natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains the same, and its integrity is maintained in the adaptation.
+
+Overall Score:
+Average Score: 4.00/5

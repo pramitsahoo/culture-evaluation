@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tom decides to give his wife an anniversary getaway.  The plane tickets cost $5000 each.  The hotel is 20% more expensive than normal because it is a busy weekend.  The normal price is $1500 per day.  If they are there for 3 days how much did the trip cost?
+
+Adapted Text:
+Ramesh decides to give his wife an anniversary getaway.  The plane tickets cost ₹5000 each.  The hotel is 20% more expensive than normal because it is a busy weekend.  The normal price is ₹1500 per day.  If they are there for 3 days how much did the trip cost?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes the original names to Indian names and adapts the monetary values to Indian currency, creating a more culturally relevant scenario for Indian readers.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, maintaining a natural flow for Indian readers.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and unchanged, making it easy for Indian readers to understand and solve.
+
+Overall Score:
+Average Score: 4.33/5

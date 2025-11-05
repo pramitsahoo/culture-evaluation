@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tim gets a promotion that offers him a 5% raise on his $20000 a month salary.  It also gives him a bonus worth half a month's salary. How much money will he make in a year?
+
+Adapted Text:
+Ramesh gets a promotion that offers him a 5% raise on his ₹150000 a month salary. It also gives him a bonus worth half a month's salary. How much money will he make in a year?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses culturally relevant names and salary amount but the original scenario is not common in India.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology but it does not flow naturally and some phrases could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

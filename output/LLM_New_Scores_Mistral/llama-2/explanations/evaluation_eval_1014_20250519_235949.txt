@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Janet gets a job as a waitress.  She makes $10 an hour from wages and another $15 an hour from tips.  She wants to save up 20% of the cost of a $10000 car for a downpayment.  If she works 40 hours a week how many weeks will she need to work to save the down payment?
+
+Adapted Text:
+Ramesh gets a job as a waiter.  He makes ₹830 an hour from wages and another ₹125 an hour from tips.  He wants to save up 20% of the cost of a ₹10000 car for a downpayment.  If he works 40 hours a week how many weeks will he need to work to save the down payment?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text contains nonsensical elements, making it culturally inappropriate.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The adapted text uses incorrect Indian terms, resulting in a poor language adaptation.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 1.00/5

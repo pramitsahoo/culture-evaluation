@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Bob thinks he needs 56 popsicle sticks to recreate the Washington Monument for his history project.  His favorite popsicles come 8 to a box and cost $2.00 per box.  How much will it cost Bob to build his project?
+
+Adapted Text:
+Ramesh thinks he needs ₹830 to recreate the Tirupati Balaji Temple for his history project. His favorite parathas come 8 to a pack and cost ₹83 per pack. How much will it cost Ramesh to build his project?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains the original structure but uses Indian names and a relevant Indian cultural icon.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology but lacks some natural flow in the context.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

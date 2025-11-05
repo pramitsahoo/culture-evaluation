@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Grandma walks 3 miles every day on her favorite walking trail, which includes 2 miles of walking on the beach and 1 mile of walking on the sidewalk.  On the sidewalk, Grandma walks at twice the rate of speed that she does on the beach.  If 40 minutes of her walk is spent on the beach, how long does it take for her to complete the entire 3-mile walk, in minutes?
+
+Adapted Text:
+Rajbaiji walks 3 miles every day on her favorite walking trail, which includes 2 miles of walking on the sand and 1 mile of walking on the footpath.  On the footpath, Rajbaiji walks at twice the rate of speed that she does on the sand.  If 40 minutes of her walk is spent on the sand, how long does it take for her to complete the entire 3-mile walk, in minutes?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian names and locations, making it relevant to the Indian culture.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms, but their usage is not always natural or consistent.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-presented despite the cultural adaptation.
+
+Overall Score:
+Average Score: 4.00/5

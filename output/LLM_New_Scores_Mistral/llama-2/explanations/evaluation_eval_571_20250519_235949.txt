@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Peter has $70 and wishes to spend an equal amount each day for one week. From Sunday through Wednesday, he spent his money on wooden action figures which cost $5 each. For the rest of the week, he will buy plastic action figures which cost $2 each. How many total action figures will he have by the end of the week?
+
+Adapted Text:
+Ramesh has ₹70 and wishes to spend an equal amount each day for one week. From Sunday through Wednesday, he spent his money on wooden action figures which cost ₹5 each. For the rest of the week, he will buy plastic action figures which cost ₹2 each. How many total action figures will he have by the end of the week?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has multiple entities changed with a deeper connection to Indian culture, making it more relatable for the target audience.
+
+2. Language Fluency
+Score: 5.0/5
+Explanation: The text uses natural Indian English and terminology with a seamless flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.67/5

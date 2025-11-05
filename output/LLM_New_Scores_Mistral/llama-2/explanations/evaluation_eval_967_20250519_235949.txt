@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Greta wanted brownies for her birthday.  She made a batch for herself; one dozen cream cheese swirl brownies.  At her office, they threw her a party and sent her home with 1/2 a dozen brownies.  When she arrived home, her friends were there to throw her a surprise party and had 4 dozen brownies waiting.  During the party, 1 1/2 dozen brownies were eaten.  How many individual brownies did Greta have left over from the entire day?
+
+Adapted Text:
+Ramesh wanted parathas for his birthday.  He made a batch for himself; one dozen cream cheese swirl parathas.  At his office, they threw him a party and sent him home with 1/2 a dozen parathas.  When he arrived home, his friends were there to throw him a surprise party and had 4 dozen parathas waiting.  During the party, 1 1/2 dozen parathas were eaten.  How many individual parathas did Ramesh have left over from the entire day?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has names and food items changed to Indian counterparts, but the overall scenario remains western.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms, but the language flow is not completely natural.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly, but the cultural context could be better integrated.
+
+Overall Score:
+Average Score: 3.67/5

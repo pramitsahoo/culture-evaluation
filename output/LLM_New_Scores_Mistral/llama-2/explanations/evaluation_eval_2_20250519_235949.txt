@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A robe takes 2 bolts of blue fiber and half that much white fiber.  How many bolts in total does it take?
+
+Adapted Text:
+A dhoti takes 2 maunds of blue cotton and half that much white cotton. How many maunds in total does it take?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has made substantial changes to the original text, creating a culturally relevant scenario while maintaining the mathematical problem's essence.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian terminology, expressions, and natural language patterns, with only minor adjustments to ensure cultural appropriateness.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

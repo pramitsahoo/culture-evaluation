@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A customer’s loyalty card at a store gives them rewards of $1 off their next purchase for every $20 they spend. Their last shopping trip, they spent $80. This shopping trip, they spent $43, used their rewards, and applied a coupon that took twice the amount of rewards off the price. How many dollars did the customer pay on this shopping trip?
+
+Adapted Text:
+Ramesh spent ₹830 on his last shopping trip and ₹43 on this trip, used his rewards and applied a coupon that gave him twice the rewards value, so he paid ₹830 - ₹43 = ₹787 on this shopping trip.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has made several changes to reflect Indian culture, but some objects or concepts may not be entirely relevant to the target audience.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms correctly, but the overall flow and naturalness could be improved.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, but the adaptation could be more seamless.
+
+Overall Score:
+Average Score: 3.67/5

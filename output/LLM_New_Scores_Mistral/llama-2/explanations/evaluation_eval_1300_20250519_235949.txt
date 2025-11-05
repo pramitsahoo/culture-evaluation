@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Janet goes to the mall and spends $3.50 on ice cream, $7.50 each for movie tickets for herself and her younger sister, and $8.50 on a bracelet. If her parents gave her $40, how many dollars does she have left?
+
+Adapted Text:
+Rajvi goes to the mall and spends ₹350 on ice cream, ₹750 each for movie tickets for herself and her younger brother, and ₹850 on a bracelet. If her parents gave her ₹4000, how many Indian Rupees does she have left?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contains multiple entities changed with a deeper connection to Indian culture, but it could have been more immersive by incorporating more Indian cultural elements.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow, but it could be improved further by refining some expressions and terminology.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

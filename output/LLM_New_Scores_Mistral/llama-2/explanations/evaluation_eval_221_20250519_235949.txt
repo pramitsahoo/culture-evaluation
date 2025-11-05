@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+It takes Carmen 10 minutes to finish a crossword puzzle and 5 minutes to finish a sudoku puzzle.  Over the weekend she solved 3 crossword puzzles and 8 sudoku puzzles.  How much time did she spend playing these games?
+
+Adapted Text:
+Ramesh spent 50 minutes playing crossword puzzles and 25 minutes playing sudoku puzzles over the weekend. He solved 3 crossword puzzles and 8 sudoku puzzles.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced western names with Indian ones and has maintained the original context, making it relevant to the Indian audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, with a natural flow that feels authentic to the target audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains the same as the original, but is presented in a way that is understandable to the Indian audience.
+
+Overall Score:
+Average Score: 4.33/5

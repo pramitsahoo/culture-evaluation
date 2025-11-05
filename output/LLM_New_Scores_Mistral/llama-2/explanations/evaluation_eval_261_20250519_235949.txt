@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Two cups of flour are needed to make a dozen cookies. Carla is making 36 cookies today and 30 cookies tomorrow. How many cups of flour will Carla need to bake the cookies today and tomorrow?
+
+Adapted Text:
+Two cups of atta are needed to make a dozen chakli. Ramesh is making 36 chakli today and 30 chakli tomorrow. How many cups of atta will Ramesh need to bake the chakli today and tomorrow?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses Indian names and food item (chakli), which is a significant part of Indian culture, but it maintains the original problem structure and context, which could be improved for a more authentic adaptation.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms effectively, but the natural flow could be improved for a more immersive experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

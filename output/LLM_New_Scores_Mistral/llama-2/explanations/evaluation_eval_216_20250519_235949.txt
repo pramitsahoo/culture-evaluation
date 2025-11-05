@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Lori wants to buy a $320.00 pair of shoes and a matching belt that is $32.00.  Her part-time job pays her $8.00 an hour.  How many hours will she have to work before she can make her purchase?
+
+Adapted Text:
+Lori wants to buy a ₹25,000.00 pair of shoes and a matching belt that is ₹3,200.00. Her part-time job pays her ₹800.00 an hour. How many hours will she have to work before she can make her purchase?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.00/5

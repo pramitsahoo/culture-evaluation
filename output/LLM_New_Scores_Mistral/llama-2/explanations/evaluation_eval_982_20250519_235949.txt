@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+On Thursday, Joe caught 3 pounds of crawfish.  He caught 4 times that amount on Friday and half the amount of his Friday's catch on Saturday.  If 1 serving of crawfish is 3 pounds, how many servings does he have?
+
+Adapted Text:
+Ramesh caught 3 पांच किलो मेथी का खाना. उसके साथ सप्ताह के अंत में 4 बार कम अंतराल में उसका एक समान खाना लिया. यदि 1 खाना 3 पांच किलो मेथी का है, तो उसके समान खाना कैसे है?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains the original problem's structure but uses Indian names and units (crawfish -> methi ka khana, pounds -> panch kilo).
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses some Indian English and terminology, with a natural flow. However, it could be improved with more culturally appropriate phrasing.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged, ensuring its accuracy while adapting to an Indian context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+In a room, there are various toys: 5 red cars, 3 action figures, and a doll. The doll cost as much as 3 action figures and one red car cost $4. How much are all toys worth, of an action figure costs $5?
+
+Adapted Text:
+In a room, there are various toys: 5 रऊं (red cars), 3 करार (action figures), and a  doll. The doll cost as much as 3 करार (action figures) and one रऊं (red car) cost ₹4. How much are all toys worth, of an करार (action figure) costs ₹5?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced western objects with Indian equivalents, but the scenario and context are not specifically Indian.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly, but the language flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

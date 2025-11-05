@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Rose went to the store on Monday and bought 4 cakes. Tuesday she went to a different store and bought three times that number of cakes. On Wednesday she went to another store and bought 5 times the number of cakes she did on Tuesday. How many cakes did she buy after all three days?
+
+Adapted Text:
+Ramesh went to the store on Monday and bought 4 parathas. Tuesday he went to a different store and bought three times that number of parathas. On Wednesday he went to another store and bought 5 times the number of parathas he did on Tuesday. How many parathas did he buy after all three days?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is culturally relevant as it uses a common Indian food item (parathas) instead of cakes, but the scenario remains the same as the original text.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but the natural flow could be improved slightly.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

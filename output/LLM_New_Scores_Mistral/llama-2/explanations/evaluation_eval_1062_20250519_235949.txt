@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Betsy and Donovan made a meal together. Betsy's part took 18 minutes longer than Donovan's part. The meal was made in 98 minutes. How many minutes long was Betsy's part?
+
+Adapted Text:
+Ramesh and Ria made a meal together. Ramesh's part took 18 minutes longer than Ria's part. The meal was made in 98 minutes. How many minutes long was Ramesh's part?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The text includes culturally inappropriate or nonsensical elements, making it unsuitable for an Indian audience.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text includes incorrect use of Indian terms, making it difficult for an Indian audience to understand.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 2.33/5

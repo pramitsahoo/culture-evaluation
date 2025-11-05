@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Bob spends $27000 distributed between 3 schools to buy books.  He can buy 100 books for $500.  How many books can he buy per school?
+
+Adapted Text:
+Ramesh spends ₹166000 distributed between 3 schools to buy books.  He can buy 100 books for ₹5000. How many books can he buy per school?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text includes nonsensical elements that are culturally inappropriate.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses minimal Indian terminology with incorrect usage.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is mathematically unsound or illogical.
+
+Overall Score:
+Average Score: 1.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Bob is 75 miles ahead of Tom, driving 55 miles per hour. Tom is driving 70 miles per hour. How long will it take Tom to catch up with Bob?
+
+Adapted Text:
+Ramesh is 75 kms ahead of Tom, driving 55 kms per hour. Tom is driving 70 kms per hour. How long will it take Tom to catch up with Ramesh?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced western names with Indian names, and the distances and speed are presented in kilometers, which is more common in India. However, it does not introduce any Indian cultural elements or scenarios.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English terms and expressions appropriately, but it could be more natural with a better flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains intact and accurate in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

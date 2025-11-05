@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Pierson scored 278 points in one game of bowling. Nikita scored 11 more than half as many as Pierson. How many points did Pierson and Nikita have in total?
+
+Adapted Text:
+Ramesh scored 278 points in one game of bowling. Rohan scored 11 more than half as many points as Ramesh. How many points did Ramesh and Rohan have in total?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text replaces western names with Indian names, but the context remains unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, showing a good understanding of the language but lacking in some natural flow.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, although it could be better contextualized for a more engaging experience.
+
+Overall Score:
+Average Score: 3.67/5

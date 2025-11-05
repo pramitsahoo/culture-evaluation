@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Prince Thaddeus slew 100 dragons with his mighty sword, while Prince Arthur, using a spear, slew three quarters as many dragons as Prince Thaddeus.  Using a rusty iron axe, Prince Walter slew twice as many dragons as Prince Arthur.  But Prince Bruce, having forgot his sword at home, slew one-fifth as many dragons as Prince Walter using a nail file.  How many Dragons has Prince Bruce slain?
+
+Adapted Text:
+Ramesh slew 5 parathas with his mighty tava, while Ramesh using a rusty tava, slew thrice as many parathas as Ramesh.  Using a nail file, Ramesh slew twice as many parathas as Ramesh.  But Ramesh, having forgotten his tava at home, slew one-fifth as many parathas as Ramesh using a pencil.  How many parathas has Ramesh slain?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features Indian names, but the scenario is still based on a western concept with minimal cultural connection.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms, but they are not used consistently or with natural flow, leading to awkwardness.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately.
+
+Overall Score:
+Average Score: 4.00/5

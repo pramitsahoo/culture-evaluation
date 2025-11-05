@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+David and Dasha went to the carnival, where there are 9 rides.  Each ride costs 2 ride tickets at $2 per ticket.  You can also buy a ride bracelet for $30 which gives you 9 rides.  If David buys a ride bracelet and Dasha buys tickets, and they ride all 9 rides, how much money does David save?
+
+Adapted Text:
+Ramesh and Ria went to the carnival, where there are 9 rides.  Each ride costs 2 ride tickets at ₹83 per ticket.  You can also buy a ride bracelet for ₹2500 which gives you 9 rides.  If Ramesh buys a ride bracelet and Ria buys tickets, and they ride all 9 rides, how much money does Ramesh save?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: Text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: Uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: Problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.00/5

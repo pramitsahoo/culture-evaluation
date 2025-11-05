@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Kelian has two recipes for preparing dishes, one having 20 instructions and the second one having twice as many instructions as the first one. How many instructions does Kelian have to read to prepare the two dishes?
+
+Adapted Text:
+Ramesh has two recipes for preparing dishes, one having 20 instructions and the second one having twice as many instructions as the first one. How many instructions does Ramesh have to read to prepare the two dishes?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The text is adapted with Indian names, but the cultural context remains the same as the original text, which is a western scenario.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology, and while the language is natural, it could be improved with more contextual relevance.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

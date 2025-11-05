@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Shiela is required to submit a 15-page research paper. She already finished writing 1/3 of the paper. How many pages does she have left to write?
+
+Adapted Text:
+Ramesh is required to submit a 15-page research paper. He already finished writing 1/3 of the paper. How many pages does he have left to write?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features a name change to an Indian name but does not fully incorporate cultural elements, maintaining a western context.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terminology but does not flow naturally, requiring effort to understand.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly with no issues.
+
+Overall Score:
+Average Score: 4.00/5

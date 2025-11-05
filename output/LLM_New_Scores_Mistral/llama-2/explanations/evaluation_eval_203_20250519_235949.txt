@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Josie grows grapes on her 10-acre farm.  Each acre produces 5 tons of grapes per year, and each ton of grapes makes 2 barrels of wine.  How many barrels of wine does her farm produce per year?
+
+Adapted Text:
+Ramesh grows grapes on his 10-acre farm in Punjab. Each acre produces 5 tonnes of grapes per year, and each tonne of grapes makes 2 barrels of wine. How many barrels of wine does his farm produce per year?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contextualizes the problem to Indian culture by setting it in Punjab, but the scenario remains largely universal.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, but it lacks the natural flow and cultural resonance of a native speaker.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

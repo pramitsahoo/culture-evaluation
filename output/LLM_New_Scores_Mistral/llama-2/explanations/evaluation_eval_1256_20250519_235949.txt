@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Crista's plants need to be watered every day. She has 20 plants. 4 of her plants need half of a cup of water. 8 plants need 1 cup of water. The rest need a quarter of a cup of water. How many cups of water does Crista need every day for her plants?
+
+Adapted Text:
+Ramesh's plants need to be watered every day. He has 20 plants. 4 of his plants need half of a cup of water. 8 plants need 1 cup of water. The rest need a quarter of a cup of water. How many cups of water does Ramesh need every day for his plants?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text contains some changes to make the text more culturally relevant, such as changing the name of the character to an Indian name. However, it does not fully immerse the reader in an Indian cultural context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but there are a few instances where the language feels slightly unnatural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

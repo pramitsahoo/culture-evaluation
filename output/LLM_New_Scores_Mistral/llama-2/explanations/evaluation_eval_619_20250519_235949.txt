@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The school auditorium has 4 rows of seats. There are 18 seats in each row. One-fourth of the seats were occupied by the administrators. One-third of the remaining seats were occupied by the parents and the rest were occupied by the students. How many students were there in the school auditorium?
+
+Adapted Text:
+The school auditorium has 4 rows of seats. There are 18 seats in each row. One-fourth of the seats were occupied by the administrators. One-third of the remaining seats were occupied by the parents and the rest were occupied by the students. How many students were there in the school auditorium?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has some Indian names, but the overall context remains Western.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses a mix of Indian and Western terminology, but the Indian words do not always fit naturally within the context.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 3.67/5

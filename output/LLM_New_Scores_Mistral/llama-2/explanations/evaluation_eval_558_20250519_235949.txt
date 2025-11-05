@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A bag of buttons had 21 buttons in it. Seven buttons had two holes and the rest had four holes. How many holes were in all the buttons in the bag?
+
+Adapted Text:
+A bag of dhuli had 21 dhuli in it. Seven dhuli had two nalas and the rest had four nalas. How many nalas were in all the dhuli in the bag?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text introduces Indian objects (dhuli and nalas) to replace the original western ones (buttons and holes), but the overall context remains unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English terms and expressions but does not flow as naturally as it could.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

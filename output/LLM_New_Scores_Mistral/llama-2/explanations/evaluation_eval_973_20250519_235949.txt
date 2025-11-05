@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mrs. Harrington bought 12 boxes of oranges at the market. She gave her mom and her sister 2 boxes of oranges each. Then she kept 1/4 of the oranges and sold the rest. How many oranges did Mrs. Harrington sell if each box contains 20 oranges?
+
+Adapted Text:
+Mrs. Ramesh bought 12 boxes of narangas at the market. She gave her mom and her sister 2 boxes of narangas each. Then she kept 1/4 of the narangas and sold the rest. How many narangas did Mrs. Ramesh sell if each box contains 20 narangas?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features Indian names and changes the original object to narangas, which is a common Indian fruit. However, the overall context remains the same, and there is no deeper cultural connection.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology but does not fully capture the natural flow of the language.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

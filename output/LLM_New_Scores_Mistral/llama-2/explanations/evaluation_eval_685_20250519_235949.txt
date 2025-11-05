@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John and Jack have 30 minutes to walk to school together. It takes them 6 minutes to get to the corner where the library is. It takes them another 13 minutes to get to the fire station. How much longer do they have to get to school without being late?
+
+Adapted Text:
+Ramesh and Raman have 30 minutes to walk to school together. It takes them 6 minutes to get to the corner where the library is, ₹830. It takes them another 13 minutes to get to the fire station, ₹830. How much longer do they have to get to school without being late?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has replaced the original names with Indian names, but the scenario remains the same without any significant cultural context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but the natural flow is slightly awkward.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly, but the integration with cultural elements could be improved for better contextualization.
+
+Overall Score:
+Average Score: 3.67/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Olivia uploaded 72 pictures to Facebook.  She put the same number of the pics into 8 albums.  3 of the albums were selfies only and 2 of the albums were portraits.  How many portraits and selfies did she have?
+
+Adapted Text:
+Ramesh uploaded 72 pictures to Facebook.  He put the same number of the pics into 8 albums. 3 of the albums were selfies only and 2 of the albums were portraits. How many portraits and selfies did he have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text contains some Indian names, but the context and situation remain largely Western.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terminology, but the language flow is not as natural as it could be.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately.
+
+Overall Score:
+Average Score: 3.67/5

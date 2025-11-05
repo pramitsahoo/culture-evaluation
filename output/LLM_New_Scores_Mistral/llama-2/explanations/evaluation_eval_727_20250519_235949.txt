@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Topher, the green giant, wears enormous shoes.  The length of one of his shoes is 10 inches longer than 9 times the length of one of Bobby’s shoes.  If the length of one of Topher’s shoes is 8-feet and 4-inches, how long, in inches, is one of Bobby’s shoes?
+
+Adapted Text:
+Ramesh, the green giant, wears enormous shoes.  The length of one of his shoes is 10 inches longer than 9 times the length of one of Bobby's shoes.  If the length of one of Ramesh's shoes is 8-feet and 4-inches, how long, in inches, is one of Bobby's shoes?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains the original western context without any attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, with no attempt to incorporate Indian elements.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented clearly and accurately.
+
+Overall Score:
+Average Score: 1.67/5

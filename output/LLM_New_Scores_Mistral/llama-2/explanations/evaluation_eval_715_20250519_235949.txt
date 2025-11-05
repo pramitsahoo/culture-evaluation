@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+James decides to pick some blueberries.  It cost $20 to go picking and then another $1.5 per pound.  He picked 30 pounds of blueberries.  How much did he save compared to buying at the store for $2.5 a pound?
+
+Adapted Text:
+Ramesh decides to pick some parathas.  It cost ₹830 to go picking and then another ₹120 per kilogram.  He picked 30 kilograms of parathas.  How much did he save compared to buying at the store for ₹250 a kilogram?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the original object (blueberries) with a culturally relevant alternative (parathas), making it more relevant to the Indian audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and appropriate terminology but could benefit from a more natural flow in certain phrases.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains intact and accurate in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

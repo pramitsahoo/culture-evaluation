@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Martin's weight is 55 kg. Carl’s weight is 16 kg more than Martin’s weight. Christian’s weight is 8 kg more than Carl’s weight. Harry is 5 kg less than Christian’s weight. What is the weight of Harry, in kg?
+
+Adapted Text:
+Ramesh's weight is 55 kg. Ramesh's friend's weight is 16 kg more than Ramesh's weight. Ramesh's colleague's weight is 8 kg more than Ramesh's friend's weight. Ramesh's cousin's weight is 5 kg less than Ramesh's colleague's weight. What is the weight of Ramesh's cousin, in kg?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes nonsensical elements that are not relevant or appropriate to Indian culture.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses incorrect Indian terms, making it difficult to understand.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is
+
+Overall Score:
+Average Score: 2.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Sue lives in a fun neighborhood.  One weekend, the neighbors decided to play a prank on Sue.  On Friday morning, the neighbors placed 18 pink plastic flamingos out on Sue's front yard.  On Saturday morning, the neighbors took back one third of the flamingos, painted them white, and put these newly painted white flamingos back out on Sue's front yard.  Then, on Sunday morning, they added another 18 pink plastic flamingos to the collection. At noon on Sunday, how many more pink plastic flamingos were out than white plastic flamingos?
+
+Adapted Text:
+Ramesh lives in a fun locality.  One weekend, the neighbors decided to play a prank on Ramesh.  On Friday morning, the neighbors placed 18 ₹83 parathas out on Ramesh's front yard.  On Saturday morning, the neighbors took back one third of the parathas, painted them white, and put these newly painted white parathas back out on Ramesh's front yard.  Then, on Sunday morning, they added another 18 ₹83 parathas to the collection. At noon on Sunday, how many more white parathas were out than pink parathas?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text includes culturally relevant objects (parathas) and concepts (locality), but the prank itself may not be common or relatable in all Indian communities.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, but the language flow is not entirely natural for native speakers.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

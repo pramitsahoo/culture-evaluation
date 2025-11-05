@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Stephen borrowed $300 from his sister and promised to return it with an additional 2% of the money he owed. For 11 months Stephen will give his sister $25 per month and the remaining amount, including the interest, will be paid on the twelfth month. How much will Stephen pay in the twelfth month?
+
+Adapted Text:
+Ramesh borrowed ₹30,000 from his sister and promised to return it with an additional 2% of the money he owed. For 11 months Ramesh will give his sister ₹2,500 per month and the remaining amount, including the interest, will be paid on the twelfth month. How much will Ramesh pay in the twelfth month?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the original names with Indian ones, creating a more culturally relevant scenario.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, with only a few minor errors in flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately in the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

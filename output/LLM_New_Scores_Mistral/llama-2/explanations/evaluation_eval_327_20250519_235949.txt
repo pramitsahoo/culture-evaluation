@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Some people got on a bus at the terminal. At the first bus stop, 5 more people got in. Then at the second bus stop, 7 people got down and 8 more got in. If there were a total of 20 people heading to the third stop, how many people got on the bus at the terminal?
+
+Adapted Text:
+Some people got on a bus at the terminal. At the first bus stop, 5 more people got in. Then at the second bus stop, 7 people got down and 8 more got in. If there were a total of 20 people heading to the third stop, how much money did he spend per paratha?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text is nonsensical and culturally irrelevant, as it attempts to apply Indian cultural elements to a problem that has no connection to the Indian context (bus passengers and parathas).
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian terminology incorrectly, creating confusion and poor fluency for the target audience.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The adapted problem is mathematically nonsensical, as it asks about the cost of parathas instead of the number of people on the bus.
+
+Overall Score:
+Average Score: 0.67/5

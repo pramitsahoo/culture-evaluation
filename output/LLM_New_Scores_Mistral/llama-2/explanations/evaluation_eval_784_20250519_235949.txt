@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Bob had 7 fish in his ornamental fish pond. 3 were orange, and 4 were white. He decided he wanted to get some more, so he went to the pet store. He had a sales assistant at the pet shop dip out 17 fish out of a mixed tank of both white and orange fish. When he got them home and added them to his pond, he found that he now had twice as many orange fish as white fish. How many white fish did Bob buy at the store?
+
+Adapted Text:
+Ramesh had 7 parathas in his ornamental fish pond. 3 were orange, and 4 were white. He decided he wanted to get some more, so he went to the pet store. He had a sales assistant at the pet shop dip out 17 parathas out of a mixed tank of both white and orange parathas. When he got them home and added them to his pond, he found that he now had twice as many orange parathas as white parathas. How many white parathas did Ramesh buy at the store?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains the western concept of an ornamental fish pond and does not attempt to adapt the text to Indian culture.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, with no attempt at language adaptation.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.00/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Raymond had $21. Then he saved $11 from his allowance and spent $5 on a comic book and $19 on a puzzle. How much money does Raymond have left?
+
+Adapted Text:
+Ramesh had ₹210. Then he saved ₹55 from his allowance and spent ₹25 on a comic book and ₹175 on a puzzle. How much money does Ramesh have left?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates culturally relevant names and objects, but the scenario itself remains somewhat generic and could be more immersive in the Indian context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively uses Indian English and terminology, but the natural flow could be improved in some areas.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Carlos, Jim and Carrey were at the beach playing and they decided to gather some seashells. Jim collected 27 seashells, which was 5 more than what Carlos collected. Carlos collected twice as many as Carrey. They gathered all their seashells and divided them equally between themselves. How many did each person get?
+
+Adapted Text:
+Ramesh, Raman and Ravi were at the beach playing and they decided to gather some parathas. Raman collected 27 parathas, which was 5 more than what Ramesh collected. Ramesh collected twice as many as Ravi. They gathered all their parathas and divided them equally between themselves. How many did each person get?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has changed the names and the item they gather to culturally relevant alternatives, but the problem scenario remains similar to the original text.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian names and some Indian terminology, but the language flow could be improved for a more natural feel.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

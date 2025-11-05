@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jillian's handbag cost $20 less than 3 times as much as her shoes cost. If her shoes cost $80, how much did her bag cost?
+
+Adapted Text:
+Ramesh's handbag cost ₹830 less than 3 times as much as his shoes cost. If his shoes cost ₹80, how much did his bag cost?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains Western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely Western terminology and expressions, with no Indian language elements.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is presented incorrectly or illogically, making it unsolvable or unclear.
+
+Overall Score:
+Average Score: 0.00/5

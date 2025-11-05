@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+After tracking his workout routine for 8 weeks, Josh discovered that he had spent 4 hours working out every week except on some occasions. At one point, he spent 5 hours each for two consecutive weeks. Another time, he spent 6 hours in one week. What is the total number of hours he has spent working out across the 8 weeks?
+
+Adapted Text:
+Ramesh tracked his workout routine for 8 weeks and found that he spent 4 hours working out every week except for some occasions. At one point, he spent 5 hours each for two consecutive weeks. Another time, he spent 6 hours in one week. What is the total number of hours he has spent working out across the 8 weeks?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text changes the name of the person but does not contextualize the story or make any other changes to reflect the Indian culture.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms, but their usage is not natural and may be confusing for a native speaker.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly, with no errors or discrepancies.
+
+Overall Score:
+Average Score: 3.67/5

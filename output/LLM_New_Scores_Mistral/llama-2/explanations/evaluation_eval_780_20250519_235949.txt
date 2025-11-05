@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The Llesis family drove and hiked 6 hours to their vacation spot. They drove an average of 50 miles per hour and hiked an average of 5 miles per hour less than half their speed when they drive. If it took them 1.5 hours to hike, how far was their vacation spot?
+
+Adapted Text:
+The Ramesh family drove and trekked 6 hours to their vacation spot. They drove an average of ₹83 per mile and trekked an average of ₹41.5 miles per hour less than half their speed when they drive. If it took them 1.5 hours to trek, how far was their vacation spot?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text replaces some names with Indian names but the context remains the same.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text effectively uses Indian English and terminology, but could benefit from further refinement for a more natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

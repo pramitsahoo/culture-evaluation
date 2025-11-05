@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Andy works in the pro shop of a tennis resort. He has 12 racquets that need restringing. 3 of them are to be strung with synthetic gut, 5 of them will be strung with polyester string, and 4 of them will be strung with a hybrid set (half synthetic gut, half polyester string). How long will it take Andy to string all of those racquets if it takes him an average of 15 minutes for him to string with synthetic gut, 22 minutes to string with polyester string, and 18 minutes for hybrid sets?
+
+Adapted Text:
+Ramesh works in the pro shop of a tennis resort. He has 12 racquets that need restringing. 3 of them are to be strung with नमक सफेद (synthetic gut), 5 of them will be strung with पोलीस्टर (polyester string), and 4 of them will be strung with a मिxture (half नमक सफेद, half पोलीस्टर string). How long will it take Ramesh to string all of those racquets if it takes him an average of 15 minutes for him to string with नमक सफेद, 22 minutes to string with पोलीस्टर string, and 18 minutes for मिxture sets?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes culturally relevant objects and names, creating a connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

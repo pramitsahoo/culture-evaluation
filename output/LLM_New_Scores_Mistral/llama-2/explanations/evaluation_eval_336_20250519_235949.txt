@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mason needs 30 ounces of sugar to make a batch of suckers and 70 ounces of sugar to make a batch of fudge. How much sugar does he need to make 8 batches of suckers and 1 batch of fudge?
+
+Adapted Text:
+Mason needs 30 ounces of sugar to make 8 batches of parathas and 70 ounces of sugar to make 1 batch of gulab jamun. How much sugar does he need to make 8 batches of parathas and 1 batch of gulab jamun?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, failing to connect with the
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 1.67/5

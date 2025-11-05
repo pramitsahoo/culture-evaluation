@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+On the first day of school, Ava sees that her friends Cole and Xavier have both grown a lot over the summer. Xavier was 4 feet tall and grew 3 inches. Cole was 50 inches tall and grew 2 inches over the summer. What is the difference between Cole and Xavier’s height now?
+
+Adapted Text:
+On the first day of school, Rohan sees that his friends Arav and Abhimanyu have both grown a lot over the summer. Abhimanyu was 4 feet tall and grew 3 inches. Arav was 50 inches tall and grew 2 inches over the summer. What is the difference between Arav and Abhimanyu's height now?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has replaced proper nouns with Indian names, but the context remains the same and lacks a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with natural flow. However, it could be further improved to sound more authentic.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A bag has a 5% discount. If it is marked $140, how much will you pay after the discount?
+
+Adapted Text:
+Ramesh bought a bag that has a 5% discount. If it is marked ₹140, how much will he pay after the discount?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes culturally inappropriate or nonsensical elements (e.g., paratha growing on plants, using rupees as age units).
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: Text maintains western concepts with no attempt at cultural adaptation.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: Problems are mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.67/5

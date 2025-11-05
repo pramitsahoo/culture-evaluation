@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jerry has two pools, both with leaks emptying them out at 4 gallons/minute. 4 minutes ago, the big pool had twice as much water as the small pool. Now the big pool has four times as much water as the small pool. How much water does the small pool have now?
+
+Adapted Text:
+Ramesh has two kuandis, both with leaks emptying them out at 4 gallons/minute. 4 minutes ago, the big kuand had twice as much water as the small kuand. Now the big kuand has four times as much water as the small kuand. How much water does the small kuand have now?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses culturally relevant names and objects but the original problem lacks a clear Indian connection.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text incorporates Indian English and terms but lacks a completely natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

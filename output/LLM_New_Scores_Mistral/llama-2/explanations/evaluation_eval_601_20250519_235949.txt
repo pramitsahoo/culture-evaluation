@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jamaal is at the gym. He has been using an 8-pound weight. He increases the weight that he uses by 50%. It turns out to be too heavy, so he uses a weight two pounds lighter than that. What is the weight, in pounds, that he now uses?
+
+Adapted Text:
+Ramesh is at the gym. He has been using a ₹800 weight. He increases the weight that he uses by 50%. It turns out to be too heavy, so he uses a weight ₹600 less than that. What is the weight, in ₹830, that he now uses?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses Indian names and currencies, creating a cultural context. However, the scenario is still primarily focused on gym exercises, which may not be as culturally relevant to some Indian audiences.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, creating a natural flow. However, the use of "rupees" as a weight and "eight hundred" instead of "800" slightly detracts from the overall fluency.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context. However, the conversion of weights to rupees may cause confusion, as weights are typically measured in kilograms or pounds rather than currency.
+
+Overall Score:
+Average Score: 4.00/5

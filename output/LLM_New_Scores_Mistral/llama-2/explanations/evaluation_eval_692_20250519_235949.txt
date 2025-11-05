@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John brings his dog to the vet. His dog needs 2 vaccines, which are $20 each, and a heartworm check. The heartworm check is 60% of his total bill. If he brought $125 with him, how much does he leave with?
+
+Adapted Text:
+Ramesh brings his dog to the vet. His dog needs 2 vaccines, which are ₹1,600 each, and a heartworm check. The heartworm check is 60% of his total bill. If he brought ₹830 with him, how much does he leave with?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains the original scenario but uses culturally relevant names and currency.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology, with a natural flow but a few minor inaccuracies.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

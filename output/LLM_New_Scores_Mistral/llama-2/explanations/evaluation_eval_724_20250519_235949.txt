@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The restaurant has 170 normal chairs and 23 chairs for babies. If 20 of the normal chairs and 13 of the baby chairs were sent to the carpenter for repair, how many chairs does the restaurant have left?
+
+Adapted Text:
+The restaurant has 170 normal chairs and 23 chairs for babies. If 20 of the normal chairs and 13 of the baby chairs were sent to the carpenter for repair, how many chairs does the restaurant have left?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The text maintains its western setting, but some elements like "baby chairs" could be replaced with culturally relevant alternatives like "high chairs for infants" or "baby-friendly seating".
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and some culturally relevant terminology, but the language flow is not entirely natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately.
+
+Overall Score:
+Average Score: 4.00/5

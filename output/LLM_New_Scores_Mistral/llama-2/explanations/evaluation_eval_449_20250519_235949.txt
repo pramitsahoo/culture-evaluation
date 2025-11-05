@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A salesman bought a case of 48 sneakers for $576. He sold 17 of them for $20 at a flash sale on Monday, and the rest were sold to a department store for $25 each throughout the rest of the week. How much money, in dollars, was the salesman's profit?
+
+Adapted Text:
+Ramesh bought 48 parathas for ₹830 and sold 17 of them for ₹20 at a flash sale on Monday, and the rest were sold to a department store for ₹25 each throughout the rest of the week. How much money, in Indian Rupees, was Ramesh's profit?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the western concept of sneakers with a culturally relevant alternative, parathas, which is a common food item in India.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, providing a natural flow for the target audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

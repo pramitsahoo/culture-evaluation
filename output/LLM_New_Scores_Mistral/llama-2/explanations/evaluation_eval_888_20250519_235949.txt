@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jerry counts six birds nesting in the bushes, 2/3rd of that number of birds flying overhead, and 3 groups of eight birds each feeding. How many birds does he count in total?
+
+Adapted Text:
+Ramesh counts six parathas nesting in the bushes, 2/3rd of that number of parathas flying overhead, and 3 groups of eight parathas each feeding. How many parathas does he count in total?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian names and replaces birds with parathas, which is a common food in Indian cuisine. However, it does not create a contextually relevant scenario or connect to any Indian cultural practices.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology correctly, but the phrasing and sentence structure could be more natural for the target audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-structured in the cultural adaptation.
+
+Overall Score:
+Average Score: 4.33/5

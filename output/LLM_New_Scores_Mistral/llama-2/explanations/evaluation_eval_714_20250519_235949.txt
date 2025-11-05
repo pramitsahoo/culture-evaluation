@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mr Boarden is remodeling his bathroom. For every square foot, he needs 24 mosaic tiles. How many mosaic tiles would Mr Boarden need to cover two thirds of his 36 sq ft bathroom?
+
+Adapted Text:
+Ramesh is remodeling his bathroom. For every square foot, he needs ₹830 mosaic tiles. How many mosaic tiles would Ramesh need to cover two thirds of his ₹249 sq ft bathroom?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The text has made an effort to adapt the original to an Indian context by changing the name, but the scenario remains the same.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms, but the flow is not entirely natural.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, although it could be better contextualized.
+
+Overall Score:
+Average Score: 3.67/5

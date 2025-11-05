@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Bob has a certain number of marbles. If he receives 2 dozen more marbles, he will have 60 marbles. If he loses 10 of the marbles he has, how many marbles will Bob have?
+
+Adapted Text:
+Ramesh has a certain number of marbles. If he receives 2 dozen more marbles, he will have ₹830 marbles. If he loses 10 of the marbles he has, how many marbles will Ramesh have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is mostly culturally relevant as it involves common objects like marbles and uses an Indian name. However, the monetary value of marbles is not traditionally used in Indian culture, which slightly diminishes the cultural relevance.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology correctly, but the use of the Indian currency in a non-traditional context may not be completely natural to some readers.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

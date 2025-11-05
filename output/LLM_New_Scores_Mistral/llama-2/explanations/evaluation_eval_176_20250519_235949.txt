@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Juan and his brother Carlos are selling lemonade. For each gallon they make it costs $3 for lemons and $2 for sugar. They sell each glass for $0.50 and get 20 glasses per gallon. If they made $25 in profit, how much did they spend on lemons?
+
+Adapted Text:
+Ramesh and his brother Ravi are selling lemonade. For each gallon they make it costs ₹300 for lemons and ₹200 for sugar. They sell each glass for ₹50 and get 20 glasses per gallon. If they made ₹25,000 in profit, how much did they spend on lemons?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains the western concept without any attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, lacking any Indian language elements.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.00/5

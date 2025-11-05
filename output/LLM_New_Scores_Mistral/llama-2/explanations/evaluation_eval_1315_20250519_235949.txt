@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John had a son James when he was 19.  James is now twice as old as his sister Dora, who will turn 12 in 3 years.  How old will John's youngest son, who was born when John was 32, be in 3 years?
+
+Adapted Text:
+Ramesh had a son Ramesh when he was 19.  Ramesh is now twice as old as his sister Dora, who will turn 12 in 3 years.  How old will Ramesh's youngest son, who was born when Ramesh was 32, be in 3 years?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contains substantial adaptation with culturally relevant scenarios and objects, but the names of the characters could be more Indian.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with natural flow, but some expressions may feel slightly forced.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is seamlessly integrated with the cultural elements while maintaining complete accuracy.
+
+Overall Score:
+Average Score: 4.33/5

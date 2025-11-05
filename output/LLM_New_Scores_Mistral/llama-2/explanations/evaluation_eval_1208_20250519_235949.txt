@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Deandre caught 3 tunas last Monday, the first tuna he caught weighs 56 kilograms, the second tuna he caught weighs 46 kilograms, and the last tuna he caught weighs 26 kilograms. If a kilogram of tuna costs $0.50, how much will he earn after selling all the tunas to the market?
+
+Adapted Text:
+Ramesh caught 3 mrigas last Monday, the first mriga he caught weighs ₹56 kilograms, the second mriga he caught weighs ₹46 kilograms, and the last mriga he caught weighs ₹26 kilograms. If a kilogram of mriga costs ₹0.50, how much will he earn after selling all the mrigas to the market?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text does not have a connection to Indian culture, as it maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses incorrect Indian terms, making it difficult for native speakers to understand.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 1.33/5

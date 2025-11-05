@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Sarah has a rope that is 20 meters long. Her friend wants to buy the rope for $2 a meter. Sarah plans to use the profit to buy a new rope, which at the store costs $1.5 a meter. How much money will she have left over after she buys the new rope?
+
+Adapted Text:
+Ramesh has a rope that is 20 meters long. His friend wants to buy the rope for ₹2 a meter. Ramesh plans to use the profit to buy a new rope, which at the store costs ₹1.5 a meter. How much money will he have left over after he buys the new rope?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has culturally relevant names and some objects, but the context remains primarily western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, but the natural flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

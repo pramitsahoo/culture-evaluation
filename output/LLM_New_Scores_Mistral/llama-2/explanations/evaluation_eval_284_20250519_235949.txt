@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Katerina makes designer jewelry.  Her specialty is topaz necklaces.  She uses 8 topaz gemstones per necklace, and fills the space between gemstones using sterling silver beads.  If each topaz gemstone is one inch long, each sterling silver bead is one-quarter of an inch long, and each necklace is made to a total length of 25 inches, how many sterling silver beads does Katerina use per necklace?
+
+Adapted Text:
+Ramesh makes designer jewelry.  His specialty is topaz necklaces.  He uses 8 topaz gemstones per necklace, and fills the space between gemstones using silver beads.  If each topaz gemstone is one inch long, each silver bead is one-quarter of an inch long, and each necklace is made to a total length of 25 inches, how many silver beads does Ramesh use per necklace?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text changes the name of the main character, but the scenario and the jewelry-making process remain the same. There is a minimal attempt to adapt the text to an Indian context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, with a natural flow that is easy to read for an Indian audience. However, some phrases or expressions might still sound slightly unnatural to a native speaker.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged, but the measurements are still presented in a way that is easy to understand and apply for an Indian audience.
+
+Overall Score:
+Average Score: 4.00/5

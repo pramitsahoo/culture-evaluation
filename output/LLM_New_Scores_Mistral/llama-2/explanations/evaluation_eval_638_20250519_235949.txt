@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Reggie, Lynn, and Paisley ran together. Paisley ran 4 miles. Reggie ran 5 times what Paisley ran and 3 miles farther than Lynn. How many miles did Lynn run?
+
+Adapted Text:
+Ramesh, Ria, and Aishwarya ran together. Aishwarya ran 4 मील. Ramesh ran 5 बार कम से कम Paisley की दistaance और 3 मील अधिक से ढाँचा लगाया. कैसे मील लगाया है Lynn?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text replaces proper nouns with Indian names, but the context remains unchanged and lacks deeper cultural relevance.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms correctly but lacks natural flow, indicating room for improvement in language adaptation.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, but could benefit from better contextualization.
+
+Overall Score:
+Average Score: 3.33/5

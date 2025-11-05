@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Calvin is making soup for his family for dinner. He has a pot with enough soup to fill four adult's bowls or eight child's bowls. He is an adult and will be eating with his adult wife and their two children. If everyone eats one bowl at a meal, how many times will each child be able to have a bowl of soup for lunch from the leftover soup?
+
+Adapted Text:
+Ramesh is preparing dal for his family's dinner. He has a pot with enough dal to fill four adult's bowls or eight child's bowls. He is an adult and will be eating with his adult wife and their two children. If everyone eats one bowl at a meal, how many times will each child be able to have a bowl of dal for lunch from the leftover dal?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the original with culturally relevant alternatives, but could have deeper connections to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly, but the flow could be more natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

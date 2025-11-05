@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Johnny is picking up the toys on the floor of his room.  He'd dumped a lego boxed set with 500 pieces on the floor, and another one that had 3 times more pieces than the 500 piece one, and another one that had 1/4 the number of pieces.  How many blocks does Johnny pick up if he picks up all the legos?
+
+Adapted Text:
+Ramesh is picking up the toys on the floor of his room. He'd dumped a Lego boxed set with 500 pieces on the floor, and another one that had 3 times more pieces than the 500 piece one, and another one that had 1/4 the number of pieces. How many Lego blocks does Ramesh pick up if he picks up all the Lego blocks?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes nonsensical elements, making it inappropriate for the target culture.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses few Indian terms incorrectly, making it difficult to understand and culturally irrelevant.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is completely nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.67/5

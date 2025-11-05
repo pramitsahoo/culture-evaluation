@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Annabelle is saving for a phone that costs $400. She already has $80 in her savings. Her first job, where she earns $10 per hour, pays her for 20 hours of work. She is also paid for 15 hours of work at her second job, where she earns $5 an hour. In dollars, how much money does Annabelle still need to save?
+
+Adapted Text:
+Ramesh is saving for a phone that costs ₹400. He already has ₹80 in his savings. His first job, where he earns ₹10 per hour, pays him for 20 hours of work. He is also paid for 15 hours of work at his second job, where he earns ₹5 per hour. In Indian Rupees, how much money does Ramesh still need to save?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes culturally relevant names and objects, but it does not have a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

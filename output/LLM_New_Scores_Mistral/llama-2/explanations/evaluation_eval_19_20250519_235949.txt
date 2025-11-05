@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Claire makes a 3 egg omelet every morning for breakfast.  How many dozens of eggs will she eat in 4 weeks?
+
+Adapted Text:
+Ramesh makes a 3 paratha omelet every morning for breakfast. How many dozens of parathas will he eat in 4 weeks?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text uses an Indian food item (paratha) and replaces the western breakfast item with something more culturally relevant, improving its relevance to the Indian audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, but the language flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-structured in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

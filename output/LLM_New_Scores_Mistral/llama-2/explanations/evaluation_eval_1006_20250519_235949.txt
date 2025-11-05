@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The population of porcupines in a park is 50. The number of female porcupines is 3/5 of the total population. If each female porcupine gives birth to 4 babies every month, how many porcupines will be in the park after a year?
+
+Adapted Text:
+The population of rathis in a park is 50. The number of female rathis is 3/5 of the total population. If each female rathi gives birth to 4 babies every month, how many rathis will be in the park after a year?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces porcupines with rathis, a common animal in India, which makes the text more culturally relevant. However, the context remains similar to the original text, which slightly reduces its cultural relevance score.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology, demonstrating a good level of language adaptation. The flow could be improved slightly to make it more natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly, maintaining mathematical accuracy.
+
+Overall Score:
+Average Score: 4.33/5

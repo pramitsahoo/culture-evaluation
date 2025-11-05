@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tyrion changes his face mask two times every time he goes out. If he goes out three times a day, how many face masks does he use every 2 days?
+
+Adapted Text:
+Ramesh changes his face mask two times every time he goes out. If he goes out three times a day, how many face masks does he use every 2 days?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text contains nonsensical elements that are not culturally relevant or appropriate.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian terms incorrectly, making it difficult to understand and culturally coherent.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is mathematically unsound and does not make sense in the given cultural context.
+
+Overall Score:
+Average Score: 1.33/5

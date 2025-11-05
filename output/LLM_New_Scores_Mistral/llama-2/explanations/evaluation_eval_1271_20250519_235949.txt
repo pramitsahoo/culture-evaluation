@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Gary bought a boat for $9000.  Over the first year it depreciated 30%.  The second year it depreciated another 30%.  The third year it depreciated 20%.  How much is the boat worth after the three years?
+
+Adapted Text:
+Ramesh bought a राजा (boat) for ₹9000.  Over the first year it depreciated 30%.  The second year it depreciated another 30%.  The third year it depreciated 20%.  How much is the boat worth after the three years?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text uses Indian names and currency, but the original context remains unchanged, making it somewhat disconnected from Indian culture.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The adapted text uses Indian names and currency, but the language is not entirely fluent, with some expressions feeling slightly awkward or unnatural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 3.67/5

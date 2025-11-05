@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Brett is 14 years old. In four years his sister Angela will be three times as old as he is now. How old is Angela right now?
+
+Adapted Text:
+Ramesh is 14 years old. In four years his sister Ramesh will be three times as old as he is now. How old is Ramesh's sister right now?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text contains nonsensical cultural elements, making it less relatable for the target audience.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian names but contains incorrect use of Indian terms.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is mathematically unsound after adaptation.
+
+Overall Score:
+Average Score: 1.00/5

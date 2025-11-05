@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ruby is 6 times older than Sam. In 9 years, Ruby will be 3 times as old as Sam. How old is Sam now?
+
+Adapted Text:
+Ramesh is 6 times older than Shravan. In 9 years, Ramesh will be 3 times as old as Shravan. How old is Shravan now?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has made an effort to change proper nouns and some objects to culturally relevant alternatives, but it could have been more immersive by incorporating more elements that resonate with the Indian audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian names and some Indian English terms, but the flow is not as natural as it could be.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

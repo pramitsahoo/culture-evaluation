@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Timothy has three times the number of pens that George owns. Sarah has half as many pens as Timothy. If George has 18 pens, how many pens does Sarah have?
+
+Adapted Text:
+Ramesh has three times the number of parathas that Gopal owns. Gopal has half as many parathas as Ramesh. If Gopal has 18 parathas, how many parathas does Ramesh have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses Indian names and changes the original object (pens) to parathas, a culturally relevant food item, which shows a substantial adaptation with a connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, with a natural flow that makes it easy to read and understand.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, ensuring accuracy and logic.
+
+Overall Score:
+Average Score: 4.33/5

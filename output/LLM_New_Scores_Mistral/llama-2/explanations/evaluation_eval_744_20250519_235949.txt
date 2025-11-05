@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mara added 3 slices of cake to a plate that already had 2 slices on it. She was getting hungrier so she tripled the number of slices she currently has. She ate 2 slices and while she was distracted, her friend stole 5 slices off her plate. What number of cake slices remained on the plate?
+
+Adapted Text:
+Ramesh added 3 parathas to a plate that already had 2 parathas on it. He was getting hungrier so he tripled the number of parathas he currently had. He ate 2 parathas and while he was distracted, his friend stole 5 parathas off his plate. What number of parathas remained on the plate?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text makes significant changes to the original, including replacing cake with parathas, which is a common Indian dish. This adaptation helps to make the text more culturally relevant. However, the scenario could be more deeply rooted in Indian culture for a higher score.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology correctly but does not have a completely natural flow. This may be due to the original text's structure and the need to maintain its mathematical integrity.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context. The number of parathas remains the same after each operation, making the problem mathematically accurate.
+
+Overall Score:
+Average Score: 4.33/5

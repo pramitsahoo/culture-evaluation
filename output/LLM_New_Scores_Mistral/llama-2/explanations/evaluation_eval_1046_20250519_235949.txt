@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Three people divided an amount of $1920. The second took $80 more than the first and the third took twice what the second took. Calculate the share of the first one.
+
+Adapted Text:
+Three people divided ₹83,000. The second took ₹830 more than the first and the third took twice what the second took. Calculate the share of the first one.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is presented incorrectly or illogically.
+
+Overall Score:
+Average Score: 0.33/5

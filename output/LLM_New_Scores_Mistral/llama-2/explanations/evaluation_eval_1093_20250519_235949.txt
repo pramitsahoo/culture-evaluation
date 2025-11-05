@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A Tyrannosaurus rex ate half of a small triceratops it had hunted. When it left, a pack of velociraptors scavenged half of what was left. A group of lazy Allosaurus gulped down the last 270 kilograms of meat. How many kilograms of meat were on the triceratops before the T-Rex ate?
+
+Adapted Text:
+Ramu ate half of a small triceratops he had hunted. When he left, a pack of velociraptors scavenged half of what was left. A group of lazy Allosaurus gulped down the last ₹830 worth of meat. How many ₹830 worth of meat were on the triceratops before Ramu ate?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The text has replaced some proper nouns with Indian names, but the context and overall scenario remain western, with no deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and some culturally relevant terminology, but the natural flow is not always maintained.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly, but the integration with the cultural context could be improved for better understanding.
+
+Overall Score:
+Average Score: 3.67/5

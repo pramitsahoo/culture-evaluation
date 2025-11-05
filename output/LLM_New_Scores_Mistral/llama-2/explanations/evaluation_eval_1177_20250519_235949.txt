@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A teacher uses a 5-inch piece of chalk to write math equations on a chalkboard for his students. The teacher likes to conserve chalk, so he tries to only use 20% of the chalk each day. Since the teacher cannot write with a very small piece of chalk, he recycles the chalk when it is smaller than 2 inches. On Monday the teacher used a new piece of chalk. His students need extra help that day, so he ended up writing more than usual. He used up 45% of the chalk by the end of the day. If the teacher goes back to using only 20% of the chalk each day, how many days does he have before he has to recycle this piece?
+
+Adapted Text:
+Ramesh used ₹830 worth of parathas to write math equations on the blackboard for his students. Ramesh likes to conserve parathas, so he tries to use only 20% of the parathas each day. Since Ramesh cannot write with a very small paratha, he recycles the parathas when they are smaller than ₹830. On Monday, Ramesh used a new paratha. His students needed extra help that day, so he ended up writing more than usual. He used up 45% of the parathas by the end of the day. If Ramesh goes back to using only 20% of the parathas each day, how many days does he have before he has to recycle this paratha?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian cultural elements, such as using parathas, but the original scenario of a teacher writing math equations on a chalkboard has been maintained, which slightly reduces the relevance to the Indian context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terms appropriately, but the natural flow and cultural resonance could be further improved.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem remains sound and well-structured, but the cultural context is not as seamlessly integrated as it could be.
+
+Overall Score:
+Average Score: 4.00/5

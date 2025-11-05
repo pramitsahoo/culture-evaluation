@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+James buys a new wardrobe.  He buys 10 suits and 10 dress pants.  He also buys 3 dress shirts per suit.  The suits cost $750 each and the dress pants cost 1/5 that cost.  The dress shirts were $60 each.  How much did everything cost?
+
+Adapted Text:
+Ramesh buys a new wardrobe.  He buys 10 dhotis and 10 pyjamas.  He also buys 3 angavastrams per dhoti.  The dhotis cost ₹830 each and the pyjamas cost 1/5 that cost.  The angavastrams were ₹60 each.  How much did everything cost?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text maintains the original text's western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains sound and accurate after adaptation.
+
+Overall Score:
+Average Score: 2.33/5

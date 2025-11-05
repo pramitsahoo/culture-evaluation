@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Louise is an artist and needs to apply a coat of varnish to her latest paintings. Usually it takes 7 minutes for the coat of varnish to dry on one painting. However, today she is using a new varnish and it takes 12 minutes for the coat to dry. How much longer will it take for the coat of varnish on 6 paintings with the new varnish to dry as it would with the old varnish?
+
+Adapted Text:
+Ramesh bought 6 parathas for ₹830 and applied a coat of varnish to them. Usually it takes 12 minutes for the coat of varnish to dry on one paratha. However, today he is using a new varnish and it takes 18 minutes for the coat to dry. How much longer will it take for the coat of varnish on 6 parathas with the new varnish to dry as it would with the old varnish?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the original objects with culturally relevant alternatives (paintings to parathas), which enhances the connection to the Indian audience. However, the scenario itself remains unchanged, reducing the cultural relevance score slightly.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, with a natural flow that is easily understandable by the target audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged, making it accurate and well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Billy sells DVDs. He has 8 customers on Tuesday. His first 3 customers buy one DVD each.  His next 2 customers buy 2 DVDs each.  His last 3 customers don't buy any DVDs. How many DVDs did Billy sell on Tuesday?
+
+Adapted Text:
+Ramesh sells DVDs. He has 8 customers on Tuesday. His first 3 customers buy one DVD each. His next 2 customers buy 2 DVDs each. His last 3 customers don't buy any DVDs. How many DVDs did Ramesh sell on Tuesday?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text contains nonsensical elements that are not culturally relevant or appropriate.
+
+2. Language Fluency
+Score: 2.0/5
+Explanation: The text includes Indian terms but uses them incorrectly or inappropriately, leading to poor language flow.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is presented incorrectly, making it unsound and illogical.
+
+Overall Score:
+Average Score: 1.67/5

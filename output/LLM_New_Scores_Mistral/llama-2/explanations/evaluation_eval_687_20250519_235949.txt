@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Greta and Celinda are baking cookies. Greta bakes 30 cookies and Celinda bakes twice as many. If the pair eat 10 of the cookies while they are cooling and put the rest in a box, how many cookies are there in the box?
+
+Adapted Text:
+Ramesh and Ria are baking parathas. Ramesh bakes 30 parathas and Ria bakes twice as many. If the pair eat 10 of the parathas while they are cooling and put the rest in a box, how many parathas are there in the box?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text shows a substantial adaptation with culturally relevant scenarios and objects, but the original concept remains somewhat western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

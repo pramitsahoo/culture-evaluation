@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Aiden is making his famous steakhouse-seasoned meatballs for a neighborhood cookout. He adds two tablespoons of his secret steakhouse seasoning for every pound of ground beef he uses. He gets sixteen meatballs from each pound of meat. If he wants to make 80 meatballs for the cookout, how much of his secret seasoning will he need?
+
+Adapted Text:
+Ramesh is preparing his signature मuttonballs for a community get-together. He adds two tablespoons of his closely guarded मuttonhouse seasoning for every pound of मutton he uses. He obtains sixteen मuttonballs from each pound of मutton. If he desires to prepare 80 मuttonballs for the gathering, how much of his closely guarded seasoning will he require?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text makes a reasonable attempt to connect with Indian culture by changing the names and food items, but it doesn't go deep enough to fully immerse the reader in the cultural context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terms but the flow could be improved to better match the target audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains intact and accurate after adaptation.
+
+Overall Score:
+Average Score: 4.33/5

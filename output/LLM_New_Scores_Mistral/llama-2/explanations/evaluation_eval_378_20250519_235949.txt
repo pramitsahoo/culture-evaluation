@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Lucy sells apples from her orchard at $4 per piece. On Monday, she sold all the apples picked. On Tuesday, she picked 12 apples. Come Wednesday, Lucy picked double the number of apples she did the previous day. If Lucy got $56 from selling the apples picked on Monday, how many apples did she pick over the three days?
+
+Adapted Text:
+Ramesh sold āvās from his orchard at ₹4 per piece. On Monday, he sold all the āvās picked. On Tuesday, he picked 12 āvās. Come Wednesday, Ramesh picked double the number of āvās he did the previous day. If Ramesh got ₹56 from selling the āvās picked on Monday, how many āvās did he pick over the three days?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced proper nouns with Indian equivalents, making it more culturally relevant, but it lacks deeper contextualization.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but the flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

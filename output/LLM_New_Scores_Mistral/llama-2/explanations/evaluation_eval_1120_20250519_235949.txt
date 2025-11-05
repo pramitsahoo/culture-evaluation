@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Amalia, Megan, and Dior divided the home chores so that each person had something to do while the others were working. Amalia's work was to mow the lawn, which took her 4 hours. Megan had to walk the dog and this took her 2 hours longer than Amalia to complete her chore. Dior's work was to do laundry and she took well over 4 hours longer than the time Amalia took to mow the lawn. Calculate the total time they all took to do their chores altogether.
+
+Adapted Text:
+Ramesh, Ria, and Disha divided the household chores so that each person had something to do while the others were working. Ramesh's work was to mow the lawn, which took him 4 hours. Ria had to walk the dog and this took her 2 hours longer than Ramesh to complete her chore. Disha's work was to do laundry and she took well over 4 hours longer than the time Ramesh took to mow the lawn. Calculate the total time they all took to do their chores altogether.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text includes Indian names, but the original context remains western, with some nonsensical elements (e.g., using dogs as a measurement of time).
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text includes Indian names, but the language flow is poor, and there are incorrect uses of Indian terms.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is presented nonsensically, making it impossible to solve.
+
+Overall Score:
+Average Score: 1.33/5

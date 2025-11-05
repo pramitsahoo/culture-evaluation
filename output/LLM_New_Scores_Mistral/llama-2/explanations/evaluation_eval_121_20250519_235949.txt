@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Miguel uses 2 pads of paper a week for his drawing. If there are 30 sheets of paper on a pad of paper, how many sheets of paper does he use every month?
+
+Adapted Text:
+Ramesh uses 2 parathas of paper a week for his drawing. If there are 30 sheets of paper on a paratha of paper, how many sheets of paper does he use every month?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, failing to connect with the Indian audience.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is nonsensical after adaptation, making it impossible to solve.
+
+Overall Score:
+Average Score: 0.00/5

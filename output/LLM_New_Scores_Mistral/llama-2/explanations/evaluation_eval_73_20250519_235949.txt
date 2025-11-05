@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tommy is fundraising for his charity by selling brownies for $3 a slice and cheesecakes for $4 a slice. If Tommy sells 43 brownies and 23 slices of cheesecake, how much money does Tommy raise?
+
+Adapted Text:
+Ramesh is fundraising for his charity by selling parathas for ₹83 a slice and kheer for ₹90 a slice. If Ramesh sells 43 parathas and 23 slices of kheer, how much money does Ramesh raise?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively incorporates Indian names and foods, but the scenario remains largely unchanged from the original text.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terms and English effectively, but the flow could be improved for a more natural feel.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

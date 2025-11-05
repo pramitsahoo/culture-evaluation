@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Together, Sofie, Anne, and Fawn have 85 books. If Sofie has 25 more books than Anne, and Anne has 12 fewer books than Fawn does, how many books does Fawn have?
+
+Adapted Text:
+Ramesh, Shweta, and Nidhi have 85 books. If Ramesh has 25 more books than Shweta, and Shweta has 12 fewer books than Nidhi, how many books does Nidhi have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains the western problem's structure with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The adapted text uses completely western terminology and expressions, lacking any Indian language elements.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The
+
+Overall Score:
+Average Score: 0.00/5

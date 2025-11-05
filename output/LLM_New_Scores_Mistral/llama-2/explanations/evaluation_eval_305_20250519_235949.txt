@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Watson works a 10-hour shift each day, five days a week. He earns $10 per hour and gets a $300 bonus each week if the company performs well. How much money did Watson make in April if the company performed very well for the whole month?
+
+Adapted Text:
+Ramesh works a 10-hour shift each day, five days a week. He earns ₹830 per hour and gets a ₹26,900 bonus each week if the company performs well. How much money did Ramesh make in April if the company performed very well for the whole month?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes nonsensical adaptations with culturally inappropriate or nonsensical elements, such as using rupees as age units.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian terms incorrectly or in
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 2.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Cody eats three times as many cookies as Amir eats. If Amir eats 5 cookies, how many cookies do both of them eat together?
+
+Adapted Text:
+Ramesh eats three times as many parathas as Amit eats. If Amit eats 5 parathas, how many parathas do both of them eat together?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has a moderate level of cultural relevance, as it replaces the original food item with a culturally relevant alternative (parathas instead of cookies). However, the original problem context remains unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian English and terminology, demonstrating a good level of language fluency. The use of Indian names adds to the cultural relevance, but the flow could be improved to sound more natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately, making it culturally independent while maintaining mathematical integrity.
+
+Overall Score:
+Average Score: 4.33/5

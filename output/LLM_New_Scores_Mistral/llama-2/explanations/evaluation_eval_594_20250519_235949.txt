@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mark plants a beanstalk below his second-story window, which is 20 feet off the ground. The beanstalk doubles its height every day. If the beanstalk starts out 4 feet tall, how many days will it take to be taller than Mark's window?
+
+Adapted Text:
+Ramesh planted a vine below his second-story window, which is 20 feet off the ground. The vine doubles its height every day. If the vine starts out 4 feet tall, how many days will it take to be taller than Ramesh's window?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, with no Indian language elements.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The problem is mathematically nonsensical after adaptation, making it impossible to solve.
+
+Overall Score:
+Average Score: 0.00/5

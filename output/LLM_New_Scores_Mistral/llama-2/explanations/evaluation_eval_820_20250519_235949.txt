@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Twenty students are working together to raise money for a charity. Each earns the same amount. The charity raises a total of $175,000. $50,000 comes from organizations and the rest from the students. How much did each student raise?
+
+Adapted Text:
+Twenty students are working together to raise money for a charity. Each earns the same amount. The charity raises a total of ₹175,000. ₹50,000 comes from organizations and the rest from the students. How much did each student raise?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text does not reflect Indian cultural elements and uses nonsensical adaptations.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The adapted text uses Indian terms incorrectly or inappropriately, leading to a disjointed reading experience.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is presented incorrectly or illogically, making it unsound in the cultural context.
+
+Overall Score:
+Average Score: 1.33/5

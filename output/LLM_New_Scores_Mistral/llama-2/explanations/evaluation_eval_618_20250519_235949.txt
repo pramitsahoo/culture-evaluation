@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Prince is a butcher. He sells 15kg of meat every hour he works, and he works 10 hours a day. His friend Bill gives him a bull that weighs 750kg. How many days will it take Prince to sell the meat from Bill's bull?
+
+Adapted Text:
+Ramesh is a butcher. He sells 15kg of meat every hour he works, and he works 10 hours a day. His friend Ramesh gives him a cow that weighs 750kg. How many days will it take Ramesh to sell the meat from Ramesh's cow?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is relevant to Indian culture as it uses an Indian name and a cow instead of a bull, but the context remains the same as the original text.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian terms correctly but lacks natural flow in its usage.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

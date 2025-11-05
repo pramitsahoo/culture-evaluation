@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Lauren is saving 20% of every paycheck. How many more years does Lauren need to work if she plans to save for a retirement period of 20 years, live with 40% of her current annual salary, and her current salary is $100,000?
+
+Adapted Text:
+Ramesh is saving 20% of every paycheck. How many more years does Ramesh need to work if he plans to save for a retirement period of 20 years, live with 40% of his current annual salary, and his current salary is ₹10,00,000?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively incorporates Indian cultural elements by replacing the original names with Indian ones, and the salary amount is presented in Indian currency. However, the text does not involve any culturally specific scenarios or objects.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology correctly, but the natural flow of the text could be improved slightly.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged, and its structure is well-preserved after adaptation, ensuring complete accuracy.
+
+Overall Score:
+Average Score: 4.33/5

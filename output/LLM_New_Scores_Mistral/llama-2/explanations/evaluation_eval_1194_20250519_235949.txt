@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jason was told he could earn $3.00 for doing his laundry,  $1.50 for cleaning his room, $0.75 for taking the trash to the curb each week and $0.50 for emptying the dishwasher.  In a two week period, Jason emptied the dishwasher 6 times, did his laundry once, took the trash out twice and cleaned his room once.  How much money did Jason earn?
+
+Adapted Text:
+Ramesh was told he could earn ₹83 for doing his laundry, ₹50 for cleaning his room, ₹35 for taking the trash to the curb each week and ₹25 for emptying the dishwasher. In a two week period, Ramesh emptied the dishwasher 6 times, did his laundry once, took the trash out twice and cleaned his room once. How much money did Ramesh earn?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is culturally relevant, as it features an Indian character, but the context and tasks are not specific to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terms but may not flow as naturally as native Indian English.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

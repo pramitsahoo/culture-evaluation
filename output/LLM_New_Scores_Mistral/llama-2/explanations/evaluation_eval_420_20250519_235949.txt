@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Stanley was standing on the side of the mountain, at an elevation of 10,000 feet, when a gust air blew the comb out of his pocket, causing the comb to fall 4,000 feet to a ledge below.  Stanley's brother, Oliver, was also on the mountain, but he was at an elevation of 3,000 feet.  Stanley called Oliver on his cellphone and asked Oliver to find Stanley's comb.  How many feet must Oliver climb to reach the elevation of Stanley's comb?
+
+Adapted Text:
+Ramesh was standing on the side of the mountain, at an elevation of 10,000 feet, when a gust of wind blew the comb out of his pocket, causing the comb to fall 4,000 feet to a ledge below.  Ramesh's brother, Ram, was also on the mountain, but he was at an elevation of 3,000 feet.  Ramesh called Ram on his cellphone and asked Ram to find Ramesh's comb.  How many feet must Ram climb to reach the elevation of Ramesh's comb?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces western names with Indian names, but it lacks a deeper cultural connection.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian terms correctly but lacks a natural flow, as it still contains some western terminology.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

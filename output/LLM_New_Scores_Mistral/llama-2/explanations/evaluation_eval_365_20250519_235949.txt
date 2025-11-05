@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+There are 96 fourth-graders at Small Tree  School. 43 of them are girls. On Friday, 5 fourth-grade girls and 4 fourth-grade boys were absent. How many fourth grade boys were at Small Tree  School on Friday?
+
+Adapted Text:
+There are 96 fourth-graders at सмаLL ट्री स्कूल. 43 of them are girls. On Friday, 5 fourth-grade girls and 4 fourth-grade boys were absent. How many fourth grade boys were at सмаLL ट्री स्कूल on Friday?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text includes a change of names to Indian names, but the overall context remains unchanged and does not reflect Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology, demonstrating a good understanding of the language, but the flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged, maintaining its accuracy and integrity throughout the adaptation.
+
+Overall Score:
+Average Score: 4.00/5

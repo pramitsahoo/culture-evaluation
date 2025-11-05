@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Henry needs to assemble some toys, specifically 57 cars and 73 motorcycles. Henry knows that to assemble all the toys he will need 4 wheels for each car and 2 wheels for each motorcycle. How many wheels will be left if he has a box with 650 wheels in it?
+
+Adapted Text:
+Ramesh needs to assemble some toys, specifically 57 cars and 73 motorcycles. Ramesh knows that to assemble all the toys he will need 4 wheels for each car and 2 wheels for each motorcycle. How many wheels will be left if he has a box with 650 wheels in it?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features Indian names and context, but some elements (such as toy cars and motorcycles) are not typically Indian.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terms, but the flow and usage could be improved for a more natural feel.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-structured in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

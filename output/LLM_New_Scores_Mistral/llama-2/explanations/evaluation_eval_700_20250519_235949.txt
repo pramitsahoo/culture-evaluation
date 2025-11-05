@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+There is space for 20 pencils in the box. If there are 4 pencils missing from the box, how many pairs of pencils are in the box?
+
+Adapted Text:
+There is space for 20 parathas in the box. If there are 4 parathas missing from the box, how many pairs of parathas are in the box?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the original object with a culturally relevant Indian food item, enhancing the connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms, demonstrating a good understanding of the language, but the flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly, demonstrating a strong understanding of the concept.
+
+Overall Score:
+Average Score: 4.33/5

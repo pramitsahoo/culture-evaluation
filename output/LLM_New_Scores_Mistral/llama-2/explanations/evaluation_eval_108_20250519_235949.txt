@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Frankie watches TV after he finishes his homework every night. On Monday and Tuesday, he watched a 1-hour episode of his favorite show each night. On Wednesday, he watched a few episodes of a 30-minute show. On Thursday, he finished homework early and watched a 1-hour episode and a 30-minute show. On Friday, he got to stay up late for the weekend, so he watched two 1-hour episodes. If he watched 7 hours of TV in all, how many 30-minute episodes did he watch on Wednesday?
+
+Adapted Text:
+Ramesh watches TV after he finishes his homework every night. On Monday and Tuesday, he watched a 1-hour episode of his favorite show each night. On Wednesday, he watched a few episodes of a 30-minute show. On Thursday, he finished homework early and watched a 1-hour episode and a 30-minute show. On Friday, he got to stay up late for the weekend, so he watched two 1-hour episodes. If he watched 7 hours of TV in all, how many 30-minute episodes did he watch on Wednesday?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text replaces the original character's name and maintains the general storyline, but the context is not deeply connected to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology effectively, creating a natural flow for the reader.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-structured throughout the cultural adaptation process.
+
+Overall Score:
+Average Score: 4.00/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A man eats 5 sandwiches per day, his wife eats 4 sandwiches per day, and their son eats 2 sandwiches per day. How many sandwiches does this family eat in one week?
+
+Adapted Text:
+Ramesh ate 5 parathas per day, his wife ate 4 parathas per day, and their son ate 2 parathas per day. How many parathas does this family eat in one week?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses Indian food (parathas) to replace sandwiches, making it culturally relevant. However, the scenario itself remains western-oriented.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and appropriate terminology, but the language flow could be more natural for a native speaker.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately.
+
+Overall Score:
+Average Score: 4.33/5

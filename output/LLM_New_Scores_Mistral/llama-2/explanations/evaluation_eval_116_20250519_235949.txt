@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Sasha notices that prices for lumber have gone up 50% in the last few months after she bought some lumber. Since she has leftovers, she decides to sell them. She has leftover ten 2 x 4 x 10 boards that cost her $10 each. She also has five 4 x 4 x 10 boards she bought for $16 each. If she sells them all, how much profit does she make?
+
+Adapted Text:
+Ramesh notices that prices for lumber have gone up 50% in the last few months after he bought some lumber. Since he has leftovers, he decides to sell them. He has leftover ten 2 x 4 x 10 parathas that cost him ₹830 each. He also has five 4 x 4 x 10 parathas he bought for ₹1,250 each. If he sells them all, how much profit does he make?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses culturally relevant names and objects but the original context of buying and selling lumber is not directly relatable to the Indian audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terminology effectively, but the language flow is slightly less natural compared to a native speaker.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

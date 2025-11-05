@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jamie earns $20 per hour for 8 hours of work each day. Should she need to work additional hours, she is paid a special hourly rate that is 150% of her regular hourly rate. Last Tuesday, she worked 11 hours. How much was she paid, in dollars, for her work that day?
+
+Adapted Text:
+Ramesh earns ₹1,200 per hour for 8 hours of work each day. Should he need to work additional hours, he is paid a special hourly rate that is 150% of his regular hourly rate. Last Tuesday, he worked 11 hours. How much was he paid, in Indian Rupees, for his work that day?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes the proper nouns and context, but it could have been more culturally relevant by using a scenario that is more common in India.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian terms correctly, but the flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

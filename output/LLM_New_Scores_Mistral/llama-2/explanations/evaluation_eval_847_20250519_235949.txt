@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Vicki is planning a pop concert at her high school. The show will be 2 hours. She is allowing each group 2 minutes to get on stage, 6 minutes to perform, and then 2 minutes to exit the stage. If she allows a 10-minute intermission, how many groups can perform in the concert?
+
+Adapted Text:
+Raj is planning a music concert at his school. The show will be 2 hours. He is allowing each group 2 minutes to get on stage, 6 minutes to perform, and then 2 minutes to exit the stage. If he allows a 10-minute intermission, how many groups can perform in the concert?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text contains culturally inappropriate or nonsensical elements, such as using Indian names for plants or using rupees as age units.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains very little Indian language elements, making it difficult for the target audience to
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 2.33/5

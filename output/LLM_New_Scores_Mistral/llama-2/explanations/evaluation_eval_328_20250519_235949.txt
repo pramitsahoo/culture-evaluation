@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Oscar has 24 lollipops and eats 2 on his way to school.  He passes 14 out to his friends.  He buys twice as many lollipops on his way home as he gave to his friends.  He eats 3 more that night and 2 more in the morning.  How many lollipops does Oscar have?
+
+Adapted Text:
+Ramesh had 24 parathas and ate 2 on his way to school. He distributed 14 to his friends. He bought twice as many parathas on his way home as he gave to his friends. He ate 3 more that night and 2 more in the morning. How many parathas does Ramesh have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, with no attempt at incorporating Indian language elements.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem
+
+Overall Score:
+Average Score: 0.33/5

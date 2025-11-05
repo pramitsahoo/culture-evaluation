@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Brendan has a bag of marbles with 10 inside. He tripped over a pebble while carrying it and dropped half of them. He scrambled to search for them but only came up with 3. When he went back home, he inspected the marbles further. One of them he picked up wasn't a marble, but actually a bead so he got rid of it. How many marbles did Brendan end up with?
+
+Adapted Text:
+Ramesh had a bag of parathas with 5 inside. He tripped over a pebble while carrying it and dropped half of them. He scrambled to search for them but only came up with 3. When he went back home, he inspected the parathas further. One of them he picked up wasn't a paratha, but actually a roti so he got rid of it. How many parathas did Ramesh end up with?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes culturally relevant replacements of objects, but the original context (a child losing marbles) remains Western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with natural flow, but some minor errors persist.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Richard wants to make a video to share online of him doing a science experiment that creates a fountain of diet soda after placing a specific branded candy inside it. Richard's driveway is 24 feet wide and he wants to put a bottle of soda every 3 feet of the driveway. After starting at the first bottle, it will take Richard 5 seconds to go from one soda bottle to the next, dropping the candy in. How many seconds total will it take Richard to set off all the soda fountains?
+
+Adapted Text:
+Ramesh wants to make a video to share online of him doing a science experiment that creates a fountain of nimbu pani (diet soda) after placing a specific branded mithai (candy) inside it. Ramesh's chowk (driveway) is 24 feet wide and he wants to put a bottle of nimbu pani every 3 feet of the chowk. After starting at the first bottle, it will take Ramesh 5 seconds to go from one nimbu pani bottle to the next, dropping the mithai in. How many seconds total will it take Ramesh to set off all the nimbu pani fountains?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes proper nouns and context to be culturally relevant, but some terms may still be unfamiliar to the average Indian audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but the natural flow could be improved for a more authentic experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

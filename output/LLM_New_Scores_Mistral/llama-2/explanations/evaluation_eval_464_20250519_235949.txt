@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ashley's pizza delivery costs $15. What is the total amount that Ashley should give the delivery man if she wants to give a tip that is equal to 1/5 of the amount she ordered?
+
+Adapted Text:
+Ramesh's pizza delivery costs ₹830. What is the total amount that Ramesh should give the delivery man if he wants to give a tip that is equal to 1/5 of the amount he ordered?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has proper nouns changed along with context, making it slightly more culturally relevant than a simple name replacement. However, the scenario and objects remain the same, lacking a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, with a natural flow that makes it easily understandable for the target audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

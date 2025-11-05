@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A tomato vendor decides to switch who he buys his tomatoes for.  He sells 500 tomatoes a day.  He used to buy them for $.5 each but he gets a new vendor who sells them for $.4 each.  How much money does he save a week?
+
+Adapted Text:
+Ramesh switched to a new tomato vendor and now buys them for ₹4 each. He sells 500 tomatoes a day and saves ₹200 per week.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text features a western scenario with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, lacking any Indian language elements.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 2.00/5

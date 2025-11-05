@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John buys milk for 2 dollars, eggs for 3 dollars, light bulbs for 3 dollars, cups for 3 dollars, and roach traps for 4 dollars.  If there is a 10% tax on all nonfood items how much did everything cost.
+
+Adapted Text:
+Ramesh buys milk for ₹140, eggs for ₹210, light bulbs for ₹210, cups for ₹210, and roach traps for ₹250. If there is a 10% tax on all non-food items, how much did everything cost?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text maintains western concepts without any attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, with no Indian language elements.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately in the adapted text.
+
+Overall Score:
+Average Score: 2.00/5

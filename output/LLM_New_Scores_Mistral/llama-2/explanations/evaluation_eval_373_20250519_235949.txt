@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Hallie had dance practice for 1 hour on Tuesdays and 2 hours on Thursdays.  On Saturdays, she had dance practice that lasted twice as long as Tuesday's night class.  How many hours a week did she have dance practice?
+
+Adapted Text:
+Ramesh had dance practice for 1 hour on Tuesdays and 2 hours on Thursdays. On Saturdays, he had dance practice that lasted twice as long as Tuesday's night class. How many hours a week did he have dance practice?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the original names with Indian names, but the context remains unchanged, making it less culturally resonant.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terms but the flow is not completely natural for an Indian reader.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

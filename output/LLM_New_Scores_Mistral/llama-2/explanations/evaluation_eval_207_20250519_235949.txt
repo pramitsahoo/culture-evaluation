@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Micheal loves riding a bike. He rode it at least 5 times a week and makes 25 kilometers each time. He did that for four weeks, and then he decided, to ride the bike only 2 times a week, but for 60 kilometers each time, and he did that for 3 weeks. How many kilometers did Micheal do in total?
+
+Adapted Text:
+Ramesh loves riding a bike. He rode it at least 5 times a week and makes 25 kilometers each time. He did that for four weeks, and then he decided, to ride the bike only 2 times a week, but for 60 kilometers each time, and he did that for 3 weeks. How many kilometers did Ramesh do in total?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contains substantial cultural adaptations, replacing the original name with an Indian name and maintaining the cultural context of riding a bicycle.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms effectively, with a natural flow that is easy to understand.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

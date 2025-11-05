@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+An 8-year old child wants to buy a toy car which costs $12. He already has $4 savings. How many days will it take him to save the remaining amount of money if he promises to save $2 daily from his allowance?
+
+Adapted Text:
+Ramesh wants to buy a toy car which costs ₹830. He already has ₹4 savings. How many days will it take him to save the remaining amount of money if he promises to save ₹2 daily from his allowance?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The adapted text uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The adapted text presents a problem that is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.00/5

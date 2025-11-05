@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+At Allan's house, there is twice as much corn as cannolis. He has a total of 40 cannolis in his house. Allan bought 60 more cannolis at the store and 40 fewer corns than the number of cannolis. Find the combined total of the number of corns and cannolis Allan has in the house?
+
+Adapted Text:
+Ramesh's house has twice as many parathas as cannolis. He has a total of ₹830 worth of parathas in his house. Ramesh bought ₹830 more parathas at the store and ₹830 fewer parathas than the number of cannolis. Find the combined total of the number of parathas and cannolis Ramesh has in the house?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text has nonsensical adaptations that are not culturally relevant or appropriate.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian terms incorrectly, making it difficult to understand the context.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is mathematically unsound or illogical after adaptation.
+
+Overall Score:
+Average Score: 1.33/5

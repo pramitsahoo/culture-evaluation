@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A fruit vendor bought 50 watermelons for $80. He sold all of them at a profit of 25%. How much was each watermelon sold?
+
+Adapted Text:
+Ramesh bought 50 parathas for ₹830 and sold them at a profit of 25%. How much was each paratha sold for?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the original fruit (watermelon) with an Indian food item (paratha), which is a common and culturally relevant food in India. However, the original problem scenario and context remain unchanged, reducing the overall cultural relevance score.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terms, but it doesn't always flow naturally. The use of "paratha" is appropriate, but the word "sold" could be replaced with a more idiomatic Indian expression, such as "bought and sold off".
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

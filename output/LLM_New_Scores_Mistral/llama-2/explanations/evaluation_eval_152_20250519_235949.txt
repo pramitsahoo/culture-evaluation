@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Shawnda decides that her neighborhood kids could really use a bike inflation service. She decides the best way to charge is by the tire. Each tire costs 25 cents to inflate. On the first day, 5 people on bicycles came by to get both tires inflated. 3 people came by to get all their tricycle tires inflated. Finally, one person actually came by on a unicycle. How many dollars did she make that day?
+
+Adapted Text:
+Ramesh decides that his neighborhood kids could really use a cycle inflation service. He decides the best way to charge is by the tire. Each tire costs ₹25 to inflate. On the first day, 5 people on cycles came by to get both tires inflated. 3 people came by to get all their tricycle tires inflated. Finally, one person actually came by on a unicycle. How much money did he make that day?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is contextually relevant, as it involves a common Indian neighborhood and replaces the original names with Indian names. However, the concept of a bike inflation service might not be as relatable to all Indians due to varying accessibility to bicycles.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms, but some phrases could have been more natural to improve overall fluency.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

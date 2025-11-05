@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Joe has twice as many cars as Robert. He sells 20% of them and gives away twice as many cars as the number he sold to his mother. If Robert has 20 cars, how many cars does joe remain with after selling and giving some to his mother?
+
+Adapted Text:
+Ramesh has twice as many cars as Robert. He sells 20% of them and gives away twice as many cars as the number he sold to his mother. If Robert has 20 cars, how many cars does Ramesh remain with after selling and giving some to his mother?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is relevant to Indian culture as it uses Indian names, but the scenario is not deeply connected to Indian cultural practices.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, with a natural flow, but it could be improved with more refined language usage.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

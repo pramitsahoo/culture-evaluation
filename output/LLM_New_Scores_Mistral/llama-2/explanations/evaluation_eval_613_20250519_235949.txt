@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The basketball team went to the steakhouse to eat dinner.  The first player ate a 6-ounce steak.  The second player ate beef tips, containing 8 beef tips, each an ounce in size.  The third player ate a one-pound steak.  And the fourth and fifth players ordered vegetarian meals.  In total, how many ounces of meat were consumed by the team?
+
+Adapted Text:
+The cricket team went to the dhaba to eat dinner.  The first player ate a 6-ounce chicken tikka.  The second player ate chicken tikka masala, containing 8 pieces, each an ounce in size.  The third player ate a one-pound chicken tikka.  And the fourth and fifth players ordered vegetarian meals.  In total, how many ounces of meat were consumed by the team?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively changes the original text to incorporate Indian elements, but some details (e.g., cricket instead of basketball) feel slightly disconnected from the overall context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian terminology correctly, but the overall language flow could be improved for a more natural read.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains intact and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

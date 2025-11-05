@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Axel has 50 silver pesos and 80 gold pesos. He visits her friend Anna who has twice as many silver pesos as he has and 40 more gold pesos. What's the total number of pesos they have together?
+
+Adapted Text:
+Ramesh has 50 silver rupees and 80 gold rupees. He visits his friend Shweta who has twice as many silver rupees as he has and 40 more gold rupees. What's the total number of rupees they have together?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively replaces western names and currency with their Indian counterparts, creating a more culturally relevant scenario.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology, maintaining a natural flow while incorporating some non-native terms.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

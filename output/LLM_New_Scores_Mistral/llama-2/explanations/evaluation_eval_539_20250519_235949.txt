@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Emma can make and upload 72 vlogs per month. But she was only able to make 18 vlogs for the first week, 21 vlogs for the second week, and 15 vlogs for the third week. How many vlogs should she do to complete the 72 vlogs per month?
+
+Adapted Text:
+Ramesh can make and upload 72 parathas per month. But he was only able to make 18 parathas for the first week, 21 parathas for the second week, and 15 parathas for the third week. How many parathas should he do to complete the 72 parathas per month?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes the original concept to a culturally relevant one (vlogs to parathas) and uses an Indian name, but it does not fully immerse the reader in the Indian context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English terms and expressions, creating a coherent Indian feel. However, the language could be improved to flow more naturally.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

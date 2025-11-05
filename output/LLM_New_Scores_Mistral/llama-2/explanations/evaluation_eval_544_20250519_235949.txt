@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+For each small task accomplished, Jairus gets $0.8 while Jenny gets $0.5. If each of them finished 20 tasks, how much more will Jairus get than Jenny?
+
+Adapted Text:
+For each small task accomplished, Ramesh gets ₹83 while Ria gets ₹50. If each of them finished 20 tasks, how much more will Ramesh get than Ria?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has names changed to Indian names, creating a connection to the Indian culture. However, the context remains largely unchanged, which slightly affects the cultural relevance.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively uses Indian English and terminology, with a natural flow that makes it easy to read and understand.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

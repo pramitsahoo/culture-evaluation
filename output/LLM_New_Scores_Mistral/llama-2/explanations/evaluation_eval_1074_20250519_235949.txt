@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mr. Robles buys 315 bananas, which is enough to feed his three monkeys for a week. One monkey eats 10 bananas each day. The second monkey eats 4 more bananas than the first monkey and the third monkey eats the rest of the bananas for the day.  How many bananas does the third monkey eat each day?
+
+Adapted Text:
+Ramesh buys 315 parathas, which is enough to feed his three friends for a week. One friend eats 10 parathas each day. The second friend eats 4 more parathas than the first friend and the third friend eats the rest of the parathas for the day. How many parathas does the third friend eat each day?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text uses Indian names but lacks contextual adaptation, making it seem nonsensical and disconnected from Indian culture.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text includes Indian names but uses them incorrectly or inappropriately, resulting in poor language adaptation.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is presented incorrectly or illogically, making it mathematically unsound.
+
+Overall Score:
+Average Score: 1.33/5

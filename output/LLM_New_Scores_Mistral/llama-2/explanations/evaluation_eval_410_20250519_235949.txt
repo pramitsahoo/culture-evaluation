@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Carolyn works for a delivery service company that hires on a contract basis. In May, they hired 40 employees, paying each employee $15 per hour for a 40-hour workweek. In June, 1/4 of the employees' contracts expired. Calculate the total amount of money the company paid to the employees in the two months.
+
+Adapted Text:
+Ramesh works for a delivery service company that hires on a contract basis. In May, they hired 40 employees, paying each employee ₹83 per hour for a 40-hour workweek. In June, 1/4 of the employees' contracts expired. Calculate the total amount of money the company paid to the employees in the two months.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text is adapted to an Indian context by using Indian currency (Rupees), but it still maintains the original problem structure.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and Indian currency, demonstrating a good level of language adaptation.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Misha picks out 4 blouses from the 30% off rack.  The regular price for each blouse is $20.  How much is the total cost of the discounted blouses?
+
+Adapted Text:
+Ramesh picks out 4 parathas from the 30% off rack. The regular price for each paratha is ₹83. How much is the total cost of the discounted parathas?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, with no Indian language elements.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is presented incorrectly, making it mathematically nonsensical.
+
+Overall Score:
+Average Score: 0.67/5

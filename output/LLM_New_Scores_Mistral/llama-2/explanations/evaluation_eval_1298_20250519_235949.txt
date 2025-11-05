@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tim makes a special honey and jam mix.  To make 1 jar of the mixture it takes 2 pounds of passion fruit and 1.5 pounds of jackfruit.  It also takes 2 pounds of special honey.  The passion fruit costs $6 per pound, the jackfruit is $8 per pound, and the honey is $10 per pound.  He sells each jar for $50.  How much profit does he make selling 10 jars?
+
+Adapted Text:
+Ramesh makes a special gulab jamun and khoa mix. To make 1 jar of the mixture it takes 2 kilograms of khoa and 1.5 kilograms of gulab jamun. It also takes 2 kilograms of special ghee. The khoa costs ₹400 per kilogram, the gulab jamun is ₹500 per kilogram, and the ghee is ₹600 per kilogram. He sells each jar for ₹1000. How much profit does he make selling 10 jars?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text contains nonsensical elements that are not culturally relevant or appropriate for an Indian audience.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains minimal Indian terms and uses them incorrectly, resulting in a poor representation of Indian English and terminology.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is nonsensical after adaptation, making it impossible to calculate the correct answer.
+
+Overall Score:
+Average Score: 0.67/5

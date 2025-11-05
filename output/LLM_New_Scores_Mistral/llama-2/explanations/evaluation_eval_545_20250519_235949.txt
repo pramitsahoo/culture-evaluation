@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jeff and Brad are trying to divide 100 dollars between them. Jeff gets 4 times as much as Brad. How much does Jeff get in dollars?
+
+Adapted Text:
+Ramesh and Raj are trying to divide ₹8300 between them. Ramesh gets 4 times as much as Raj. How much does Ramesh get in ₹?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively replaces western characters with Indian names, but the scenario itself remains universal and lacks deeper cultural connections.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text incorporates Indian terminology and expressions effectively, but the language flow could be improved to sound more natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

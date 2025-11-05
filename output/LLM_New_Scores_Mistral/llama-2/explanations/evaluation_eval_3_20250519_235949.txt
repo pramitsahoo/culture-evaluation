@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Josh decides to try flipping a house.  He buys a house for $80,000 and then puts in $50,000 in repairs.  This increased the value of the house by 150%.  How much profit did he make?
+
+Adapted Text:
+Ramesh decides to try flipping a house.  He buys a house for ₹80,000 and then puts in ₹50,000 in repairs.  This increased the value of the house by 150%.  How much profit did he make?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features Indian names and the use of rupees, but the house flipping concept is a western practice that may not be as common in India.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses Indian names and the rupee, but the language flow is not entirely natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

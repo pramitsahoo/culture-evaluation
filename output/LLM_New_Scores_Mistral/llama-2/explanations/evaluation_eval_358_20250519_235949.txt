@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Morgan's dad said that she had $90 budgeted for her birthday party. She wants to make sure she and her friends all get to play one round of mini-golf, have $5 in arcade tokens, and get to ride the go-karts twice. A round of mini-golf is $5. The Go-karts cost $10 a ride. How many friends can she invite?
+
+Adapted Text:
+Ramesh's dad said that he had ₹900 budgeted for his birthday party. He wants to make sure he and his friends all get to play one round of mini-golf, have ₹50 in arcade tokens, and get to ride the go-karts twice. A round of mini-golf costs ₹5. The Go-karts cost ₹10 per ride. How many friends can he invite?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the original characters with Indian names and adjusts the budget to Indian currency, but it doesn't reflect specific Indian cultural practices or traditions.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, but the language flow is not entirely natural for an Indian audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

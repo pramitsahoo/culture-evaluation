@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Sean is practicing for his role in a theater production. He has to memorize his lines for two scenes and the lyrics to one solo song. His solo song has 54 lines in the lyrics. The first scene has twice the number of lines, but only a third of them are his lines. The second scene has six more lines than the song, and four-fifths of them are his. How many lines does Sean have to memorize?
+
+Adapted Text:
+Ramesh is practicing for his role in a theater production. He has to memorize his lines for two scenes and the lyrics to one solo song. His solo song has ₹83 lines in the lyrics. The first scene has twice the number of lines, but only a third of them are his lines. The second scene has ₹6 more lines than the song, and four-fifths of them are his. How many lines does Ramesh have to memorize?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The adapted text uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical
+
+Overall Score:
+Average Score: 0.33/5

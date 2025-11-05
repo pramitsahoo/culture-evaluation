@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Sunny is selling gingerbread and apple pie for a fundraiser. On Saturday, he sold 10 boxes of gingerbread and 4 fewer boxes of apple pie, than on Sunday. On Sunday, he sold 5 more boxes of gingerbread than on Saturday and 15 boxes of apple pie. If the gingerbread cost $6 and the apple pie cost $15, how much did Sunny earn for two days?
+
+Adapted Text:
+Ramesh sold 5 parathas and 15 rotis for a fundraiser. On Saturday, he sold 10 rotis and 4 fewer rotis of parathas than on Sunday. On Sunday, he sold 5 more rotis of parathas than on Saturday and 15 rotis of parathas. If the parathas cost ₹83 and the rotis cost ₹60, how much did Ramesh earn for two days?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features some Indian names and food items but lacks a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terms correctly but does not flow naturally, with a few awkward expressions.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John orders some pizzas to share with his friends.  There are 20 friends in total, and John wants to make sure each can have 4 slices.  Pizzas are only sold sliced into 8 portions.  How many Pizzas does John need to order?
+
+Adapted Text:
+Ramesh orders some parathas to share with his friends.  There are 20 friends in total, and Ramesh wants to make sure each can have 4 portions.  Parathas are only sold divided into 8 portions.  How many parathas does Ramesh need to order?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, lacking any Indian language elements.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is nonsensical after adaptation, making it impossible to evaluate its accuracy.
+
+Overall Score:
+Average Score: 0.00/5

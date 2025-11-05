@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jen works for 7.5 hours a day 6 days a week. Her hourly rate is $1.5. Jen also receives an additional $10 if she has complete attendance. Suppose Jen did not incur any absences for  April, and there are exactly 4 weeks in April, how much will she receive?
+
+Adapted Text:
+Ramesh works for 7.5 hours a day 6 days a week. His hourly rate is ₹83. Ramesh also receives an additional ₹830 if he has complete attendance. Suppose Ramesh did not incur any absences for April, and there are exactly 4 weeks in April, how much will he receive?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes the names and currency to Indian equivalents, but the scenario and context remain largely unchanged, making it somewhat disconnected from Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terms, but the overall flow is not as natural as it could be.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains intact and is accurately presented in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

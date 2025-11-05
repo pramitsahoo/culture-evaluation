@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Anna is trying to buy books for her local library. She had a budget of $16, and she has already spent $4. She also bought 2 books today, and both books cost her the same amount of money. If Anna has $2 left in her budget, how much did each of the books cost?
+
+Adapted Text:
+Ramesh is trying to buy books for his local library. He had a budget of ₹830, and he has already spent ₹32. He also bought 2 books today, and both books cost him the same amount of money. If Ramesh has ₹58 left in his budget, how much did each of the books cost?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features Indian names and incorporates a local library setting, but the scenario itself is still generally western.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms correctly, but the flow isn't as natural as it could be, with some phrases sounding awkward.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

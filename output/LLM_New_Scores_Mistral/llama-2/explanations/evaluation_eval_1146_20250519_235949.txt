@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Faraday owns a flower shop. He sells a sunflower that costs $2 each and a bouquet of sunflower that costs $8. If Faraday earned $26 from the sunflower and $56 from the bouquet per day, and if each bouquet has 12 sunflowers, how many sunflowers was Faraday able to sell after 3 days?
+
+Adapted Text:
+Ramesh owns a flower shop. He sells a tulsi that costs ₹8 each and a bouquet of tulsi that costs ₹96. If Ramesh earned ₹26 from the tulsi and ₹56 from the bouquet per day, and if each bouquet has 12 tulsi, how many tulsi was Ramesh able to sell after 3 days?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has made changes to names and objects to fit an Indian context, but the overall scenario remains western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology, but the language flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

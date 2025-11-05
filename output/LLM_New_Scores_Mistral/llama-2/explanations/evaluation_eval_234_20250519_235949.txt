@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+There are 36 penguins sunbathing in the snow.  One-third of them jump in and swim in the ocean.  Another one-third go inside the cave to eat their dinner.  How many penguins are still left sunbathing?
+
+Adapted Text:
+Three dozen penguins are still sunbathing after one-third jumped into the ocean and another one-third went inside the cave to eat their dinner.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text contains some Indian elements, but it could be better connected to the Indian culture for a more authentic experience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but it lacks a natural flow at times.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

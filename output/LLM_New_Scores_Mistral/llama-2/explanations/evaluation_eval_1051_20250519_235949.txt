@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+It is approximately 1955 kilometers from San Diego, California to New York City, New York. If Bernice drove 325 kilometers for 4 days, how many kilometers will she still need to drive?
+
+Adapted Text:
+It is approximately 1955 kilometers from Mumbai to Delhi, India. If Bernice drove 325 kilometers for 4 days, how many kilometers will she still need to drive?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text changes the names of the cities, but the scenario remains the same, making it less relevant to the Indian audience.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms but lacks natural flow, making it feel awkward to read for a native Indian reader.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is still accurate in the adapted text.
+
+Overall Score:
+Average Score: 3.67/5

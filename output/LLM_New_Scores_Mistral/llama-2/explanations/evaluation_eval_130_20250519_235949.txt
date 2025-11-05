@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A hospital sees 500 people a day.  Each patient is seen for an average of 24 minutes.  The doctors charge $150 an hour to the hospital and the hospital charges the patients $200 an hour.  How much profit does the hospital make from these visits?
+
+Adapted Text:
+The hospital sees 500 people daily. Each patient is seen for an average of 24 minutes. The doctors charge ₹830 an hour to the hospital and the hospital charges the patients ₹1,000 an hour. How much profit does the hospital make from these visits?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively incorporates Indian culture with the replacement of currency and doctor's fees. However, the scenario itself is not deeply rooted in Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology effectively, but the flow could be improved for a more natural feel.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

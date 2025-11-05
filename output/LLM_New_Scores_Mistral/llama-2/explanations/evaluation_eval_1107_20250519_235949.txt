@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Marty has 100 centimeters of ribbon that he must cut into 4 equal parts. Each of the cut parts must be divided into 5 equal parts. How long will each final cut be?
+
+Adapted Text:
+Ramesh has 100 centimeters of saari that he must cut into 4 equal parts. Each of the cut parts must be divided into 5 equal parts. How long will each final cut be?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the western concept of ribbon with a culturally relevant Indian object, saari.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology, demonstrating a good understanding of the language but lacking some natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

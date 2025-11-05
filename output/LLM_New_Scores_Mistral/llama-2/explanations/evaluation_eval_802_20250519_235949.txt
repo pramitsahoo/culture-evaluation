@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+At Ashley's school, they start a reforestation campaign where each child plants a tree and each teacher plants 2 trees. The school has 40 classes with an average of 25 students and 3 teachers per class. How many trees will they have planted at the end of the campaign?
+
+Adapted Text:
+Ramesh's school starts a reforestation campaign where each student plants a tree and each teacher plants 2 trees. The school has 40 classes with an average of 25 students and 3 teachers per class. How many trees will they have planted at the end of the campaign?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes culturally relevant names and scenarios but still maintains some western elements.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terminology effectively but lacks a natural flow in some areas.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

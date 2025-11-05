@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John hires a driving service to get him to work each day.  His work is 30 miles away and he has to go there and back each day.  He goes to work 5 days a week for 50 weeks a year.  He gets charged $2 per mile driven and he also gives his driver a $150 bonus per month.  How much does he pay a year for driving?
+
+Adapted Text:
+Ramesh engages a driving service to commute to work daily. His workplace is 30 miles away, and he travels there and back every day, 5 days a week, for 50 weeks a year. He pays $2 per mile driven and a $150 bonus to the driver per month. How much does he spend annually on driving?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text features a character named Ramesh and mentions his workplace, which are both culturally relevant, but the scenario and context remain similar to the original text.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, with a natural flow that is almost perfect but for a few minor inconsistencies.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged, and the adaptation maintains complete accuracy.
+
+Overall Score:
+Average Score: 4.00/5

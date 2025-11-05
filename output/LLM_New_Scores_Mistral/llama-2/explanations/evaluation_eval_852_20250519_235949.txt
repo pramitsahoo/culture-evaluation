@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+James buys 2 pairs of shoes a month.  He spends $2640 on shoes each year.  How much does he pay on average for each pair of shoes?
+
+Adapted Text:
+Ramesh buys 2 pairs of parathas a month. He spends ₹16,700 on parathas each year. How much does he pay on average for each pair of parathas?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text is adapted to Indian culture by changing the main character's name and using an Indian food item in place of shoes. However, the scenario remains the same, which is less culturally resonating.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology, but the sentence structure and natural flow could be improved for a more authentic experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

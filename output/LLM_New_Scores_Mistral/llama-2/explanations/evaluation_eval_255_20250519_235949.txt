@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Shelly's 3 kids spent all day at the water park.  Mitchel went down the water slide 30 times.  Anne went down the slide 30% less than Mitchel and Robert went down 4 times as much as Anne.  How many times did Robert go down the water slide?
+
+Adapted Text:
+Ramesh's 3 kids spent all day at the water park.  Ramesh went down the water slide 30 times.  Anjali went down the slide 30% less than Ramesh and Rahul went down 4 times as much as Anjali.  How many times did Rahul go down the water slide?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively replaces western names with Indian ones and contextualizes the setting to an Indian water park. However, it could have gone further in creating a more culturally immersive experience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian names and some expressions, but the language could be more natural and fluid to better immerse the reader in the Indian cultural context.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly, making it easy for the reader to understand and solve the problem.
+
+Overall Score:
+Average Score: 4.33/5

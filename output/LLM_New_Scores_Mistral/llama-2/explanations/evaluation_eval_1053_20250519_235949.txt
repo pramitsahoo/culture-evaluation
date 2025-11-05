@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Romeo boards a train with 120 people. At the first stop, 20 more people board the train. At the second stop, 50 people descended from the train while twice that number boarded the train. If 80 more people descended at the third station, calculate the total number of people on the train at the final stop.
+
+Adapted Text:
+Ramesh boards a train with 120 people. At the first stop, 20 more people board the train. At the second stop, 50 people disembark from the train while twice that number board the train. If 80 more people disembark at the third station, calculate the total number of people on the train at the final stop.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has some elements of cultural relevance as it uses an Indian name for the protagonist, but the storyline remains largely unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English effectively, incorporating some culturally relevant terms and expressions. However, it could benefit from a more natural flow to better resonate with the target audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

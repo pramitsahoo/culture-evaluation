@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Eliza's rate per hour for the first 40 hours she works each week is $10. She also receives an overtime pay of 1.2 times her regular hourly rate. If Eliza worked for 45 hours this week, how much are her earnings for this week?
+
+Adapted Text:
+Ramesh's rate per hour for the first 40 hours he works each week is ₹830. He also receives an overtime pay of 1.2 times his regular hourly rate. If Ramesh worked for 45 hours this week, how much are his earnings for this week?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has multiple entities changed with a deeper connection to Indian culture, but it could have been more culturally resonating by using more specific scenarios or objects.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow, but it could be improved with a few more nuanced expressions.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

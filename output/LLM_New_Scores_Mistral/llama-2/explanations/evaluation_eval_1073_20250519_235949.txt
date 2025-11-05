@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Maggie spent a quarter of her money, while Riza spent one-third of her money. They each had $60. How much money do the two of them have left?
+
+Adapted Text:
+Ramesh spent ₹25 of his money, while Ravi spent ₹30 of his money. They each had ₹60. How much money do the two of them have left?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contains multiple entities changed with a deeper connection to Indian culture, but some western concepts remain.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow, although it could be more fluent in certain areas.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

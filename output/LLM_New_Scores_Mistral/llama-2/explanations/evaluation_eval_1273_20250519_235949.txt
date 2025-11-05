@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Helen went on a trip through Germany. She booked a hotel for 3 nights and rode the bus 7 times during that trip. One night at the hotel was a cost of $80, and every bus trip was 10% of the price of one night at the hotel. How much did Helen pay for the hotel and bus travels during that trip?
+
+Adapted Text:
+Ramesh went on a trip through India. He booked a hotel for 3 nights and rode the bus 7 times during that trip. One night at the hotel was a cost of ₹800, and every bus trip was 10% of the price of one night at the hotel. How much did Ramesh pay for the hotel and bus travels during that trip?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian names and some cultural elements, but the overall context remains primarily western.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms correctly but lacks a natural flow, making it slightly awkward to read.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A boy has 5 cards. His brother has 3 fewer cards than he has. How many cards do they have together?
+
+Adapted Text:
+Ramesh has 5 पराठां. उसके भाई ने उसके पास 3 पास का कार्ड छोड़ा. उनके साथ कैसा कार्ड है?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text includes nonsensical elements, making it culturally inappropriate.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian terms incorrectly, making it difficult to understand.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is mathematically unsound or illogical.
+
+Overall Score:
+Average Score: 1.33/5

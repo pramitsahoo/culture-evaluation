@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ron is fed up with the pothole in front of his house. If it doesn't get fixed, it's going to do $450 worth of damage to his car. Unfortunately, the city council refuses to fix it, and will fine Ron $120 for unauthorized road maintenance if he fixes it himself. Ron will also have to buy 3 buckets of asphalt that each cost $25. How much money does Ron save by fixing the pothole?
+
+Adapted Text:
+Ramesh is fed up with the pothole in front of his house. If it doesn't get fixed, it's going to do ₹830 worth of damage to his car. Unfortunately, the city council refuses to fix it, and will fine Ramesh ₹120 for unauthorized road maintenance if he fixes it himself. Ramesh will also have to buy 3 buckets of asphalt that each cost ₹25. How much money does Ramesh save by fixing the pothole?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively changes the original names to Indian names and the problem remains culturally relevant to Indian society.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, though it could benefit from a more natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

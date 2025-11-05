@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John decides to do several activities while out on vacation.  He spends 6 hours boating and half that time swimming.  He also watched 3 different shows which were 2 hours each.  This was 30% of the time he spent.  He spent 40% of his time sightseeing.  How much time did he spend sightseeing?
+
+Adapted Text:
+Ramesh decides to do several activities while out on vacation.  He spends 6 hours boating and half that time swimming.  He also watched 3 different shows which were 2 hours each.  This was 30% of the time he spent.  He spent 40% of his time sightseeing. How much time did he spend sightseeing?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has some elements of Indian culture, but the scenario and activities described are not common or specific to India.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terminology but lacks natural flow and consistency in its use.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly.
+
+Overall Score:
+Average Score: 3.67/5

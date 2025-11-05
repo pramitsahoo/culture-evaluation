@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Dijana and Anis live near a lake, and every weekend they go out rowing into the lake. On a Sunday morning, both went out rowing, and Dijana rowed for 50 miles the whole day. Anis rowed 1/5 times more miles than Dijana. Calculate the total distance the two of them rowed on that day.
+
+Adapted Text:
+Ramesh and Ria live near a lake, and every weekend they go out rowing into the lake. On a Sunday morning, both went out rowing, and Ramesh rowed for ₹830 miles the whole day. Ria rowed ₹830 times more miles than Ramesh. Calculate the total distance the two of them rowed on that day.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text includes Indian names, but the context and scenario remain unchanged from the original, making it feel inappropriate or nonsensical for an Indian reader.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The adapted text contains a few Indian terms, but they are used incorrectly or inappropriately, making it difficult for an Indian reader to understand.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is presented incorrectly, making it mathematically unsound or illogical.
+
+Overall Score:
+Average Score: 1.33/5

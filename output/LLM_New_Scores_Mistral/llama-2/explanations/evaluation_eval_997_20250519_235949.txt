@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Four children are playing together—Akbar, Alessandro, Helene, and Wilfred. Helene is twice as old as the average age of the group, and the total age of the children is 20. If Akbar is 3 years old and Alessandro is 4 years old, calculate the age of Wilfred.
+
+Adapted Text:
+Four children are playing together—Ramesh, Arav, Helene, and Wilfred. Helene is twice as old as the average age of the group, and the total age of the children is ₹830. If Ramesh is 3 years old and Arav is 4 years old, calculate the age of Wilfred.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively integrates Indian names into the problem, but the overall context remains largely unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms appropriately, but the overall flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

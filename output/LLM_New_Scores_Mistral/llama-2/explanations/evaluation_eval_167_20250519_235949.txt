@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Sandra's neighbor gives her a basket of 9 eggs every time she babysits their daughter. To make a Spanish flan, she needs 3 eggs. If Sandra has been tasked to make 15 Spanish flans for her school fundraiser, how many times does Sandra have to babysit?
+
+Adapted Text:
+Ramesh's neighbor gives him a basket of 9 parathas every time he babysits their daughter. To make 15 paratha sabjis, he needs 3 parathas. If Ramesh has been tasked to make 15 paratha sabjis for his school fundraiser, how many times does Ramesh have to babysit?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text is nonsensical, containing elements that are not culturally appropriate or relevant to Indian traditions.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains some Indian terminology, but the language flow is poor, with incorrect usage of terms and expressions that do not make sense in an Indian context.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is presented incorrectly or nonsensically, making it impossible to solve.
+
+Overall Score:
+Average Score: 0.67/5

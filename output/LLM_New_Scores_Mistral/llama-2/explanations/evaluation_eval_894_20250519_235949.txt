@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mark works at his job for 8 hours a day for 5 days a week.  He used to make $10 an hour but they raised his pay by $2 per hour.  How much does he make a week?
+
+Adapted Text:
+Ramesh works at his job for 8 hours a day for 5 days a week. He used to make ₹830 per hour but they raised his pay by ₹2 per hour. How much does he make a week?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains western concepts but incorporates culturally relevant names and some objects.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms correctly but lacks natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

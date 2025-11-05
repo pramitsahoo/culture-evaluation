@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The expenditure of Joseph in May was $500. In June, his expenditure was $60 less. How much was his total expenditure for those two months?
+
+Adapted Text:
+Ramesh spent ₹500 in May and ₹60 less in June. How much did he spend in total for those two months?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has multiple entities changed with a deeper connection to Indian culture, making it culturally relevant and contextually appropriate.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow, ensuring that the language remains understandable and engaging.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is seamlessly integrated with the cultural elements while maintaining complete accuracy.
+
+Overall Score:
+Average Score: 4.33/5

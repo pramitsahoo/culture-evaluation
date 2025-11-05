@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Marissa is hiking a 12-mile trail. She took 1 hour to walk the first 4 miles, then another hour to walk the next two miles. If she wants her average speed to be 4 miles per hour, what speed (in miles per hour) does she need to walk the remaining distance?
+
+Adapted Text:
+Ramesh is trekking a 12-mile trail. He took 1 hour to walk the first 4 miles, then another hour to walk the next two miles. If he wants his average speed to be 4 miles per hour, what speed (in miles per hour) does he need to walk the remaining distance?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains the original storyline while replacing the main character's name with a culturally relevant one.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology, but the language flow could be improved for a more natural feel.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

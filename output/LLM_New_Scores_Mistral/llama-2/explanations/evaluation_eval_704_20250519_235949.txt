@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Larry cooked dumplings for a group of friends.  There are 8 males, including Larry, and 6 females among them. Each male ate 1 more dumpling than each female. How many dumplings did Larry cook if each female ate 3 dumplings and there were no leftovers?
+
+Adapted Text:
+Ramesh cooked ₹830 worth of parathas for a group of friends.  There are 8 males, including Ramesh, and 6 females among them. Each male ate 1 more paratha than each female. How many parathas did Ramesh cook if each female ate 3 parathas and there were no leftovers?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes an Indian dish (parathas) and the use of Indian currency (rupees) which makes it culturally relevant. However, it could have been more deeply contextualized, for example by setting the scenario in a traditional Indian gathering or market.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and appropriate terminology, but the flow could be improved to sound more natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains intact and accurate in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

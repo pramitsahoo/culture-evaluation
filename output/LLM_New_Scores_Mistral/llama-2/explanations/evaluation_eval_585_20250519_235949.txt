@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+90 single use contacts come in 1 box and will last Pete 45 days.  Each box is $100.00 and currently 10% off.  If he buys 2 boxes of contact, how much will each pair of contacts cost?
+
+Adapted Text:
+Ramesh bought 90 single use contacts that come in 1 box and will last him 45 days. Each box costs ₹830 and is currently 10% off. If he buys 2 boxes of contacts, how much will each pair of contacts cost?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The text includes a cultural name change but maintains the western concept of contact lenses and pricing, which may not be fully relevant to the Indian audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology effectively, but the natural flow could be improved slightly.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains intact and accurate in the adapted text.
+
+Overall Score:
+Average Score: 4.00/5

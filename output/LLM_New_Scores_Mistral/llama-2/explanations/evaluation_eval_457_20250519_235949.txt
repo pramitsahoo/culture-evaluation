@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+In a set of magicians cards, there are 15 red cards, and 60% more green cards. Yellow cards are as many, as the sum of red and green cards. How many cards of all mentioned colors are there?
+
+Adapted Text:
+In a set of magicians' cards, there are 15 रघुनाथ cards, and 60% more हरित cards. यellow cards are as many, as the sum of रघुनाथ and हरित cards. How many cards of all mentioned colors are there?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text changes proper nouns to Indian names, but the context remains the same as the original, which is not deeply connected to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology correctly, but the flow could be improved for a more natural feel.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, but it could be better explained or contextualized for a more intuitive understanding.
+
+Overall Score:
+Average Score: 3.67/5

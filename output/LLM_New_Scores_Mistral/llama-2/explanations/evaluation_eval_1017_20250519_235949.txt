@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mrs. Tatiana owns a grocery store that sells different fruits and vegetables, which includes carrots. The price of carrots in the grocery store increases by 5% of the original price every year. What would be the price of carrots after three years if it was $120 initially? (Round to the nearest integer)
+
+Adapted Text:
+Mrs. Rukmini owns a grocery store that sells different fruits and vegetables, which includes gajar. The price of gajar in the grocery store increases by 5% of the original price every year. What would be the price of gajar after three years if it was ₹830 initially? (Round to the nearest integer)
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the original text's proper nouns and object with culturally relevant alternatives, making it more relatable to the Indian audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms effectively, creating a natural flow for the Indian reader.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

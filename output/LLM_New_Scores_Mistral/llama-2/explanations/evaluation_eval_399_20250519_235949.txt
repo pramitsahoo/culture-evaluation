@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Nancy is cleaning out her old woodshed. She saw 90 spiders, 1/3rd as many millipedes as spiders, and a number of stink bugs equal to twice the number of millipedes minus 12. How many bugs did she count total?
+
+Adapted Text:
+Ramesh is cleaning out his old chawl. He saw 90 parathas, 1/3rd as many pethas as parathas, and a number of kachoris equal to twice the number of pethas minus 12. How many kachoris did he count total?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is contextually appropriate, as it uses Indian objects like chawl, paratha, petha, and kachori. However, the scenario is not a common or culturally resonating one, which slightly reduces its relevance score.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively uses Indian English and terminology, demonstrating a good understanding of the language. There are a few minor grammatical errors that slightly affect the natural flow of the text.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context. However, the problem could be better contextualized to make it more engaging for the target audience.
+
+Overall Score:
+Average Score: 4.00/5

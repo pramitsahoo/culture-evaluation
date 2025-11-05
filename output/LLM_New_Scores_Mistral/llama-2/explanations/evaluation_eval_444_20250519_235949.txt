@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jon runs a triathlon.  It takes him 40 minutes for the swim, an hour and 20 minutes for the bike ride and 50 minutes for the run.  Compared to Jon, James finishes the swim 10% faster but takes 5 minutes longer on the bike.  If Jon won by 10 minutes, how long did it take James to do the run?
+
+Adapted Text:
+Ramesh runs a triathlon.  It takes him 40 minutes for the swim, an hour and 20 minutes for the bike ride and 50 minutes for the run.  Compared to Ramesh, Ram finishes the swim 10% faster but takes 5 minutes longer on the bike.  If Ramesh won by 10 minutes, how long did it take Ram to do the run?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text changes the names of the characters and maintains the western concept of a triathlon but does not incorporate any other Indian elements.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terms, but the natural flow is not always perfect.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

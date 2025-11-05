@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Hunter counted 50 cars packed in their school parking lot when entering class one morning. During the first break, he counted 20 more cars in the parking lot. When he got out of class for the lunch break, he realized that 1/2 the number of cars in the parking lot had gone. What's the total number of cars he counted during lunch break?
+
+Adapted Text:
+Ramesh counted 50 cars packed in their school parking lot when entering class one morning. During the first break, he counted 20 more cars in the parking lot. When he got out of class for the lunch break, he realized that 1/2 the number of cars in the parking lot had gone. What's the total number of cars he counted during lunch break?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The text is adapted with some culturally relevant names, but the scenario itself remains unchanged, retaining western elements.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms effectively, though there is room for improvement in natural language flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately.
+
+Overall Score:
+Average Score: 4.00/5

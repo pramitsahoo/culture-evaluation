@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Cindy's math and science books weigh 2 pounds each.  Her French book weighs 4 pounds and her English book weighs 3 pounds.  Her history book weighs twice as much as her English book.  If Cindy carries all of her books at once, what will be the total weight of the books she is carrying?
+
+Adapted Text:
+Ramesh's math and science books weigh 2 ₹830 each. His French book weighs 4 ₹830 and his English book weighs 3 ₹830. His history book weighs twice as much as his English book. If Ramesh carries all of his books at once, what will be the total weight of the books he is carrying?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes Indian names and rupee currency, but the scenario and objects remain unchanged and not culturally relevant.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian English terms but lacks natural flow, resulting in a somewhat awkward reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly, making it mathematically accurate.
+
+Overall Score:
+Average Score: 4.00/5

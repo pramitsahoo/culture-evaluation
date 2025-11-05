@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mary buys 3 bags of M&Ms. The first bag has 300 M&Ms in it. The second bag has 12 more M&Ms than the first, and the third bag has a hole in it, so it only has half the number of M&Ms that the first bag had. How many M&Ms did Mary get total?
+
+Adapted Text:
+Ramesh buys 3 bags of parathas. The first bag has 300 parathas in it. The second bag has 12 more parathas than the first, and the third bag has a hole in it, so it only has half the number of parathas that the first bag had. How many parathas did Ramesh get total?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the original text's objects with culturally relevant alternatives, but the scenario remains somewhat abstract.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terminology and English effectively, though the language flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

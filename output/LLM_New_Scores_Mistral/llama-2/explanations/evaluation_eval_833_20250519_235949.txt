@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Roy has saved 40% more in money earned by chores than his brother Anthony.  Anthony has saved $10.00 more than their sister Eva.   Eva has saved $20.00.  How much money does Roy have?
+
+Adapted Text:
+Ramesh has saved 40% more in money earned by chores than his brother Ramesh. Ramesh has saved ₹830 more than his sister Ramesh. Ramesh has saved ₹200 more than their brother Ramesh. How much money does Ramesh have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses Indian names, but the context remains similar to the original text, which is not specific to any culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms but lacks the natural flow and expressions that a native speaker would use.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

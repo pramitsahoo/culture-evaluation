@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Bob needs to buy potting soil to fill the raised beds in his vegetable garden. He has 10 raised beds, and each bed is 2 feet wide by 8 feet long by 2 feet tall. Each bag of potting soil holds 2 cubic feet of soil and costs $12. How much will the potting soil cost him?
+
+Adapted Text:
+Ramesh needs to buy potting soil to fill the raised beds in his vegetable garden. He has 10 raised beds, and each bed is 2 feet wide by 8 feet long by 2 feet tall. Each bag of potting soil holds 2 cubic feet of soil and costs ₹830. How much will the potting soil cost him?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has multiple entities changed with a deeper connection to Indian culture, but the scenario is not entirely unique to the target audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow, but there are a few minor linguistic inconsistencies.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

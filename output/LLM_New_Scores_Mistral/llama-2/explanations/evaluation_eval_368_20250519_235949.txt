@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+3 customers were kicked out of the Walmart for refusing to wear masks. A number equals to four times that many minus 5 were kicked out for shoplifting.  Three times the number of shoplifters were kicked out for physical violence over goods on sale. If a total of 50 people were kicked out of the Walmart, how many were kicked out for other reasons?
+
+Adapted Text:
+Three customers were kicked out of the Walmart for refusing to wear masks in India. A number equal to four times that many minus 5 were kicked out for shoplifting. Three times the number of shoplifters were kicked out for physical violence over goods on sale. If a total of 50 people were kicked out of the Walmart, how many were kicked out for other reasons in India?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is substantially adapted with culturally relevant scenarios and objects, but it could benefit from further cultural contextualization.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow, but could benefit from a more refined use of Indian language patterns.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+In his training as a professional athlete, Tyson runs 5000 meters every day. His coach, however, wants him to run 1/5 times more meters in a day. If he took the coach's advice and trained for a month, what is the total distance he covered in June?
+
+Adapted Text:
+Ramesh ran 5000 meters every day in his training as a professional athlete. His coach suggested he run 1/5 times more meters in a day, so he covered a total distance of ₹830 in June if he trained for a month.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian names and settings, but the main concept of training for a professional athlete remains western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology, but the flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

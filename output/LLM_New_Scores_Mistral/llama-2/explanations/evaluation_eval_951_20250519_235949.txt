@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Bahati, Azibo, and Dinar each contributed to their team's 45 points. Bahati scored the most points and it was 20 more than Azibo scored and 10 more points than Dinar scored. How many points did Azibo score?
+
+Adapted Text:
+Ramesh, Raman, and Rohan contributed to their team's 45 points. Ramesh scored the most points and it was 20 more than Raman scored and 10 more points than Rohan scored. How many points did Raman score?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts and does not make any attempts at cultural adaptation.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses incorrect Indian terms and expressions, creating a disjointed reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately.
+
+Overall Score:
+Average Score: 2.00/5

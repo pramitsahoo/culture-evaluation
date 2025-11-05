@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+In Mr. Roper's class of 30 students, 20% of the class are football players.  Out of the remaining class, 25% of the students are cheerleaders or part of band.  These 3 groups of students will need to leave early today to travel to an away game.  How many students are leaving early?
+
+Adapted Text:
+Ramesh taught a class of 30 students, where 20% of the students were football players. Out of the remaining students, 25% were cheerleaders or part of the band. These 3 groups of students will need to leave early today to travel to an away game. How many students are leaving early?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes proper nouns to Indian names and includes a relevant Indian context (teacher's name, travel to an away game), but it does not go as far as creating a culturally resonating scenario.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but the language flow could be slightly improved for a more natural feel.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and unchanged after the adaptation.
+
+Overall Score:
+Average Score: 4.33/5

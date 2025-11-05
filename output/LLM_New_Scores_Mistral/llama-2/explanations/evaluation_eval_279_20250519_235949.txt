@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mico and Marco wanted to get to know each other. They realized that the sum of their ages is 20. What will be the sum of their ages in 10 years?
+
+Adapted Text:
+Ramesh and Ria wanted to get to know each other. They realized that the sum of their ages is 30. What will be the sum of their ages in 10 years?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains the original scenario while replacing western names with Indian names, creating a more culturally resonating story.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, although some expressions might feel slightly off-beat.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The employees of Google went on a day trip. 4 buses were rented that have the capacity of holding 60 employees. 6 minibusses that can hold 30 employees, and 10 minivans that can hold 15 employees. How many employees can join the day trip?
+
+Adapted Text:
+The employees of Tata went on a day trip. 4 buses were rented that have the capacity of holding 60 employees. 6 mini-buses that can hold 30 employees, and 10 minivans that can hold 15 employees. How many employees can join the day trip?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes a name change to an Indian company but doesn't have any other contextual adaptations.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian English but lacks a natural flow, making it slightly less coherent for the target audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

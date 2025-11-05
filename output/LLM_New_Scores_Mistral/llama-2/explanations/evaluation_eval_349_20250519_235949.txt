@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A factory used to make tractors, but now makes silos. When they made tractors, they sold 10 tractors a day and made $100 per tractor. Now, they sell 5 silos a day, and make $220 per silo. What percentage more are they making per day now?
+
+Adapted Text:
+Ramesh used to manufacture tractors, but now produces silos. When he made tractors, he sold 10 tractors daily and earned ₹830 per tractor. Currently, he sells 5 silos daily and earns ₹1,100 per silo. What percentage more is he making per day now?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has made significant changes to the original text, making it more relevant to the Indian context. However, it could have been further improved by incorporating more specific Indian examples.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology effectively, but there are a few instances where the flow is not entirely natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-structured despite the cultural adaptation.
+
+Overall Score:
+Average Score: 4.33/5

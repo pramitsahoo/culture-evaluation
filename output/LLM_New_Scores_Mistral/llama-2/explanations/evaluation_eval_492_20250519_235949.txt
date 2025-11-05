@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jaime places eggs on the tray. Each tray can hold 24 eggs. If he has 64 eggs and 2 trays, how many eggs won't he be able to place on the tray?
+
+Adapted Text:
+Ramesh places ₹830 worth of parathas on the tray. Each tray can hold ₹830 worth of parathas. If he has ₹830 worth of parathas and 2 trays, how many parathas won't he be able to place on the tray?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced proper nouns with Indian names, but the context remains primarily western.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms correctly but lacks a natural flow in its use of Indian English.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

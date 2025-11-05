@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Carol and Jennifer are sisters from Los Angeles who love collecting signatures from celebrities. During their summer break from school, the sisters spend every afternoon collecting signatures. After five weeks, Carol and Jennifer compare their autograph books, counting up the number of signatures each sister has collected. Carol has 20 signatures in her book, and Jennifer has 44. The sisters have three more weeks of summer vacation, and they decide they want to reach 100 signatures between them by the end of the summer. How many signatures do the sisters need to collect to reach their goal?
+
+Adapted Text:
+Ramesh and Ria are siblings from Mumbai who love collecting autographs from celebrities. During their summer break from school, the siblings spend every afternoon collecting autographs. After five weeks, Ramesh has 20 signatures in his book, and Ria has 44. The siblings have three more weeks of summer vacation, and they decide they want to collect 100 autographs between them by the end of the summer. How many autographs do the siblings need to collect to reach their goal?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes the characters' names and location to be Indian, but the storyline and context remain largely the same as the original text.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terms, but it lacks the natural flow of Indian language patterns.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

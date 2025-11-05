@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A loaf of bread at the bakery costs $2. Bagels cost $1 each. How much more do 3 loaves of bread cost than 2 bagels?
+
+Adapted Text:
+Three loaves of bread at the bakery cost ₹1,260 more than 2 bagels. How much does one loaf of bread cost?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text adapts the problem by using Indian currency and a specific price point relevant to the Indian market. However, the question is still centered around western concepts like bakeries, which may not be common in all regions of India.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms like "rupees" appropriately, but the question structure remains western-style, which may not feel entirely natural to some Indian readers.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

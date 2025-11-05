@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The red car is 40% cheaper than the blue car. The price of the blue car is $100. How much do both cars cost?
+
+Adapted Text:
+The red car is 40% cheaper than the blue car. The price of the blue car is ₹8300. How much do both cars cost?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has made a substantial adaptation with culturally relevant scenarios and objects, but it could be further improved to better resonate with the Indian audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow, but some expressions could be improved for better fluency.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

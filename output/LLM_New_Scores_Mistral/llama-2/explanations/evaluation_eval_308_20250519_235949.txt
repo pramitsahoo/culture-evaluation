@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Sandy wants to lose as much weight as Joey does but needs 4 weeks to lose the same amount of weight that Joey loses in a single week. If Joey loses 8 pounds in 4 weeks, how many weeks will it take Sandy to lose the same amount of weight?
+
+Adapted Text:
+Ramesh wants to lose as much weight as Rohan does but needs 4 weeks to lose the same amount of weight that Rohan loses in a single week. If Rohan loses 8 pounds in 4 weeks, how many weeks will it take Ramesh to lose the same amount of weight?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes the names of the characters to Indian names, but the scenario remains the same as the original text.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian names and some Indian English, but the language flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

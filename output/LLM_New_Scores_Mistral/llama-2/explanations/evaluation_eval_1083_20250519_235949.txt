@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+James decided to walk to the store.  When he got halfway there he realized he forgot something at home and had to walk back.  If his home is 4 miles from the store and he walks 4 miles per hour how long did it take him to reach the store?
+
+Adapted Text:
+Ramesh decided to walk to the store.  When he got halfway there he realized he forgot something at home and had to walk back.  If his home is ₹830 miles from the store and he walks ₹830 miles per hour how long did it take him to reach the store?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text contains some contextual changes that are relevant to Indian culture, but some elements remain unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, with only a few minor language flow issues.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented accurately and is well-integrated into the cultural context, with minor adjustments to units of measurement.
+
+Overall Score:
+Average Score: 3.67/5

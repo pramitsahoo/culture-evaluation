@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Two candidates are running for class representative at Sarai's school. If the winner got 3/4 of the votes and the total number of students who voted in the class was 80, calculate the number of votes the loser got.
+
+Adapted Text:
+Two candidates are running for class representative at Ramesh's school. If the winner got 3/4 of the votes and the total number of students who voted in the class was 80, calculate the number of votes the loser got.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes nonsensical elements like using rupees as age units, which is culturally inappropriate.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text includes incorrect use of Indian terms.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.67/5

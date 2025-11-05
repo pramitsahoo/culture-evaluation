@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Hannah has a mental breakdown while studying for finals and starts smashing windows in the high school's parking lot. She smashes a quarter of the students' cars' windows and 3/4ths of the teachers' cars' windows. If there are 64 students' cars with four windows each and 32 teachers' cars with two windows each, how many windows does Hannah smash?
+
+Adapted Text:
+Ramesh has a mental breakdown while studying for finals and starts smashing windows in the high school's parking lot. He smashes a quarter of the students' cars' windows and 3/4ths of the teachers' cars' windows. If there are 64 students' cars with four windows each and 32 teachers' cars with two windows each, how many windows does Ramesh smash?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text includes Indian names, but the scenario remains culturally neutral and could be set anywhere.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terms, but the natural flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

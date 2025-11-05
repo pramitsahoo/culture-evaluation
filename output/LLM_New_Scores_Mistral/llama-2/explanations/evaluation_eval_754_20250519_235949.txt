@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jeff owns a catering company.  During a recent event, he sent 8 dozen glasses and 4 dozen plates for the party.  When they were returned, 10 glasses were broken as well as 6 plates.  How many glasses and plates does Jeff have now?
+
+Adapted Text:
+Ramesh owns a catering company.  During a recent event, he sent 8 dozen thali and 4 dozen plates for the party. When they were returned, 10 thali were broken as well as 6 plates. How many thali and plates does Ramesh have now?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is contextually appropriate, replacing catering with catering company and glasses with thali. However, it lacks a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and appropriate terminology, but the natural flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

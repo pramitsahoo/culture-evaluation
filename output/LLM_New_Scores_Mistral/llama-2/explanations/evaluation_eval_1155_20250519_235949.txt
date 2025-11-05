@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mason likes eating carrots. If he eats 4 carrots each on weekdays and 5 carrots each on Saturday and Sunday, how many carrots does he eat a week?
+
+Adapted Text:
+Ramesh likes eating carrots. If he eats 4 carrots each on weekdays and 5 carrots each on Saturday and Sunday, how many carrots does he eat a week?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The text includes the replacement of a western name with an Indian one, but the context remains the same, focusing on a western food item (carrots) and eating habits.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian names and some terms, but the overall language flow is not entirely natural for an Indian audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly, making it easy to understand and solve.
+
+Overall Score:
+Average Score: 4.00/5

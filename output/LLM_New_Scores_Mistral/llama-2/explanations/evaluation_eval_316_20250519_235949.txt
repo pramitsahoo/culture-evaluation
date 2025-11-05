@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Martha is planning her Christmas party. She invited 2 families with 6 people and 3 families with 4 people. 8 people couldn't come due to illness, and 1/4 that number had previous commitments. How many people show up for Martha's party?
+
+Adapted Text:
+Ramesh is planning his Diwali party. He invited 2 families with 6 people and 3 families with 4 people. 8 people couldn't come due to illness, and 1/4 that number had previous commitments. How many people show up for Ramesh's party?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text includes nonsensical cultural elements, making it inappropriate for the target audience.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains very few Indian terms, and they are used incorrectly or inappropriately.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is mathematically unsound or illogical.
+
+Overall Score:
+Average Score: 1.33/5

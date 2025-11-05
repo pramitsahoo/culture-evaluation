@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Arnold, Madeline, Camden, and Sarah painted 56 easter eggs. Arnold and Madeline painted the same number of eggs. Camden and Sarah painted a total of 30 eggs, but Camden painted 12 more than Sarah. How many more eggs did Camden paint than Arnold?
+
+Adapted Text:
+Ramesh, Ria, Rahul, and Swati painted 56 eggs. Ramesh and Ria painted the same number of eggs. Rahul and Swati painted a total of 30 eggs, but Rahul painted 12 more than Swati. How many more eggs did Rahul paint than Ramesh?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text includes some culturally relevant names and objects, but it lacks a deeper connection to Indian culture or traditions.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms correctly but lacks natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural
+
+Overall Score:
+Average Score: 3.67/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+My mom went to a gardening shop. She bought a set of pots for $19 and a sack of garden soil for $26. At checkout, she used a coupon for $7 off. How much money did my mom spend at the gardening shop?
+
+Adapted Text:
+My mother went to a gardening shop. She bought a set of pots for ₹1,350 and a sack of garden soil for ₹1,720. At checkout, she used a coupon for ₹270 off. How much money did my mother spend at the gardening shop?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, lacking any Indian language elements.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately.
+
+Overall Score:
+Average Score: 2.00/5

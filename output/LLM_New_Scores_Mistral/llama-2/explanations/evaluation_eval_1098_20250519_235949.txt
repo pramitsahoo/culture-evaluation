@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mary and John got married last weekend.  There were 20 private cars and 12 buses parked outside the church.  After the ceremony, each bus carried 35 people and each car carried 3 people. How many people were inside the church?
+
+Adapted Text:
+Ramesh and Ria got married last weekend.  There were 20 private cars and 12 buses parked outside the mandap. After the ceremony, each bus carried 35 people and each car carried 3 people. How many people were inside the mandap?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 5.0/5
+Explanation: The adapted text is deeply integrated with Indian culture, accurately reflecting significant traditions and practices. The wedding is held at a mandap, a traditional Indian wedding venue, and the people are carried in buses, which is a common mode of transportation for large wedding parties in India.
+
+2. Language Fluency
+Score: 5.0/5
+Explanation: The text uses natural Indian English and terminology, making it easy to read and culturally coherent. The use of names like Ramesh and Ria, along with the word mandap, further strengthens the cultural relevance.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context. The question asks for the number of people inside the mandap, which is the location where the wedding ceremony takes place in Indian culture.
+
+Overall Score:
+Average Score: 5.00/5

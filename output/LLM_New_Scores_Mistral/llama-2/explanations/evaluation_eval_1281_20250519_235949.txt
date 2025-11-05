@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Steve put together a puzzle that took 10 hours of hard work to complete. Anna put together the same puzzle in 2 hours more than half Steve's time. How long did it take Anna to finish the difficult puzzle?
+
+Adapted Text:
+Ramesh put together a puzzle that took 10 hours of hard work to complete. Ramesh's friend, Shweta, put together the same puzzle in 2 hours more than half Ramesh's time. How long did it take Shweta to finish the difficult puzzle?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains the original problem while replacing the names with culturally relevant Indian names, demonstrating a connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian names and some common phrases but lacks the natural flow and nuances of Indian English.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains intact and is presented accurately without any issues.
+
+Overall Score:
+Average Score: 4.33/5

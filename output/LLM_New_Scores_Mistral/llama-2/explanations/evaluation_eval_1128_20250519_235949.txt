@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Rani is obsessed with sports cars. She wonders what the faster car ever made can go so she looks it up. What she finds out is that the fastest car was 1.25 times faster than the 2nd fastest car. The 2nd fastest car was 5 times faster than the average car. The average car can go 120 Miles per hour. How fast does the faster car go?
+
+Adapted Text:
+Ramesh is obsessed with sports cars. He wonders what the faster car ever made can go, so he looks it up. What he finds out is that the fastest car was 1.25 times faster than the 2nd fastest car. The 2nd fastest car was 5 times faster than the average car. The average car can go 120 Miles per hour. How fast does the faster car go?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, making it inappropriate for an Indian audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: 
+
+Overall Score:
+Average Score: 1.67/5

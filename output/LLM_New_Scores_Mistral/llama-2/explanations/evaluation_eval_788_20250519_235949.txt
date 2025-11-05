@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Samwell owns an appliances store. For this week, one-fourth of their sales are smart TVs, one-eighth are analog TVs, and the rest are OLED TVs. If they were able to sell a total of 40 TVs, how many OLED TVs were they able to sell?
+
+Adapted Text:
+Ramesh owns a consumer electronics store. For this week, one-fourth of their sales are smart TVs, one-eighth are analog TVs, and the rest are OLED TVs. If they were able to sell a total of ₹830, how many OLED TVs were they able to sell?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text contains nonsensical elements that are inappropriate and unrelated to Indian culture.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains minimal Indian language elements and uses them incorrectly.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 1.00/5

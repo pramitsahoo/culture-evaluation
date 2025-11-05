@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Timothy's locker is 24 cubic inches. Zack's locker is half as big as Timothy's locker. Peter's locker is 1/4 as big as Zack's locker. How big is Peter's locker in cubic inches?
+
+Adapted Text:
+Ramesh's locker is 24 cubic inches. Ramesh's locker is half as big as Timothy's locker. Ramesh's locker is 1/4 as big as Zack's locker. How big is Ramesh's locker in cubic inches?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text replaces the names of the characters, but the cultural context remains unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian names and some common expressions but lacks a natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly.
+
+Overall Score:
+Average Score: 4.00/5

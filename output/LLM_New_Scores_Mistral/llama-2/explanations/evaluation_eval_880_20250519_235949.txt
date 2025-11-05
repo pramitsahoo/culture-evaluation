@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+At a spa, Iris spent $400 to do her hair, 1/4 as much to do a manicure, and 3/4 as much money as a manicure to do a pedicure. How much money did she spend at the spa?
+
+Adapted Text:
+Ramesh spent ₹830 to do his hair, ₹250 as much to do a manicure, and ₹640 as much money as a manicure to do a pedicure. How much money did he spend at the spa?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text includes nonsensical elements such as using rupees as age units, making it culturally irrelevant.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian terms incorrectly, making it difficult to understand.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 1.00/5

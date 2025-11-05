@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ben has 4 tubes of blue paint and 3 tubes of yellow paint. Jasper has half as many tubes of blue paint as Ben, and three times as many tubes of yellow paint as Ben. How many tubes of paint does Jasper have?
+
+Adapted Text:
+Ramesh has 4 पार्थas of नीला का पेंट and 3 पार्थas of सफेद का पेंट. जसपर ने बेन के पार्थas का नीला का पेंट के साथ समान करते हैं, और बेन के पार्थas का सफेद का पेंट के साथ तीन बार करते हैं. कैसे पेंट का रखा है जसपर?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has names replaced with culturally relevant alternatives, but the context and scenario are not inherently Indian.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, with only minor inconsistencies in the natural flow.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, but could benefit from better contextualization.
+
+Overall Score:
+Average Score: 3.67/5

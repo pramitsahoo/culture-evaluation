@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Roger goes to the store to buy some coffee.  The normal brand of coffee he buys cost $5 per pound.  He had to buy a more expensive brand that cost 20% more since his favorite brand was sold out.  He decides to buy a week's worth of coffee and he uses 1 pound of coffee per day.  He also decided to buy himself a donut for $2.  How much did everything cost?
+
+Adapted Text:
+Ramesh goes to the store to buy some chai. The normal brand of chai he buys costs ₹83 per kilogram. He had to buy a more expensive brand that costs 20% more since his favorite brand was sold out. He decides to buy a week's worth of chai and he uses 1 kilogram of chai per day. He also decided to buy himself a laddu for ₹20. How much did everything cost?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contains multiple entities changed with a deeper connection to Indian culture, making it more culturally relevant than the original text.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow, making it easier to understand for an Indian audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is seamlessly integrated with the cultural elements while maintaining complete accuracy.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Carlos and Benji are at the beach. Carlos rents a canoe for $30 an hour and Benji rents a banana boat raft for $18 an hour. If Carlos uses the boat for 3 hours and Benji uses the raft for 5 hours, how much will they pay for their rentals, altogether?
+
+Adapted Text:
+Ramesh and Rajesh are at the beach. Ramesh rents a coracle for ₹830 an hour and Rajesh rents a boat raft for ₹600 an hour. If Ramesh uses the boat for 3 hours and Rajesh uses the raft for 5 hours, how much will they pay for their rentals, altogether?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes culturally inappropriate or nonsensical elements (e.g., paratha growing on plants, using rupees as age units).
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text maintains western concepts with no attempt at cultural adaptation.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.67/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jim decides to go to college to earn some more money.  It takes him 4 years to finish and he gets $50,000 in loans per year.  If he had a 25k a year job before college and his college degree tripled his income, how long would it take to earn the money equivalent to the loans and the money lost from not working while in school.
+
+Adapted Text:
+Ramesh decides to go to college to earn some more money.  It takes him 4 years to finish and he gets ₹50,000 in loans per year.  If he had a ₹25,000 a year job before college and his college degree tripled his income, how long would it take to earn the money equivalent to the loans and the money lost from not working while in school?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text replaces names with Indian ones, but the context remains unchanged.
+
+2. Language Fluency
+Score: 2.0/5
+Explanation: The text uses some Indian terms incorrectly or inappropriately, affecting its natural flow.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-structured, but could be better contextualized for the Indian audience.
+
+Overall Score:
+Average Score: 3.00/5

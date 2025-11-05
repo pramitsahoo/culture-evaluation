@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jamaar loves fresh fruit and is headed to the store with $10 he earned mowing lawns. Including tax, peaches and pears are $.5 each, apples are $.75 each, kiwis are $1, and plums cost $.25 each. If he has already purchased 3 peaches, 4 pears, 2 kiwis, and 5 apples, how many plums can he buy?
+
+Adapted Text:
+Ramesh loves fresh fruit and is headed to the store with ₹83 he earned mowing lawns. Including tax, peaches and pears are ₹5 each, apples are ₹75 each, kiwis are ₹100 each, and plums cost ₹25 each. If he has already purchased 3 peaches, 4 pears, 2 kiwis, and 5 apples, how many plums can he buy?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is substantially adapted with culturally relevant scenarios and objects, but the original text's context is still somewhat present.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with natural flow, but it could be further improved for better fluency.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

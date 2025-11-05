@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Adrian's age is three times the age of Harriet, and Harriet is half the age of Zack. Calculate the average age of the three in three years if Harriet is 21 years old now.
+
+Adapted Text:
+Ramesh's age is three times the age of Harshita, and Harshita is half the age of Rohan. Calculate the average age of the three in three years if Harshita is 21 years old now.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: Names have been changed to Indian names, but the context remains the same, lacking a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and some terms correctly, with a natural flow but not seamlessly blending with the Indian context.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

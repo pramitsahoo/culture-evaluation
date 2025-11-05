@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Marcy makes homemade candles that she markets as 99% guaranteed not to explode. 5% of the more dangerous candles also have a defect that makes them smell like wet dog. If she makes 50000 candles, how many of them will both smell like wet dog and explode?
+
+Adapted Text:
+Ramesh makes homemade candles that he markets as 99% guaranteed not to burst. 5% of the more dangerous candles also have a defect that makes them smell like wet dog. If he makes 50000 candles, how many of them will both smell like wet dog and burst?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text maintains the original story but uses culturally relevant names and objects, making it more relatable to the Indian audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text effectively incorporates Indian English and terminology with a natural flow, making it easy to read and understand for the target audience.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, although it could be further contextualized to better resonate with the Indian audience.
+
+Overall Score:
+Average Score: 3.67/5

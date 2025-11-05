@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Erica made 20 Valentine's cards to pass out.  Her dad brought her 2 boxes of pre-made Valentine's cards that had 15 cards each.  She passed out 24 to her classmates, 5 to her family and received 17 from family and friends.  How many Valentine's Day cards does Erica now have?
+
+Adapted Text:
+Ramesh made 20 parathas to distribute on Valentine's Day. His father brought him 2 boxes of pre-made parathas that had 15 parathas each. He distributed 24 to his classmates, 5 to his family, and received 17 from family and friends. How many parathas does Ramesh now have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, with no Indian language elements.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 1.67/5

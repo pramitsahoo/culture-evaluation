@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jennie is helping at her mom's office. She has a pile of 60 letters needing stamps, and a pile of letters already stamped. She puts stamps on one-third of the letters needing stamps. If there are now 30 letters in the pile of already-stamped letters, how many were in that pile when Jennie began?
+
+Adapted Text:
+Ramesh is helping at his mom's office. He has a pile of 60 letters needing stamps, and a pile of letters already stamped. He puts stamps on one-third of the letters needing stamps. If there are now 30 letters in the pile of already-stamped letters, how many were in that pile when Ramesh began?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates an Indian name and setting, but the scenario itself is not specific to Indian culture.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian English and terms, but the language flow could be improved for a more natural feel.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-structured despite the cultural adaptation.
+
+Overall Score:
+Average Score: 4.00/5

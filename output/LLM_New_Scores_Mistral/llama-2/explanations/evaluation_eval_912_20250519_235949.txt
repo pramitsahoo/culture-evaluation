@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Colby works for a manufacturing company in the packaging division.  He gets paid $0.20 for every package he completes. If he completes 10 less than 50 packages per hour, how much money, in dollars, does he earn in a typical eight-hour workday?
+
+Adapted Text:
+Ramesh works for a packaging division of a manufacturing company. He gets paid ₹15 for every package he completes. If he completes 10 less than 50 packages per hour, how much money, in Indian Rupees (₹), does he earn in a typical eight-hour workday?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian names and uses Indian currency, but the original context remains unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, but the natural flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

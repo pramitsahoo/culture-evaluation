@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mark is trying to choose between two venues for a surprise party for his wife.  The first venue charges a flat fee of $200, regardless of how many guests attend.  While the second charges, $25 per person who attends.  However, the first venue does not include food, which Mark estimates will cost $5 for each person who attends.  At the second venue, food for each guest is already included in the price.  How many guests are necessary for the two venues to be equal in cost?
+
+Adapted Text:
+Ramesh is trying to choose between two venues for a surprise party for his wife.  The first venue charges a flat fee of ₹830, regardless of how many guests attend.  While the second charges, ₹25 per person who attends.  However, the first venue does not include food, which Ramesh estimates will cost ₹5 for each person who attends.  At the second venue, food for each guest is already included in the price.  How many guests are necessary for the two venues to be equal in cost?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text contains nonsensical elements, making it inappropriate and disconnected from Indian culture.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses very little Indian terminology and is poorly adapted, with incorrect use of Indian terms.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 2.33/5

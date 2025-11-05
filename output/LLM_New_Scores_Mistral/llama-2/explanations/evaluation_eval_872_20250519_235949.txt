@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tobias bought a big pizza with 60 pieces. He ate 2/5 of the pieces on the first day, 10 pieces on the second day, and 7/13 of the remaining pieces on the third day. How many pizza pieces has he eaten so far?
+
+Adapted Text:
+Ramesh bought a big paratha with 60 pieces. He ate 2/5 of the pieces on the first day, 10 pieces on the second day, and 7/13 of the remaining pieces on the third day. How many parathas has he eaten so far?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces pizza with paratha, a popular Indian food, which is a step towards cultural relevance. However, the context remains somewhat westernized, as the number of pieces in the paratha is still quantified as a whole rather than a weight or volume.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English terms and expressions, but the sentence structure and flow could be more natural for a native speaker.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, but the language used might make it slightly more challenging for a non-native English speaker to understand the problem.
+
+Overall Score:
+Average Score: 4.00/5

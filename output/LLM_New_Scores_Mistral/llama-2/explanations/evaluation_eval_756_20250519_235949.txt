@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Joey plays football every week. Last week he played 2 matches on Monday, 1 match on Friday, and on Saturday he played double the number of matches he played on Monday. How many matches did Joey play in one week?
+
+Adapted Text:
+Ramesh khel rahta hai football ka tarika. Aaj ki tarah ke liye, last week mein uska khel ka number match tha. Saturday mein uska khel ka number match ki tarah se double ho gaya. Joey ne one week mein kiske liye khel kiya?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text contains nonsensical elements that are culturally inappropriate or irrelevant to the Indian context.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian terms incorrectly, making it difficult to read and culturally incoherent.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 1.00/5

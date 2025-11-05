@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Doxa sliced an apple into 8 pieces. She ate 1 slice, her sister ate 1 more than her, and her brother ate 1 more than her sister. How many slices of apple did they all eat?
+
+Adapted Text:
+Ramesh cut a paratha into 8 pieces. He ate 1 piece, his sister ate 1 more than him, and his brother ate 1 more than his sister. How many pieces of paratha did they all eat?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses Indian names and a culturally relevant food item (paratha), but the problem scenario remains essentially the same as the original.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology, and the language flow is generally natural. However, it could be more refined to achieve a perfect score.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

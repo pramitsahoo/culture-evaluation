@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tommy caught 3 more fish than Darren and Darren caught 6 less than Naomi. If Naomi caught 17 fish, how many fish did Tommy catch?
+
+Adapted Text:
+Ramesh caught 3 more parathas than Dinesh and Dinesh caught 6 less than Nisha. If Nisha caught 17 parathas, how many parathas did Ramesh catch?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced the original objects (fish) with Indian food (parathas) which adds a cultural touch, but the overall context remains unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian names and incorporates Indian English, but some expressions may still feel slightly awkward or unnatural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Maria was charging her power bank before going to the park when she disconnected it and noticed the power bank wasn’t fully charged yet. Once at the park, her friends asked her if they could charge their phones. While charging her friends’ phones, she noticed that her power bank was losing 9% of the total capacity each hour. 5 hours later the battery started to lose instead 7% of the total capacity each hour for about 3 hours. In the end, the charge remaining was 28%. What was the charge of the power bank when Maria went out to the park?
+
+Adapted Text:
+Ramesh was charging his power bank before going to the park when he noticed it wasn't fully charged yet. Once at the park, his friends asked him if they could charge their phones. While charging his friends' phones, he noticed that his power bank was losing ₹830 (9% of the total capacity) each hour. 5 hours later, the battery started to lose ₹570 (7% of the total capacity) each hour for about 3 hours. In the end, the charge remaining was ₹1,660. What was the charge of the power bank when Ramesh went out to the park?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features Indian names and power bank capacity expressed in rupees, which helps to make it more relatable to the target audience. However, the core scenario and objects remain unchanged, which reduces the overall cultural relevance score.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terms correctly, but it could benefit from a more natural flow and a more extensive use of regional dialects to further enhance language fluency.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-structured, making it suitable for Indian students.
+
+Overall Score:
+Average Score: 4.33/5

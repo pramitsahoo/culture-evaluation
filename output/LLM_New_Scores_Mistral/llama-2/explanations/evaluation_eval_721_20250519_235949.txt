@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Castle bought 3 boxes of Coco Crunch and 5 boxes of Fruit Loops this week. Last week she bought 4 boxes of cereal. How many more boxes of cereal did she buy this week than last week?
+
+Adapted Text:
+Ramesh bought 3 boxes of Paratha Crunch and 5 boxes of Chakli this week. Last week he bought 4 boxes of breakfast food. How many more boxes of breakfast food did he buy this week than last week?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has made some changes to better fit the Indian context, but it could be more immersive by using more culturally relevant objects and scenarios.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology correctly, but the natural flow could be improved for a more authentic experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

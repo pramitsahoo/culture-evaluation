@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Janeth borrowed $2000 and promised to return it with an additional 10% of the amount. If she is going to pay $165 a month for 12 months, how much will be Janeth's remaining balance by then?
+
+Adapted Text:
+Ramesh borrowed ₹165,000 and promised to return it with an additional 10% of the amount. If he is going to pay ₹13,750 a month for 12 months, how much will be Ramesh's remaining balance by then?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes culturally inappropriate or nonsensical elements.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The adapted text uses incorrect Indian terms.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.67/5

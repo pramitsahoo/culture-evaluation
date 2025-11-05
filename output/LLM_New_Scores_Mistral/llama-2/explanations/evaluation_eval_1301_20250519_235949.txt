@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Josh runs a car shop and services 3 cars a day.  He is open every day of the week except Sunday and Wednesday.  He gets paid $4 per car.  How much does he make in 2 weeks?
+
+Adapted Text:
+Ramesh runs a car shop and services 3 cars a day. He is open every day of the week except Sunday and Wednesday. He gets paid ₹4 per car. How much does he make in 2 weeks?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively incorporates Indian cultural elements by using a common Indian name and currency. However, it could further be improved by considering the context of a car shop in India, which may have different operational days or business hours.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology, demonstrating a good understanding of Indian language patterns and expressions.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged, and the answer will still be accurate for the target audience.
+
+Overall Score:
+Average Score: 4.33/5

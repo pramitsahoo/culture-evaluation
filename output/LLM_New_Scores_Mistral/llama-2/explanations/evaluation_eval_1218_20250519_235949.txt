@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Pauline visits her favorite local museum three times a year. The cost of one visit is $2. After 5 years, the cost of one visit has increased by 150%, but Pauline decided not to give up any visit and continued to go to the museum for 3 more years. How much did Pauline spend on all visits to the museum?
+
+Adapted Text:
+Ramesh visits his favorite local museum thrice a year. The cost of one visit is ₹83. After 5 years, the cost of one visit has increased by 150%, but Ramesh decided not to give up any visit and continued to go to the museum for 3 more years. How much did Ramesh spend on all visits to the museum?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text features a name change to Ramesh and the currency conversion to Indian rupees, demonstrating some adaptation to Indian culture. However, the overall context remains the same, which could have been further adapted to create a more culturally resonating experience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, but the overall flow and naturalness could be improved for a more authentic experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly, demonstrating complete accuracy.
+
+Overall Score:
+Average Score: 4.33/5

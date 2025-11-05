@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John collects garbage from 3 different apartment complexes.  The first two have 200 apartments each and the last one is 60% bigger than the other two combined.  He collects garbage 3 times a week from each place and he gets paid $.40 per collection for each apartment.  How much money does he make in a week?
+
+Adapted Text:
+Ramesh collects garbage from 3 different apartment complexes.  The first two have 200 apartments each and the last one is 60% bigger than the other two combined.  He collects garbage 3 times a week from each place and he gets paid ₹40 per collection for each apartment. How much money does he make in a week?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is presented incorrectly or illogically.
+
+Overall Score:
+Average Score: 0.00/5

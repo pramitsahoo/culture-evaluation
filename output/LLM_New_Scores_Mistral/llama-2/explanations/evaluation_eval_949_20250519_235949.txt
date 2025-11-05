@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
+
+Adapted Text:
+Ramesh markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the Bhaskar Times and an 8% commission on each of the Financial Times. How much commission will he earn in total from the sales of 6 copies of the Bhaskar Times and 10 copies of Financial Times if each costs ₹500 and ₹1,500 respectively?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes cultural relevant names and objects, but the context remains somewhat western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terminology correctly but lacks a natural flow that is commonly found in Indian English.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

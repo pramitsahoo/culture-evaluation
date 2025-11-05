@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ford owns a garden and he grows 40 roses every week. He supplies Roses to the local flower shops. The first flower shop orders 20 roses, the second flower shop orders 15 roses, and the third flower shop orders 30 roses per week. How many roses does Ford lack to supply all the flower shops every month?
+
+Adapted Text:
+Ramesh owns a garden and he grows 40 tulsi plants every week. He supplies Tulsi to the local flower shops. The first flower shop orders 20 tulsi plants, the second flower shop orders 15 tulsi plants, and the third flower shop orders 30 tulsi plants per week. How many tulsi plants does Ramesh lack to supply all the flower shops every month?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes proper nouns changed to Indian names, and the plant species is replaced with a culturally relevant one. However, the scenario remains essentially the same as the original text, which could be further adapted to better resonate with the Indian audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terms effectively, but the language flow could be improved to sound more natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly with no errors.
+
+Overall Score:
+Average Score: 4.33/5

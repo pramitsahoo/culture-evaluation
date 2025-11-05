@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Elly is organizing her books on the new bookcases her parents bought her. Each of the middle 2 shelves can hold 10 books. The bottom shelf can hold twice as many books as a middle shelf. The top shelf can hold 5 fewer books than the bottom shelf. If she has 110 books, how many bookcases does she need to hold all of them?
+
+Adapted Text:
+Ramesh is organizing his books on the new bookcases his parents bought him. Each of the middle 2 shelves can hold 10 books. The bottom shelf can hold twice as many books as a middle shelf. The top shelf can hold 5 fewer books than the bottom shelf. If he has 110 books, how many bookcases does he need to hold all of them?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes a culturally inappropriate or nonsensical element (e.g., using rupees as age units).
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text includes minimal Indian terms but used incorrectly or inappropriately.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is
+
+Overall Score:
+Average Score: 2.33/5

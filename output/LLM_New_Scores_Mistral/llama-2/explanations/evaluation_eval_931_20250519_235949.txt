@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+When Sophie watches her nephew, she gets out a variety of toys for him. The bag of building blocks has 31 blocks in it. The bin of stuffed animals has 8 stuffed animals inside. The tower of stacking rings has 9 multicolored rings on it. Sophie recently bought a tube of bouncy balls, bringing her total number of toys for her nephew up to 62. How many bouncy balls came in the tube?
+
+Adapted Text:
+Ramesh watched his nephew and took out a variety of toys for him. The bag of building blocks had 31 blocks in it. The bin of stuffed animals had 8 stuffed animals inside. The tower of stacking rings had 9 multicolored rings on it. Ramesh recently bought a tube of parathas, bringing his total number of toys for his nephew up to 62. How many parathas came in the tube?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has some contextual changes to reflect Indian culture, but the central problem remains unchanged and rooted in western culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology with mostly accurate use, although it could benefit from a more natural flow.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and maintains its original structure, but could be better contextualized within the Indian cultural context.
+
+Overall Score:
+Average Score: 3.67/5

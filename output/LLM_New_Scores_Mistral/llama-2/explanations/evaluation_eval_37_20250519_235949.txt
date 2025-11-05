@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Terry eats 2 yogurts a day.  They are currently on sale at 4 yogurts for $5.00.  How much does he spend on yogurt over 30 days?
+
+Adapted Text:
+Ramesh eats 2 parathas a day. They are currently on sale at ₹830 for ₹2500. How much does he spend on paratha over 30 days?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes a cultural replacement of the food item but the scenario remains unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms, but the language flow could be improved for a more authentic experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate after the cultural adaptation.
+
+Overall Score:
+Average Score: 4.33/5

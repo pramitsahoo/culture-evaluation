@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Dean has 30 marbles. He gives 1/5  of them to Jamie and gives 10 to Donald. How many marbles are left for Dean?
+
+Adapted Text:
+Ramesh has 30 parathas. He gives 1/5 of them to his friend Rohan and gives 10 to his colleague Rahul. How many parathas are left for Ramesh?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains the original problem with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses nonsensical Indian terms that are not used in the intended context.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.33/5

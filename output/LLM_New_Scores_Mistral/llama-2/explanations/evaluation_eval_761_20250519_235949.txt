@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+20% of 50 people think horse #2 will win the big race.  60% of the remaining people think horse #7 will win.  The rest of the people think horse #12 will win the big race.  How many people think that horse #12 will win?
+
+Adapted Text:
+Twenty percent of 50 people believe horse #2 will win the big race. Sixty percent of the remaining people believe horse #7 will win. The rest of the people believe horse #12 will win. How many people think that horse #12 will win?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text includes proper nouns changed to culturally relevant alternatives, but the scenario and objects remain western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, but the flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

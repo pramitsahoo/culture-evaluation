@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mia and Emma are currently 16 years apart in age. If Mia, who is younger than Emma, is 40 years old, what's the average of their ages?
+
+Adapted Text:
+Ramesh and Ria are currently 16 years apart in age. If Ramesh, who is younger than Ria, is 40 years old, what's the average of their ages?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced western names with Indian ones, but the scenario and context remain western.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian English terms but lacks the natural flow and coherence of Indian language.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged, retaining its original accuracy.
+
+Overall Score:
+Average Score: 4.00/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Nancy is returning her overdue books to the library. She owes $0.50 cents each on 8 books, plus a flat $2.00 fee for having at least one book that's over a week overdue. How much does she have to pay total?
+
+Adapted Text:
+Ramesh is returning his overdue books to the library. He owes ₹0.50 each on 8 books, plus a flat ₹2.00 fee for having at least one book that's over a week overdue. How much does he have to pay total?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes proper nouns changed with culturally relevant alternatives, but the overall scenario remains similar to the original text, which is a library fine.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow, but it could be improved slightly to sound more idiomatic and colloquial.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

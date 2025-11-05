@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Marcus is half of Leo’s age and five years younger than Deanna. Deanna is 26. How old is Leo?
+
+Adapted Text:
+Ramesh is half of Rohan's age and five years younger than Swati. Swati is 26. How old is Rohan?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text features nonsensical or culturally inappropriate elements that detract from the cultural relevance.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The adapted text contains minimal Indian terminology, used incorrectly or inappropriately.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented
+
+Overall Score:
+Average Score: 2.33/5

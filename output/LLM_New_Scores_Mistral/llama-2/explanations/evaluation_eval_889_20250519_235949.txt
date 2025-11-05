@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Lani baked 55 cookies. She ate 5 five cookies and placed the rest equally into five jars. How many cookies were in each jar?
+
+Adapted Text:
+Ramesh baked 55 parathas. He ate 5 parathas and placed the rest equally into 5 dabbas. How many parathas were in each dabba?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text uses western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, lacking any Indian language elements.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.33/5

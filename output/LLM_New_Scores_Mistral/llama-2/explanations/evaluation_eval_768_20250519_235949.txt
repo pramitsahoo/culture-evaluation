@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+To make 1 liter of juice, Sam needs 5 kilograms of oranges. Each kilogram of oranges costs $3. How much money would Sam have to spend to make 4 liters of juice?
+
+Adapted Text:
+Ramesh needs 5 kilograms of narangi (oranges) to make 1 liter of juice. Each kilogram of narangi costs ₹830. How much money will Ramesh have to spend to make 4 liters of juice?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text contains nonsensical elements that are inappropriate for the Indian cultural context.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains incorrect usage of Indian terms, making it difficult to understand.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 2.33/5

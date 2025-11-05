@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Henry and 3 of his friends order 7 pizzas for lunch. Each pizza is cut into 8 slices. If Henry and his friends want to share the pizzas equally, how many slices can each of them have?
+
+Adapted Text:
+Ramesh and 3 of his friends order 7 parathas for lunch. Each paratha is cut into 8 pieces. If Ramesh and his friends want to share the parathas equally, how many pieces can each of them have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has a deeper connection to Indian culture, as it uses a traditional Indian food item (paratha) and a common social situation (sharing food with friends). However, it does not fully resonate with the target audience as it does not incorporate any cultural nuances or regional differences in the sharing of food.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, with a natural flow that makes it easy to read and understand. However, some Indian expressions or colloquialisms could have been used to further enhance the text's cultural relevance.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, making it easy to follow and understand.
+
+Overall Score:
+Average Score: 4.33/5

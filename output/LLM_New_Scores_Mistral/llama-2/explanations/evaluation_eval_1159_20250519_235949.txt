@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The Hortex company produces bottled carrot juices. Every day it can produce 4200 bottles of these juices. Each juice can cover 20% of 1 person'ts daily energy demand. How many more bottles of juices would Hortex have to produce to be able to satisfy 100% of the daily energy needs of 2300 people?
+
+Adapted Text:
+The Dhara company produces bottled carrot juices. Every day it can produce 4200 bottles of these juices. Each juice can cover 20% of 1 person's daily energy demand. How many more bottles of juices would Dhara have to produce to be able to satisfy 100% of the daily energy needs of 2300 people?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text has been adapted by replacing the original company name with an Indian one, but the context remains unchanged.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian English terms, but the language flow is not as natural as it could be.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly.
+
+Overall Score:
+Average Score: 4.00/5

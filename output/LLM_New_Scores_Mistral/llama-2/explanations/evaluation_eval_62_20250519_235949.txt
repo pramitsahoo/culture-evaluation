@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Janet buys a brooch for her daughter.  She pays $500 for the material to make it and then another $800 for the jeweler to construct it.  After that, she pays 10% of that to get it insured.  How much did she pay?
+
+Adapted Text:
+Ramesh buys a paratha for his daughter.  He pays ₹830 for the material to make it and then another ₹830 for the paratha maker to construct it.  After that, he pays 10% of that to get it insured.  How much did he pay?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses a culturally relevant food item and maintains the original context while changing the main character's name to an Indian one.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology, but it could be improved for a more natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

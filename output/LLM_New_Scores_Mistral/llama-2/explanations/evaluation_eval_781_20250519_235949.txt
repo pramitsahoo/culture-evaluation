@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ava and Emma want to know who is better at the new video game Ava got for her birthday. They are each going to play one level and whoever has the highest score wins. They receive 10 points for every enemy they jump on, 5 points for each berry they collect, and 30 points for every second left on the timer when they finish the level. If Ava jumps on 8 more enemies than Emma and collects 3 more berries, but finishes the level 4 seconds slower, what is the difference between their two scores?
+
+Adapted Text:
+Ramesh and Ria want to know who is better at the new video game Ramesh got for his birthday. They are each going to play one level and whoever has the highest score wins. They receive 10 points for every enemy they jump on, 5 points for each mango they collect, and 30 points for every second left on the timer when they finish the level. If Ramesh jumps on 8 more enemies than Ria and collects 3 more mangoes, but finishes the level 4 seconds slower, what is the difference between their two scores?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes culturally inappropriate or nonsensical elements that do not fit the Indian context.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains very poor use of Indian terms, making it difficult to understand.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation, making
+
+Overall Score:
+Average Score: 0.67/5

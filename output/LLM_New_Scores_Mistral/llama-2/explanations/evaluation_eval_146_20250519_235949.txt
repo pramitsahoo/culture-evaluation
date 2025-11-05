@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John has 10 hectares of a pineapple field. There are 100 pineapples per hectare. John can harvest his pineapples every 3 months. How many pineapples can John harvest within a year?
+
+Adapted Text:
+Ramesh has 10 bighas of a pineapple field. There are 100 pineapples per bigha. Ramesh can harvest his pineapples every 3 months. How many pineapples can Ramesh harvest within a year?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian units of measurement and names, but it does not fully immerse the reader in an Indian context or culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively uses Indian English and terms, but some expressions may not be commonly used in everyday conversation.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

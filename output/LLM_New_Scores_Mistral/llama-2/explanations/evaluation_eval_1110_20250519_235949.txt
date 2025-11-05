@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Three of the women at the cocktail party are wearing 4 inch heels and three are wearing 2 inch heels. What is the average height of heels at this party?
+
+Adapted Text:
+Three of the women at the party are wearing 4 inch heels and three are wearing 2 inch heels. What is the average height of heels at this party?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 5.0/5
+Explanation: The adapted text is written in a way that is universally applicable and does not require any cultural context to understand.
+
+2. Language Fluency
+Score: 5.0/5
+Explanation: The text uses natural English expressions and terminology, making it easy to read and culturally coherent for a global audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, as it does not depend on any specific culture.
+
+Overall Score:
+Average Score: 5.00/5

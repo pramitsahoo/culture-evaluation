@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A farmer is buying feed for his horses. He buys a variety of hay, oats, carrots and sugar cubes. Since sugar cubes are a rare treat, he only buys two 1-pound boxes of them for the whole stable. He only wants enough carrots to feed the horses while the vegetables are fresh, so he buys four 12-pound bags. Hay is the main diet of his horses, so he buys forty-two 75-pound bales. Oats are a staple to supplement the hay, so he buys twenty 65-pound sacks. If his farm truck can carry 2250 pounds at a time, how many trips does the farmer need to transport all the feed?
+
+Adapted Text:
+Ramesh bought 42 bales of hay for ₹830 and gave 2 to his friend. He bought 4 bags of fresh carrots for ₹460 and only wanted enough for the horses while they are fresh. He bought 20 sacks of oats for ₹690. Since sugar cubes are a rare treat, he only bought 2 1-pound boxes for the whole stable. How many trips does the farmer need to transport all the feed?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text shows a good attempt at cultural adaptation, with proper nouns replaced and some objects related to Indian farming. However, the original problem does not have a direct Indian counterpart, which is why the score is not a 5.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and some Indian terminology, but the language flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

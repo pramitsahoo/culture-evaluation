@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Every day Charisma meditates for 15 minutes when she first wakes up and again before she goes to sleep.  5 days a week she practices 1 hour of yoga.  in 4 weeks, how much time has she spent on meditation/yoga practice?
+
+Adapted Text:
+Ramesh meditates for 15 minutes every day when he first wakes up and again before he goes to sleep. 5 days a week, he practices 1 hour of yoga. In 4 weeks, how much time has he spent on meditation/yoga practice?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains the original concept while using culturally relevant names and practices, enhancing its connection to the target audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text incorporates Indian English and terminology effectively, with a natural flow that improves its cultural resonance.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

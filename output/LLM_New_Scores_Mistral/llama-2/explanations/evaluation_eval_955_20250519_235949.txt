@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jonathan has 2/3 as many measuring spoons as measuring cups. If he has two dozen cups and gifts Pedro 6 measuring spoons for his birthday, calculate the total number of utensils Jonathan has remaining.
+
+Adapted Text:
+Ramesh has 2/3 as many measuring spoons as measuring cups. If he has two dozen cups and gifts Ramesh 6 measuring spoons for his birthday, calculate the total number of utensils Ramesh has remaining.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes the names and some objects to culturally relevant alternatives, but the context remains largely the same.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, but it could benefit from a more natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

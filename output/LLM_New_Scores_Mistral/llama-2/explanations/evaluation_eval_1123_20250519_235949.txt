@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A toy manufacturer receives an order for 400 toys. 5 workers are available to work on the order. 2 of the workers produce 6 toys an hour, and another 2 workers produce 4 toys an hour. They all work on the order during their 10-hour shift, and by the end of their shift the manufacturer still needs another 20 toys to be able to ship the order. How many toys per hour does the fifth worker produce?
+
+Adapted Text:
+Ramesh received an order for 400 parathas. 5 workers were available to work on the order. 2 workers produced 6 parathas per hour, and another 2 workers produced 4 parathas per hour. They all worked on the order during their 10-hour shift, and by the end of their shift, Ramesh still needed another 20 parathas to be able to ship the order. How many parathas per hour does the fifth worker produce?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text contains nonsensical elements that are not relevant to Indian culture or traditions.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian English and terminology incorrectly, making it difficult for a native Indian speaker to understand.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is presented incorrectly and is not well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 1.33/5

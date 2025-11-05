@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Charlie wants to sell beeswax candles.  For every pound of beeswax, he can make 10 tapered candles.  One pound of beeswax and the wicks cost $10.00 in supplies.   If he sells each candle for $2.00 each, what is his net profit if he makes and sells 20 candles?
+
+Adapted Text:
+Ramesh wants to sell parathas.  For every kilogram of atta, he can make 10 parathas.  One kilogram of atta and the ghee cost ₹830 in supplies.   If he sells each paratha for ₹83, what is his net profit if he makes and sells 20 parathas?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is relevant to Indian culture as it uses a popular food item, parathas, and the context is easily relatable to Indian audiences. However, it lacks deeper cultural connection and resonance.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with natural flow, but it could be improved further to better capture the essence of Indian language patterns.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Carly had 80 cards, 2/5 of the cards had the letter A on them, 1/2 of the remaining had the letter B, 5/8 of the rest had the letter C on them, and the others had the letter D. How many of the cards had the letter D on them?
+
+Adapted Text:
+Ramesh had 80 parathas, 2/5 of the parathas had the letter आ on them, 1/2 of the remaining parathas had the letter ब, 5/8 of the rest had the letter च on them, and the others had the letter द on them. How many parathas had the letter द on them?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is relevant to Indian culture by using culturally significant objects like parathas, but it doesn't have a deep connection to the culture or its practices.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but it doesn't flow naturally in certain instances.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

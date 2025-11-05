@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jeff’s work is 3 miles away.  He walks there and back each day he works.  How many miles does he walk if he has to work 5 times a week?
+
+Adapted Text:
+Ramesh's work is 3 km away. He walks there and back each day he works. How many km does he walk if he has to work 5 times a week?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces Jeff with Ramesh and miles with kilometers, making it relevant to an Indian audience. However, it does not reflect any specific Indian cultural practices or context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology but does not have a completely natural flow due to the adaptation.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly, making it mathematically sound.
+
+Overall Score:
+Average Score: 4.33/5

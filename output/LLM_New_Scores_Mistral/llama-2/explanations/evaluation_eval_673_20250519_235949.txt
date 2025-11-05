@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Christina records her mood every day on a calendar. Over the past thirty days of moods, she had twelve good days and eight bad days and the rest were neutral. Her first eight days were good, her second eight days were bad, and her third eight days were neutral. If the next three days were good, neutral, and good, how many good days were left in the month?
+
+Adapted Text:
+Rajvi records her mood every day on a calendar. Over the past thirty days of moods, she had twelve good days and eight bad days and the rest were neutral. Her first eight days were good, her second eight days were bad, and her third eight days were neutral. If the next three days were good, neutral, and good, how many good days were left in the month?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text contains some Indian names, but the context and scenario remain the same, making it less culturally relevant.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terms effectively, but there are a few instances where the language flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains the same and is presented accurately, with no loss of integrity.
+
+Overall Score:
+Average Score: 4.00/5

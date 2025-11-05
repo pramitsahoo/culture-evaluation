@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Julia and Nadine were given the same amount of allowance by their mother. The two girls decided to combine their allowance to surprise their father on his birthday. They bought a cake which costs $11. They also bought 1 dozen balloons which were sold for $0.5 for 2 balloons. The remaining money was used to buy 2 tubs of ice cream for $7 each. How much did Julia and Nadine's mother give each one of them?
+
+Adapted Text:
+Ramesh and Ria were given the same amount of allowance by their mother. The two friends decided to combine their allowance to surprise their father on his birthday. They bought a cake which costs ₹830. They also bought 1 dozen balloons which were sold for ₹35 for 2 balloons. The remaining money was used to buy 2 tubs of ice cream for ₹140 each. How much did Ramesh and Ria's mother give each one of them?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has made substantial efforts to adapt the original story, but it could have included more Indian cultural elements to make it more authentic.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terminology effectively but lacks some natural flow in its language patterns.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

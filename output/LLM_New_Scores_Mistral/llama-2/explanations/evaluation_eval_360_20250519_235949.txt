@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Billy is buying some candy with $10 his father gave him. The candy costs $1.5 a pound. After buying candy, he takes half his change and spends it on gumballs, which cost $.05 each. If he bought 40 gumballs, how many pounds of candy did he buy?
+
+Adapted Text:
+Ramesh is buying some parathas with ₹830 his father gave him. The parathas cost ₹83 per pound. After buying parathas, he takes half his change and spends it on sweets, which cost ₹5 each. If he bought 40 sweets, how many pounds of parathas did he buy?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features culturally relevant food items and context, but the currency used is not commonly used in everyday transactions, making it slightly less relatable.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms accurately, but the natural flow could be improved slightly.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

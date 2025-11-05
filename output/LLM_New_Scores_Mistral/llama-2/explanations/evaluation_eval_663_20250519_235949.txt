@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Gus spent $20.00 at the grocery store.  He bought 2 bag of chips for $2.00 each, a bucket of fried chicken for $8.00 and a bottle of soda for $1.00.  How much did the apple pie cost?
+
+Adapted Text:
+Ramesh spent ₹150.00 at the grocery store. He bought 2 bags of chips for ₹20.00 each, a bucket of fried chicken for ₹80.00 and a bottle of soda for ₹10.00. How much did the apple pie cost?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features Indian currency and some culturally relevant objects, but it maintains a generic store setting which is not specific to India.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology, but it could benefit from a more natural flow in certain parts.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

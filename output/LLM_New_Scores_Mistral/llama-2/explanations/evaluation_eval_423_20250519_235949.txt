@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Bill is signing up for a new streaming service. He got a special introductory deal where the first 6 months were $8 a month, then it went up to the normal price of $12 a month. After 8 months of the normal rate, the service increased its price to $14 a month. How much do 2 years of the service cost him?
+
+Adapted Text:
+Ramesh is signing up for a new streaming service. He got a special introductory deal where the first 6 months were ₹800 a month, then it went up to the normal price of ₹1200 a month. After 8 months of the normal rate, the service increased its price to ₹1400 a month. How much do 2 years of the service cost him?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has made a substantial effort to reflect Indian culture by using Indian currency and names, but it lacks a deeper cultural connection.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly, but the flow could be improved to sound more natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

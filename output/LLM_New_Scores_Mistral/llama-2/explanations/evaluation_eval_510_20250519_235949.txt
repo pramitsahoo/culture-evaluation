@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Sophia and Rose went together to the market to buy onions and potatoes. Rose bought 4 times the number of onions and potatoes Sophia bought. If Rose bought 12 onions and 4 potatoes, how many onions and potatoes in total did Sophia buy at the market?
+
+Adapted Text:
+Ramesh and Rohan went together to the market to buy onions and potatoes. Rohan bought 4 times the number of onions and potatoes Ramesh bought. If Rohan bought 12 onions and 4 potatoes, how many onions and potatoes in total did Ramesh buy at the market?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes Indian names and market setting, making it somewhat relevant to the target culture. However, the scenario and problem could be further adapted to be more culturally resonating.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology but lacks a natural flow, indicating that it could be improved to better connect with the target audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

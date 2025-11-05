@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John drinks a bottle of water every half hour.  A normal sudoku puzzle takes him 45 minutes.  An extreme sudoku takes 4 times that long.  How many bottles of water does he drink in that time?
+
+Adapted Text:
+Ramesh drinks a bottle of water every half hour. A normal sudoku puzzle takes him 45 minutes. An extreme sudoku takes 4 times that long. How many bottles of water does he drink in that time?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The text maintains its original context but uses an Indian name instead of John, making it somewhat culturally relevant.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms appropriately, with a natural flow but not seamlessly.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged, retaining its accuracy and integrity.
+
+Overall Score:
+Average Score: 4.00/5

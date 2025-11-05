@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mary has 30 sheep. She gets 1 kg of milk from half of them and 2 kg of milk from the other half every day. How much milk does she collect every day?
+
+Adapted Text:
+Ramesh has 30 goats. He gets 1 kg of milk from half of them and 2 kg of milk from the other half every day. How much milk does he collect every day?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features Indian names and animals, but the scenario remains universally applicable, missing a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian names and some Indian English, but the language flow is not as natural as it could be for an Indian audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Each person in a certain household consumes 0.2 kg of rice every meal. Supposing 5 members of the household eat rice every lunch and dinner, how many weeks will a 42 kg bag of rice last?
+
+Adapted Text:
+Each person in a certain household consumes 0.2 kg of rice every meal. Supposing 5 members of the household eat rice every lunch and dinner, how many weeks will a 42 kg bag of rice last?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 5.0/5
+Explanation: The adapted text remains culturally relevant as it uses a common Indian food item (rice) and a common household scenario (family members eating rice for lunch and dinner).
+
+2. Language Fluency
+Score: 5.0/5
+Explanation: The adapted text uses natural Indian English and expressions, making it easy to read and culturally coherent.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, ensuring its accuracy.
+
+Overall Score:
+Average Score: 5.00/5

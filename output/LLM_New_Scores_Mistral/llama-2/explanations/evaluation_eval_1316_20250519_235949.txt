@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+There are some oranges in a basket. Ana spends 3 minutes peeling an orange and Jane spends 4 minutes doing the same. If Ana and Jane start picking oranges from this basket to peel at the same time, how many more oranges will Ana have peeled than Jane after an hour?
+
+Adapted Text:
+There are some narangas in a basket. Ramesh spends 3 minutes peeling a naranga and Priya spends 4 minutes doing the same. If Ramesh and Priya start picking narangas from this basket to peel at the same time, how many more narangas will Ramesh have peeled than Priya after an hour?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has culturally relevant objects and names, but it doesn't fully capture the essence of Indian culture or daily life.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, but the natural flow isn't fully realized.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

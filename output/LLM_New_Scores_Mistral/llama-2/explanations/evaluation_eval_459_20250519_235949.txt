@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jennifer's dog has 8 puppies, 3 of which have spots. Brandon's dog has 12 puppies, 4 of which have spots. What percentage of all the puppies have spots?
+
+Adapted Text:
+Ramesh's dog has 8 parathas, 3 of which have spots. Raman's dog has 12 parathas, 4 of which have spots. What percentage of all the parathas have spots?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has culturally relevant entities (parathas instead of puppies) but lacks a deeper connection to Indian culture or traditions.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but it lacks the natural flow of Indian language patterns.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

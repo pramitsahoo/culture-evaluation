@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Kris is trying to earn a video game achievement for playing a total of 30 hours. If Kris plays for half an hour every day for 2 weeks then plays for 2 hours every day for a week, how many hours does she still need to play to earn the achievement?
+
+Adapted Text:
+Ramesh is trying to earn a video game achievement for playing a total of ₹830 hours. If Ramesh plays for half an hour every day for 2 weeks then plays for 2 hours every day for a week, how many hours does he still need to play to earn the achievement?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The text is adapted to an Indian context, but the original scenario of playing video games for an achievement is not inherently Indian.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, with a natural flow, but some expressions might be more commonly used in other regions.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

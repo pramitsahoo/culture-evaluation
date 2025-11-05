@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Carlos is planting a lemon tree. The tree will cost $90 to plant. Each year it will grow 7 lemons, which he can sell for $1.5 each. It costs $3 a year to water and feed the tree. How many years will it take before he starts earning money on the lemon tree?
+
+Adapted Text:
+Ramesh is planting a lemon tree. The tree will cost ₹90 to plant. Each year it will grow 7 lemons, which he can sell for ₹15 each. It costs ₹3 a year to water and feed the tree. How many years will it take before he starts earning money on the lemon tree?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses Indian names and incorporates a common Indian practice of planting lemon trees, but the context remains primarily western.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms correctly but lacks natural flow, making it feel somewhat forced.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

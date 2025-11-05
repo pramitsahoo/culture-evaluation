@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Benny saw a 10-foot shark with 2 6-inch remoras attached to it. What percentage of the shark's body length is the combined length of the remoras?
+
+Adapted Text:
+Ramesh saw a 10-foot makaai with 2 6-inch chhota hai attached to it. What percentage of the makaai's body length is the combined length of the chhota hai?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses Indian names and a few culturally relevant objects, but the overall scenario is not deeply rooted in Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses some Indian English and terminology, but the language flow is not as natural as it could be.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

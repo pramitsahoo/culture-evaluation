@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Dennis uses 1 pound of butter for every dozen croissants that he makes.  He needs to make 6 dozen croissants.  The grocery store currently has a promotion for buy one pound of butter get one half off.  If the butter costs $4.00 a pound, how much will it cost him to purchase 6 pounds of butter?
+
+Adapted Text:
+Ramesh uses 1 ₹83 of ghee for every 12 पराठां he makes. He needs to make 6 पराठां. The grocery store currently has a promotion for buy 1 ₹83 of ghee get one half off. If the ghee costs ₹830 a ₹83, how much will it cost him to purchase 6 ₹83 of ghee?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces western ingredients with culturally relevant alternatives, enhancing its cultural relevance but still retaining some western elements.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, showing a good understanding of the language but lacking some natural flow.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, although it could benefit from better contextualization.
+
+Overall Score:
+Average Score: 4.00/5

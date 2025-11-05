@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Shondra has 7 fewer plants than Toni. Toni has 60% more plants than Frederick. If Frederick has 10 plants, how many plants does Shondra have?
+
+Adapted Text:
+Ramesh has 7 fewer plants than Toni. Toni has 60% more plants than Ramesh. If Ramesh has 10 plants, how many plants does Shondra have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text includes Indian names, but the original context of plants and gardening remains unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and some culturally relevant terms, with a natural flow overall.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately.
+
+Overall Score:
+Average Score: 4.00/5

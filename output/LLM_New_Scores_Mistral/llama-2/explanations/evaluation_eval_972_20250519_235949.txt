@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Robert is building a 15 foot long, 10 foot wide, rectangular wooden fence around his garden.  He needs 2 wood slats for every foot of fencing he builds.  How many wooden slats will he need?
+
+Adapted Text:
+Ramesh is constructing a 15 foot long, 10 foot wide, rectangular wooden fence around his garden. He requires 2 wood slats for every foot of fencing he builds. How many wooden slats will he need?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text uses Indian names, but the context remains western.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms, but the natural flow is not maintained.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 3.67/5

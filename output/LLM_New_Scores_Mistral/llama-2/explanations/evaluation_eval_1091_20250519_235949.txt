@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Caroline has 4 children.  The first child is 6 feet tall.  The second child is two inches taller than the first child.  The third child is 5 inches shorter than the second child.  And the fourth child is three inches taller than the third child.  How tall is the fourth child, in inches?
+
+Adapted Text:
+Ramesh has 4 children.  The first child is 6 feet tall.  The second child is two inches taller than the first child.  The third child is 5 inches shorter than the second child.  And the fourth child is three inches taller than the third child.  How tall is the fourth child, in inches?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text includes some Indian names but the scenario is generic and does not reflect any significant cultural elements.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly, but the natural flow could be improved for a more authentic feel.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

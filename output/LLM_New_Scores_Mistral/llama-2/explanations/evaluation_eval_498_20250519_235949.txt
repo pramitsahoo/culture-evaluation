@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Paul is driving a car twice a day: in the morning, and in the afternoon. He did that for 14 days. Each morning ride cost him about $6, and each afternoon ride, about $2. How much money did he spend on driving his car during these two weeks?
+
+Adapted Text:
+Ramesh drove his car twice a day for 14 days: in the morning, and in the afternoon. He spent ₹600 on morning rides and ₹300 on afternoon rides. How much money did he spend on driving his car during these two weeks?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, showing no attempt to connect with the Indian language or culture.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is nonsensical after adaptation, making it difficult to solve.
+
+Overall Score:
+Average Score: 0.33/5

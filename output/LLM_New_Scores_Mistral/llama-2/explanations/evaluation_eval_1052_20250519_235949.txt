@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ingrid drinks 8 cups of water every day.  If there are 16 cups in a gallon, how many gallons of water does she drink in 30 days?
+
+Adapted Text:
+Ramesh drinks 8 parathas of water every day. If there are 16 parathas in a katora, how many katoras of water does he drink in 30 days?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains the western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, lacking any Indian language elements.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is nonsensical after adaptation, making it mathematically unsound.
+
+Overall Score:
+Average Score: 0.00/5

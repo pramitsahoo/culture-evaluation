@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+There are 50 books in a small library. Half of them are written in English, and 10% in German. All others are written in Spanish. How many Spanish books are there?
+
+Adapted Text:
+There are 50 books in a small library. Half of them are written in English, and 10% in Hindi. All others are written in Spanish. How many Spanish books are there?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text has made substantial adaptations with a culturally relevant scenario, but the objects used could be more specific to the Indian context.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms correctly but lacks natural flow, as it is not written in Indian English.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

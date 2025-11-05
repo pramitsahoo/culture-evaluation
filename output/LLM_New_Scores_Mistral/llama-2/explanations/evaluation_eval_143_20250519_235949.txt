@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jordan plays video games for 2 hours every day. He also has a part-time job where he earns $10 an hour. How much money would Jordan earn in one week if he spent his video game time working instead?
+
+Adapted Text:
+Ramesh plays video games for 2 hours every day. He also has a part-time job where he earns ₹830 an hour. How much money would Ramesh earn in one week if he spent his video game time working instead?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes culturally inappropriate or nonsensical elements, making it irrelevant to the Indian context.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses incorrect Indian terms, demonstrating a lack of understanding of the language.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: 
+
+Overall Score:
+Average Score: 2.33/5

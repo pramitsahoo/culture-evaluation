@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The Adams family is busy making cookies. So far, they've made 7995 cookies. They have 2595 rainbow cookies, 3075 oatmeal cookies, and some chocolate chip cookies. How many chocolate chip cookies have they made?
+
+Adapted Text:
+The Ramesh family is busy making parathas. So far, they've made ₹830 parathas. They have ₹830 parathas, ₹830 parathas, and some parathas. How many parathas have they made?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses Indian names and replaces cookies with parathas, which are common Indian dishes. However, it lacks a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology, but the language flow could be improved for a more natural feel.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

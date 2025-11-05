@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Gary does laundry twice a week. Each load of laundry uses 20 gallons of water, and a gallon of water costs $0.15. How much does Gary spend on water for laundry in a year?
+
+Adapted Text:
+Ramesh does laundry twice a week. Each load of laundry uses ₹12 liters of water, and a liter of water costs ₹0.15. How much does Ramesh spend on water for laundry in a year?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes some Indian-specific details, such as using Indian currency, but the scenario is not culturally resonating.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The adapted text contains some Indian terminology, but the language flow is not entirely natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

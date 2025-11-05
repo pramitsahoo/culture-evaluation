@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tim wanted to make lemonade for a pool party.  For a gallon of lemonade, his recipe called for 1 cup of fresh lemon juice.  He found that 6 lemons would yield 1 cup of juice.  He figured he would need to make 4 gallons of lemonade for the party.  His best friend Allen asked if Tim could make an extra gallon for him that was twice as tart as the other gallons.  How many lemons will Tim need?
+
+Adapted Text:
+Ramesh wanted to make nimbu paani for a gajra-guddi party.  For a gajra-guddi of nimbu paani, his recipe called for 1 cup of fresh nimba juice.  He found that 6 nimbas would yield 1 cup of juice.  He figured he would need to make 4 gajras of nimbu paani for the party.  His best friend Rohan asked if Ramesh could make an extra gajra for him that was twice as tangy as the other gajras.  How many nimbas will Ramesh need?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes culturally inappropriate or nonsensical elements.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains minimal attempt with incorrect use of Indian terms.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 2.33/5

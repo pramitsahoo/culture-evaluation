@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Carly wants to treat her friends. She orders five hamburgers at $4 each, ten packs of potato fries at $0.30 each pack, and five cans of fruit drinks at $2 each can.  How much change does Carly get back if she gives one fifty-dollar bill?
+
+Adapted Text:
+Ramesh wants to treat his friends. He orders five parathas at ₹83 each, ten packs of potato fries at ₹3 each pack, and five cans of fruit drinks at ₹12 each can. How much change does Ramesh get back if he gives one hundred-rupee bill?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes some culturally relevant food items and currency but could benefit from a more immersive and authentic context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text effectively uses Indian English and terminology, but the natural flow could be improved in some areas.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

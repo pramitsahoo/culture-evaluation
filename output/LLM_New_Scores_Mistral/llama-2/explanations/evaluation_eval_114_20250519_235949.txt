@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ryan plants 2 flowers a day in his garden. After 15 days, how many flowers does he have if 5 did not grow?
+
+Adapted Text:
+Ramesh plants 2 parathas a day in his garden. After 15 days, how many parathas does he have if 5 did not grow?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contains relevant Indian objects, but it could be more contextually connected to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, with only minor awkwardness in the natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

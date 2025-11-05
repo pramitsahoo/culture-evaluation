@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Charlie has boots that are five times the size of Sophie's. If Sophie wears size five boots, what is the average size of shoe worn by the two?
+
+Adapted Text:
+Ramesh has chappals that are five times the size of his friend's. If his friend wears size five chappals, what is the average size of shoe worn by the two?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian culture by replacing the western concept of boots with chappals, which is a culturally relevant footwear in India.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively uses Indian English and terms, providing a natural flow to the text.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Janet is collecting the results of Herbert Hoover Elementary School's annual standardized test. 340 out of 500 third-graders passed, along with 40 out of 100 fourth graders. The 400 fifth graders had a pass rate that was twice the fourth grades' pass rate. What is the school's overall pass rate?
+
+Adapted Text:
+Ramesh is collecting the results of Shanti Niketan Elementary School's annual standardized test. 340 out of 500 third-graders passed, along with 40 out of 100 fourth graders. The 400 fifth graders had a pass rate that was twice the fourth grades' pass rate. What is the school's overall pass rate?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text contains nonsensical elements that do not align with Indian culture, making it feel inappropriate.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses incorrect Indian terms, creating a disjointed and unnatural reading experience.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is presented incorrectly, making it mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 1.00/5

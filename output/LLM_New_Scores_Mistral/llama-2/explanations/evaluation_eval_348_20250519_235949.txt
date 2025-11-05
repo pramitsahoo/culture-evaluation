@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Davos bought 2 shirts from the mall that cost $30 each. If he bought them with a 40% discount, how much did Davos pay for the 2 shirts?
+
+Adapted Text:
+Ramesh bought 2 parathas from the mall that cost ₹830 each. If he bought them with a 40% discount, how much did Ramesh pay for the 2 parathas?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts without any attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The adapted text uses completely western terminology and expressions, lacking any Indian language elements.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is presented incorrectly in the adapted text, making it mathematically nons
+
+Overall Score:
+Average Score: 0.00/5

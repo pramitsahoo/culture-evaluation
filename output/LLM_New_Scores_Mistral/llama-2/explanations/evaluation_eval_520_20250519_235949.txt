@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Royce takes 40 minutes more than double Rob to shingle a house. If Rob takes 2 hours, how many minutes does Royce take?
+
+Adapted Text:
+Ramesh takes 40 minutes more than double Rohan to shingle a house. If Rohan takes 2 hours, how many minutes does Ramesh take?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text includes nonsensical elements that are not culturally relevant or appropriate.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian names but the language is poorly adapted, containing incorrect use of Indian terms.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is nonsensical after adaptation, making it mathematically unsound and illogical.
+
+Overall Score:
+Average Score: 1.33/5

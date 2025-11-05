@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Adam has $100 and wants to spend it to open a rock stand. He can buy rocks for $5 each and sell them for $7 each. If he invests all his money in the rock stand but only sells 60% of his inventory, how much money does he lose?
+
+Adapted Text:
+Ramesh has ₹830 and wants to spend it to open a rock stand. He can buy rocks for ₹5 each and sell them for ₹7 each. If he invests all his money in the rock stand but only sells 60% of his inventory, how much money does he lose?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text is adapted to an Indian context by replacing Adam with Ramesh and dollars with rupees. However, the scenario remains universally applicable and could still be more culturally resonating.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, with only minor instances of awkward phrasing.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains intact and accurate after adaptation.
+
+Overall Score:
+Average Score: 4.33/5

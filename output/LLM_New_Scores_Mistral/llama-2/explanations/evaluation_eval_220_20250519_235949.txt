@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Four students scored a total of 251 points in a board game. Naomi scored 68 of the points. Yuri scored 10 more than half as many points as Naomi and Brianna scored 17 points more than Naomi. How many points did Jojo score?
+
+Adapted Text:
+Four students scored a total of ₹251 points in a board game. Ramesh scored ₹68 of the points. Yuri scored ₹10 more than half as many points as Ramesh and Brianna scored ₹17 points more than Ramesh. How many points did Jojo score?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text incorporates Indian names and the use of Indian currency, but the board game and mathematical problem do not have a direct cultural connection.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but the language flow is not as natural as it could be for a native speaker.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately.
+
+Overall Score:
+Average Score: 4.33/5

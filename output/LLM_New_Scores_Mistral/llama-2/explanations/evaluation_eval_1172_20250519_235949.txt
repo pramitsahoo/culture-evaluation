@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tom has 4 bedrooms in his house.  They measure 20 by 12 feet each.  The living room is 5 times bigger than one bedroom.  The rest of the house is 1000 square feet.  What is the total area, in square feet, of the house?
+
+Adapted Text:
+Ramesh has 4 ghar (rooms) in his house. They measure 20 by 12 feet each. The living room is 5 times bigger than one ghar. The rest of the house is 1000 square feet. What is the total area, in square feet, of the house?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses Indian names for the main character and house rooms, and includes the Indian term for "room" (ghar). However, it doesn't fully immerse the reader in a distinctly Indian context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text incorporates Indian English and terminology, and the language flow is mostly natural. However, some phrases or expressions might not be commonly used in everyday speech.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

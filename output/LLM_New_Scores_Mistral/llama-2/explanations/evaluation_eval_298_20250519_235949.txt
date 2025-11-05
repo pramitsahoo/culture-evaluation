@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Sam sells bread. He has a target of selling 120 crates of bread in a week. One week he was closed on Monday and Friday. Over the weekend he sold 20 crates. On Tuesday he sold 15 crates, on Wednesday 12 crates, and Thursday 18 crates. By how many crates was Sam off from his target for the week?
+
+Adapted Text:
+Ramesh sells parathas. He has a target of selling 120 packets of parathas in a week. One week he was closed on Monday and Friday. Over the weekend he sold 20 packets. On Tuesday he sold 15 packets, on Wednesday 12 packets, and Thursday 18 packets. By how many packets was Ramesh off from his target for the week?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contains a cultural replacement of the main character's name and the product he sells, which are appropriate for the Indian context. However, the overall scenario remains Western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English terms and expressions but lacks the natural flow of a culturally resonating piece of writing.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged, and the adaptation does not affect its accuracy.
+
+Overall Score:
+Average Score: 4.33/5

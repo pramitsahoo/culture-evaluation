@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Given a 7-day week, how much does Alex charge for 2 weeks of tutoring if she charges $12 per day?
+
+Adapted Text:
+Ramesh charges ₹9,140 for 2 weeks of tutoring if he charges ₹830 per day. How much does he charge per day?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates an Indian name, and the concept of charging for tutoring remains the same, making it somewhat culturally relevant. However, the original context of a 7-day week and dollars is retained, which may feel somewhat out of place for an Indian audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terms like "Ramesh" and "rupees," demonstrating an effort to incorporate Indian English. However, it does not flow as naturally as it would in a completely Indian context.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged, and the answer is accurately calculated, maintaining complete mathematical integrity.
+
+Overall Score:
+Average Score: 4.33/5

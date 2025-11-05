@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Pamela reapplies an ounce of sunscreen every hour she's outside.  Her sunscreen comes in 8-ounce bottles.  While on vacation, if she will be outside 4 hours a day over 8 days, how many bottles of sunscreen will she need to pack?
+
+Adapted Text:
+Ramesh reapplies an ounce of paratha every hour he's outside. His paratha comes in 8-ounce bottles. While on vacation, if he will be outside 4 hours a day over 8 days, how many bottles of paratha will he need to pack?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text contains nonsensical cultural elements that do not align with Indian culture.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses very few Indian terms and their use is incorrect or inappropriate, making the text hard to read and understand.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is completely incorrect and nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.67/5

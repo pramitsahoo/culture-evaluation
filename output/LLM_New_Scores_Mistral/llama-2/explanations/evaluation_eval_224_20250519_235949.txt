@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A company spends $15000 on advertising for a year, and then spends a third of that amount on advertising for another year.  What's the total amount the company spent on advertising for the two years?
+
+Adapted Text:
+Ramesh spent ₹105000 on advertising for a year, and then spent a third of that amount on advertising for another year. What's the total amount Ramesh spent on advertising for the two years?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text contains proper nouns changed to Indian names and a monetary unit, but the context remains western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, creating a natural flow but could be improved with more cultural nuances.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately.
+
+Overall Score:
+Average Score: 4.00/5

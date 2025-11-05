@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Hannah's city is having a big display of fireworks for the 4th of July. They're going to set off 15 boxes of 20 fireworks each. Hannah's house is at the right angle to see 40% of the city's fireworks. Hannah will also set off 3 boxes of 5 fireworks each in her backyard. How many fireworks will Hannah see in total?
+
+Adapted Text:
+Ramesh's city is having a grand display of fireworks for Independence Day. They're going to set off 15 boxes of 20 fireworks each. Ramesh's house is at the perfect angle to view 40% of the city's fireworks. Ramesh will also set off 3 boxes of 5 fireworks each in his backyard. How many fireworks will Ramesh see in total?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text is adapted to Indian culture by replacing the 4th of July with Independence Day and using an Indian name, but the scenario remains largely the same.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively uses Indian English and terminology, but the language flow could be improved slightly.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

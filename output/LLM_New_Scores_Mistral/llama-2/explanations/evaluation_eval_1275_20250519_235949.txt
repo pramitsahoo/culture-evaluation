@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A family of parents and a child go to the cinema. The cost of an adult ticket is $12 and a child ticket is $8. Then they buy 2 popcorns for $3 each. How many dollars do they pay in total?
+
+Adapted Text:
+Ramesh, his wife, and their child went to the cinema. The cost of an adult ticket was ₹830 and a child ticket was ₹560. Then they bought 2 ₹30 parathas. How many Indian Rupees did they pay in total?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has substantial cultural relevance, as it features a common Indian family activity, and uses culturally relevant names and food items.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text effectively incorporates Indian English and terminology, with a natural flow.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, but could be more contextualized.
+
+Overall Score:
+Average Score: 4.00/5

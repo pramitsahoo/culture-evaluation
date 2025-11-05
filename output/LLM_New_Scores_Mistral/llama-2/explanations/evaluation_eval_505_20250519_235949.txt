@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Suzie loves to chew fruit-flavored gum. She bought four packs of gum the last time she was at the store. She got two packs of her favorite flavor, strawberry. She paid $2 for a pack of grape gum that she also liked. She wanted to try something new, so she paid half as much for a small pack of green apple gum. If she paid $7 in all, how many dollars did each pack of strawberry gum cost?
+
+Adapted Text:
+Ramesh loves to chew mukhwas. He bought four packs of mukhwas the last time he was at the store. He got two packs of his favorite flavor, khusbu. He paid ₹83 for a pack of lassi mukhwas that he also liked. He wanted to try something new, so he paid half as much for a small pack of nimbu mukhwas. If he paid ₹700 in all, how many ₹830 did each pack of khusbu mukhwas cost?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively replaces western concepts with Indian equivalents, creating a more culturally resonating scenario.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology effectively, creating a more natural flow for the target audience.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, but could be more contextually relevant.
+
+Overall Score:
+Average Score: 4.00/5

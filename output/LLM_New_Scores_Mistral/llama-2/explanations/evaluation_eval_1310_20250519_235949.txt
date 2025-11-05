@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The girls are trying to raise money for a carnival. Kim raises $320 more than Alexandra, who raises $430, and Maryam raises $400 more than Sarah, who raises $300. How much money, in dollars, did they all raise in total?
+
+Adapted Text:
+The girls are trying to raise money for a carnival. Ramesh raises ₹830 more than Priya, who raises ₹430, and Aishwarya raises ₹400 more than Nisha, who raises ₹300. How much money, in Indian Rupees, did they all raise in total?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text changes the names to Indian names, but the scenario remains unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but the flow is slightly awkward.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is integrated into the cultural context, but the wording could be improved.
+
+Overall Score:
+Average Score: 3.67/5

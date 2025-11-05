@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Alice likes to count the puffs of clouds in the sky while she eats her lunch outside at school. On Monday she counts just 3 puffs of clouds. Each day after that through Friday, though, she sees double the number of clouds in the sky as the day before. At the end of the week, how many clouds will she have counted in the sky at lunch across all five days?
+
+Adapted Text:
+Ramesh likes to count the fluffs of clouds in the sky while he eats his lunch outside at school. On Monday he counts just 3 fluffs of clouds. Each day after that through Friday, though, he sees double the number of fluffs in the sky as the day before. At the end of the week, how many fluffs will he have counted in the sky at lunch across all five days?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes names and food items relevant to the Indian context, but the original scenario remains unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and some Indian terminology, but the language flow could be improved for a more natural feel.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

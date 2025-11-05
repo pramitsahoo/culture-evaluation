@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Carl has a cane that is half as long as he is tall.  Carl is one foot taller than his brother, Ned.  And Ned is two feet shorter than his cousin, Isabel.  If Isabel is 7 feet tall, how long is Carl's cane, in feet?
+
+Adapted Text:
+Ramesh has a cane that is half as long as he is tall. Ramesh is one foot taller than his brother, Rajesh, who is two feet shorter than his cousin, Aishwarya. If Aishwarya is 7 feet tall, how long is Ramesh's cane, in feet?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes culturally relevant names and entities, but the original problem's context remains largely unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English terms and expressions, but the language flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

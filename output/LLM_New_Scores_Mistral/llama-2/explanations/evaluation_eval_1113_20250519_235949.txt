@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Pierre, Paul, and Jacques bought 12 kg of apples. Peter wants a quarter of that and Paul wants 1/3 of that. How many kilograms will James have left?
+
+Adapted Text:
+Ramesh, Raman, and Rajesh bought 12 kg of apples. Ramesh wants a quarter of that and Raman wants 1/3 of that. How many kilograms will Rajesh have left?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains a connection to Indian culture by changing the characters' names, but the context remains the same.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian names and some Indian English, but the overall flow of language could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

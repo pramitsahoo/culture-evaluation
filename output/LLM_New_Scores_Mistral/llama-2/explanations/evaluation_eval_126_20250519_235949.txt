@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Julia was preparing for a dinner party at her house, where she intended to serve stew.  She noticed that she was out of plastic spoons, so she bought a new package of spoons.  Later, her husband also bought a package of 5 new spoons and gave them to Julia.  While Julia was making the stew, she used three of the spoons to sample her stew.  Later, when she went to set the table, she had a total of 12 spoons.  How many spoons were in the package that Julia bought?
+
+Adapted Text:
+Ramesh was preparing for a dinner party at his house, where he intended to serve parathas.  He noticed that he was out of plastic spoons, so he bought a new package of spoons.  Later, his wife also bought a package of 5 new spoons and gave them to Ramesh.  While Ramesh was making the parathas, he used three of the spoons to sample his parathas.  Later, when he went to set the table, he had a total of 12 spoons.  How many spoons were in the package that Ramesh bought?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates a culturally relevant Indian dish, but the original text's context is still somewhat Western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively uses Indian English and terminology, but it lacks a completely natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

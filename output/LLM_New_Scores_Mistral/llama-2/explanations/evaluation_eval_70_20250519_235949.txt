@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Bailey starts with a certain amount of money. Then she receives a weekly allowance of $5 for 8 weeks. At the end of the 8 weeks, if she has a total of $100, how much money did Bailey start with?
+
+Adapted Text:
+Ramesh starts with a certain amount of money. Then he receives a weekly allowance of ₹830 for 8 weeks. At the end of the 8 weeks, if he has a total of ₹8300, how much money did Ramesh start with?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text contains nonsensical elements, such as using rupees as age units.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text includes incorrect use of Indian terms.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.67/5

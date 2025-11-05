@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Gunther, the gorilla, had 48 bananas hidden under a fern branch.  When Gunther wasn't looking, Arnold, the chimpanzee, stole half of the bananas from the pile.  The next day, Gunther added another 25 bananas to his pile, but later that evening, Arnold stole another 12 of the bananas.  On the third day, Gunther added another 6 bananas to his pile and began counting bananas.  How many bananas did Gunther find were in the pile?
+
+Adapted Text:
+Ramesh, the gorilla, had 48 parathas hidden under a neem branch. When Ramesh wasn't looking, Raju, the chimpanzee, stole half of the parathas from the pile. The next day, Ramesh added another 25 parathas to his pile, but later that evening, Raju stole another 12 of the parathas. On the third day, Ramesh added another 6 parathas to his pile and began counting parathas. How many parathas did Ramesh find were in the pile?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes culturally inappropriate or nonsensical elements, such as using rupees as age units.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses incorrect Indian terms, making it difficult
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 2.33/5

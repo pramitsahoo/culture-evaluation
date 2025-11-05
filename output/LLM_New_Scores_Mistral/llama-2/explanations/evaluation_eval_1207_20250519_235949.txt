@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John decides to get a loan by mortgaging his home.  His house is worth $250,000.  He gets a loan worth 40% of that.  He uses 60% of that to pay off his debts.  How much money did he have leftover after paying debt?
+
+Adapted Text:
+Ramesh decides to get a loan by mortgaging his home. His house is worth ₹250,000. He gets a loan worth 40% of that. He uses 60% of that to pay off his debts. How much money did he have leftover after paying debt?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains the original western context with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses incorrect Indian terms, making it difficult for the target audience to understand.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem
+
+Overall Score:
+Average Score: 2.00/5

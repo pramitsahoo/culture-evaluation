@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jamal's phone can hold 6 times more photographs than can Brittany's phone.  The maximum number of photographs that Brittany's phone can hold is 50 times more than the number of birds in Jamal's photograph of the ducks at the zoo.  If Jamal's phone can hold 1800 photographs, how many ducks can be seen in Jamal's photograph of ducks at the zoo?
+
+Adapted Text:
+Ramesh's phone can hold 6 times more photographs than can Ramesh's friend. The maximum number of photographs that Ramesh's friend's phone can hold is 50 times more than the number of birds in Ramesh's photograph of the ducks at the zoo. If Ramesh's phone can hold 1800 photographs, how many ducks can be seen in Ramesh's photograph of ducks at the zoo?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has names changed to Indian names, but the context and scenario remain the same, which is not culturally specific to India.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, but the flow is not completely natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

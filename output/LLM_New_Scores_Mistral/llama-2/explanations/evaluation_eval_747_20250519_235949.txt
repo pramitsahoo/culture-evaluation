@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jake's family wants to compare the cost of the two different amusement parks. The first amusement park has a $26 fee for each adult and a $12 fee for each child; while the second amusement park has a $14 fee for each adult and $10 for each child. If there are 2 adults and 2 children in their family, how much will they be able to save if they choose the second amusement park over the first?
+
+Adapted Text:
+Ramesh's family wants to compare the cost of the two different amusement parks. The first amusement park has a ₹26 fee for each adult and a ₹12 fee for each child; while the second amusement park has a ₹14 fee for each adult and ₹10 for each child. If there are 2 adults and 2 children in their family, how much will they be able to save if they choose the second amusement park over the first?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text has been adapted to Indian culture by changing the names and currency, but it does not introduce any culturally specific scenarios or objects.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly, but the natural flow and rhythm of the language is not fully achieved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly, even after adaptation to the Indian context.
+
+Overall Score:
+Average Score: 4.33/5

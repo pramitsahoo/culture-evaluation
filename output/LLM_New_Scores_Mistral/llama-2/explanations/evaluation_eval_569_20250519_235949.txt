@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Three teenagers are playing soccer on the weekend. Richie, the first teenager, scored 20 more goals than Mark and scored 45 more goals than Anna. If Richie scored 80 goals, how many goals did all three teenagers score?
+
+Adapted Text:
+Three teenagers are playing kabaddi on the weekend. Ramesh, the first teenager, scored 20 more goals than Manish and scored 45 more goals than Priya. If Ramesh scored 80 goals, how many goals did all three teenagers score?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes culturally inappropriate or nonsensical elements (e.g., paratha growing on plants, using rupees as age units).
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text maintains western concepts with no attempt at cultural adaptation, making it difficult for the target audience to understand.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 1.00/5

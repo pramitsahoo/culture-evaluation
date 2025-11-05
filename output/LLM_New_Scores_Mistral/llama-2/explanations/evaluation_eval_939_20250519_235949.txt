@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John earned 50 dollars an hour and worked 6 hours in the week.  If he spends 50 dollars on gas and wants to deposit 100 dollars in the bank, how many 25 dollar pens can he buy after he buys 5 pencils that cost 10 dollars each?
+
+Adapted Text:
+Ramesh earned ₹5000 per hour and worked 6 hours in the week.  If he spends ₹500 on gas and wants to deposit ₹1000 in the bank, how many ₹250 pens can he buy after he buys ₹100 pencils that cost ₹100 each?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, lacking any Indian language elements.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.33/5

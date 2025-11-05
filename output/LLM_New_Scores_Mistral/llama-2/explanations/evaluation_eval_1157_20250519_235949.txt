@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Linus works for a trading company. He buys a mobile device for $20 and sells it for twice the amount of the original price. If he bought 2 devices last Monday and 4 devices last Tuesday, how much profit was he able to earn after selling all the mobile devices he bought last Monday and Tuesday?
+
+Adapted Text:
+Ramesh works for a trading company. He buys a mobile device for ₹1,600 and sells it for twice the amount of the original price. If he bought 2 devices last Monday and 4 devices last Tuesday, how much profit was he able to earn after selling all the mobile devices he bought last Monday and Tuesday?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively replaces the original names with Indian names and uses a local currency. However, it does not make any deeper connections to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively but could benefit from further refinement to improve the natural flow of the text.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

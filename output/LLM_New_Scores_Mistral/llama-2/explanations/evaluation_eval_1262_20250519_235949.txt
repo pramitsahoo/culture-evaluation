@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Alicia's clothes have to be sent to the dry cleaners weekly.  Her weekly drop-off includes 5 blouses, 2 pants and 1 skirt.  If they charge her $5.00 per blouse, $6.00 per skirt and $8.00 per pair of pants, how much does she spend on dry-cleaning in 5 weeks?
+
+Adapted Text:
+Ramesh's clothes have to be sent to the dhobi weekly. His weekly drop-off includes 5 kurtas, 2 salwar suits and 1 churidar. If they charge him ₹500 per kurtas, ₹600 per salwar suits and ₹800 per pair of churidar, how much does he spend on laundry in 5 weeks?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text successfully replaces western clothing with traditional Indian attire, but the context remains largely the same.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, creating a natural flow.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is contextualized within the Indian cultural context.
+
+Overall Score:
+Average Score: 4.00/5

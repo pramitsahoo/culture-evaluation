@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Kelly is grocery shopping at a supermarket and is making sure she has enough in her budget for the items in her cart. Her 5 packs of bacon cost $10 in total and she has 6 packets of chicken which each cost twice as much as a pack of bacon. She also has 3 packs of strawberries, priced at $4 each, and 7 packs of apples, each priced at half the price of a pack of strawberries. If Kelly’s budget is $65 then how much money, in dollars, does she have left in her budget?
+
+Adapted Text:
+Ramesh is shopping for groceries at a supermarket and is ensuring he has enough money in his budget for the items in his cart. His 5 packs of पकवाळ (pakwaal) cost ₹830 in total and he has 6 packets of मकान (makan) which each cost twice as much as a pack of पकवाळ. He also has 3 packs of स्त्रेबे (strawberries) priced at ₹4 each, and 7 packs of आपल (apples), each priced at half the price of a pack of स्त्रेबे. If Ramesh’s budget is ₹65 then how much money, in ₹, does he have left in his budget?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contains Indian names for food items but the scenario remains similar to the original, which is not deeply rooted in Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but the natural flow is not always maintained.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Lee used to be able to run the 400-meter hurdles two seconds faster than Gerald would run the 400-meter hurdles.  But Gerald changed his diet, which improved his speed by 10%.  If Lee runs the 400-meter hurdles in 38 seconds, how fast can Gerald, with his improved diet, run the 400-meter hurdles, in seconds?
+
+Adapted Text:
+Ramesh used to be able to run the 400-meter hurdles two seconds faster than Rajesh would run the 400-meter hurdles.  But Rajesh changed his diet, which improved his speed by 10%.  If Ramesh runs the 400-meter hurdles in 38 seconds, how fast can Rajesh, with his improved diet, run the 400-meter hurdles, in seconds?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The names of the characters have been changed to Indian names, but the scenario and context remain the same as the original text.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and some Indian terminology, and the language flow is mostly natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

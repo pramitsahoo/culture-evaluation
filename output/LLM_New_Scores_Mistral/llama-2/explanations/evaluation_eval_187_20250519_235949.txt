@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Russell works at a pet store and is distributing straw among the rodents. The rats are kept in 3 cages in equal groups and each rat is given 6 pieces of straw. There are 10 cages of hamsters that are kept alone and each hamster is given 5 pieces of straw. There is also a pen of rabbits where 20 pieces of straw are distributed among the rabbits. No straw is used anywhere else in the store. If 160 pieces of straw have been distributed among the small rodents, how many rats are in each cage?
+
+Adapted Text:
+Ramesh works at a pet store and is distributing straw among the rodents. The rattus are kept in 3 cages in equal groups and each rattus is given 6 pieces of straw. There are 10 cages of hamsters that are kept alone and each hamster is given 5 pieces of straw. There is also a pen of rabbits where 20 pieces of straw are distributed among the rabbits. No straw is used anywhere else in the store. If 160 pieces of straw have been distributed among the small rodents, how many rattus are in each cage?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces western names with Indian ones, creating a more culturally relevant context. However, it still maintains the original setting and concepts, which are not typically found in Indian pet stores.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian English terms but lacks natural flow and may be difficult for some readers to understand.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly in the adapted text.
+
+Overall Score:
+Average Score: 4.00/5

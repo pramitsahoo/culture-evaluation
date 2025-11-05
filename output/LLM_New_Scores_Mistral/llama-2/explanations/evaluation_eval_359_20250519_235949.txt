@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Marisa gets $5 as pocket money every day from her parents. She buys 4 lollipops worth 25 cents each every day and saves the change in her piggy bank. How much money does she put in her piggy bank if she saves for 5 days?
+
+Adapted Text:
+Rajvi gets ₹5 as pocket money every day from her parents. She buys 4 laddu worth ₹1 each every day and saves the change in her piggy bank. How much money does she put in her piggy bank if she saves for 5 days?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains a connection to Indian culture through the use of Indian names and a culturally relevant item (laddus). However, the original context is not entirely relevant to the Indian context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology correctly, but the overall flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

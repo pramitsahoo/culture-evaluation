@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Adrien's total salary was 30 percent higher than Lylah's. Four years later, his salary had increased, and he was earning 40% more than what he was making four years ago. If Adrien's and Lylah's salary increased simultaneously, and Adrien earned $40000 four years ago, calculate the total salary the two were receiving four years later?
+
+Adapted Text:
+Ramesh's total salary was 30 percent higher than Lyra's. Four years later, his salary had increased, and he was earning 40% more than what he was making four years ago. If Ramesh's and Lyra's salary increased simultaneously, and Ramesh earned ₹40000 four years ago, calculate the total salary the two were receiving four years later?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text has made changes to names and currencies to better fit the Indian context, but the scenario remains the same as the original text.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text incorporates Indian English and terminology effectively, but some sentences lack a natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

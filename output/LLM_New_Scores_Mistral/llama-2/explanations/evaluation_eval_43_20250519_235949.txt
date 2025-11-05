@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Grandma Jones baked 5 apple pies for the fireman's luncheon.  She cut each pie into 8 pieces and set the five pies out on the buffet table for the guests to serve themselves.  At the end of the evening, after the guests had taken and eaten their pieces of pie, there were 14 pieces of pie remaining.  How many pieces were taken by the guests?
+
+Adapted Text:
+Ramesh's grandmother baked 5 parathas for the community gathering. She cut each paratha into 8 pieces and placed them on the serving table for everyone to help themselves. After everyone had taken and eaten their share of parathas, there were 14 pieces remaining. How many parathas did the guests take?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced the original concept with a culturally relevant one, but it could have been more deeply integrated into the Indian context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terminology correctly but lacks a natural flow that would make it more engaging for the target audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

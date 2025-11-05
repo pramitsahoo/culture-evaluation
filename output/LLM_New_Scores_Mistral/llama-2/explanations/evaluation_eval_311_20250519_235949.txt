@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Theo has $6000 he wishes to spend on his upcoming business trip to South Africa. He buys 6 business suits at $100 each, 3 suitcases at $50 each, a flight ticket that costs $700 more than 5 times as much as the cost of a business suit. He wishes to save $2000 for this trip, how much does he have to spend on buying gifts for his business partners in South Africa?
+
+Adapted Text:
+Ramesh has ₹6000 he wishes to spend on his upcoming business trip to South Africa. He buys 6 business suits at ₹100 each, 3 suitcases at ₹50 each, a flight ticket that costs ₹700 more than 5 times as much as the cost of a business suit. He wishes to save ₹2000 for this trip, how much does he have to spend on buying gifts for his business partners in South Africa?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text includes proper nouns replaced with Indian names and some objects replaced with culturally relevant alternatives, but the overall scenario and context remain Western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow, but may require some minor adjustments for better fluency.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Well's mother sells watermelons, peppers, and oranges at the local store. A watermelon costs three times what each pepper costs. An orange costs 5 less than what a watermelon cost. Dillon is sent to the store to buy 4 watermelons, 20 peppers, and 10 oranges. What's the total amount of money he will spend if each pepper costs 15$?
+
+Adapted Text:
+Ramesh's mother sells laddus, chutney, and naranga at the local store. A laddu costs three times what each chutney costs. A naranga costs 5 less than what a laddu cost. Ramesh is sent to the store to buy 4 laddus, 20 chutneys, and 10 narangas. What's the total amount of money he will spend if each chutney costs ₹15?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces western objects with Indian equivalents, creating a connection to Indian culture. However, the scenario and context could be further developed to better resonate with the target audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but the natural flow could be improved with more common Indian expressions.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

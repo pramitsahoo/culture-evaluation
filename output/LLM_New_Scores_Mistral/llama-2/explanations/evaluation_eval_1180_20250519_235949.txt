@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+James has 30 teeth. His dentist drills 4 of them and caps 7 more teeth than he drills. What percentage of James' teeth does the dentist fix?
+
+Adapted Text:
+Ramesh has 30 teeth. His dentist drills 4 of them and caps 7 more teeth than he drills. What percentage of Ramesh's teeth does the dentist fix?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text uses culturally inappropriate or nonsensical elements, making it completely disconnected from the target culture.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, making it incomprehensible to the target audience.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is mathematically unsound after adaptation.
+
+Overall Score:
+Average Score: 0.67/5

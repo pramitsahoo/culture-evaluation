@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Robert had 3 pounds of candy, Cindy had 5 pounds of candy, and Aaron had 4 pounds of candy after Halloween. If they decide to pool and share their candy equally with each other, how much candy would each of them have?
+
+Adapted Text:
+Ramesh had 3 maunds of sweets, Rohan had 5 maunds of sweets, and Aryan had 4 maunds of sweets after Diwali. If they decide to pool and share their sweets equally with each other, how much sweets would each of them have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text uses Indian names but includes nonsensical elements such as paratha growing on plants.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian names but the language is poor, and the Indian terms are used incorrectly or inappropriately.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly.
+
+Overall Score:
+Average Score: 2.33/5

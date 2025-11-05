@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Two apples fell out of the tree, and one of them landed on Newton's head.  Newton picked up the two apples, put one in his pocket and threw the other apple into the tree, causing 5 more apples to fall out of the tree.  Newton picked up these apples, put all but one in his pocket and threw the remaining one at the tree.  This caused another 6 apples to fall out of the tree.  Newton picked up all of the remaining apples and went home to make a pie.  How many apples did he bring home?
+
+Adapted Text:
+Two mangoes fell out of the tree, and one of them landed on Ramesh's head.  Ramesh picked up the two mangoes, put one in his pocket and threw the other mango into the tree, causing 5 more mangoes to fall out of the tree.  Ramesh picked up these mangoes, put all but one in his pocket and threw the remaining one at the tree.  This caused another 6 mangoes to fall out of the tree.  Ramesh picked up all of the remaining mangoes and went home to make a kheer.  How many mangoes did he bring home?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively changes the original text's context, using Indian fruit (mangoes) and food (kheer) instead of apples and pie, but the scenario remains similar to the original.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology with a natural flow, but the language could be improved slightly for better cultural immersion.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

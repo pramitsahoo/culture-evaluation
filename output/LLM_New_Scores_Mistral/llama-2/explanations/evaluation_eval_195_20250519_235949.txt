@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Violetta wants to buy new crayons. She needs them in 5 different colors and prepared $20 for this purchase. One crayon costs $2. How much change will she get?
+
+Adapted Text:
+Ramesh wants to buy new parathas. He needs them in 5 different colors and prepared ₹830 for this purchase. One paratha costs ₹83. How much change will he get?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text contains nonsensical elements that are culturally inappropriate or irrelevant.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses very few Indian terms and they are used incorrectly or nonsensically, making it difficult to comprehend.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is nonsensical after adaptation, making it impossible to solve.
+
+Overall Score:
+Average Score: 0.67/5

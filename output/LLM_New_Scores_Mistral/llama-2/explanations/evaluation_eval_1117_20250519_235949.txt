@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Last year there were 50 students enrolled in a calligraphy class. This year, there was a 20% increase in enrollment. How many students are enrolled this year in the calligraphy class?
+
+Adapted Text:
+Last year, there were 60 students enrolled in a calligraphy class. This year, there was a 20% increase in enrollment, so there are now 72 students enrolled in the calligraphy class.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text includes a cultural setting (calligraphy class) but does not incorporate any specific Indian elements, making it somewhat generic.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and some terminology relevant to Indian culture, but the overall flow could be improved to sound more natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

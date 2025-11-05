@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Regina wrote 9 novels last year. If this is 3 quarters of the number of novels she has written this year, how many novels has she written this year?
+
+Adapted Text:
+Rajni wrote 9 novels last year. If this is 3 quarters of the number of novels she has written this year, how many novels has she written this year?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has Indian names, but the context remains unchanged, which could be more culturally relevant if set in an Indian context.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The adapted text uses Indian English and terminology but could benefit from a more natural flow to better suit the target audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains the same, and its accuracy is maintained.
+
+Overall Score:
+Average Score: 3.67/5

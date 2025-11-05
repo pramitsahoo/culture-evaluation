@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+It takes 20 minutes for the oil to heat up to 300 degrees.  It then takes 40% longer for the oil to heat up to the desired temperature of 400 degrees.  After warming the oil it takes 5 minutes less time to cook than it took to warm up the oil.  How much time passes from starting the oil to having cooked chicken?
+
+Adapted Text:
+It takes 30 minutes for the ghee to heat up to 400 degrees.  It then takes 40% longer for the ghee to heat up to the desired temperature of 500 degrees.  After warming the ghee, it takes 5 minutes less time to cook than it took to warm up the ghee.  How much time passes from starting the ghee to having cooked chicken?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contains substantial cultural adaptation, with changes in ingredients, cooking oil, and temperature to align with Indian cooking practices.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, demonstrating a good understanding of the language but could benefit from a more natural flow.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, although some adjustments to temperature and time could make it more accurate and relevant to Indian cooking practices.
+
+Overall Score:
+Average Score: 4.00/5

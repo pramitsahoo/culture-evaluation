@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A farmer is baling hay in their field. Each hour the farmer makes 5 bales. At the same time, a truck is picking the hay bales up. Each hour the truck picks up 3 bales of hay. If the farmer and the truck driver put in a 6 hour day, how many bales of hay are left in the field?
+
+Adapted Text:
+Ramesh is baling āvā (hay) in his field. Each hour Ramesh makes 5 āvās. At the same time, a truck is picking the āvās up. Each hour the truck picks up 3 āvās of hay. If Ramesh and the truck driver put in a 6 hour day, how many āvās of hay are left in the field?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes Indian names, but the scenario remains largely western. The concept of a farmer baling hay may not be familiar to Indian audiences.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian English and terms, but they are not used consistently or with natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

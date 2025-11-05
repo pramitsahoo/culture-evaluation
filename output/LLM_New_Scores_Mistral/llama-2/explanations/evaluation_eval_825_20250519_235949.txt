@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Kimberly bought 8 packages of cat food and 6 packages of dog food. Each package of cat food contained 11 tins, and each package of dog food contained 6 tins. How many more tins of cat food than dog food did Kimberly buy?
+
+Adapted Text:
+Ramesh bought 8 packets of cat food and 6 packets of dog food. Each packet of cat food contained 11 tins, and each packet of dog food contained 6 tins. How many more tins of cat food than dog food did Ramesh buy?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has replaced western names with Indian names, but the scenario and objects remain unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly but lacks a completely natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately in the adapted text.
+
+Overall Score:
+Average Score: 4.00/5

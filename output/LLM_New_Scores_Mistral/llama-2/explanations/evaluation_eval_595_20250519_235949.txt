@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A cup of mushrooms weighs 100 grams and has 3 grams of protein.  If John eats 200 grams of mushrooms every day how many grams of protein does he get per week?
+
+Adapted Text:
+Ramesh ate 200 grams of parathas every day and got 60 grams of protein per week.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the original text's food item with a culturally relevant Indian food, but the context remains similar to the original.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian terms correctly but lacks the natural flow of Indian English.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

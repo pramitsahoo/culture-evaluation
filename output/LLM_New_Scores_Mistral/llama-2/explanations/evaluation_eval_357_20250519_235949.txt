@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Dean's mother gave him $28 to go to the toy store. Dean bought 6 toy cars and 5 teddy bears. Each toy car cost $2 and each teddy bear cost $1. His mother then feels generous and decides to give him an extra $10. How much money does Dean have left?
+
+Adapted Text:
+Ramesh's mother gave him ₹28 to go to the toy store. Ramesh bought 6 toy cars and 5 teddy bears. Each toy car cost ₹2 and each teddy bear cost ₹1. His mother then feels generous and decides to give him an extra ₹10. How much money does Ramesh have left?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 5.0/5
+Explanation: The adapted text is deeply integrated with Indian culture, accurately reflecting significant traditions and practices, including the use of Indian currency.
+
+2. Language Fluency
+Score: 5.0/5
+Explanation: The text uses natural Indian expressions and terminology, making it easy to read and culturally coherent.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 5.00/5

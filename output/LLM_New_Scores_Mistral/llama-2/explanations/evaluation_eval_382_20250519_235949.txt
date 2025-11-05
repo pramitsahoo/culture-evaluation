@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Cho hiked 14 kilometers per hour for 8 hours. Chloe hiked 9 kilometers per hour and stopped after 5 hours. How many kilometers farther did Cho hike?
+
+Adapted Text:
+Ramesh hiked 14 kilometers per hour for 8 hours. Ramesh hiked 9 kilometers per hour and stopped after 5 hours. How many kilometers farther did Ramesh hike?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text changes the names to Indian names but does not contextually adapt the problem, maintaining its original western scenario.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, creating a natural flow for the reader.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

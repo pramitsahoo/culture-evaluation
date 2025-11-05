@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Amora, Lainey, and Collins wanted to share corn chips equally but then realized only two people would get an equal amount of corn chips, while the other person would receive 15 more corn chips than the number the others got. If Amora and Lainey got 70 corn chips each, how many corn chips were there altogether?
+
+Adapted Text:
+Ramesh, Ria, and Aryan wanted to share chakli equally but then realized only two people would get an equal amount of chakli, while the other person would receive 15 more chakli than the number the others got. If Ramesh and Ria got 70 chakli each, how many chakli were there altogether?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces corn chips with chakli, a popular Indian snack, and uses Indian names. However, the overall scenario remains western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and some Indian terms, but there are a few instances where the language does not flow naturally.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-structured, even with the cultural adaptation.
+
+Overall Score:
+Average Score: 4.33/5

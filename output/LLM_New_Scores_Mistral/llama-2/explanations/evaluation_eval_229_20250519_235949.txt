@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Kalinda is working on a 360 piece puzzle with her mom. Kalinda can normally add 4 pieces per minute. Her mom can typically place half as many pieces per minute as Kalinda.  How many hours will it take them to complete this puzzle?
+
+Adapted Text:
+Ramesh and his mother are working on a 360 piece puzzle together. Ramesh can normally add 4 pieces per minute, while his mother can typically place half as many pieces per minute as Ramesh. How many hours will it take them to complete this puzzle?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features Indian names and familial relationships, which contribute to cultural relevance. However, the puzzle scenario is not specifically Indian.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and some culturally relevant terminology, but the flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly with clear instructions.
+
+Overall Score:
+Average Score: 4.33/5

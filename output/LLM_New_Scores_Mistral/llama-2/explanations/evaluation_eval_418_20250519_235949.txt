@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tom went on a two-week-long trip through Europe. In the first 4 days, he traveled 200 kilometers every day, and over the next two days, he totaled only 30% of the distance traveled over the first four days. On the next day, he wasn't traveling at all. During the second week, he made 300 kilometers every day. How many kilometers in total did Tom make during his two-week-long trip?
+
+Adapted Text:
+Ramesh went on a two-week-long trip across India. In the first 4 days, he traveled 200 kilometers every day, and over the next two days, he covered only 30% of the distance traveled over the first four days. On the next day, he didn't travel at all. During the second week, he covered 300 kilometers every day. How many kilometers in total did Ramesh cover during his two-week-long trip?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text has been adapted to an Indian context, with the main character traveling across India instead of Europe. However, the specifics of the trip (distance, days, etc.) remain largely the same.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian names and English terms that are commonly used in India, creating a more natural flow for the target audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

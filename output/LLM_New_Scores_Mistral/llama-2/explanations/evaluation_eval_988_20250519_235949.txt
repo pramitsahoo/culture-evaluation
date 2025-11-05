@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Artemis is potting flowers with her father. They buy a 30-pound bag of soil. Each rose needs 1 pound. Each carnation needs 1.5 pounds. Each Sunflower needs 3 pounds. If they plant 4 sunflowers and 10 carnations, how many roses can they plant?
+
+Adapted Text:
+Ramesh is potting flowers with his father. They buy a ₹830 bag of soil. Each rose needs ₹83. Each carnation needs ₹125. Each sunflower needs ₹250. If they plant 4 sunflowers and 10 carnations, how many roses can they plant?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text is adapted to the Indian context by changing the characters' names, but the scenario remains the same.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, but the flow is not entirely natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

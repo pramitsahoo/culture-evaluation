@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+In a company of 50 employees, 20% of the employees are management.  Out of this 20%, only 30% oversee the entire company.  How many employees oversee the company?
+
+Adapted Text:
+In a company of 50 employees, 20% of the employees are management. Out of this 20%, only 30% oversee the entire company. How many employees oversee the company?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The text uses culturally inappropriate or nonsensical elements, such as using elephants to perform mathematical calculations.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains few Indian terms, but they are used incorrectly and do not flow naturally.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.67/5

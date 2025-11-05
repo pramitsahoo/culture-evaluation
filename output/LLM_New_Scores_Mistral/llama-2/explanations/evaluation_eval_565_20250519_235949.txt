@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+In the first week, Judy read for 15 minutes each night before going to sleep. In the second week, she read a total of 100 pages. If she can read 2 pages per 1.5 minutes, how many pages did she read in two weeks?
+
+Adapted Text:
+Ramesh read for 15 minutes each night before sleeping in the first week. In the second week, he read a total of ₹830 worth of pages. If he can read ₹830 worth of pages per 1.5 minutes, how many pages did he read in two weeks?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented
+
+Overall Score:
+Average Score: 1.67/5

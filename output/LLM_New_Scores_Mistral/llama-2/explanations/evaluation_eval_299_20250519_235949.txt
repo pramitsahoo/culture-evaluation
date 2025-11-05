@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Carmen goes to an auction to win an antique desk. She accepts the opening bid of $200 and continues bidding until she wins. The bids on the desk rise by $50 each time and 3 other people each bid once. Carmen bids after each of the 3 other people and eventually wins. How much money, in dollars, does the desk cost her?
+
+Adapted Text:
+Ramesh goes to an auction to win a vintage desk. He accepts the opening bid of ₹830 and continues bidding until he wins. The bids on the desk rise by ₹50 each time and 3 other people each bid once. Ramesh bids after each of the 3 other people and eventually wins. How much money, in Indian Rupees, does the desk cost him?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has made a substantial effort to adapt the original story to an Indian context, but some aspects, such as the auction setting, may not be as culturally relevant.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terms effectively, but the natural flow of the language could be improved in certain sections.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly, maintaining complete accuracy.
+
+Overall Score:
+Average Score: 4.33/5

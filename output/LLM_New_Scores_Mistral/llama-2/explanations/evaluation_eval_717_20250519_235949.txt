@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John makes himself a 6 egg omelet with 2 oz of cheese and an equal amount of ham.  Eggs are 75 calories each.  Cheese is 120 calories per ounce.  Ham is 40 calories per ounce.  How many calories is the omelet?
+
+Adapted Text:
+Ramesh makes himself a 6 ₹83 paratha omelet with 2 ₹83 of cheese and an equal amount of ₹83 of ham. ₹83 eggs are 75 calories each. ₹83 cheese is 120 calories per ₹83 ounce. ₹83 ham is 40 calories per ₹83 ounce. How many calories is the omelet?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text features nonsensical elements that are unrelated to Indian culture.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses no Indian language elements, maintaining a western context.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem
+
+Overall Score:
+Average Score: 2.00/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Vincent can buy flowers in packages of 3 for $2.50 or in packages of 2 for $1. How much money does he save by buying 18 flowers at the better price?
+
+Adapted Text:
+Ramesh can buy flowers in packages of 3 for ₹150 or in packages of 2 for ₹75. How much money does he save by buying 18 flowers at the better price?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively changes the names and some objects to culturally relevant alternatives, creating a connection with Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, demonstrating a natural flow in the language.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

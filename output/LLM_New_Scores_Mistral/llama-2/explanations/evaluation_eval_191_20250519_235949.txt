@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John collects peaches for 3 hours.  He can collect 2 peaches a minute.  How many peaches does he collect?
+
+Adapted Text:
+Ramesh collects parathas for 3 hours. He can collect 2 parathas a minute. How many parathas does he collect?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes the fruit to a culturally relevant Indian food, paratha, making it more relatable to the target audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terms correctly, but the overall flow is not as natural as it could be.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains intact and accurate after adaptation.
+
+Overall Score:
+Average Score: 4.33/5

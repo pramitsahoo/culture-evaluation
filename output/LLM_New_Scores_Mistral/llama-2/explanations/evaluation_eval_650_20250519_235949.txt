@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Fishio posted her selfie on Instagram. She received 2000 likes on the photo after 1 week. Three weeks later, the number of likes was 70 times as many as the initial number of likes. If she received 20000 more new likes recently, how many Instagram likes are there?
+
+Adapted Text:
+Ramesh posted his selfie on Instagram. He received ₹83,000 likes on the photo after 1 week. Three weeks later, the number of likes was 70 times as many as the initial number of likes. If he received ₹830,000 more new likes recently, how many Instagram likes are there?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has proper nouns changed to Indian names, but the context remains the same without any deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, with a natural flow. However, some expressions might feel slightly awkward to a native Indian reader.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

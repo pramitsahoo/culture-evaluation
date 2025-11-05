@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ben bought a car for $20000 in 2007. The price of the car depreciates at a constant rate of 21% per year. Find the price of the car in the year 2010.
+
+Adapted Text:
+Ramesh bought a car for ₹16,00,000 in 2007. The price of the car depreciates at a constant rate of 21% per year. Find the price of the car in the year 2010.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian English and terms correctly but lacks natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately.
+
+Overall Score:
+Average Score: 2.67/5

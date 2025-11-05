@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+On Easter Sunday Cindy went to the city park to participate in the Easter Egg Hunt, and ended up with a basket full of eggs. She had 5 green ones, twice as many blue ones as green ones, one fewer pink eggs than blue eggs, and one-third as many yellow eggs as pink eggs. How many eggs did Cindy have altogether?
+
+Adapted Text:
+Ramesh went to the city park on Eid-e-Milad to participate in the Eid-e-Milad Egg Hunt and ended up with a basket full of parathas. He had 5 green parathas, twice as many blue parathas as green parathas, one fewer pink parathas than blue parathas, and one-third as many yellow parathas as pink parathas. How many parathas did Ramesh have altogether?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the Easter Egg Hunt with an Eid-e-Milad Egg Hunt, which is a culturally relevant event, but uses the concept of eggs which is not traditionally associated with Eid-e-Milad.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms but lacks the natural flow that would be expected from a native speaker.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

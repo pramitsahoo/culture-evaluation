@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Henry is making cookies for a local baking competition. He wants to make twice as many as he did last year. When he finishes baking, he realizes he actually baked 15 more cookies than he meant to. He drops 5 of his cookies as he is putting them out to cool, and now has a total of 110 cookies. How many cookies did Henry bake last year?
+
+Adapted Text:
+Ramesh is making parathas for a local cooking competition. He wants to make twice as many as he did last year. When he finishes cooking, he realizes he actually cooked 15 more parathas than he meant to. He drops 5 of his parathas as he is putting them out to cool, and now has a total of 110 parathas. How many parathas did Ramesh cook last year?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The text is not culturally relevant as it involves a baking competition, which is not a common cultural event in India. The scenario is nonsensical with the use of parathas.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains culturally inappropriate elements, such as using parathas instead of cookies.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation. The number of parathas baked is not related to the number of cookies baked in the original text.
+
+Overall Score:
+Average Score: 1.00/5

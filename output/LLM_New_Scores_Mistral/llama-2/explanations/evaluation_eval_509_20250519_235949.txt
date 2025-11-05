@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The farm has 30 cows and the zoo has 20 sheep.  The zoo has twice as many cows as the farm does.  The farm has half as many sheep as the zoo does.  How many animals do the farm and zoo have combined?
+
+Adapted Text:
+The gaushala has 30 cows and the kavirathi has 20 sheep.  The kavirathi has twice as many cows as the gaushala does.  The gaushala has half as many sheep as the kavirathi does.  How many animals do the gaushala and kavirathi have combined?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes the names of the original entities to culturally relevant alternatives, providing a connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology with a natural flow, although some minor adjustments could be made for even better fluency.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

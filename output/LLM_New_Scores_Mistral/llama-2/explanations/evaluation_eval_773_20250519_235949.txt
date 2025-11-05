@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tatiana is deciding how much of her weekend she wants to spend playing soccer. She has 7 hours on Saturday and 5 hours on Sunday. She is dividing her time between soccer, video games, and reading. If she reads for 3 hours and plays video games for 1/3 of the remaining time, what percentage of her weekend does she spend playing soccer?
+
+Adapted Text:
+Ramesh is deciding how much of his weekend he wants to spend playing cricket. He has 7 hours on Saturday and 5 hours on Sunday. He is dividing his time between cricket, video games, and reading. If he reads for 3 hours and plays video games for 1/3 of the remaining time, what percentage of his weekend does he spend playing cricket?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively changes the original text to incorporate Indian elements, but the scenario could be more culturally resonant.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses appropriate Indian terminology and English, but the natural flow of the language could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

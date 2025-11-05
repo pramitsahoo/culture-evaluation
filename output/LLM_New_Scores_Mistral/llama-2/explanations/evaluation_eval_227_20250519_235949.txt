@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+James is counting his Pokemon cards. He has 30 fire type, 20 grass type, and 40 water type. If he loses 8 of the water type and buys 14 grass type, what's the percentage chance (rounded to the nearest integer) that a randomly picked card will be a water type?
+
+Adapted Text:
+Ramesh is counting his Pokemon cards. He has 30 पाणी type, 20 झाज type, and 40 पाणी type. If he loses 8 of the पाणी type and buys 14 झाज type, what's the percentage chance (rounded to the nearest integer) that a randomly picked card will be a पाणी type?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses some Indian names and terms, but the context remains primarily western, with only a minor connection to Indian culture.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms, but their usage is not always natural, leading to a less fluent reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

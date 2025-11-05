@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John packs M&M in small bags to eat.  He buys 3 large bags weighing 10 ounces each.  If an ounce of M&M has 30 M&M in it how many small bags can he make if he puts 10 in each small bag?
+
+Adapted Text:
+Ramesh packs parathas in small bags to eat. He buys 3 large bags weighing ₹830 each. If one bag contains ₹83 worth of parathas, how many small bags can he make if he puts ₹83 in each small bag?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes an Indian food item and uses monetary values to represent the weight, making it more relevant to the Indian audience. However, the scenario could be further improved to have a stronger connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but the sentence structure could be slightly improved for a more natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

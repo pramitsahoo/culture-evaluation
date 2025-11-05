@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jenny goes to the florist to buy some flowers. Roses cost $2 each and $15 for a dozen. If she bought 15 roses and arrived with five 5 dollar bills and they only have quarters for change, how many quarters does she leave with?
+
+Adapted Text:
+Ramesh goes to the flower vendor to buy some flowers. Tulsi cost ₹80 each and ₹120 for a dozen. If he bought 15 tulsi and arrived with five ₹50 bills and they only have ₹20 for change, how many ₹20 bills does he leave with?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contains some cultural elements like using Indian currency, but the original problem scenario remains mostly unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text incorporates Indian English and terms but does not fully capture the natural flow of the language.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

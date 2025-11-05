@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+At the trip to the county-level scavenger hunt competition, 90 people were required to split into groups for the competition to begin. To break people up into smaller groups with different leaders, 9-person groups were formed. If 3/5 of the number of groups each had members bring back 2 seashells each, how many seashells did they bring?
+
+Adapted Text:
+At the trip to the district-level scavenger hunt competition, 90 people were required to split into groups for the competition to begin. To break people up into smaller groups with different leaders, 9-person groups were formed. If 3/5 of the number of groups each had members bring back 2 parathas each, how many parathas did they bring?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features Indian cultural elements, but some aspects, such as the scavenger hunt, may not be as common in India as in western cultures.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian terms correctly but the overall language flow is not entirely natural.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

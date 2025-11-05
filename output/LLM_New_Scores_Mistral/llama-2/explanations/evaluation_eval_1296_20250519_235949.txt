@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ryan’s allowance is $6 each week he completes his chores. He did his chores for 3 weeks. Then he bought ice cream cones for himself and 3 friends at $1.25 each. Now they all want to go to the movies and tickets cost $6.50 each. How many movie tickets can Ryan buy?
+
+Adapted Text:
+Ramesh's allowance is ₹6 each week he completes his chores. He did his chores for 3 weeks. Then he bought ice cream cones for himself and 3 friends at ₹1.25 each. Now they all want to go to the movies and tickets cost ₹6.50 each. How many movie tickets can Ramesh buy?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains the original problem's structure and context, but uses Indian names and currency.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses mostly correct Indian English and terminology, but the natural flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented correctly with Indian currency.
+
+Overall Score:
+Average Score: 4.33/5

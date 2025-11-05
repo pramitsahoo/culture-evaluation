@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Janet takes two bus trips five days a week. If each bus trip costs her $2.20, how much would she save by buying a weekly bus pass for $20?
+
+Adapted Text:
+Ramesh takes two bus trips five days a week. If each bus trip costs him ₹150, how much would he save by buying a weekly bus pass for ₹1500?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes an Indian name and Indian currency, but the scenario remains largely unchanged and could be more culturally contextualized.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively uses Indian English and terminology, but there are still a few areas where the language flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

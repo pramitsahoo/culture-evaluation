@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Brian's basement was damp and musty, so he bought a dehumidifier to remove moisture out of the air.  The device has three speeds: low, medium, and high.   Brian tested the device's efficiency and he found that the low setting removes 1 liter of water out of the air per day, the medium setting removes twice as much water per day as the low setting, and the high setting removes twice as much water per day as the medium setting.  If Brian ran the dehumidifier for 3 days on the low setting, then an additional 3 days on the medium setting, and then an additional 5 days on the high setting, what is the total amount of water that the dehumidifier removed from the air in his basement, in liters?
+
+Adapted Text:
+Ramesh's basement was damp and musty, so he bought a dehumidifier to remove moisture out of the air.  The device has three speeds: low, medium, and high.   Ramesh tested the device's efficiency and he found that the low setting removes 1 liter of water out of the air per day, the medium setting removes twice as much water per day as the low setting, and the high setting removes twice as much water per day as the medium setting.  If Ramesh ran the dehumidifier for 3 days on the low setting, then an additional 3 days on the medium setting, and then an additional 5 days on the high setting, what is the total amount of water that the dehumidifier removed from the air in his basement, in liters?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has culturally relevant names and objects, but it could have been further adapted to a more specific Indian context.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terminology correctly, but the flow is not entirely natural and some expressions could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

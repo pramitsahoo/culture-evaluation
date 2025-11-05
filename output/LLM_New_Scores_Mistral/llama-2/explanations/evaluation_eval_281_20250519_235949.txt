@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Peter purchased 20 popsicles at $0.25 each. He also purchased 4 ice cream bars at $0.50 each. How much did he pay in total in dollars?
+
+Adapted Text:
+Ramesh उपाया 20 पार्थासें ₹0.25 के साथ और 4 स्वच्छा के साथ ₹0.50 के साथ कैसे पैसा पेश कर दिया?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced western proper nouns with Indian ones, providing a connection to the target culture.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms correctly but lacks natural flow.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, but could be better contextualized.
+
+Overall Score:
+Average Score: 3.67/5

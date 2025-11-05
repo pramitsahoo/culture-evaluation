@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jeans makeup artist charges her $250 an hour.  She requires very expensive makeup for a movie she is in and it takes 6 hours to do each day and she needs it done 4 times a week.  The movie takes 5 weeks to finish.  After the movie is done the makeup artist gives Jean a 10% discount because of the amount of work done.  How much did Jean pay?
+
+Adapted Text:
+Ramesh paid ₹830 for each paratha, as he needed 4 parathas per week for 5 weeks. He paid a total of ₹4,150 for the makeup artist's services. After the movie was finished, the makeup artist gave Ramesh a 10% discount, which is equivalent to ₹415. So, Ramesh paid a total of ₹3,735 for the makeup artist's services.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text maintains a strong connection to Indian culture by replacing western concepts with Indian ones, but the adaptation could be deeper and more contextually accurate.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but there are a few instances where the natural flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

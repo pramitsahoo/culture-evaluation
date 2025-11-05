@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mark was unwell for 3 months, during which he lost 10 pounds per month. If his final weight was 70 pounds, what was his initial weight?
+
+Adapted Text:
+Ramesh was unwell for 3 months, during which he lost ₹830 per month. If his final weight was ₹7000, what was his initial weight?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces western names with Indian ones, and also uses Indian currency for the weight measurement, which is a relevant adaptation. However, it does not go beyond this to create a more culturally resonating scenario.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly, but the language flow could be improved to sound more natural to a native Indian speaker.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

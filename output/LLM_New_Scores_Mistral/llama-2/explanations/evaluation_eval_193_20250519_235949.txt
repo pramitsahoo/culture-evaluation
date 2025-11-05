@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tom plants 10 trees a year.  Every year he also chops down 2 trees a year.  He starts with 50 trees.  After 10 years 30% of the trees die.  How many trees does he have left?
+
+Adapted Text:
+Ramesh planted 10 पृष्ठें (trees) every year.  Every year he also cut down 2 पृष्ठें (trees) a year.  He started with 50 पृष्ठें (trees). After 10 साल (years), 30% of the trees died. How many पृष्ठें (trees) does he have left?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses Indian terminology for trees and years, but the context remains the same as the original.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses Indian terms correctly, but the flow is not as natural as it could be.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

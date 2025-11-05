@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Molly is catering a birthday party for her sister and invited 16 people. 10 people want the chicken salad which is $6.50 per person and 6 people want the pasta salad at $6 per person. What is the total amount Molly will pay for the catering?
+
+Adapted Text:
+Ramesh is catering a birthday party for his sister and invited 16 people. 10 people want the chicken paratha which is ₹830 per person and 6 people want the pasta paratha at ₹600 per person. What is the total amount Ramesh will pay for the catering?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text features Indian names, food, and currency, creating a connection to Indian culture. However, it could have been improved by adding more context or culturally relevant details.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses some Indian English and terms but may not flow as naturally as it could.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains the same, making it easy to understand and solve while maintaining accuracy.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tanya makes a salt scrub from salt, oil, fragrance, citrus zest, and sugar. She makes enough to fill a 10-ounce jar each time. She uses the same amount of citrus zest as fragrance and the same amount of salt as sugar. She uses twice as much oil as salt and twice as much salt as zest. How many ounces of oil does she use?
+
+Adapted Text:
+Ramesh makes a salt scrub from salt, oil, fragrance, citrus zest, and sugar. He makes enough to fill a 10-ounce jar each time. He uses the same amount of citrus zest as fragrance and the same amount of salt as sugar. He uses twice as much oil as salt and twice as much salt as zest. How many ounces of oil does he use?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text has replaced some proper nouns with Indian names, but the context remains the same and does not reflect any Indian cultural practices.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms effectively, but the natural flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+George, a grade six teacher, ordered 600 burritos for the sixth-grade class picnic. If there were 50 students at the picnic, and each student was given ten burritos, with Mr. George eating 20 of them, calculate the total number of leftover burritos from the picnic?
+
+Adapted Text:
+Ramesh, a sixth standard teacher, ordered 600 parathas for the class picnic. If there were 50 students at the picnic, and each student was given 10 parathas, with Ramesh eating 20 of them, calculate the total number of leftover parathas from the picnic?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced the original objects with culturally relevant alternatives (parathas instead of burritos), but the scenario remains somewhat westernized.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology effectively, but the flow is not quite as natural as it could be for a native speaker.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged, and its accuracy is maintained in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

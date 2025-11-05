@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A basket of green food costs $25 and a basket of red food costs $18. If you buy 3 baskets of green food and red food, how much will you have to pay in total if you get $2 off for each basket of red food?
+
+Adapted Text:
+Ramesh bought 3 baskas of green food for ₹830 and 3 baskets of red food for ₹640. If he got ₹2 off for each basket of red food, how much did he pay in total?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes some entities to Indian equivalents, creating a connection to Indian culture. However, the original scenario and concepts remain largely unchanged.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terminology effectively, but the language flow could be improved for a more natural read.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

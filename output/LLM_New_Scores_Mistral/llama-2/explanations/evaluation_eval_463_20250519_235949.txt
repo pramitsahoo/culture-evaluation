@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ali had $21. Leila gave him half of her $100. How much does Ali have now?
+
+Adapted Text:
+Ramesh had ₹21. Leila gave him half of her ₹100. How much does Ramesh have now?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contains culturally relevant names and the use of Indian currency. However, it does not incorporate any specific Indian cultural elements or contexts.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology, but the language flow could be improved for a more natural and culturally resonating experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains the same and is presented correctly, with no loss of accuracy or logical structure.
+
+Overall Score:
+Average Score: 4.33/5

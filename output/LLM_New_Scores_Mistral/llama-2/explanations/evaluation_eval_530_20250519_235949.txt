@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tom bought a CD for $4, and a headphone set. In total, he paid $48. How many more CDs would Tom have been able to buy if he had decided not to buy the headphone set?
+
+Adapted Text:
+Ramesh ₹830 ko paratha 5 ki khud khud 2 do. Ramesh ke liye paratha kitne paise ki khud khud kama thi?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced proper nouns with Indian names, but the context and scenario remain western, making it less culturally resonating.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms, but the overall language flow is not completely natural for an Indian audience.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly, but the cultural context is less integrated, making it feel somewhat disconnected.
+
+Overall Score:
+Average Score: 3.67/5

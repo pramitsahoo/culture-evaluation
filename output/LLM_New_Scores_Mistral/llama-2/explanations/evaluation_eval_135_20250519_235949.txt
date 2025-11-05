@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tom gets 4 car washes a month.  If each car wash costs $15 how much does he pay in a year?
+
+Adapted Text:
+Ramesh gets 4 paratha washes a month. If each paratha wash costs ₹83, how much does he pay in a year?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text uses culturally inappropriate or nonsensical elements, making it unsuitable for the target audience.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses incorrect Indian terms, making it difficult for native speakers to understand the meaning.
+
+3. Mathematical Integrity
+Score: 2.0/5
+Explanation: The mathematical problem is correct, but it is poorly integrated with the cultural context, making it unclear or illogical.
+
+Overall Score:
+Average Score: 1.67/5

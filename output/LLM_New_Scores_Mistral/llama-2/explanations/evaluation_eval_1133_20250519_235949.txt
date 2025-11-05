@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Valerie earns $5000 per month, 1/2 of what her brother earns. If their mother earns twice their combined salary, what's the total amount of money they all have together?
+
+Adapted Text:
+Ramesh earns ₹40,000 per month, 1/2 of what his brother earns. If their mother earns twice their combined salary, what's the total amount of money they all have together?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes Indian names, but it includes nonsensical elements unrelated to Indian culture.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text does not use any Indian language elements.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the
+
+Overall Score:
+Average Score: 2.00/5

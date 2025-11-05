@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Vince can staple 30 reports every 15 minutes.  If he was stapling reports from 8:00 AM until 11:00 PM, how many reports did he staple altogether?
+
+Adapted Text:
+Ramesh can staple 30 parathas every 15 minutes. If he was stapling parathas from 8:00 AM until 11:00 PM, how many parathas did he staple altogether?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced the original object with a culturally relevant alternative (reports to parathas).
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms appropriately, but the natural flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains the same, retaining its accuracy and structure.
+
+Overall Score:
+Average Score: 4.33/5

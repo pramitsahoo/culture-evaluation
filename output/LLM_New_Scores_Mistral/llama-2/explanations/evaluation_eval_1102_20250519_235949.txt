@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Amber, Micah, and Ahito ran 52 miles in total. Amber ran 8 miles. Micah ran 3.5 times what Amber ran. How many miles did Ahito run?
+
+Adapted Text:
+Ramesh, Ria, and Raj ran 52 miles in total. Ramesh ran 8 miles. Ria ran 3.5 times what Ramesh ran. How many miles did Raj run?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text uses Indian names, but the context remains nonsensical and culturally irrelevant.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian names but incorrectly, making it difficult to understand for an Indian audience.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically unsound after adaptation.
+
+Overall Score:
+Average Score: 1.00/5

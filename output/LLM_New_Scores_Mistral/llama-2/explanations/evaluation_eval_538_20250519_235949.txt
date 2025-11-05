@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Four books are arranged on a shelf. The first book is 31 mm thick while the second book is 50 mm thick. The third book is 5 mm less thick than the second book, and the fourth book is twice as thick as the first book. What is the total thickness of the four books?
+
+Adapted Text:
+Four books are arranged on a shelf. The first book is 31 ₹mm thick while the second book is ₹50 ₹mm thick. The third book is ₹5 ₹mm less thick than the second book, and the fourth book is twice as thick as the first book. What is the total thickness of the four books?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, making it inaccessible for Indian readers.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and
+
+Overall Score:
+Average Score: 1.67/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Nick, Richard, Jason and DJ each have paintball guns. DJ has 8 guns, Nick has 10 guns, RJ has 1 gun and Richard has 5 guns. If they were to share their guns equally, how many guns would each of them have?
+
+Adapted Text:
+Ramesh, Rohan, Rajat, and Ravi each have pistol. Ravi has 8 pistol, Rohan has 10 pistol, Ramesh has 1 pistol, and Rajat has 5 pistol. If they were to share their pistol equally, how many pistol would each of them have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text includes proper nouns changed to Indian names, but the context and scenario remain unchanged and are not culturally relevant.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian names and incorporates some Indian English terminology, but the overall flow could be improved.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains intact and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Fred was preparing for a party to be held in four days.  So, he made 24 gallons of root beer on the first day and put them in the refrigerator cooler.  But later that evening, his children discovered the delicious nectar and robbed the cooler, drinking 4 of those gallons of root beer.  On the second day, his wife Barbie also discovered the root beer and accidentally spilled 7 gallons. On the third day, Fred's friend Ronnie visited Fred's house and helped himself to the root beer, further reducing the amount remaining by 5 gallons.  On the fourth day, 3 people showed up for the party.  If Fred and the others shared the remaining root beer equally, how much was available for each to drink during the party?
+
+Adapted Text:
+Ramesh was preparing for a party to be held in four days.  So, he made ₹830 worth of parathas on the first day and put them in the refrigerator cooler.  But later that evening, his children discovered the delicious parathas and robbed the cooler, eating ₹830 worth of parathas. On the second day, his wife Sarla also discovered the parathas and accidentally spilled ₹830 worth of parathas. On the third day, Ramesh's friend Rajiv visited Ramesh's house and helped himself to the parathas, further reducing the amount remaining by ₹830. On the fourth day, 3 people showed up for the party.  If Ramesh and the others shared the remaining parathas equally, how much was available for each to eat during the party?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contains multiple entities changed with a deeper connection to Indian culture, making it more culturally relevant than the original. However, it could have further emphasized Indian elements to achieve a 5.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian terms correctly but lacks a natural flow, making it slightly less fluent than a native speaker would produce.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

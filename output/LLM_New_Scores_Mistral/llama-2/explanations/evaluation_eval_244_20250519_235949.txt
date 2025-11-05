@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jason has a phone plan of 1000 minutes per month. Every day he has a 15-minute call with his boss, and he's had 300 extra minutes of call this month to other people. How many minutes does Jason have left if this month has 30 days?
+
+Adapted Text:
+Ramesh has a phone plan of 1000 minutes per month. Every day he has a 15-minute call with his boss, and he's had 300 extra minutes of calls this month to other people. How many minutes does Ramesh have left if this month has 30 days?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text contains some Indian names and objects, but the context remains generally western.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology effectively, but the natural flow is slightly less than perfect.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented accurately and is well-integrated into the cultural context, but could be better contextualized for a more seamless experience.
+
+Overall Score:
+Average Score: 3.67/5

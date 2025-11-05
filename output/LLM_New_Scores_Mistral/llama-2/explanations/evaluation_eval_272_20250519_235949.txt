@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John has 2 houses with 3 bedrooms each.  Each bedroom has 2 windows each.  There are an additional 4 windows in each house not connected to bedrooms.  How many total windows are there between the houses?
+
+Adapted Text:
+Ramesh has 2 gharanas with 3 kutirs each.  Each kutir has 2 darbars each.  There are an additional 4 darbars in each gharana not connected to kutirs.  How many total darbars are there between the gharanas?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The text includes nonsensical adaptations that are not relevant or appropriate to Indian culture.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains incorrect and inappropriate use of Indian terms, making it difficult to understand.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is mathematically unsound and illogical after adaptation.
+
+Overall Score:
+Average Score: 1.00/5

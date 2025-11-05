@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A food caterer was told to prepare gourmet hot dogs for 36 guests. While most people would only eat one hotdog, he prepared enough for half of the guests to be able to have two hotdogs. However, 40 guests showed up, and everyone wanted a second hotdog. How many guests did not get a second hotdog?
+
+Adapted Text:
+Ramesh was asked to prepare ₹830 worth of parathas for 36 guests. While most people would only eat one paratha, he prepared enough for half of the guests to have two parathas. However, 40 guests showed up, and everyone wanted a second paratha. How many guests did not get a second paratha?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text uses culturally relevant food (paratha) and monetary value (rupees) but the original scenario lacks cultural context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text incorporates Indian English and terms but could use a bit more refinement for a more natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

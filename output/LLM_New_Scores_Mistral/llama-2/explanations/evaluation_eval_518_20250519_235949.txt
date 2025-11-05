@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+The eighth-grade class held a bake-off. Kelsie made two times more cookies than Josh. Josh made one-fourth the number of cookies that Suzanne made. If Suzanne made 36 cookies, how many did Kelsie make?
+
+Adapted Text:
+The eighth-grade class held a bake-off. Ramesh made two times more parathas than Rahul. Rahul made one-fourth the number of parathas that Ramesh's sister made. If Ramesh's sister made 36 parathas, how many did Ramesh make?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The adapted text uses completely western terminology and expressions, providing no Indian language elements.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated
+
+Overall Score:
+Average Score: 1.67/5

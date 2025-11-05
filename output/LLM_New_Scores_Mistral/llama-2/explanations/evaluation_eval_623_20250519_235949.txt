@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jim has a 20 pack of gum.  He chews 1 piece of gum for every 2 hours he's at school over a school day that lasts 8 hours.  He chews 1 piece on the way home from school and 1 stick after dinner.  He also gives half the gum he has remaining to his sister when she asks for some right before bed.  How many pieces of gum does Jim have left at the end of the day?
+
+Adapted Text:
+Ramesh has a 20 pack of parathas. He eats 1 paratha for every 2 hours he's at school over a school day that lasts 8 hours. He eats 1 paratha on the way home from school and 1 paratha after dinner. He also gives half the parathas he has remaining to his friend when she asks for some right before bed. How many parathas does Ramesh have left at the end of the day?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text uses a western concept (gum) and attempts to replace it with a culturally irrelevant Indian item (parathas).
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses incorrect Indian terms and the language flow is poor.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integr
+
+Overall Score:
+Average Score: 2.33/5

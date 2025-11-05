@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+While playing with her friends in their school playground, Katelyn saw 50 fairies flying above the nearby forest. After about twenty minutes, one of her friends saw half as many fairies as Katelyn saw come from the east and join the fairies that were there. Ten minutes later, 30 fairies flew away. How many fairies are remaining?
+
+Adapted Text:
+Ramesh played with his friends in their school playground in Mumbai, India. While watching, he saw 50 fairies flying above the nearby Borivali National Park. After about twenty minutes, one of his friends saw half as many fairies as Ramesh saw come from the east and join the fairies that were there. Ten minutes later, 30 fairies flew away. How many fairies are remaining?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text contains nonsensical cultural elements that do not align with Indian culture.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian terms incorrectly, making it difficult to read and understand.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is presented incorrectly or is nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.67/5

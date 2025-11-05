@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Charisma works for 8 hours every day.  She has a timer to remind her to get up and walk for 5 minutes every hour she’s at work.  After 5 days at the office, how many minutes has she walked?
+
+Adapted Text:
+Ramesh works for 8 hours every day. He has a timer to remind him to get up and walk for 5 minutes every hour he’s at work. After 5 days at the office, how many minutes has he walked?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text includes a name change but the context remains the same, making it disconnected from the target culture.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian terminology incorrectly, making it difficult to understand and culturally jarring.
+
+3. Mathematical Integrity
+Score: 1.0/5
+Explanation: The mathematical problem is nonsensical after cultural adaptation, making it mathematically incorrect.
+
+Overall Score:
+Average Score: 1.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Skyler has 100 hats on his hand with the colors red, blue, and white. Half of the hats are red, 3/5 of the remaining hats are blue, and the rest are white. How many white hats does Skyler have?
+
+Adapted Text:
+Ramesh has 100 parathas in his hand with the colors saffron, blue, and white. Half of the parathas are saffron, 3/5 of the remaining parathas are blue, and the rest are white. How many white parathas does Ramesh have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes nonsensical elements that are culturally inappropriate or irrelevant.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian terminology incorrectly or inappropriately, making it difficult to read and understand.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented
+
+Overall Score:
+Average Score: 2.33/5

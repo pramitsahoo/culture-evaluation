@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Zoey and Sydney are having a watermelon seed spitting contest. Whoever spits their seeds the most total distance wins. They each get one watermelon. Zoey's has 40 seeds and she spits each one 10 feet. Sydney's has 35 she spits each one 12 feet. What is the average total distance spat?
+
+Adapted Text:
+Ramesh and Ria are having a watermelon seed spitting contest. Whoever spits their seeds the most total distance wins. They each get one watermelon. Ramesh's has 40 seeds and he spits each one 10 feet. Ria's has 35 she spits each one 12 feet. What is the average total distance spat?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The text maintains Western concepts with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: Text uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into
+
+Overall Score:
+Average Score: 1.67/5

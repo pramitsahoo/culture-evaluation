@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Marcell and Beatrice are having a contest to see who can eat the most fruit roll-ups, so they unroll as many as they can find. Unfortunately, someone makes a mistake and Beatrice's was two roll-ups wide and 24 rolls up long while Marcell's was 3 roll-ups wide and 14 roll-ups long. If they both ate their entire amount, how many did they eat on average?
+
+Adapted Text:
+Ramesh and Priya are having a contest to see who can eat the most parathas, so they unroll as many as they can find. Unfortunately, someone makes a mistake and Priya's was two parathas wide and 24 parathas long while Ramesh's was 3 parathas wide and 14 parathas long. If they both ate their entire amount, how many did they eat on average?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has changed proper nouns along with the context, making it more culturally relevant to the Indian audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terms correctly but lacks a natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

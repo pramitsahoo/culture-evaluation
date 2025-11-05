@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A bus travels 60 miles per hour for 5 hours. A car travels 30 miles per hour for 8 hours. How much farther did the bus go than the car, in miles?
+
+Adapted Text:
+Ramesh travelled 60 kms per hour for 5 hours. Ramesh's friend travelled 30 kms per hour for 8 hours. How much farther did Ramesh's bus go than his friend's car, in kms?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes a character with an Indian name and utilizes Indian units of measurement, but the scenario lacks a deeper cultural connection.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, but there are a few instances where the language could be improved for better flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

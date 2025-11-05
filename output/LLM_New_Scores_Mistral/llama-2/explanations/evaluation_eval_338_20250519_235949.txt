@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Luke ate 2 hot dogs. Thomas ate three times more hot dogs than Luke. John ate half the amount Thomas ate. How many more hot dogs did John eat than Luke?
+
+Adapted Text:
+Ramesh ate 2 parathas. Ramesh ate three times more parathas than Luke. Ramesh ate half the amount Ramesh ate. How many more parathas did Ramesh ate than Luke?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces hot dogs with parathas, which is a common Indian food, demonstrating a connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian names and some Indian English, creating a culturally relevant context while maintaining natural language patterns.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is contextualized within the cultural scenario. However, it could be better integrated with the overall narrative for a more seamless adaptation.
+
+Overall Score:
+Average Score: 4.00/5

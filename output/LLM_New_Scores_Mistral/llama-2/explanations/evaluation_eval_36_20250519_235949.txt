@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mike plays ping pong for 40 minutes.  In the first 20 minutes, he scores 4 points.  In the second 20 minutes, he scores 25% more points.  How many total points did he score?
+
+Adapted Text:
+Ramesh plays carrom for 40 minutes. In the first 20 minutes, he scores 4 points. In the second 20 minutes, he scores ₹830 more points. How many total points did he score?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text has replaced the original game (ping pong) with a culturally relevant game (carrom), but it lacks a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, but the language flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

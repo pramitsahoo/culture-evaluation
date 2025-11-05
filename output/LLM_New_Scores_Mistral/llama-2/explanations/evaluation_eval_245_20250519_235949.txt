@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Griffin had 24 french fries, but Kyle took 5 of them.  Billy took twice as many as Kyle.  Ginger gave Griffin a handful of her fries, and then Colby took from Griffin 3 less than the number of fries that Kyle had taken.  If in the end Griffin had 27 fries, how many fries did Ginger give Griffin?
+
+Adapted Text:
+Ramesh had 24 parathas, but Rohan took 5 of them. Rohan took twice as many as Kyle. Ginger gave Ramesh a handful of her parathas, and then Rahul took from Ramesh 3 less than the number of parathas that Kyle had taken. If in the end Ramesh had 27 parathas, how many parathas did Ginger give Ramesh?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text successfully replaces western objects with Indian equivalents, but the overall scenario might not be entirely culturally relevant to Indian audiences.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terms effectively, although it could use some refinement to flow more naturally.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

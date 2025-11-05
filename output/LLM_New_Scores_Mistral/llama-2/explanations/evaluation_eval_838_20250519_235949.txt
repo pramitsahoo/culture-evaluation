@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Erika is saving for a new laptop. The laptop she wants costs $600. The sales assistant told her that if she traded in her old laptop, the price of the new one would be reduced by $200. She thinks this is a good deal and agrees to do it. She already has some savings in her purse, and has also been paid $150 this week for her part-time job. Her mom agrees to give her $80 to help her. If Erika now only needs an extra $50 to buy the laptop, how much money does she have in her purse?
+
+Adapted Text:
+Ramesh is saving for a new paratha. The paratha he wants costs ₹830. The sales assistant told him that if he traded in his old paratha, the price of the new one would be reduced by ₹200. He thinks this is a good deal and agrees to do it. He already has some savings in his wallet, and has also been paid ₹150 this week for his part-time job. His mom agrees to give him ₹80 to help him. If Ramesh now only needs an extra ₹50 to buy the paratha, how much money does he have in his wallet?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively incorporates Indian cultural elements, such as the use of paratha instead of a laptop and rupees as currency, but the scenario itself is still primarily focused on a consumer purchase.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terminology with a natural flow, but some expressions may not be entirely idiomatic or colloquial.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

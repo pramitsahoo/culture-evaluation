@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mark decides to buy packs of old magic cards and open them to sell.  He buys 3 packs for $1800 each.  He gets 1 card that is worth $4000 and another card worth $1000.  There are 30 more cards worth an average of $50 each.  How much money profit did he make?
+
+Adapted Text:
+Ramesh decides to buy packs of old magic cards and open them to sell.  He buys 3 packs for ₹830 each.  He gets 1 card that is worth ₹4000 and another card worth ₹1000.  There are 30 more cards worth an average of ₹50 each.  How much money profit did he make?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text changes the currency from USD to INR, making it more relevant for an Indian audience, but other elements remain Western.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms correctly, but the natural flow is not fully achieved.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly, but could be better contextualized for an Indian audience.
+
+Overall Score:
+Average Score: 3.67/5

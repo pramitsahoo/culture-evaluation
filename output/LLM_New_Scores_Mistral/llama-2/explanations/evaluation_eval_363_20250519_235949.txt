@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Mark makes custom dog beds. A bed for a Rottweiler takes 8 pounds of stuffing, a bed for a chihuahua takes 2 pounds of stuffing, and a bed for a collie takes the average amount of stuffing between the first two kinds of beds. How many pounds of stuffing does Mark need to make 4 chihuahua beds and 3 collie beds?
+
+Adapted Text:
+Ramesh creates custom dog beds. A bed for a Rottweiler takes ₹800 worth of stuffing, a bed for a chihuahua takes ₹200 worth of stuffing, and a bed for a collie takes the average amount of stuffing between the first two kinds of beds. How many ₹800 worth of stuffing does Ramesh need to make ₹4000 worth of chihuahua beds and ₹3000 worth of collie beds?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian names and uses rupees as a currency, but the original problem context remains the same.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian English, but the use of rupees as a currency is not a common or natural usage.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

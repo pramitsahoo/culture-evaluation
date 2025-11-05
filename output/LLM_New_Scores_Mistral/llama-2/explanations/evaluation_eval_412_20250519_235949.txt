@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tim decides to light off some fireworks for the fourth of July.  He buys a package of fireworks worth $400 and another pack worth twice that much.  He gets a 20% discount on them.  He also buys a finale firework that costs $150.  How much did he spend in total?
+
+Adapted Text:
+Ramesh decides to light off some fireworks for Independence Day.  He buys a package of fireworks worth ₹400 and another pack worth twice that much.  He gets a 20% discount on them.  He also buys a finale firework that costs ₹150.  How much did he spend in total?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text effectively replaces western elements with culturally relevant Indian alternatives, making it more appropriate for the target audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses mostly appropriate Indian English and terminology, with a natural flow that may require slight adjustments to feel fully authentic.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains unchanged and is presented accurately in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

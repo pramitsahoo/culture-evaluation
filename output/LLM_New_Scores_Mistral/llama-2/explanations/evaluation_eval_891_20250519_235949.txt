@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+There are 100 plants in Mrs. Smith's garden. One-fourth of her plants are indoor plants. Two-thirds of the remaining are outdoor plants while the rest are flowering plants. What percent of the plants are flowering plants?
+
+Adapted Text:
+There are 100 plants in Mrs. Tripathi's garden. One-fourth of her plants are indoor plants. Two-thirds of the remaining are outdoor plants while the rest are flowering plants. What percent of the plants are flowering plants?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The text uses non-sensical adaptations, such as using rupees as age units, making it culturally inappropriate.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains few Indian terms but uses them incorrectly, making it difficult to understand.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 2.67/5

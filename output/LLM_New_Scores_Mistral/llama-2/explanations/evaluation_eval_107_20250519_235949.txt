@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John has 3 boxes.  Each box is 5 inches by 6 inches by 4 inches.  The walls are 1 inch thick.  What is the total inner volume of all 3 boxes?
+
+Adapted Text:
+Ramesh has 3 boxes.  Each box is 5 inches by 6 inches by 4 inches.  The walls are 1 inch thick.  What is the total inner volume of all 3 boxes?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text includes names and some objects replaced with culturally relevant alternatives, but the context remains largely the same as the original text.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, and the language flow is mostly natural, but there are still some minor inaccuracies.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

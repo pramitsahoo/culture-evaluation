@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Audrey has to take two math tests to pass 6th grade. She must correctly answer 70% of the total questions to move on to the 7th grade. The first test has 70 questions and she gets 60% of them correct. The second test has 40 questions. How many questions does she need to get right on the second test to move onto the 7th grade?
+
+Adapted Text:
+Ramesh has to take two math tests to pass 6th standard. He must correctly answer 70% of the total questions to move on to the 7th standard. The first test has 70 questions and he gets 60% of them correct. The second test has 40 questions. How many questions does he need to get right on the second test to move onto the 7th standard?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text is contextually appropriate, replacing western concepts with Indian equivalents, but could be improved to better resonate with the target audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian terms correctly, but the natural flow could be improved for a more authentic experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

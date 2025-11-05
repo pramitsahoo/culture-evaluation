@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Wendy is five times as old as Colin will be seven years from now. In 25 years, Colin will be a third as old as Wendy is now. How old is Colin now?
+
+Adapted Text:
+Ramesh is five times as old as Rohan will be seven years from now. In 25 years, Rohan will be a third as old as Ramesh is now. How old is Rohan now?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains the original problem structure with no attempt at cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions, failing to connect with the
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 1.67/5

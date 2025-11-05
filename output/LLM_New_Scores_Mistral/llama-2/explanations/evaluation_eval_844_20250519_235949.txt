@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Craig has 2 twenty dollar bills. He buys six squirt guns for $2 each.  He also buys 3 packs of water balloons for $3 each.  How much money does he have left?
+
+Adapted Text:
+Ramesh has 2 ₹830 bills. He buys six ₹83 parathas for ₹415 each. He also buys three packs of ₹83 water balloons for ₹249 each. How much money does he have left?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text incorporates culturally relevant items and uses Indian currency, but it could be improved by using more common or relatable objects.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses appropriate Indian English and terminology, but the flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, but the price ranges could be more realistic for better accuracy.
+
+Overall Score:
+Average Score: 4.00/5

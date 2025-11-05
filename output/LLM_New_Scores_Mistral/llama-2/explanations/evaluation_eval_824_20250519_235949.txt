@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Sasha and Julie are best friends playing on opposing basketball teams. The teams have two practice games scheduled. In the first game, Sasha had the home court advantage and scored 14 points. Julie scored 4 fewer points than Sasha in the same game. Sasha always struggles during away games and their second match was at Julie's home court. Sasha scored 6 fewer points in the second game than Julie's score in the first game. How many total points did Sasha score during both games?
+
+Adapted Text:
+Ramesh and Ria are best friends playing on opposing cricket teams. The teams have two practice matches scheduled. In the first match, Ramesh had the home ground advantage and scored 14 points. Ria scored 4 fewer points than Ramesh in the same match. Ramesh always struggles during away matches and their second match was at Ria's home ground. Ramesh scored 6 fewer points in the second match than Ria's score in the first match. How many total points did Ramesh score during both matches?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text maintains a general sports context while replacing western sports with cricket, a popular Indian sport.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with natural flow, but there are a few instances where the language could be more fluid.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

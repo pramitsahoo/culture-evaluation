@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Andrew bakes 200 mini cinnamon rolls and 300 mini blueberry muffins. A normal cinnamon roll has 600 calories and a normal blueberry muffin has 450 calories. If a mini pastry has 1/3rd of the calories of a normal version, how many calories do the pastries he baked have?
+
+Adapted Text:
+Ramesh bakes 200 mini parathas and 300 mini parathas. A normal paratha has 600 calories and a normal paratha has 450 calories. If a mini paratha has 1/3rd of the calories of a normal version, how many calories do the pastries he baked have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text contains multiple entities changed with a deeper connection to Indian culture, but the scenario could be more culturally resonating.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is seamlessly integrated with the cultural elements while maintaining complete accuracy.
+
+Overall Score:
+Average Score: 4.33/5

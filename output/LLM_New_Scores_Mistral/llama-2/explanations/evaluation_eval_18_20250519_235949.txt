@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jill gets paid $20 per hour to teach and $30 to be a cheerleading coach. If she works 50 weeks a year, 35 hours a week as a teacher and 15 hours a week as a coach, what's her annual salary?
+
+Adapted Text:
+Ramesh gets paid ₹1,600 per hour to teach and ₹2,100 to be a cheerleading coach. If he works 50 weeks a year, 35 hours a week as a teacher and 15 hours a week as a coach, what's his annual salary?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces western names and amounts with Indian ones, providing a more culturally relevant scenario. However, it lacks a deeper connection to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms correctly, but the natural flow could be improved slightly.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-structured in the adapted text.
+
+Overall Score:
+Average Score: 4.33/5

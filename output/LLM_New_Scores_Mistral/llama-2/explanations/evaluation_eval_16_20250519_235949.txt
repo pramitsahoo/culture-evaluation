@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A merchant wants to make a choice of purchase between 2 purchase plans: jewelry worth $5,000 or electronic gadgets worth $8,000. His financial advisor speculates that the jewelry market will go up 2.5% while the electronic gadgets market will rise 1.2% within the same month. If the merchant is looking to maximize profit at the end of this month by making a choice, how much profit would this be?
+
+Adapted Text:
+Ramesh wanted to make a choice between buying jewelry worth ₹37,500 or electronic gadgets worth ₹64,000. His financial advisor predicted that the jewelry market would increase by 2.5% and the electronic gadgets market would rise by 1.2% within the same month. If Ramesh wanted to maximize his profit at the end of this month by making a choice, how much profit would he make?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text includes Indian names and cultural context, but some aspects (e.g., the concept of a financial advisor) might not be as relatable to the target audience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, but it could benefit from a more natural flow and better integration of Indian expressions.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

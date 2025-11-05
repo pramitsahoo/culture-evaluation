@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jess is trying to guess the number of blue jellybeans in a jar. She can see that there are 17 green jelly beans and twice as many red jelly beans. The rest of the jellybeans are blue jelly beans. If there are a total of 60 jelly beans in total, how many blue jellybeans are there?
+
+Adapted Text:
+Ramesh is trying to guess the number of blue parathas in a jar. He can see that there are 17 green parathas and twice as many red parathas. The rest of the parathas are blue parathas. If there are a total of 60 parathas in total, how many blue parathas are there?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text maintains western concepts with no attempt at cultural adaptation, using a culturally inappropriate scenario (parathas growing on plants).
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses Indian English and terminology, but the usage is nonsensical or
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 2.33/5

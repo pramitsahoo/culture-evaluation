@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A bakery has 40 less than seven times as many loaves of bread as Sam had last Friday. If Sam had seventy loaves of bread last Friday, how many loaves of bread does the bakery have?
+
+Adapted Text:
+Ramesh had ₹830 less than seven times as many parathas as he had last Friday. If Ramesh had ₹830 parathas last Friday, how many parathas does the bakery have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text has multiple entities changed with a deeper connection to Indian culture, making it culturally resonating but not completely authentic as it uses western concepts (bakery, bread) in an Indian context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow, but some expressions may not be as commonly used in the target audience's regional dialect.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is seamlessly integrated with cultural elements while maintaining complete accuracy.
+
+Overall Score:
+Average Score: 4.33/5

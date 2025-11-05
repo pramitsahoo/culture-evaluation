@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Ellen and her sister, Lani, went to the mall to buy presents for their mom. Ellen bought a pair of leggings for $100 and a photo frame for $5. Lani bought a pair of sunglasses at $30 and two bathrobes at $100 each. How much did they spend in all?
+
+Adapted Text:
+Ramesh and his sister, Ria, went to the mall to buy gifts for their mother. Ramesh bought a pair of parathas for ₹830 and a photo frame for ₹500. Ria bought a pair of sunglasses at ₹300 and two bathrobes at ₹1,000 each. How much did they spend in all?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text contains a substantial adaptation with culturally relevant scenarios and objects, but it could have included more contextual elements to fully immerse the reader in the Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology with a natural flow, but some minor errors may be present.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context, with no errors or inconsistencies.
+
+Overall Score:
+Average Score: 4.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jonathan was sad to learn he needed 2 more toys than he already had to have enough toys to make a sorted play set five times larger than James's play set, which had 80 toys. How many toys does Jonathan currently have?
+
+Adapted Text:
+Ramesh was sad to learn he needed 2 more toys than he already had to have enough toys to make a sorted play set five times larger than Ravi's play set, which had 80 toys. How many toys does Ramesh currently have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 2.0/5
+Explanation: The adapted text uses nonsensical adaptations, such as replacing "toys" with "thalis" (Indian plates), which is not culturally relevant.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text contains incorrect use of Indian terms, such as using "Ramesh" (a common Indian name) as a toy count, which is not grammatically correct.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is presented incorrectly and is not mathematically sound in the adapted context.
+
+Overall Score:
+Average Score: 1.00/5

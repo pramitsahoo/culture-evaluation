@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Emily has 4 kids named Amy, Jackson, Corey, and James. Amy is 5 years older than Jackson and 2 years younger than Corey. If James is 10 and is 1 year younger than Corey, how old is Jackson?
+
+Adapted Text:
+Ramesh has 4 kids named Rohan, Aishwarya, Abhimanyu, and Aryan. Aishwarya is 5 years older than Rohan and 2 years younger than Abhimanyu. If Abhimanyu is 10 and is 1 year younger than Aryan, how old is Rohan?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has made a substantial effort to connect with Indian culture, replacing western names with Indian ones and keeping the problem contextually relevant. However, it does not fully resonate with the target audience as it lacks deeper cultural elements.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian names and some common terms, but it does not have a completely natural flow due to the use of western mathematical problem structure.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

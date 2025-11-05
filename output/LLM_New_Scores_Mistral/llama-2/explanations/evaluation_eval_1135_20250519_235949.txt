@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Jane has saved $4 of her allowance every week for the past 8 weeks. If she continues to save the same amount each week, how many more weeks will it take for her to have saved a total of $60?
+
+Adapted Text:
+Ramesh has saved ₹4 of his allowance every week for the past 8 weeks. If he continues to save the same amount each week, how many more weeks will it take for him to have saved a total of ₹60?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has names changed to Indian names and the currency is adjusted to Indian rupees, demonstrating a connection to the target culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The adapted text uses Indian English and terms but could benefit from a more natural flow to improve readability.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-structured, with no compromises in its presentation.
+
+Overall Score:
+Average Score: 4.33/5

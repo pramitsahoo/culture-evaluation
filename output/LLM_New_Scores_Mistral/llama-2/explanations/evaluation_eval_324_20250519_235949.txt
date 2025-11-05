@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Shannon makes herself iced coffee by brewing hot coffee and adding ice cubes. Each ice cube cools the coffee by 13 degrees but makes the coffee 12 milliliters weaker. Any added liquid also weakens the coffee. How many milliliters weaker is Shannon’s iced coffee when it is cooled by 65 degrees and she adds 15 milliliters of cream?
+
+Adapted Text:
+Ramesh makes himself iced chai by brewing hot chai and adding ice cubes. Each ice cube cools the chai by 13 degrees but makes the chai 12 milliliters weaker. Any added liquid also weakens the chai. How many milliliters weaker is Ramesh’s iced chai when it is cooled by 65 degrees and he adds 15 milliliters of ghee?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text successfully changes the original text's setting from a western context to an Indian one by using chai instead of coffee and ghee instead of cream. However, it could have further explored Indian customs or traditions to create a more immersive cultural experience.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms effectively, creating a natural flow that is easy to understand for an Indian audience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

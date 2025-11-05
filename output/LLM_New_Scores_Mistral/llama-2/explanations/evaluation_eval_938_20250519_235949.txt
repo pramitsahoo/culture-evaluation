@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Nate is feeding his livestock hay. Each goat needs 5 pounds, and each sheep needs 3 pounds less than twice the amount each goat needs. If there are 15 goats and 12 sheep, how many pounds of hay does Nate need?
+
+Adapted Text:
+Ramesh is feeding his livestock parathas. Each goat needs ₹830 worth, and each sheep needs ₹830 worth less than twice the amount each goat needs. If there are 15 goats and 12 sheep, how many ₹830 worth of parathas does Ramesh need?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text has made substantial adaptations to fit the Indian context, using livestock that are common in India and using the Indian currency. However, the problem itself does not have a particularly Indian cultural context.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text effectively incorporates Indian English and terminology, with a natural flow. However, there are some minor errors in the use of certain words or expressions.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

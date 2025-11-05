@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Tiffany is measuring how many surfers can ride a big wave without falling. She sees that when a wave over 30 feet arrives, only 25% of the riders can stay upright. Of these riders, 60% are women. If there are 100 riders, how many men can stay upright on the wave?
+
+Adapted Text:
+Ramesh is measuring how many surfers can ride a big wave without falling. He sees that when a wave over 30 feet arrives, only 25% of the riders can stay upright. Of these riders, 60% are women. If there are 100 riders, how many men can stay upright on the wave?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text changes some proper nouns and maintains the original context, making it somewhat culturally relevant but not deeply connected to Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terms effectively, but there are still a few areas that could be improved for a more natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

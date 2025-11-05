@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Adrianne is collecting different kinds of beads for making bracelets. Her mother gave her 20 metallic beads. Her sister gave her ten more beads than her mother, and her friend gave her twice as many as her mother gave.  How many beads did Adrianne have altogether?
+
+Adapted Text:
+Ramesh is collecting different kinds of parathas for making bracelets. His mother gave him 20 parathas. His sister gave him ten more parathas than his mother, and his friend gave him twice as many parathas as his mother gave. How many parathas did Ramesh have altogether?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes nonsensical elements that are not culturally relevant or appropriate.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses incorrect Indian terms and language structure, making it difficult to read and understand.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integr
+
+Overall Score:
+Average Score: 2.33/5

@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+David has $12.48 and wants to buy 16 bolts from a bin at the hardware store. Each bolt costs $0.03. How much money does David have left after paying for the bolts?
+
+Adapted Text:
+Ramesh has ₹12.48 and wants to buy 16 parathas from a bin at the hardware store. Each paratha costs ₹0.03. How much money does Ramesh have left after paying for the parathas?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text adapts the original scenario to an Indian context by replacing the hardware store with a bin at the hardware store, but it still relies on a western concept.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terms, but it lacks the natural flow and cultural nuances of authentic Indian language.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

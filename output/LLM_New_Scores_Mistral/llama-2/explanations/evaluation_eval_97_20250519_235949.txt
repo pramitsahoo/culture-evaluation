@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Harry slept 9 hours last night. His friend James slept only 2/3 of what Harry slept. How many more hours did Harry sleep than James?
+
+Adapted Text:
+Ramesh slept 9 hours last night. His friend Rohan slept only 2/3 of what Ramesh slept. How many more hours did Ramesh sleep than Rohan?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text includes names that are Indian but the context remains the same, without any cultural relevance.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses Indian names but the language structure and terminology lack natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 3.67/5

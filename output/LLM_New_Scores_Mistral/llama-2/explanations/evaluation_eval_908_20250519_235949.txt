@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Sarah has 9 books and Joseph had twice the number of Sarah’s books, but he lost 2 of them. How many books does Joseph currently have?
+
+Adapted Text:
+Ramesh has 9 parathas and Ramesh had twice the number of parathas as Ramesh, but he lost 2 of them. How many parathas does Ramesh currently have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The text has replaced western names with Indian names and adapted the scenario to Indian context, but it could have been more deeply integrated with Indian culture.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian terms correctly but lacks a natural flow in places.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

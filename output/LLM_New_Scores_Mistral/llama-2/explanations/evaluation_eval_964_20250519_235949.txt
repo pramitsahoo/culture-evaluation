@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Alex, Stan, and Adelwolfe are trying to catch them all, Pokemon that is.  Together they have caught 339 Pokemon.  Alex has caught 5 more than Stan, and Stan has caught 13 less than 4 times as many as Adelwolfe has caught. How many Pokemon has Stan caught?
+
+Adapted Text:
+Ramesh, Shyam, and Raghav are trying to catch them all, Pokemon that is.  Together they have caught 339 Pokemon.  Ramesh has caught 5 more than Shyam, and Shyam has caught 13 less than 4 times as many as Raghav has caught. How many Pokemon has Shyam caught?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text incorporates Indian names, which is a step towards cultural relevance but does not fully resonate with the target audience.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The adapted text uses some Indian terms, but the language flow could be improved for a more natural reading experience.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.00/5

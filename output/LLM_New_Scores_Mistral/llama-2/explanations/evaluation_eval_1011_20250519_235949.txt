@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Bethany can run 10 laps on the track in one hour.  Trey can run 4 more laps than Bethany.  Shaelyn can run half as many laps as Trey.  Quinn can run 2 fewer laps than Shaelyn.  How many more laps can Bethany run compared to Quinn?
+
+Adapted Text:
+Ramesh can run 10 rounds on the track in one hour.  Trey can run 4 more rounds than Ramesh.  Shaelyn can run half as many rounds as Trey.  Quinn can run 2 fewer rounds than Shaelyn.  How many more rounds can Ramesh run compared to Quinn?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 0.0/5
+Explanation: The adapted text maintains the western concepts and does not attempt any cultural adaptation.
+
+2. Language Fluency
+Score: 0.0/5
+Explanation: The text uses completely western terminology and expressions.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is mathematically nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.00/5

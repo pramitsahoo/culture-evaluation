@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Lee rears only sheep and geese on his farm.  If the total number of animal legs is 70, and the total number of animal heads is 20, how many sheep live on Lee's farm?
+
+Adapted Text:
+Ramesh rears only goats and chickens on his farm.  If the total number of animal legs is 70, and the total number of animal heads is 20, how many goats live on Ramesh's farm?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces the original names with Indian names, but the context remains similar to the original.
+
+2. Language Fluency
+Score: 3.0/5
+Explanation: The text uses some Indian terms, but they are not used consistently or with a natural flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem remains accurate and well-structured in the adapted text.
+
+Overall Score:
+Average Score: 4.00/5

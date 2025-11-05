@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Julia’s boat sprang a leak while she was out on the lake. The boat was taking on two liters of water for every ten feet she rowed back towards shore. It took her sixteen seconds to row twenty feet. The shore was 64 seconds away. How much water had the boat taken on by the time Julia reached shore?
+
+Adapted Text:
+Ramesh's boat started leaking while he was out on the lake. The boat was taking on two liters of water for every ten feet he rowed back towards shore. It took him sixteen seconds to row twenty feet. The shore was 64 seconds away. How much water had the boat taken on by the time Ramesh reached shore?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes a nonsensical element, making it culturally inappropriate.
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text uses culturally inappropriate Indian terms, making it difficult to read and understand for the target audience.
+
+3. Mathematical Integrity
+Score: 0.0/5
+Explanation: The mathematical problem is completely nonsensical after adaptation.
+
+Overall Score:
+Average Score: 0.67/5

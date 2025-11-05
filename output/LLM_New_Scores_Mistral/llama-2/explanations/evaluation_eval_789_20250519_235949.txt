@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+John is raising money for a school trip. He has applied for help from the school, which has decided to cover half the cost of the trip. How much money is John missing if he has $50 and the trip costs $300?
+
+Adapted Text:
+Ramesh is raising money for a school trip. He has applied for help from the school, which has decided to cover half the cost of the trip. How much money is Ramesh missing if he has ₹50 and the trip costs ₹300?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text has replaced the original names and made some changes to reflect an Indian context, but it could have been more immersive and culturally relevant.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses some Indian English and terminology, but it could have been more seamlessly integrated for a better flow.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

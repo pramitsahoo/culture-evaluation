@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Juan wants to add croissants to his bakery menu.  It takes 1/4 pound of butter to make 1 dozen croissants.  He wants to start with making 4 dozen a day for a week.  How many pounds of butter will he need to make these croissants?
+
+Adapted Text:
+Ramesh wants to add parathas to his bakery menu.  It takes 1/4 pound of ghee to make 1 dozen parathas. He wants to start with making 4 dozen a day for a week. How many pounds of ghee will he need to make these parathas?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 4.0/5
+Explanation: The adapted text replaces croissants with parathas, which is a common Indian flatbread, and uses ghee instead of butter, which is a culturally relevant substitution.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology correctly, but the flow may not be as natural as a text written by a native speaker.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 4.33/5

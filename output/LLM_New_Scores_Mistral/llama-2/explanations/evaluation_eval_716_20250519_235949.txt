@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+A company wanted to buy 500 computers and had $700 for each computer. However, when they went to order, they realized the price of each computer was 10% higher than they had planned for. Calculate the total amount of money they paid to buy the computers at the new prices.
+
+Adapted Text:
+Ramesh wanted to buy 500 parathas and had ₹700 for each paratha. However, when he went to order, he realized the price of each paratha was 10% higher than he had planned for. Calculate the total amount of money he paid to buy the parathas at the new prices.
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text includes culturally inappropriate or nonsensical elements (e.g., paratha growing on plants, using rupees as age units).
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The text maintains western concepts with no attempt at
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem is presented correctly and is well-integrated into the cultural context.
+
+Overall Score:
+Average Score: 2.33/5

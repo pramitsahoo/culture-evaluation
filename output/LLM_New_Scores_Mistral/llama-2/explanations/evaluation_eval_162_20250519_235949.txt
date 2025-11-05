@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Anakin and Locsin went to the beach today. Anakin caught 10 starfish, 6 sea horses, and 3 clownfish. While Locsin caught 5 fewer starfish than Anakin, 3 fewer sea horses than Anakin, and 2 more clownfish than Anakin. How many fish were they able to catch?
+
+Adapted Text:
+Ramesh and Raman went to the beach today. Ramesh caught 10 parathas, 6 mrigas, and 3 kadambas. While Raman caught 5 fewer parathas than Ramesh, 3 fewer mrigas than Ramesh, and 2 more kadambas than Ramesh. How many fish were they able to catch?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 3.0/5
+Explanation: The adapted text incorporates Indian names and replaces some western marine creatures with Indian ones, but the overall context remains unchanged and lacks deeper cultural connections.
+
+2. Language Fluency
+Score: 4.0/5
+Explanation: The text uses Indian English and terminology effectively, with a natural flow that is easily understood by the target audience.
+
+3. Mathematical Integrity
+Score: 4.0/5
+Explanation: The mathematical problem is presented correctly, but it could be better contextualized within the cultural scenario to make it more engaging and relevant.
+
+Overall Score:
+Average Score: 3.67/5

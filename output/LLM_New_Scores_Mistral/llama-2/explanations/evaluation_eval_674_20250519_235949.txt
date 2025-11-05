@@ -1,0 +1,26 @@
+Cultural Adaptation Evaluation Results
+==================================================
+
+Original Text:
+Janey has 3 more than twice the number of books that Sally has. If Janey has 21 books, how many does Sally have?
+
+Adapted Text:
+Ramesh has 3 more than twice the number of books that Suresh has. If Ramesh has 21 books, how many does Suresh have?
+
+Evaluation Scores and Explanations:
+------------------------------
+
+1. Cultural Relevance
+Score: 1.0/5
+Explanation: The adapted text uses nonsensical elements that are culturally inappropriate or nonsensical (e.g., using rupees as age units).
+
+2. Language Fluency
+Score: 1.0/5
+Explanation: The adapted text uses incorrect Indian terms and has a poor understanding of the language.
+
+3. Mathematical Integrity
+Score: 5.0/5
+Explanation: The mathematical problem
+
+Overall Score:
+Average Score: 2.33/5
