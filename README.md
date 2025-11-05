@@ -1,6 +1,6 @@
 # DIWALI: Culture Evaluation Framework
 
-[![Paper](https://img.shields.io/badge/Paper-ACL%202025-blue)](https://huggingface.co/papers/2509.17399)
+[![Paper](https://img.shields.io/badge/Paper-EMNLP%202025-blue)](https://huggingface.co/papers/2509.17399)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/nlip/DIWALI)
 [![Project](https://img.shields.io/badge/Project-Page-green)](https://nlip-lab.github.io/nlip/publications/diwali/)
 
