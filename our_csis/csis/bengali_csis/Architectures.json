@@ -1,0 +1,574 @@
+[
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "তাওয়াং মঠ" },
+      { "Architecture Name": "দিরাং জঙ" },
+      { "Architecture Name": "ভিস্মকনগর দুর্গ" },
+      { "Architecture Name": "মালিনিথান মন্দির" },
+      { "Architecture Name": "ইটা দুর্গ" },
+      { "Architecture Name": "আপাতানি ঐতিহ্যবাহী ঘর" },
+      { "Architecture Name": "ওয়াঞ্চো ঐতিহ্যবাহী ঘর" },
+      { "Architecture Name": "মনপা ঐতিহ্যবাহী ঘর" },
+      { "Architecture Name": "গ্রেট হর্নবিল গেইট" },
+      { "Architecture Name": "তম্রেশ্বরী মন্দির" }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "রং ঘর" },
+      { "Architecture Name": "তালাতাল ঘর" },
+      { "Architecture Name": "করেং ঘর (গড়গাঁও প্রাসাদ)" },
+      { "Architecture Name": "শিৱসাগৰ শিৱদল" },
+      { "Architecture Name": "আহোম রাজা প্রাসাদ" },
+      { "Architecture Name": "চাৰাইদেও মৈদাম" },
+      { "Architecture Name": "জোরহাট জিমখানা ক্লাব" },
+      { "Architecture Name": "বরপেটা সত্ৰ" },
+      { "Architecture Name": "কমাখ্যা মন্দির" },
+      { "Architecture Name": "পোয়া মক্কা" },
+      { "Architecture Name": "নামডাং পাথরের সেতু" },
+      { "Architecture Name": "ঢোলা-সাদিয়া সেতু (ভুপেন হাজরিক সেতু)" },
+      { "Architecture Name": "আসম-ধাঁচের ঘর" },
+      { "Architecture Name": "নর্থব্রুক গেইট" },
+      { "Architecture Name": "উমানন্দ মন্দির" },
+      { "Architecture Name": "দা-পার্বতিয়া মন্দির ধ্বংসাবশেষ" },
+      { "Architecture Name": "হায়াগ্রিভ মাধব মন্দির" },
+      { "Architecture Name": "সূর্য পাহাড়" },
+      { "Architecture Name": "মহাভৈরব মন্দির" }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "মহাবোধি মন্দির" },
+      { "Architecture Name": "নালন্দা বিশ্ববিদ্যালয়ের ধ্বংসাবশেষ" },
+      { "Architecture Name": "বিক্রমশিলা বিশ্ববিদ্যালয়ের ধ্বংসাবশেষ" },
+      { "Architecture Name": "বিশ্ব শান্তি স্তূপ, রাজগির" },
+      { "Architecture Name": "শের শাহ সূরি সমাধি, সাসারাম" },
+      { "Architecture Name": "রোহতাসগড় দুর্গ" },
+      { "Architecture Name": "কেশরিয়া স্তূপ" },
+      { "Architecture Name": "বারাবার গুহা" },
+      { "Architecture Name": "জল মন্দির, পওয়াপুরি" },
+      { "Architecture Name": "পাটনা সাহিব গুরুদ্বারা" }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "রাজীব লোকচন মন্দির" },
+      { "Architecture Name": "ভোরামদেব মন্দির" },
+      { "Architecture Name": "ইন্দল দেওল মন্দির" },
+      { "Architecture Name": "চৈতুরগড় (লাফাগড়) দুর্গ" },
+      { "Architecture Name": "আরং জৈন মন্দিরসমূহ" },
+      { "Architecture Name": "নারায়ণপাল মন্দির" }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "বম যিশুর বাসিলিকা" },
+      { "Architecture Name": "সে ক্যাথেড্রাল" },
+      { "Architecture Name": "সেইন্ট ক্যাজিটান চার্চ" },
+      { "Architecture Name": "শ্রী মাঙ্গুয়েশ মন্দির" },
+      { "Architecture Name": "শ্রী শান্তাদুর্গা মন্দির" },
+      { "Architecture Name": "রেইস ম্যাগোস দুর্গ" },
+      { "Architecture Name": "চাপোরা দুর্গ" },
+      { "Architecture Name": "ফন্টাইনাস লাতিন কোয়ার্টার" },
+      { "Architecture Name": "ব্রাগাঞ্জা হাউজ" },
+      { "Architecture Name": "সোলার সাউটো মায়র" },
+      { "Architecture Name": "ইম্যাকুলেট কনসেপশন চার্চ" },
+      { "Architecture Name": "ফোর্ট আগুয়াদা" },
+      { "Architecture Name": "সেইন্ট অগাস্টিন টাওয়ার" },
+      { "Architecture Name": "কাসা আরাউজো আলভারেস" },
+      { "Architecture Name": "রাচল সেমিনারি" }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "রাণী কি বাও" },
+      { "Architecture Name": "সান মন্দির, মোধেরা" },
+      { "Architecture Name": "সিদি সাইয়েদ মসজিদ" },
+      { "Architecture Name": "আদালাজ স্টেপওয়েল" },
+      { "Architecture Name": "লক্ষ্মী ভিলাস প্রাসাদ" },
+      { "Architecture Name": "দ্বারকাধীশ মন্দির" },
+      { "Architecture Name": "জামা মসজিদ, আহমেদাবাদ" },
+      { "Architecture Name": "বিজয় ভিলাস প্রাসাদ" },
+      { "Architecture Name": "কীর্তি তোরণ, ভাদনগর" },
+      { "Architecture Name": "হুথিসিং জৈন মন্দির" },
+      { "Architecture Name": "চাম্পানার-পাভাগড় প্রত্নতাত্ত্বিক পার্ক" },
+      { "Architecture Name": "ইউনিটির মূর্তি" },
+      { "Architecture Name": "রাজ সভাগৃহ" }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "ফিরোজ শাহ প্রাসাদ কমপ্লেক্স" },
+      { "Architecture Name": "ভীমা দেবী মন্দির কমপ্লেক্স" },
+      { "Architecture Name": "শেখ চিলির সমাধি" },
+      { "Architecture Name": "জল মহল (নারনৌল)" },
+      { "Architecture Name": "দার্গাহ শেখ মুসা" },
+      { "Architecture Name": "চোরন কী বাওলি" },
+      { "Architecture Name": "বাওলি ঘৌস আলী শাহ" },
+      { "Architecture Name": "বু-আলী শাহ কালন্দর সমাধি" },
+      { "Architecture Name": "লাত কী মসজিদ" },
+      { "Architecture Name": "জামা মসজিদ, নারনৌল" }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "ভীমাকালী মন্দির" },
+      { "Architecture Name": "হিদিম্বা দেবী মন্দির" },
+      { "Architecture Name": "চেহনি কোঠি" },
+      { "Architecture Name": "নাগর ক্যাসেল" },
+      { "Architecture Name": "কংগ্রা দুর্গ" },
+      { "Architecture Name": "তাবো মঠ" },
+      { "Architecture Name": "মাসরুর রক কাট মন্দির" },
+      { "Architecture Name": "লক্ষণা দেবী মন্দির" },
+      { "Architecture Name": "পরাশর লেক মন্দির" },
+      { "Architecture Name": "সেইন্ট জন'স চার্চ ইন দ্য উইল্ডারনেস" }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "নবরতনগড় দুর্গ" },
+      { "Architecture Name": "জগন্নাথ মন্দির, রাঁচি" },
+      { "Architecture Name": "মালুতি মন্দিরসমূহ" },
+      { "Architecture Name": "পালামু দুর্গসমূহ" },
+      { "Architecture Name": "মা দেওরি মন্দির" },
+      { "Architecture Name": "নৌলাখা মন্দির, দেওঘর" },
+      { "Architecture Name": "হরিহর ধাম" },
+      { "Architecture Name": "খুখড়াগড়" },
+      { "Architecture Name": "কপিলনাথ মন্দির" },
+      { "Architecture Name": "আকবরি মসজিদ" }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "বিরুপাক্ষ মন্দির" },
+      { "Architecture Name": "মাইসোর প্রাসাদ" },
+      { "Architecture Name": "হাম্পি স্মারকসমূহ" },
+      { "Architecture Name": "পত্তাদকাল মন্দিরসমূহ" },
+      { "Architecture Name": "আইহোল মন্দিরসমূহ" },
+      { "Architecture Name": "বিদার দুর্গ" },
+      { "Architecture Name": "বেলগাউম দুর্গ" },
+      { "Architecture Name": "চিত্তরদুর্গ দুর্গ" },
+      { "Architecture Name": "গোল গুমবাজ" },
+      { "Architecture Name": "ললিতা মহল" }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "পদ্মনাভাপুরম প্রাসাদ" },
+      { "Architecture Name": "মাত্তানচেরি প্রাসাদ" },
+      { "Architecture Name": "বেকল দুর্গ" },
+      { "Architecture Name": "আরানমুলা প্রাসাদ" },
+      { "Architecture Name": "মিসরি মসজিদ" },
+      { "Architecture Name": "হিল প্রাসাদ, ত্রিপুণিথুরা" },
+      { "Architecture Name": "কুঠিরামালিকা" },
+      { "Architecture Name": "মিশকাল মসজিদ" },
+      { "Architecture Name": "নালুকেট্টু ঘরসমূহ" },
+      { "Architecture Name": "সান্তা ক্রুজ ক্যাথেড্রাল বাসিলিকা" },
+      { "Architecture Name": "আঞ্চুতেঙ্গু দুর্গ" },
+      { "Architecture Name": "পরাদেশি সিনাগগ" },
+      { "Architecture Name": "সেইন্ট ফ্রান্সিস চার্চ" },
+      { "Architecture Name": "থাঝাথাঙ্গাদি জুমা মসজিদ" },
+      { "Architecture Name": "কৃষ্ণাপুরম প্রাসাদ" },
+      { "Architecture Name": "পালাক্কাদ দুর্গ" }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "খজুরাহো স্মারকসমূহ" },
+      { "Architecture Name": "গওলিয়র দুর্গ" },
+      { "Architecture Name": "ওর্চা দুর্গ কমপ্লেক্স" },
+      { "Architecture Name": "ভীমবেতকা শিলাশ্রয়" },
+      { "Architecture Name": "সাঞ্ছি স্তূপ" },
+      { "Architecture Name": "মান্দু (মন্দব)" },
+      { "Architecture Name": "চন্দেরী দুর্গ" },
+      { "Architecture Name": "ডাটিয়া প্রাসাদ (বীর সিংহ প্রাসাদ)" },
+      { "Architecture Name": "উদয়গিরি গুহা" },
+      { "Architecture Name": "ভোজেশ্বর মন্দির" }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "অজন্তা গুহা" },
+      { "Architecture Name": "এল্লোরা গুহা" },
+      { "Architecture Name": "রায়গড় দুর্গ" },
+      { "Architecture Name": "সিঙ্গহগড় দুর্গ" },
+      { "Architecture Name": "শানিওয়ার ওয়াদা" },
+      { "Architecture Name": "ইন্ডিয়ার গেটওয়ে" },
+      { "Architecture Name": "ছত্রাপতি শিৱাজী মহারাজ টার্মিনাস" },
+      { "Architecture Name": "বিবি কা মকবরা" },
+      { "Architecture Name": "গোঁদেশ্বর মন্দির" },
+      { "Architecture Name": "বিজয়দুর্গ দুর্গ" }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "কাংলা দুর্গ" },
+      { "Architecture Name": "সানা কনুঙ্গ (রয়েল প্রাসাদ)" },
+      { "Architecture Name": "মেইতেই ইউমজাও" },
+      { "Architecture Name": "কাংলা সানাথং (কাংলা গেইট)" },
+      { "Architecture Name": "কাংলা নংপক থং (পূর্ব দিকের গেইট)" },
+      { "Architecture Name": "সাংগাই ইউম্পাম" },
+      { "Architecture Name": "শ্রী গোবিন্দজি মন্দির" },
+      { "Architecture Name": "লোইয়াম্বা শাংলেন" },
+      { "Architecture Name": "সানামাহি কিয়ং মন্দির" },
+      { "Architecture Name": "ঐতিহ্যবাহী উপজাতীয় ঘরসমূহ" }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "ঐতিহ্যবাহী খাসি বাড়ি" },
+      { "Architecture Name": "গারো ঐতিহ্যবাহী বাড়ি (মান্ডি ডং-সাকা-নক)" },
+      { "Architecture Name": "জীবন্ত শিকড়ের সেতু" },
+      { "Architecture Name": "মেরী হেল্প অফ ক্রিশ্চিয়ান্স ক্যাথেড্রাল" },
+      { "Architecture Name": "অল সেন্টস চার্চ" },
+      { "Architecture Name": "নংসাউলিয়া প্রেস্বাইটেরিয়ান চার্চ" },
+      { "Architecture Name": "তুরা ব্যাপটিস্ট চার্চ" },
+      { "Architecture Name": "লাইটুমখড়া প্রেস্বাইটেরিয়ান চার্চ" }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "ঐতিহ্যবাহী মিজো স্টিল্ট বাড়ি" },
+      { "Architecture Name": "জাওলবুক" },
+      { "Architecture Name": "সলোমনের মন্দির, আইজল" },
+      { "Architecture Name": "রেইক হেরিটেজ ভিলেজ" },
+      { "Architecture Name": "ভাংছিয়া স্মারকসমূহ" },
+      { "Architecture Name": "মিজোরাম রাজ্য জাদুঘর" },
+      { "Architecture Name": "ফুলপুই সমাধি" },
+      { "Architecture Name": "কেভি প্যারাডাইস" },
+      { "Architecture Name": "সিবুতা লাং" },
+      { "Architecture Name": "চিংপুই ঠ্লান" }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "ঐতিহ্যবাহী নাগা মোরুং" },
+      { "Architecture Name": "খোনোমা গ্রামের প্রবেশদ্বার" },
+      { "Architecture Name": "কিসামা হেরিটেজ ভিলেজ" },
+      { "Architecture Name": "পৌ (খিয়ামনিউঙ্গান ডরমিটরি)" },
+      { "Architecture Name": "মেরী হেল্প অফ ক্রিশ্চিয়ান্স ক্যাথেড্রাল" },
+      { "Architecture Name": "তুয়োপেমা ট্যুরিস্ট ভিলেজ" },
+      { "Architecture Name": "ঐতিহ্যবাহী নাগা কাঠের নকশা" },
+      { "Architecture Name": "অ্যাঙ্গামি নাগা বর্ণনাত্মক স্থাপত্য" },
+      { "Architecture Name": "কাচারি রাজবাড়ি ধ্বংসাবশেষ" },
+      { "Architecture Name": "চেনওয়েটনিউ গ্রামের প্রবেশদ্বার" }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "কোনার্ক সূর্যমন্দির" },
+      { "Architecture Name": "জগন্নাথ মন্দির" },
+      { "Architecture Name": "লিঙ্গরাজ মন্দির" },
+      { "Architecture Name": "মুক্তেশ্বর মন্দির" },
+      { "Architecture Name": "রাজরাণী মন্দির" },
+      { "Architecture Name": "উদয়গিরি এবং খণ্ডগিরি গুহা" },
+      { "Architecture Name": "বারাবাটি দুর্গ" },
+      { "Architecture Name": "ধৌলি শান্তি স্তূপ" },
+      { "Architecture Name": "চিলিকা হ্রদ পাখি অভয়ারণ্য" },
+      { "Architecture Name": "সিমলিপাল ন্যাশনাল পার্ক" }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "সোনার মন্দির (হারমন্দির সাহিব)" },
+      { "Architecture Name": "অকাল তখত" },
+      { "Architecture Name": "কিল্লা মুবারক" },
+      { "Architecture Name": "শীশ মহল" },
+      { "Architecture Name": "মোতি বাগ প্রাসাদ" },
+      { "Architecture Name": "জল্লিয়ানওয়ালা বাগ স্মৃতিসৌধ" },
+      { "Architecture Name": "রাম বাগ প্রাসাদ" },
+      { "Architecture Name": "গুরদ্বারা ফতেহগড় সাহিব" },
+      { "Architecture Name": "গুরদ্বারা তর্ণ তরান সাহিব" },
+      { "Architecture Name": "গুরদ্বারা দুখ নিবারণ সাহিব" }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "আম্বার দুর্গ" },
+      { "Architecture Name": "শহর প্রাসাদ, উদয়পুর" },
+      { "Architecture Name": "হাওয়া মহল" },
+      { "Architecture Name": "জয়সলমের দুর্গ" },
+      { "Architecture Name": "চিত্তরগড় দুর্গ" },
+      { "Architecture Name": "রণকপুর জৈন মন্দির" },
+      { "Architecture Name": "মেহরানগড় দুর্গ" },
+      { "Architecture Name": "চন্দ বাওরি" },
+      { "Architecture Name": "জুনাগড় দুর্গ" },
+      { "Architecture Name": "কুম্ভালগড় দুর্গ" }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "রামটেক মঠ" },
+      { "Architecture Name": "পেমায়াঙ্গতসে মঠ" },
+      { "Architecture Name": "ডাবডি মঠ" },
+      { "Architecture Name": "নরবুগং স্তূপ" },
+      { "Architecture Name": "রাবদেন্তসে ধ্বংসাবশেষ" },
+      { "Architecture Name": "ঐতিহ্যবাহী লেপ্চা বাড়ি" },
+      { "Architecture Name": "ডু দ্রুল স্তূপ" },
+      { "Architecture Name": "তশিডিং মঠ" },
+      { "Architecture Name": "সঙ্গা চোয়েলিং মঠ" },
+      { "Architecture Name": "রালাং মঠ" }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "বৃহদীশ্বর মন্দির" },
+      { "Architecture Name": "মীনাক্ষী আম্মান মন্দির" },
+      { "Architecture Name": "গঙ্গাইকোন্দ চোলাপুরম মন্দির" },
+      { "Architecture Name": "আইরাবতেশ্বর মন্দির" },
+      { "Architecture Name": "কৈলাসনাথর মন্দির" },
+      { "Architecture Name": "তিরুমলাই নায়াক্কার মহল" },
+      { "Architecture Name": "চেটটিনাদ ম্যানশন" },
+      { "Architecture Name": "ফোর্ট সেন্ট জর্জ" },
+      { "Architecture Name": "পাঁচ রথাসমূহ" },
+      { "Architecture Name": "সিনেট হাউস" }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "চারমিনার" },
+      { "Architecture Name": "গোলকোন্ডা দুর্গ" },
+      { "Architecture Name": "কুতব শাহী সমাধিসমূহ" },
+      { "Architecture Name": "ওয়ারাঙ্গল দুর্গ" },
+      { "Architecture Name": "রামাপ্পা মন্দির" },
+      { "Architecture Name": "চৌমহল্লা প্রাসাদ" },
+      { "Architecture Name": "পাইগা সমাধিসমূহ" },
+      { "Architecture Name": "ভঙ্গির দুর্গ" },
+      { "Architecture Name": "কাকতিয়ার কলা থোরানম" },
+      { "Architecture Name": "হাজার স্তম্ভ মন্দির" }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "উজ্জয়ন্ত প্রাসাদ" },
+      { "Architecture Name": "নীরমহল" },
+      { "Architecture Name": "ত্রিপুরা সুন্দরী মন্দির" },
+      { "Architecture Name": "উনাকোটি" },
+      { "Architecture Name": "কমলাসাগর কালী মন্দির" },
+      { "Architecture Name": "গুনাভাটি মন্দিরসমূহ" },
+      { "Architecture Name": "মহাদেব বারি মন্দির" },
+      { "Architecture Name": "বেনুবান বিহার" },
+      { "Architecture Name": "পিলাক প্রত্নতাত্ত্বিক স্থান" },
+      { "Architecture Name": "বক্সানগর বৌদ্ধ স্তূপ" }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "কেদারনাথ মন্দির" },
+      { "Architecture Name": "বদ্রীনাথ মন্দির" },
+      { "Architecture Name": "জাগেশ্বর মন্দিরসমূহ" },
+      { "Architecture Name": "বাইজনাথ মন্দির কমপ্লেক্স" },
+      { "Architecture Name": "পিথোরাগড় দুর্গ" },
+      { "Architecture Name": "ফরেস্ট রিসার্চ ইনস্টিটিউট" },
+      { "Architecture Name": "রাজ ভবন (গভর্নরের বাড়ি) নৈনিতাল" },
+      { "Architecture Name": "ঐতিহ্যবাহী কুমাওনি ঘরসমূহ" },
+      { "Architecture Name": "ক্রাইস্ট চার্চ, মুসুরি" },
+      { "Architecture Name": "আদি বাদ্রি মন্দির" }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "তাজ মহল" },
+      { "Architecture Name": "আগ্রা দুর্গ" },
+      { "Architecture Name": "ফতেহপুর সিকরি" },
+      { "Architecture Name": "বড়া ইমামবাড়া" },
+      { "Architecture Name": "ছোটা ইমামবাড়া" },
+      { "Architecture Name": "রুমী দরজা" },
+      { "Architecture Name": "বুলন্দ দরজা" },
+      { "Architecture Name": "ঝাঁসি দুর্গ" },
+      { "Architecture Name": "ধমেক স্তূপ" },
+      { "Architecture Name": "কাশী বিশ্বনাথ মন্দির" }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "items": [
+      { "Architecture Name": "বিষ্ণুপুরের টেরাকোটা মন্দিরসমূহ" },
+      { "Architecture Name": "ভিক্টোরিয়া মেমোরিয়াল" },
+      { "Architecture Name": "হাজারদুয়ারি প্রাসাদ" },
+      { "Architecture Name": "দক্ষিণেশ্বর কালী মন্দির" },
+      { "Architecture Name": "মার্বেল প্রাসাদ" },
+      { "Architecture Name": "সেইন্ট পল'স ক্যাথেড্রাল" },
+      { "Architecture Name": "কুচবিহার প্রাসাদ" },
+      { "Architecture Name": "জোড়াসাঁকো ঠাকুরবাড়ি" },
+      { "Architecture Name": "মেটকালফ হোল" },
+      { "Architecture Name": "নাখোডা মসজিদ" }
+    ]
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union Territory",
+    "items": [
+      { "Architecture Name": "সেলুলার জেল" },
+      { "Architecture Name": "রস দ্বীপ শাস্তিদান কলোনি" },
+      { "Architecture Name": "ভাইপার দ্বীপ" },
+      { "Architecture Name": "চাথাম সো মিল" },
+      { "Architecture Name": "নিকোবারিজ উপজাতীয় ঝোপড়" },
+      { "Architecture Name": "জাপানি বাঙ্কারস" },
+      { "Architecture Name": "সেইন্ট জোসেফ'স ক্যাথলিক চার্চ" },
+      { "Architecture Name": "অ্যানডামান ক্লাব" },
+      { "Architecture Name": "গভর্নমেন্ট হাউস" },
+      { "Architecture Name": "অ্যানথ্রোপোলজিকাল মিউজিয়াম" }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "items": [
+      { "Architecture Name": "ক্যাপিটল কমপ্লেক্স" },
+      { "Architecture Name": "ওপেন হ্যান্ড মনুমেন্ট" },
+      { "Architecture Name": "রক গার্ডেন" },
+      { "Architecture Name": "অ্যাসেম্বলি প্রাসাদ" },
+      { "Architecture Name": "সিক্রেটারিয়াট বিল্ডিং" },
+      { "Architecture Name": "পঞ্জাব ও হরিয়ানা উচ্চ আদালত" },
+      { "Architecture Name": "টাওয়ার অফ শ্যাডোস" },
+      { "Architecture Name": "গান্ধী ভবন" },
+      { "Architecture Name": "গভর্নমেন্ট মিউজিয়াম ও আর্ট গ্যালারি" },
+      { "Architecture Name": "চণ্ডীগড় আর্কিটেকচার কলেজ" }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Dama",
+    "type": "Union Territory",
+    "items": [
+      { "Architecture Name": "দিউ দুর্গ" },
+      { "Architecture Name": "সেইন্ট পল'স চার্চ" },
+      { "Architecture Name": "মোতি দামন দুর্গ" },
+      { "Architecture Name": "আমাদের মায়ের পায়েটি চার্চ" },
+      { "Architecture Name": "সেইন্ট জেরোমের দুর্গ" },
+      { "Architecture Name": "গঙ্গেশ্বর মহাদেব মন্দির" },
+      { "Architecture Name": "গভর্নরের প্রাসাদ" },
+      { "Architecture Name": "নগরসেথ হাভেলি" },
+      { "Architecture Name": "কলেক্টর অফিস" },
+      { "Architecture Name": "বকেজের বাড়ি" }
+    ]
+  },
+  {
+    "name": "Delhi",
+    "type": "Union Territory",
+    "items": [
+      { "Architecture Name": "লাল দুর্গ" },
+      { "Architecture Name": "কুতুব মিনার" },
+      { "Architecture Name": "হুমায়ূনের সমাধি" },
+      { "Architecture Name": "ইন্ডিয়া গেট" },
+      { "Architecture Name": "লোটাস মন্দির" },
+      { "Architecture Name": "জামা মসজিদ" },
+      { "Architecture Name": "রাষ্ট্রপতি ভবন" },
+      { "Architecture Name": "সাফদারজং-এর সমাধি" },
+      { "Architecture Name": "লোঢি গার্ডেন" },
+      { "Architecture Name": "অক্ষরধাম মন্দির" }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "Union Territory",
+    "items": [
+      { "Architecture Name": "মুবারক মন্দি প্রাসাদ" },
+      { "Architecture Name": "নিশাত বাগ" },
+      { "Architecture Name": "খানকাহ-ই-মৌলা" },
+      { "Architecture Name": "আমর মহল প্রাসাদ" },
+      { "Architecture Name": "শালিমার বাগ" },
+      { "Architecture Name": "লেহ প্রাসাদ" },
+      { "Architecture Name": "হরী পর্বত দুর্গ" },
+      { "Architecture Name": "শেখ নুর-উদ-দীন নূরানীর মাজার" },
+      { "Architecture Name": "থিকসেই মঠ" },
+      { "Architecture Name": "জামিয়া মসজিদ, শ্রীনগর" }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "items": [
+      { "Architecture Name": "থিকসেই মঠ" },
+      { "Architecture Name": "হেমিস মঠ" },
+      { "Architecture Name": "লেহ প্রাসাদ" },
+      { "Architecture Name": "স্টক প্রাসাদ" },
+      { "Architecture Name": "শেই মঠ" },
+      { "Architecture Name": "আলচি মঠ" },
+      { "Architecture Name": "লামায়ুরু মঠ" },
+      { "Architecture Name": "ডিস্কিট মঠ" },
+      { "Architecture Name": "ফুগতাল মঠ" },
+      { "Architecture Name": "লিকির মঠ" }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "items": [
+      { "Architecture Name": "মোহিডেন মসজিদ (উজরা মসজিদ)" },
+      { "Architecture Name": "মোহিউদীন মসজিদ" },
+      { "Architecture Name": "মিনিকয় দ্বীপ বাতি" },
+      { "Architecture Name": "ঐতিহ্যবাহী প্রবাল শিলা বাড়ি" },
+      { "Architecture Name": "লক্ষদ্বীপ ভবন" }
+    ]
+  },
+  {
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "items": [
+      { "Architecture Name": "পবিত্র হৃদয় যীশুর বাসিলিকা" },
+      { "Architecture Name": "এগুলিজ দে নত্রে ডেম দে লাঞ্জ (চার্চ অব আওয়ার লেডি অব এঞ্জেলস)" },
+      { "Architecture Name": "আমাদের নিষ্পাপ ধারণার ক্যাথেড্রাল" },
+      { "Architecture Name": "গলকন্ডে ডরমিটরি" },
+      { "Architecture Name": "কামিস্বর মন্দির" },
+      { "Architecture Name": "ফরাসি কোয়ার্টার" },
+      { "Architecture Name": "তামিল কোয়ার্টার" },
+      { "Architecture Name": "রাজ নিম্বাস" },
+      { "Architecture Name": "মানাকুলা বিনায়াগর মন্দির" },
+      { "Architecture Name": "আয়ি মন্দপম" }
+    ]
+  }
+]

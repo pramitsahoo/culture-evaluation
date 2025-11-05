@@ -1,0 +1,1436 @@
+[
+  {
+    "entry": "1",
+    "replaced_concepts": {
+      "جেনেটের": "John's",
+      "হাঁসগুলি": "rotis",
+      "প্রতিদিন": "daily",
+      "ডিম": "roti",
+      "খান": "friends",
+      "চারটি": "market",
+      "$2": "৳2"
+    }
+  },
+  {
+    "entry": "2",
+    "replaced_concepts": {
+      "pooshak": "একটি পোশাক",
+      "ril": "নীল সুতো",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "3",
+    "replaced_concepts": {
+      "John": "रমেश",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "4",
+    "replaced_concepts": {
+      "Jem": "रमेश",
+      "Sprinter": "स्प्रिंटे",
+      "Meter": "मिटर",
+      "Three": "३",
+      "Week": "सप्ताह"
+    }
+  },
+  {
+    "entry": "5",
+    "replaced_concepts": {
+      "ওয়েন্ডি": "Ram",
+      "প্রতিদিন": "day",
+      "তাঁর": "his",
+      "প্রত্যেকটি": "each",
+      "মুরগি": "cake",
+      "খাবার": "piece",
+      "ঝাঁক": "cup",
+      "অলাদা": "Ram",
+      "আলাদা": "Ram",
+      "এবং": "and",
+      "সকালে": "in the morning",
+      "বিকেলে": "in the evening",
+      "ওয়েন্ডির": "Ram's",
+      "মুরগির": "Ram's",
+      "ঝাঁকে": "cup",
+      "তাঁকে": "he",
+      "খাওয়ানোর": "for him",
+      "ওয়েন্ডির মুরগির": "Ram's cake",
+      "ওয়েন্ডির মুরগির ঝাঁকে": "Ram's cake cup",
+      "যদি": "if",
+      "ওয়েন্ডির মুরগির ঝাঁকে যদি 20টি মুরগি থাকে": "Ram's cake cup if 20 cakes are there"
+    }
+  },
+  {
+    "entry": "7",
+    "replaced_concepts": {
+      "টুলুজ": "চার্লস্টন",
+      "চার্লস্টন": "সিয়াটল",
+      "ভেড়া": "আছে"
+    }
+  },
+  {
+    "entry": "8",
+    "replaced_concepts": {
+      "Carla": "রমেশ",
+      "file": "ফাইল",
+      "cloud": "আঞ্চলি",
+      "download": "ডাউনলোড",
+      "minute": "মিনিট",
+      "Windows Installer": "আপডেট ইনস্টল",
+      "restart": "আরোচনা",
+      "20 minutes": "২০ মিনিট"
+    }
+  },
+  {
+    "entry": "9",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা",
+      "60": "খাঁচ",
+      "3": "ছয়",
+      "4": "ঘণ্টা"
+    }
+  },
+  {
+    "entry": "10",
+    "replaced_concepts": {
+      "John": "रमेश",
+      "muffins": "परोटा",
+      "$10": "८३० एक्टा"
+    }
+  },
+  {
+    "entry": "11",
+    "replaced_concepts": {
+      "month": "আষেমা",
+      "download": "ডাউনলোড",
+      "$10": "৮৩০ টাকা",
+      "John": "রমেশ",
+      "muffins": "পরোটা"
+    }
+  },
+  {
+    "entry": "12",
+    "replaced_concepts": {
+      "John": "रमेश",
+      "muffins": "परोटा",
+      "$10": "८३० ठाकुरे"
+    }
+  },
+  {
+    "entry": "15",
+    "replaced_concepts": {
+      "Nach": "नाचे",
+      "Shiksharthi": "शिक्षार्ठी",
+      "Jjan": "जन",
+      "Samasamayik": "समसामयिक",
+      "Jyaj": "ज्याज",
+      "Hip-Hop": "हिप-हप"
+    }
+  },
+  {
+    "entry": "17",
+    "replaced_concepts": {
+      "John": "दुबिया",
+      "muffins": "परोटा",
+      "$10": "८३० रुपये"
+    }
+  },
+  {
+    "entry": "18",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "19",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "ডিম",
+      "$10": "৩০০ ডজ"
+    }
+  },
+  {
+    "entry": "24",
+    "replaced_concepts": {
+      "mom": "maa",
+      "dollar": "rupee",
+      "10": "১০",
+      "2:00 PM": "2:00 ঘণ্টা"
+    }
+  },
+  {
+    "entry": "27",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "$10": "৮৩০ টাকা",
+      "$16.50": "৩২৩.৫০",
+      "$22.50": "২২.৫০",
+      "$42": "৩২৩.৫০"
+    }
+  },
+  {
+    "entry": "28",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "29",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "30",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা",
+      "dollar": "ডলার"
+    }
+  },
+  {
+    "entry": "31",
+    "replaced_concepts": {
+      "Derrel": "Ram",
+      "Alan": "John",
+      "7:11": "7:11 AM",
+      "162 years": "162 years old",
+      "10 years": "10 years old"
+    }
+  },
+  {
+    "entry": "33",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা",
+      "one month": "এক সপ্তাহ"
+    }
+  },
+  {
+    "entry": "35",
+    "replaced_concepts": {
+      "Raminder": "আমার",
+      "muffins": "অভিনেত",
+      "$10": "৪০০ টাকা"
+    }
+  },
+  {
+    "entry": "36",
+    "replaced_concepts": {
+      "Ramish": "রমেশ",
+      "minute": "মিনিট",
+      "score": "স্কোর",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "37",
+    "replaced_concepts": {
+      " Terry": "Ram",
+      "Iogart": "Yogurt",
+      "$5.00": "৫০০ টাকা",
+      "dollar": "ডলার",
+      "30 days": "৩০ দিন"
+    }
+  },
+  {
+    "entry": "39",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "mil": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "41",
+    "replaced_concepts": {
+      "iPhone": "আমার iPhone",
+      "Ben": "আমার",
+      "Suzir": "সুজির",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "42",
+    "replaced_concepts": {
+      "John": "Ram",
+      "muffins": "মণি",
+      "$10": "৮৩০ টাকা",
+      "400 kg": "৪০০ কিলোমিটার",
+      "sugar": "অষ্টা",
+      "price of sugar": "অষ্টা দাম"
+    }
+  },
+  {
+    "entry": "44",
+    "replaced_concepts": {
+      "John": "रमेश",
+      "muffins": "परोटा",
+      "$10": "८३० एकाका"
+    }
+  },
+  {
+    "entry": "48",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা",
+      "$40": "२০০ ব্যয়"
+    }
+  },
+  {
+    "entry": "49",
+    "replaced_concepts": {
+      "ট্রেসি": "লম্বা",
+      "একটি": "একটি তার",
+      "$10": "৬ ইঞ্চি"
+    }
+  },
+  {
+    "entry": "52",
+    "replaced_concepts": {
+      "John": "रমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "53",
+    "replaced_concepts": {
+      "Ram": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "55",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "মফিন",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "56",
+    "replaced_concepts": {
+      "Jin": "রমেশ",
+      "muffins": "ললিপপ",
+      "$10": "৩০ ললিপপ"
+    }
+  },
+  {
+    "entry": "57",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা",
+      "$7": "সপ্তাah"
+    }
+  },
+  {
+    "entry": "58",
+    "replaced_concepts": {
+      "একটি কাঠের সেতু": "Ram's head",
+      "5000 পাউন্ডের বেশি ভার বহন করতে পারে না": "Ram can't carry 5000 pounds of goods on his head",
+      "ওপর দিয়ে 15 পাউন্ড ওজনের একটি ডেলিভারি ট্রাক পার হয়ে যাবে": "He can only carry 15 pounds of goods in one trip",
+      "গাড়ির চালক ও খালি ট্রাকটির মিলিত ওজন হল 3755 পাউন্ড": "The weight of the cart and the goods is 3755 pounds",
+      "সেতুর ওজন সীমা অতিক্রম না করে সর্বোচ্চ কতগুলি বাক্স ট্রাকে চাপানো যেতে পারে?": "How many trips will it take to transport all the goods?"
+    }
+  },
+  {
+    "entry": "60",
+    "replaced_concepts": {
+      "রাস্পবেরি": "ऋषभ",
+      "ঝাড়ে": "ठेका",
+      "থোকার": "ठोका",
+      "প্রতিটিতে": "प्रति ठेका",
+      "20টি": " twenty",
+      "67টি": "sixty-seven"
+    }
+  },
+  {
+    "entry": "61",
+    "replaced_concepts": {
+      "ঝুড়ি (muffin)": "কমলালেবু",
+      "২টি টক (two dollars)": "২টি ভালো",
+      "ভালো (biscuit)": "ভালো"
+    }
+  },
+  {
+    "entry": "62",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "63",
+    "replaced_concepts": {
+      "Ram": "রমেশ",
+      "$50,000": "৫০০,০০০ টাকা",
+      "$1,000,000": "১০০০,০০০ টাকা",
+      "$1,500,000": "১৫০০,০০০ টাকা"
+    }
+  },
+  {
+    "entry": "67",
+    "replaced_concepts": {
+      "বাস্কেটবল": "টুর্নামেন্ট",
+      "একটি করে": "একটি প্রতিটি করে",
+      "খেলোয়াড়": "খেলোয়াড় রয়েছে",
+      "প্রতিটি দলে": "প্রতিটি বিদ্যালয়",
+      "একজন করে": "একজন প্রশিক্ষক",
+      "সব মিলিয়ে": "সমস্ত বিদ্যালয়",
+      "মোট কতজন লোক": "মোট কতজন লোক পাঠিয়েছে"
+    }
+  },
+  {
+    "entry": "68",
+    "replaced_concepts": {
+      "ratten": "রত্ন",
+      "ruobi": "রুবি",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "69",
+    "replaced_concepts": {
+      "meyede": "শিক্ষক",
+      "shikshak": "শিক্ষার্থী",
+      "$10": "৭০"
+    }
+  },
+  {
+    "entry": "71",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "72",
+    "replaced_concepts": {
+      "keleyan": "কেলিয়ান",
+      "resipi": "রেসিপি",
+      "durakame": "দুরকমের",
+      "tulna": "তুলনা",
+      "davigun": "দ্বিগুণ"
+    }
+  },
+  {
+    "entry": "73",
+    "replaced_concepts": {
+      "tomi": "আপনি",
+      "braun": "টুকরো",
+      "chijoke": "চিজকেকের",
+      "$10": "৪৩০ টুকরো",
+      "$4": "২৩ চিজকেকের"
+    }
+  },
+  {
+    "entry": "74",
+    "replaced_concepts": {
+      "$150": "৩০০ টাকা",
+      "sud": "সুদ"
+    }
+  },
+  {
+    "entry": "75",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "₹830"
+    }
+  },
+  {
+    "entry": "76",
+    "replaced_concepts": {
+      "লিউক": "আপনি",
+      "সৈকতে": "আপনি",
+      "বালির দুর্গ": "আপনি ৪ টালার বালির দুর্গের প্রতিটি",
+      "তৈরি করে": "তিনি",
+      "সেটির নিচের": "নিচের",
+      "তলার পরিমাপ": "একটি তলার গড় মাপ",
+      "বর্গফুট": "বর্গফুট পরিমাপের",
+      "অর্ধেক হবে": "তাহলে",
+      "৪ তলার": "৪ তলার বালির",
+      "দুর্গ বানান": "আপনি ৪ তলার বালির দুর্গের",
+      "শীর্ষ তলার": "একটি তলার",
+      "মাপ": "গড় মাপ"
+    }
+  },
+  {
+    "entry": "78",
+    "replaced_concepts": {
+      "Ramendra": "রমেন্ড",
+      "rupees": "পাউন্ড",
+      "500": "৪০০"
+    }
+  },
+  {
+    "entry": "79",
+    "replaced_concepts": {
+      "$2.50": "২৫০ টাকা",
+      "3 packages": "৩ প্যাকেজ",
+      "18 flowers": "ৱ২৩ ফুল",
+      "$1": "১ টাকা"
+    }
+  },
+  {
+    "entry": "80",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "82",
+    "replaced_concepts": {
+      "Charlie": "রমেশ",
+      "stickers": "স্টিকার",
+      "$10": "৮৩০ টাকা",
+      "21": "২১",
+      "9": "৯",
+      "28": "২৮"
+    }
+  },
+  {
+    "entry": "83",
+    "replaced_concepts": {
+      "grass": "আমি",
+      "alex": "রমেশ",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "84",
+    "replaced_concepts": {
+      "Dan": "Ram",
+      "muffins": "rice",
+      "$10": "৮৩০ টাকা",
+      "800": " eight hundred"
+    }
+  },
+  {
+    "entry": "85",
+    "replaced_concepts": {
+      "ফুটবল (football)": "ফুটবল",
+      "খেলা (game)": "খেলা",
+      "খেলেছে (play)": "খেলেছে",
+      "তার (his)": "আছে",
+      "তুলনায় (on)": "আছে",
+      "খেলা জিতেছে (won the game)": "খেলা জিতেছে",
+      "মোট (most)": "আছে"
+    }
+  },
+  {
+    "entry": "88",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা",
+      "six months": "এক মাস",
+      "year": "বছর",
+      "five years": "এই বছর",
+      "ten percent": "অংশ আছে",
+      "December": "ডিসেম্বর"
+    }
+  },
+  {
+    "entry": "91",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "আলু",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "92",
+    "replaced_concepts": {
+      "John": "रमेश",
+      "muffins": "परोটा",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "93",
+    "replaced_concepts": {
+      "Jackson": "এমিলি",
+      "Jackson's age": "5 years",
+      "Jemma's age": "2 years",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "95",
+    "replaced_concepts": {
+      "পোষা": "খরগোশ",
+      "কুকুর": "পাড়া",
+      "$10": "৭০ টাকা"
+    }
+  },
+  {
+    "entry": "96",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "97",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "২৩০ টাকা"
+    }
+  },
+  {
+    "entry": "99",
+    "replaced_concepts": {
+      "John": "रमেश",
+      "muffins": "परोँ",
+      "$10": "৮৩০ টাकা"
+    }
+  },
+  {
+    "entry": "102",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা",
+      "15": "সোমবার",
+      "4 days": "একদিনে"
+    }
+  },
+  {
+    "entry": "104",
+    "replaced_concepts": {
+      "John": "रमेश",
+      "muffins": "परोटा",
+      "$10": "८३० एक्टा"
+    }
+  },
+  {
+    "entry": "105",
+    "replaced_concepts": {
+      "John": "Ramesh",
+      "muffins": "টুকরো",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "106",
+    "replaced_concepts": {
+      "John": "Ram",
+      "muffins": "cups of tea",
+      "$10": "₹830",
+      "830": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "107",
+    "replaced_concepts": {
+      "bakshi": "পুরু",
+      "five": "৩",
+      "six": "খাঁচি",
+      "four": "ইঞ্চি",
+      "ten": "৩০ টাকা"
+    }
+  },
+  {
+    "entry": "110",
+    "replaced_concepts": {
+      "এক স্থানীয়": "৩.00",
+      "গ্যাস": "৳২০",
+      "কোম্পানি": "কোম্পানি"
+    }
+  },
+  {
+    "entry": "111",
+    "replaced_concepts": {
+      "John": "रमेश",
+      "muffins": "परोটा",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "113",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "114",
+    "replaced_concepts": {
+      "Rayan": "আমাথা",
+      "flowers": "ফুল"
+    }
+  },
+  {
+    "entry": "116",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "118",
+    "replaced_concepts": {
+      "John": "रমেশ",
+      "$60": "৩০০ টাকা"
+    }
+  },
+  {
+    "entry": "119",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "121",
+    "replaced_concepts": {
+      "John": "रমেश",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "122",
+    "replaced_concepts": {
+      "John": "रमेश",
+      "muffins": "परोटा",
+      "$10": "८३० एने"
+    }
+  },
+  {
+    "entry": "124",
+    "replaced_concepts": {
+      "রোজি (Rosie)": "রমেশ",
+      "ঘণ্টা (three)": "ভাষা",
+      "মাইল (mile)": "আংডা",
+      "দৌড়া (bread)": "আংডা",
+      "তিনি (you)": "তো",
+      "ঘণ্টায় (per)": "ভাষা",
+      "কত (how many)": "আংডা"
+    }
+  },
+  {
+    "entry": "126",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "127",
+    "replaced_concepts": {
+      "ডিলান (Dilan)": "রমেশ",
+      "চিকেন (Chicken)": "মূল",
+      "ফিশ (Fish)": "ভাষা",
+      "এবং (And)": "আং",
+      "চেয়ে (Chiye)": "চেয়া"
+    }
+  },
+  {
+    "entry": "128",
+    "replaced_concepts": {
+      "Amir": "লিলি",
+      "$50": "৫০ জন"
+    }
+  },
+  {
+    "entry": "129",
+    "replaced_concepts": {
+      "Ram": "রমেশ",
+      "dosa": "পরোটা",
+      "$10": "৮৩০ টাকা",
+      "muruja": "মরিচ",
+      "muffin": "কমলালেবু"
+    }
+  },
+  {
+    "entry": "130",
+    "replaced_concepts": {
+      "$100": "১০০০ টাকা",
+      "$150": "১৫০০ টাকা",
+      "$200": "২০০০ টাকা"
+    }
+  },
+  {
+    "entry": "132",
+    "replaced_concepts": {
+      "José": "Ram",
+      "$500": "₹830",
+      "June": "ওই দুই মাসে",
+      "$60": "₹600",
+      "monthly salary": "খরচ"
+    }
+  },
+  {
+    "entry": "134",
+    "replaced_concepts": {
+      "ওয়াল্ট": "মঙ্গলবার",
+      "মাইল": "মাইল",
+      "৬": "৬ গুণ",
+      "৪১": "৪১ মাইল"
+    }
+  },
+  {
+    "entry": "135",
+    "replaced_concepts": {
+      "tom": "টম",
+      "four": "একমাসে",
+      "dollar": "৮৩০ খরচ"
+    }
+  },
+  {
+    "entry": "136",
+    "replaced_concepts": {
+      "Brayan": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "137",
+    "replaced_concepts": {
+      "UNICORN": "ইউনিকর্ন",
+      "HIGHLIGHT": "স্কটিশ হাইল্যান্ড",
+      "WOMAN": "নারী"
+    }
+  },
+  {
+    "entry": "138",
+    "replaced_concepts": {
+      "Roori": "আউটে",
+      "Dollar": "ডেলিভারি",
+      "Two": "২",
+      "Five": "৫",
+      "Ten": "১০",
+      "Twenty": "২০",
+      "Fifty": "৫০",
+      "One hundred": "১০০",
+      "Two hundred": "২০০",
+      "Five hundred": "৫০০",
+      "One thousand": "১০০০",
+      "Two thousand": "২০০০",
+      "Five thousand": "৫০০০",
+      "Ten thousand": "১০০০০",
+      "Twenty thousand": "২০০০০",
+      "Fifty thousand": "৫০০০০",
+      "One lakh": "১০০০০",
+      "Two lakh": "২০০০০",
+      "Five lakh": "৫০০০০",
+      "Ten lakh": "১০০০০০",
+      "Twenty lakh": "২০০০০০",
+      "Fifty lakh": "৫০০০০০",
+      "One crore": "১০০০০০",
+      "Two crore": "২০০০০০",
+      "Five crore": "৫০০০০০",
+      "Ten crore": "১০০০০০০",
+      "Twenty crore": "২০০০০০০",
+      "Fifty crore": "৫০০০০০০",
+      "One hundred crore": "১০০০০০০",
+      "Two hundred crore": "২০০০০০০",
+      "Five hundred crore": "৫০০০০০০",
+      "Ten hundred crore": "১০০০০০০০",
+      "One thousand crore": "১০০০০০০০",
+      "Two thousand crore": "২০০০০০০০",
+      "Five thousand crore": "৫০০০০০০০",
+      "Ten thousand crore": "১০০০০০০০০",
+      "Twenty thousand crore": "২০০০০০০০০",
+      "Five hundred thousand crore": "৫০০০০০০০০",
+      "Ten lakh crore": "১০০০০০০০০০",
+      "Twenty lakh crore": "২০০০০০০০০০",
+      "Five crore lakh": "৫০০০০০০০০০",
+      "Ten crore lakh": "১০০০০০০০০০"
+    }
+  },
+  {
+    "entry": "140",
+    "replaced_concepts": {
+      "ক্যান্ডি": "চারগুণ",
+      "মেশিনে": "থেকে",
+      "নীল গামবল": "নীল গামবল",
+      "২২০": "২২০ টাকা",
+      "গোলাপি": "গোলাপি গামবল",
+      "১২": "১২ টি"
+    }
+  },
+  {
+    "entry": "141",
+    "replaced_concepts": {
+      "car": "গাড়ি",
+      "automatic": "সেমি-অটোমেটিক",
+      "$10": "১০০ টাকা"
+    }
+  },
+  {
+    "entry": "142",
+    "replaced_concepts": {
+      "মৌমাছি": "मौमाछी",
+      "কর্মী": "कर्मी",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "145",
+    "replaced_concepts": {
+      "Ram": "রমেশ",
+      "muffins": "ব্লিচ",
+      "$10": "৮৩০ টাকা",
+      "5 customers": "এখন তিনি অন্য 5 জন সম্ভাব্য গ্রাহকের সাথে কথা বলছেন",
+      "each blich": "এখন অন্য খরচের পার্থক্যই হল লাভ",
+      "each packet of coffee": "এখন অন্য প্যাকেট কাপড়ের প্যাকেটের মূল্য"
+    }
+  },
+  {
+    "entry": "146",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "আনারস",
+      "$10": "১০০ আনারস"
+    }
+  },
+  {
+    "entry": "152",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "156",
+    "replaced_concepts": {
+      "bil": "रमेश",
+      "rol": "परोटा",
+      "chakla": "क्रसा",
+      "bekgute": "ब्यगुয়েए",
+      "fut": "फुए"
+    }
+  },
+  {
+    "entry": "157",
+    "replaced_concepts": {
+      "চিড়িয়াখানা": "রক্ষক",
+      "খামা": "খাবার",
+      "অর্ডার": "প্রয়োজন"
+    }
+  },
+  {
+    "entry": "159",
+    "replaced_concepts": {
+      "John": "রাফায়েল",
+      "muffins": "জিঞিস",
+      "$1.5": "১৫ টাকা",
+      "$4": "৪ টাকা",
+      "$20": "২০ টাকা"
+    }
+  },
+  {
+    "entry": "160",
+    "replaced_concepts": {
+      "ফিন": "Ram",
+      "পুকুরে": "muffins",
+      "$10": "৮৩০ টাকা",
+      "লিলি": "lili",
+      "পাতার আড়াল": "John's house",
+      "পাথরের নিচে": "John's friend",
+      "আপনার উত্তর": "your answer",
+      "১০০ টাকায়": "one hundred rupees",
+      "২টি বন্ধুকে": "two friends"
+    }
+  },
+  {
+    "entry": "161",
+    "replaced_concepts": {
+      "আপনি": "আপনি",
+      "একটি": "একটি",
+      "আরও": "আরও",
+      "মঙ্গলবারে": "মঙ্গলবারে",
+      "ট্যাঙ্কের": "ট্যাঙ্কের",
+      "জলের": "জলের",
+      "গভীরতা": "গভীরতা",
+      "দুই তৃতীয়াংশ": "দুই তৃতীয়াংশ"
+    }
+  },
+  {
+    "entry": "162",
+    "replaced_concepts": {
+      "Anakin": "রমেশ",
+      "muffins": "তারামাছ",
+      "$10": "১০ টাকা",
+      "sinthu": "সিন্ধু",
+      "klounma": "ক্লাউনমাছ"
+    }
+  },
+  {
+    "entry": "163",
+    "replaced_concepts": {
+      "$20": "২০ টাকা",
+      "marbles": "মার্বেল"
+    }
+  },
+  {
+    "entry": "164",
+    "replaced_concepts": {
+      "একটি ঘরে": "একটি ঘরে",
+      "লাল গাড়ি": "লাল গাড়ি",
+      "অ্যাকশন ফিগার": "অ্যাকশন ফিগার",
+      "পুতুল": "পুতুল",
+      "$4": "$৩টি অ্যাকশন ফিগারের দামের সমান",
+      "$5": "$৫"
+    }
+  },
+  {
+    "entry": "168",
+    "replaced_concepts": {
+      "Ram": "রমেশ",
+      "years": "বয়সের সমষ্টি"
+    }
+  },
+  {
+    "entry": "170",
+    "replaced_concepts": {
+      "20": "২০",
+      "10": "১০",
+      "milk": "খাটা",
+      "month": "মাস",
+      "week": "সপ্তাহ"
+    }
+  },
+  {
+    "entry": "172",
+    "replaced_concepts": {
+      "Jack": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "173",
+    "replaced_concepts": {
+      "John": "रमेश",
+      "muffins": "परोটा",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "175",
+    "replaced_concepts": {
+      "John": "रमेश",
+      "muffins": "परोटा",
+      "$10": "८३० एकाका"
+    }
+  },
+  {
+    "entry": "177",
+    "replaced_concepts": {
+      "Japanese": "জাপানিজ",
+      "Chinese": "চাইনিজ"
+    }
+  },
+  {
+    "entry": "180",
+    "replaced_concepts": {
+      "$10": "৩০ টাকা",
+      "John": "রমেশ",
+      "muffins": "পরোটা"
+    }
+  },
+  {
+    "entry": "181",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "184",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "185",
+    "replaced_concepts": {
+      "John": "रমেश",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "186",
+    "replaced_concepts": {
+      "Jenny": "আপনার মা",
+      "muffins": "আপেল",
+      "$10": "২০ আপেল"
+    }
+  },
+  {
+    "entry": "187",
+    "replaced_concepts": {
+      "Ramel": "রামেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "188",
+    "replaced_concepts": {
+      "$100": "১০০ টাকা",
+      "monthly": "মাসিক",
+      "sud": "সুদে"
+    }
+  },
+  {
+    "entry": "189",
+    "replaced_concepts": {
+      "$20": "২০ টাকা",
+      "$30": "৩০ টাকা",
+      "$400": "৪০০ টাকা"
+    }
+  },
+  {
+    "entry": "190",
+    "replaced_concepts": {
+      "John": "रমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা",
+      "$20.25": "২০.২৫ টাকা",
+      "$4.50": "৪.৫০ টাকা",
+      "$33": "৩৩ টাকা"
+    }
+  },
+  {
+    "entry": "191",
+    "replaced_concepts": {
+      "John": "Ramesh",
+      "muffins": "পিচ",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "192",
+    "replaced_concepts": {
+      "hans": "ঝাঁকে",
+      "pound": "পাউন্ড",
+      "day": "দিন"
+    }
+  },
+  {
+    "entry": "193",
+    "replaced_concepts": {
+      "Tom": "টম",
+      "money": "গাছ",
+      "year": "বছর"
+    }
+  },
+  {
+    "entry": "195",
+    "replaced_concepts": {
+      "John": "Ramu",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা",
+      "$20": "২টাকা"
+    }
+  },
+  {
+    "entry": "197",
+    "replaced_concepts": {
+      "Shahar": "শহর",
+      "Pound": "পাউন্ড",
+      "$100": "২০০ পাউন্ড"
+    }
+  },
+  {
+    "entry": "198",
+    "replaced_concepts": {
+      "Sohag": "সোডা",
+      "city": "শহর",
+      "people": "বাসিন্দা",
+      "men": "পুরুষ",
+      "women": "মহিলা",
+      "employed": "অন্তর্ভুক্ত",
+      "children": "শিশু",
+      "age": "আছে"
+    }
+  },
+  {
+    "entry": "199",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "200",
+    "replaced_concepts": {
+      "Mark": "রমেশ",
+      "boss": "আঁডিটর",
+      "$10": "৮৩০ টাকা",
+      "1000": "১০০০ সংখ্যা",
+      "5": "পৃথক"
+    }
+  },
+  {
+    "entry": "201",
+    "replaced_concepts": {
+      "Baldu": "रमेश",
+      "muffins": "परोटा",
+      "$10": "८३० एक्टा"
+    }
+  },
+  {
+    "entry": "202",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা",
+      "month": "একটি মাস",
+      "week": "একটি সপ্তাহ",
+      "year": "একটি বছর"
+    }
+  },
+  {
+    "entry": "203",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "আঙ্গুর",
+      "$10": "১০ একর",
+      "$2": "২ ব্যারেল"
+    }
+  },
+  {
+    "entry": "208",
+    "replaced_concepts": {
+      "Jo-er halwai": "রমেশ",
+      "chowmein": "পরোটা",
+      "$10": "৮৩০ টাকা",
+      "$40": "৪০ টাকা"
+    }
+  },
+  {
+    "entry": "212",
+    "replaced_concepts": {
+      "আপনি": "আপনি",
+      "ঝাঁক": "ঝাঁক",
+      "লাল মুরগি": "লাল মুরগি",
+      "৩": "৩",
+      "৫": "৫",
+      "ডিম": "ডিম",
+      "তার": "তার",
+      "আছে": "আছে",
+      "৪২": "৪২"
+    }
+  },
+  {
+    "entry": "213",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "214",
+    "replaced_concepts": {
+      "100": "১০০ জন",
+      "50": "৫০ জন",
+      "500": "৫০০ হয়",
+      "moat": "মোট"
+    }
+  },
+  {
+    "entry": "215",
+    "replaced_concepts": {
+      "John": "झेरी",
+      "muffins": "जलाधार"
+    }
+  },
+  {
+    "entry": "216",
+    "replaced_concepts": {
+      "John": "Ram",
+      "muffins": "goods",
+      "$10": "৮৩০ টাকা",
+      "$320.00": "৩২০ টাকায়",
+      "$8.00": "৮.০০ টাকা"
+    }
+  },
+  {
+    "entry": "217",
+    "replaced_concepts": {
+      "$2000": "২০০০ ধার",
+      "$165": "১৬৫ হিসেবে",
+      "$12": "১২ মাস"
+    }
+  },
+  {
+    "entry": "218",
+    "replaced_concepts": {
+      "ফুল (flower)": "ডালিয়া",
+      "গোলাপ (money)": "৳"
+    }
+  },
+  {
+    "entry": "220",
+    "replaced_concepts": {
+      "একটি (one)": "একছাট",
+      "খেলায় (in the exam)": "চারজন",
+      "চারজন শিক্ষার্থী (exam student)": "শিক্ষার্থী",
+      "মোট (most)": "অংশ",
+      "251পয়েন্ট (251 rupees)": "৮৩০ টাকা",
+      "68 পয়েন্ট (68 rupees)": "০৮২ টাকা",
+      "ইউরি (Josh)": "ইউরি",
+      "নাওমি (Nammi)": "নাওমি",
+      "অর্জিত (prepared)": "অর্জিত",
+      "পয়েন্টের (of the)": "পয়েন্টের",
+      "থেকে (from)": "থেকে",
+      "বেশি (more)": "অংশ",
+      "১৭ পয়েন্ট (17 rupees)": "১৭ টাকা"
+    }
+  },
+  {
+    "entry": "221",
+    "replaced_concepts": {
+      "John": "रমেশ",
+      "muffins": "সুদোকু ধাঁধা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "222",
+    "replaced_concepts": {
+      "জল\" (water)": "পানি",
+      "ট্যাঙ্কে\" (tank)": "উৎসা",
+      "লিটা\" (liter)": "ছোট",
+      "ছোট বাগানে\" (small bag)": "ছোট আছে",
+      "সংগ্রহ\" (absorption)": "অংশ",
+      "ট্যাঙ্কটিতে\" (in the tank)": "উৎসাটিতে"
+    }
+  },
+  {
+    "entry": "223",
+    "replaced_concepts": {
+      "John": "Ramu",
+      "muffins": "মূড়া",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "231",
+    "replaced_concepts": {
+      "Mark": "রমেশ",
+      "$20,000": "২০০০ টাকা",
+      "$1000": "১০০০ খরচ",
+      "নিবন্ধীকরণের": "১০০০ খরচ"
+    }
+  },
+  {
+    "entry": "236",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পিৎজা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "239",
+    "replaced_concepts": {
+      "Jesus": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "240",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "242",
+    "replaced_concepts": {
+      "John": "Ramesh",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "243",
+    "replaced_concepts": {
+      "John": "রমেশ",
+      "muffins": "পরোটা",
+      "$10": "৮৩০ টাকা",
+      "2 friends": "ছিল",
+      "5 friends": "আপনের আছে",
+      "একইভাবে": "একই আছে",
+      "ঘণ্টা": "আছে"
+    }
+  },
+  {
+    "entry": "244",
+    "replaced_concepts": {
+      "১০০০": "৩০০০",
+      "৩০": "৩০০০"
+    }
+  },
+  {
+    "entry": "245",
+    "replaced_concepts": {
+      "John": "জিনজার",
+      "muffins": "গ্রিফিন",
+      "$10": "৮৩০ টাকা"
+    }
+  },
+  {
+    "entry": "246",
+    "replaced_concepts": {
+      "একটি": "একটি অ্যাকোরিয়াম",
+      "আরেকটি": "আরেকটি অ্যাকোরিয়াম",
+      "অ্যাকোরিয়াম": "অ্যাকোরিয়াম",
+      "থাকা": "থাকা",
+      "অ্যাকোরিয়ামে": "অ্যাকোরিয়ামে",
+      "এছে": "এছে",
+      "আছে": "আছে",
+      "অংশ": "অংশ",
+      "অংশে": "অংশে",
+      "অংশের": "অংশের",
+      "অংশের অংশ": "অংশের অংশ",
+      "অংশের অংশে": "অংশের অংশে",
+      "অংশের অংশের": "অংশের অংশের",
+      "অংশের অংশের অংশ": "অংশের অংশের অংশ"
+    }
+  }
+]

@@ -1,0 +1,1380 @@
+Entry 1 replaced concepts:
+{
+  "جেনেটের": "John's",
+  "হাঁসগুলি": "rotis",
+  "প্রতিদিন": "daily",
+  "ডিম": "roti",
+  "খান": "friends",
+  "চারটি": "market",
+  "$2": "৳2"
+}
+----------------------------------------
+Entry 2 replaced concepts:
+{
+  "pooshak": "একটি পোশাক",
+  "ril": "নীল সুতো",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 3 replaced concepts:
+{
+  "John": "रমেश",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 4 replaced concepts:
+{
+  "Jem": "रमेश",
+  "Sprinter": "स्प्रिंटे",
+  "Meter": "मिटर",
+  "Three": "३",
+  "Week": "सप्ताह"
+}
+----------------------------------------
+Entry 5 replaced concepts:
+{
+  "ওয়েন্ডি": "Ram",
+  "প্রতিদিন": "day",
+  "তাঁর": "his",
+  "প্রত্যেকটি": "each",
+  "মুরগি": "cake",
+  "খাবার": "piece",
+  "ঝাঁক": "cup",
+  "অলাদা": "Ram",
+  "আলাদা": "Ram",
+  "এবং": "and",
+  "সকালে": "in the morning",
+  "বিকেলে": "in the evening",
+  "ওয়েন্ডির": "Ram's",
+  "মুরগির": "Ram's",
+  "ঝাঁকে": "cup",
+  "তাঁকে": "he",
+  "খাওয়ানোর": "for him",
+  "ওয়েন্ডির মুরগির": "Ram's cake",
+  "ওয়েন্ডির মুরগির ঝাঁকে": "Ram's cake cup",
+  "যদি": "if",
+  "ওয়েন্ডির মুরগির ঝাঁকে যদি 20টি মুরগি থাকে": "Ram's cake cup if 20 cakes are there"
+}
+----------------------------------------
+Entry 6 has no 'replaced_concepts' key.
+Entry 7 replaced concepts:
+{
+  "টুলুজ": "চার্লস্টন",
+  "চার্লস্টন": "সিয়াটল",
+  "ভেড়া": "আছে"
+}
+----------------------------------------
+Entry 8 replaced concepts:
+{
+  "Carla": "রমেশ",
+  "file": "ফাইল",
+  "cloud": "আঞ্চলি",
+  "download": "ডাউনলোড",
+  "minute": "মিনিট",
+  "Windows Installer": "আপডেট ইনস্টল",
+  "restart": "আরোচনা",
+  "20 minutes": "২০ মিনিট"
+}
+----------------------------------------
+Entry 9 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা",
+  "60": "খাঁচ",
+  "3": "ছয়",
+  "4": "ঘণ্টা"
+}
+----------------------------------------
+Entry 10 replaced concepts:
+{
+  "John": "रमेश",
+  "muffins": "परोटा",
+  "$10": "८३० एक्टा"
+}
+----------------------------------------
+Entry 11 replaced concepts:
+{
+  "month": "আষেমা",
+  "download": "ডাউনলোড",
+  "$10": "৮৩০ টাকা",
+  "John": "রমেশ",
+  "muffins": "পরোটা"
+}
+----------------------------------------
+Entry 12 replaced concepts:
+{
+  "John": "रमेश",
+  "muffins": "परोटा",
+  "$10": "८३० ठाकुरे"
+}
+----------------------------------------
+Entry 13 has no 'replaced_concepts' key.
+Entry 14 has no 'replaced_concepts' key.
+Entry 15 replaced concepts:
+{
+  "Nach": "नाचे",
+  "Shiksharthi": "शिक्षार्ठी",
+  "Jjan": "जन",
+  "Samasamayik": "समसामयिक",
+  "Jyaj": "ज्याज",
+  "Hip-Hop": "हिप-हप"
+}
+----------------------------------------
+Entry 16 has no 'replaced_concepts' key.
+Entry 17 replaced concepts:
+{
+  "John": "दुबिया",
+  "muffins": "परोटा",
+  "$10": "८३० रुपये"
+}
+----------------------------------------
+Entry 18 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 19 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "ডিম",
+  "$10": "৩০০ ডজ"
+}
+----------------------------------------
+Entry 20 has no 'replaced_concepts' key.
+Entry 21 has no 'replaced_concepts' key.
+Entry 22 has no 'replaced_concepts' key.
+Entry 23 has no 'replaced_concepts' key.
+Entry 24 replaced concepts:
+{
+  "mom": "maa",
+  "dollar": "rupee",
+  "10": "১০",
+  "2:00 PM": "2:00 ঘণ্টা"
+}
+----------------------------------------
+Entry 25 has no 'replaced_concepts' key.
+Entry 26 has no 'replaced_concepts' key.
+Entry 27 replaced concepts:
+{
+  "John": "রমেশ",
+  "$10": "৮৩০ টাকা",
+  "$16.50": "৩২৩.৫০",
+  "$22.50": "২২.৫০",
+  "$42": "৩২৩.৫০"
+}
+----------------------------------------
+Entry 28 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 29 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 30 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা",
+  "dollar": "ডলার"
+}
+----------------------------------------
+Entry 31 replaced concepts:
+{
+  "Derrel": "Ram",
+  "Alan": "John",
+  "7:11": "7:11 AM",
+  "162 years": "162 years old",
+  "10 years": "10 years old"
+}
+----------------------------------------
+Entry 32 has no 'replaced_concepts' key.
+Entry 33 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা",
+  "one month": "এক সপ্তাহ"
+}
+----------------------------------------
+Entry 34 has no 'replaced_concepts' key.
+Entry 35 replaced concepts:
+{
+  "Raminder": "আমার",
+  "muffins": "অভিনেত",
+  "$10": "৪০০ টাকা"
+}
+----------------------------------------
+Entry 36 replaced concepts:
+{
+  "Ramish": "রমেশ",
+  "minute": "মিনিট",
+  "score": "স্কোর",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 37 replaced concepts:
+{
+  " Terry": "Ram",
+  "Iogart": "Yogurt",
+  "$5.00": "৫০০ টাকা",
+  "dollar": "ডলার",
+  "30 days": "৩০ দিন"
+}
+----------------------------------------
+Entry 38 has no 'replaced_concepts' key.
+Entry 39 replaced concepts:
+{
+  "John": "রমেশ",
+  "mil": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 40 has no 'replaced_concepts' key.
+Entry 41 replaced concepts:
+{
+  "iPhone": "আমার iPhone",
+  "Ben": "আমার",
+  "Suzir": "সুজির",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 42 replaced concepts:
+{
+  "John": "Ram",
+  "muffins": "মণি",
+  "$10": "৮৩০ টাকা",
+  "400 kg": "৪০০ কিলোমিটার",
+  "sugar": "অষ্টা",
+  "price of sugar": "অষ্টা দাম"
+}
+----------------------------------------
+Entry 43 has no 'replaced_concepts' key.
+Entry 44 replaced concepts:
+{
+  "John": "रमेश",
+  "muffins": "परोटा",
+  "$10": "८३० एकाका"
+}
+----------------------------------------
+Entry 45 has no 'replaced_concepts' key.
+Entry 46 has no 'replaced_concepts' key.
+Entry 47 has no 'replaced_concepts' key.
+Entry 48 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা",
+  "$40": "२০০ ব্যয়"
+}
+----------------------------------------
+Entry 49 replaced concepts:
+{
+  "ট্রেসি": "লম্বা",
+  "একটি": "একটি তার",
+  "$10": "৬ ইঞ্চি"
+}
+----------------------------------------
+Entry 50 has no 'replaced_concepts' key.
+Entry 51 has no 'replaced_concepts' key.
+Entry 52 replaced concepts:
+{
+  "John": "रমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 53 replaced concepts:
+{
+  "Ram": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 54 has no 'replaced_concepts' key.
+Entry 55 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "মফিন",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 56 replaced concepts:
+{
+  "Jin": "রমেশ",
+  "muffins": "ললিপপ",
+  "$10": "৩০ ললিপপ"
+}
+----------------------------------------
+Entry 57 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা",
+  "$7": "সপ্তাah"
+}
+----------------------------------------
+Entry 58 replaced concepts:
+{
+  "একটি কাঠের সেতু": "Ram's head",
+  "5000 পাউন্ডের বেশি ভার বহন করতে পারে না": "Ram can't carry 5000 pounds of goods on his head",
+  "ওপর দিয়ে 15 পাউন্ড ওজনের একটি ডেলিভারি ট্রাক পার হয়ে যাবে": "He can only carry 15 pounds of goods in one trip",
+  "গাড়ির চালক ও খালি ট্রাকটির মিলিত ওজন হল 3755 পাউন্ড": "The weight of the cart and the goods is 3755 pounds",
+  "সেতুর ওজন সীমা অতিক্রম না করে সর্বোচ্চ কতগুলি বাক্স ট্রাকে চাপানো যেতে পারে?": "How many trips will it take to transport all the goods?"
+}
+----------------------------------------
+Entry 59 has no 'replaced_concepts' key.
+Entry 60 replaced concepts:
+{
+  "রাস্পবেরি": "ऋषभ",
+  "ঝাড়ে": "ठेका",
+  "থোকার": "ठोका",
+  "প্রতিটিতে": "प्रति ठेका",
+  "20টি": " twenty",
+  "67টি": "sixty-seven"
+}
+----------------------------------------
+Entry 61 replaced concepts:
+{
+  "ঝুড়ি (muffin)": "কমলালেবু",
+  "২টি টক (two dollars)": "২টি ভালো",
+  "ভালো (biscuit)": "ভালো"
+}
+----------------------------------------
+Entry 62 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 63 replaced concepts:
+{
+  "Ram": "রমেশ",
+  "$50,000": "৫০০,০০০ টাকা",
+  "$1,000,000": "১০০০,০০০ টাকা",
+  "$1,500,000": "১৫০০,০০০ টাকা"
+}
+----------------------------------------
+Entry 64 has no 'replaced_concepts' key.
+Entry 65 has no 'replaced_concepts' key.
+Entry 66 has no 'replaced_concepts' key.
+Entry 67 replaced concepts:
+{
+  "বাস্কেটবল": "টুর্নামেন্ট",
+  "একটি করে": "একটি প্রতিটি করে",
+  "খেলোয়াড়": "খেলোয়াড় রয়েছে",
+  "প্রতিটি দলে": "প্রতিটি বিদ্যালয়",
+  "একজন করে": "একজন প্রশিক্ষক",
+  "সব মিলিয়ে": "সমস্ত বিদ্যালয়",
+  "মোট কতজন লোক": "মোট কতজন লোক পাঠিয়েছে"
+}
+----------------------------------------
+Entry 68 replaced concepts:
+{
+  "ratten": "রত্ন",
+  "ruobi": "রুবি",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 69 replaced concepts:
+{
+  "meyede": "শিক্ষক",
+  "shikshak": "শিক্ষার্থী",
+  "$10": "৭০"
+}
+----------------------------------------
+Entry 70 has no 'replaced_concepts' key.
+Entry 71 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 72 replaced concepts:
+{
+  "keleyan": "কেলিয়ান",
+  "resipi": "রেসিপি",
+  "durakame": "দুরকমের",
+  "tulna": "তুলনা",
+  "davigun": "দ্বিগুণ"
+}
+----------------------------------------
+Entry 73 replaced concepts:
+{
+  "tomi": "আপনি",
+  "braun": "টুকরো",
+  "chijoke": "চিজকেকের",
+  "$10": "৪৩০ টুকরো",
+  "$4": "২৩ চিজকেকের"
+}
+----------------------------------------
+Entry 74 replaced concepts:
+{
+  "$150": "৩০০ টাকা",
+  "sud": "সুদ"
+}
+----------------------------------------
+Entry 75 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "₹830"
+}
+----------------------------------------
+Entry 76 replaced concepts:
+{
+  "লিউক": "আপনি",
+  "সৈকতে": "আপনি",
+  "বালির দুর্গ": "আপনি ৪ টালার বালির দুর্গের প্রতিটি",
+  "তৈরি করে": "তিনি",
+  "সেটির নিচের": "নিচের",
+  "তলার পরিমাপ": "একটি তলার গড় মাপ",
+  "বর্গফুট": "বর্গফুট পরিমাপের",
+  "অর্ধেক হবে": "তাহলে",
+  "৪ তলার": "৪ তলার বালির",
+  "দুর্গ বানান": "আপনি ৪ তলার বালির দুর্গের",
+  "শীর্ষ তলার": "একটি তলার",
+  "মাপ": "গড় মাপ"
+}
+----------------------------------------
+Entry 77 has no 'replaced_concepts' key.
+Entry 78 replaced concepts:
+{
+  "Ramendra": "রমেন্ড",
+  "rupees": "পাউন্ড",
+  "500": "৪০০"
+}
+----------------------------------------
+Entry 79 replaced concepts:
+{
+  "$2.50": "২৫০ টাকা",
+  "3 packages": "৩ প্যাকেজ",
+  "18 flowers": "ৱ২৩ ফুল",
+  "$1": "১ টাকা"
+}
+----------------------------------------
+Entry 80 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 81 has no 'replaced_concepts' key.
+Entry 82 replaced concepts:
+{
+  "Charlie": "রমেশ",
+  "stickers": "স্টিকার",
+  "$10": "৮৩০ টাকা",
+  "21": "২১",
+  "9": "৯",
+  "28": "২৮"
+}
+----------------------------------------
+Entry 83 replaced concepts:
+{
+  "grass": "আমি",
+  "alex": "রমেশ",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 84 replaced concepts:
+{
+  "Dan": "Ram",
+  "muffins": "rice",
+  "$10": "৮৩০ টাকা",
+  "800": " eight hundred"
+}
+----------------------------------------
+Entry 85 replaced concepts:
+{
+  "ফুটবল (football)": "ফুটবল",
+  "খেলা (game)": "খেলা",
+  "খেলেছে (play)": "খেলেছে",
+  "তার (his)": "আছে",
+  "তুলনায় (on)": "আছে",
+  "খেলা জিতেছে (won the game)": "খেলা জিতেছে",
+  "মোট (most)": "আছে"
+}
+----------------------------------------
+Entry 86 has no 'replaced_concepts' key.
+Entry 87 has no 'replaced_concepts' key.
+Entry 88 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা",
+  "six months": "এক মাস",
+  "year": "বছর",
+  "five years": "এই বছর",
+  "ten percent": "অংশ আছে",
+  "December": "ডিসেম্বর"
+}
+----------------------------------------
+Entry 89 has no 'replaced_concepts' key.
+Entry 90 has no 'replaced_concepts' key.
+Entry 91 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "আলু",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 92 replaced concepts:
+{
+  "John": "रमेश",
+  "muffins": "परोটा",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 93 replaced concepts:
+{
+  "Jackson": "এমিলি",
+  "Jackson's age": "5 years",
+  "Jemma's age": "2 years",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 94 has no 'replaced_concepts' key.
+Entry 95 replaced concepts:
+{
+  "পোষা": "খরগোশ",
+  "কুকুর": "পাড়া",
+  "$10": "৭০ টাকা"
+}
+----------------------------------------
+Entry 96 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 97 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "২৩০ টাকা"
+}
+----------------------------------------
+Entry 98 has no 'replaced_concepts' key.
+Entry 99 replaced concepts:
+{
+  "John": "रमেश",
+  "muffins": "परोँ",
+  "$10": "৮৩০ টাकা"
+}
+----------------------------------------
+Entry 100 has no 'replaced_concepts' key.
+Entry 101 has no 'replaced_concepts' key.
+Entry 102 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা",
+  "15": "সোমবার",
+  "4 days": "একদিনে"
+}
+----------------------------------------
+Entry 103 has no 'replaced_concepts' key.
+Entry 104 replaced concepts:
+{
+  "John": "रमेश",
+  "muffins": "परोटा",
+  "$10": "८३० एक्टा"
+}
+----------------------------------------
+Entry 105 replaced concepts:
+{
+  "John": "Ramesh",
+  "muffins": "টুকরো",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 106 replaced concepts:
+{
+  "John": "Ram",
+  "muffins": "cups of tea",
+  "$10": "₹830",
+  "830": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 107 replaced concepts:
+{
+  "bakshi": "পুরু",
+  "five": "৩",
+  "six": "খাঁচি",
+  "four": "ইঞ্চি",
+  "ten": "৩০ টাকা"
+}
+----------------------------------------
+Entry 108 has no 'replaced_concepts' key.
+Entry 109 has no 'replaced_concepts' key.
+Entry 110 replaced concepts:
+{
+  "এক স্থানীয়": "৩.00",
+  "গ্যাস": "৳২০",
+  "কোম্পানি": "কোম্পানি"
+}
+----------------------------------------
+Entry 111 replaced concepts:
+{
+  "John": "रमेश",
+  "muffins": "परोটा",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 112 has no 'replaced_concepts' key.
+Entry 113 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 114 replaced concepts:
+{
+  "Rayan": "আমাথা",
+  "flowers": "ফুল"
+}
+----------------------------------------
+Entry 115 has no 'replaced_concepts' key.
+Entry 116 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 117 has no 'replaced_concepts' key.
+Entry 118 replaced concepts:
+{
+  "John": "रমেশ",
+  "$60": "৩০০ টাকা"
+}
+----------------------------------------
+Entry 119 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 120 has no 'replaced_concepts' key.
+Entry 121 replaced concepts:
+{
+  "John": "रমেश",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 122 replaced concepts:
+{
+  "John": "रमेश",
+  "muffins": "परोटा",
+  "$10": "८३० एने"
+}
+----------------------------------------
+Entry 123 has no 'replaced_concepts' key.
+Entry 124 replaced concepts:
+{
+  "রোজি (Rosie)": "রমেশ",
+  "ঘণ্টা (three)": "ভাষা",
+  "মাইল (mile)": "আংডা",
+  "দৌড়া (bread)": "আংডা",
+  "তিনি (you)": "তো",
+  "ঘণ্টায় (per)": "ভাষা",
+  "কত (how many)": "আংডা"
+}
+----------------------------------------
+Entry 125 has no 'replaced_concepts' key.
+Entry 126 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 127 replaced concepts:
+{
+  "ডিলান (Dilan)": "রমেশ",
+  "চিকেন (Chicken)": "মূল",
+  "ফিশ (Fish)": "ভাষা",
+  "এবং (And)": "আং",
+  "চেয়ে (Chiye)": "চেয়া"
+}
+----------------------------------------
+Entry 128 replaced concepts:
+{
+  "Amir": "লিলি",
+  "$50": "৫০ জন"
+}
+----------------------------------------
+Entry 129 replaced concepts:
+{
+  "Ram": "রমেশ",
+  "dosa": "পরোটা",
+  "$10": "৮৩০ টাকা",
+  "muruja": "মরিচ",
+  "muffin": "কমলালেবু"
+}
+----------------------------------------
+Entry 130 replaced concepts:
+{
+  "$100": "১০০০ টাকা",
+  "$150": "১৫০০ টাকা",
+  "$200": "২০০০ টাকা"
+}
+----------------------------------------
+Entry 131 has no 'replaced_concepts' key.
+Entry 132 replaced concepts:
+{
+  "José": "Ram",
+  "$500": "₹830",
+  "June": "ওই দুই মাসে",
+  "$60": "₹600",
+  "monthly salary": "খরচ"
+}
+----------------------------------------
+Entry 133 has no 'replaced_concepts' key.
+Entry 134 replaced concepts:
+{
+  "ওয়াল্ট": "মঙ্গলবার",
+  "মাইল": "মাইল",
+  "৬": "৬ গুণ",
+  "৪১": "৪১ মাইল"
+}
+----------------------------------------
+Entry 135 replaced concepts:
+{
+  "tom": "টম",
+  "four": "একমাসে",
+  "dollar": "৮৩০ খরচ"
+}
+----------------------------------------
+Entry 136 replaced concepts:
+{
+  "Brayan": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 137 replaced concepts:
+{
+  "UNICORN": "ইউনিকর্ন",
+  "HIGHLIGHT": "স্কটিশ হাইল্যান্ড",
+  "WOMAN": "নারী"
+}
+----------------------------------------
+Entry 138 replaced concepts:
+{
+  "Roori": "আউটে",
+  "Dollar": "ডেলিভারি",
+  "Two": "২",
+  "Five": "৫",
+  "Ten": "১০",
+  "Twenty": "২০",
+  "Fifty": "৫০",
+  "One hundred": "১০০",
+  "Two hundred": "২০০",
+  "Five hundred": "৫০০",
+  "One thousand": "১০০০",
+  "Two thousand": "২০০০",
+  "Five thousand": "৫০০০",
+  "Ten thousand": "১০০০০",
+  "Twenty thousand": "২০০০০",
+  "Fifty thousand": "৫০০০০",
+  "One lakh": "১০০০০",
+  "Two lakh": "২০০০০",
+  "Five lakh": "৫০০০০",
+  "Ten lakh": "১০০০০০",
+  "Twenty lakh": "২০০০০০",
+  "Fifty lakh": "৫০০০০০",
+  "One crore": "১০০০০০",
+  "Two crore": "২০০০০০",
+  "Five crore": "৫০০০০০",
+  "Ten crore": "১০০০০০০",
+  "Twenty crore": "২০০০০০০",
+  "Fifty crore": "৫০০০০০০",
+  "One hundred crore": "১০০০০০০",
+  "Two hundred crore": "২০০০০০০",
+  "Five hundred crore": "৫০০০০০০",
+  "Ten hundred crore": "১০০০০০০০",
+  "One thousand crore": "১০০০০০০০",
+  "Two thousand crore": "২০০০০০০০",
+  "Five thousand crore": "৫০০০০০০০",
+  "Ten thousand crore": "১০০০০০০০০",
+  "Twenty thousand crore": "২০০০০০০০০",
+  "Five hundred thousand crore": "৫০০০০০০০০",
+  "Ten lakh crore": "১০০০০০০০০০",
+  "Twenty lakh crore": "২০০০০০০০০০",
+  "Five crore lakh": "৫০০০০০০০০০",
+  "Ten crore lakh": "১০০০০০০০০০"
+}
+----------------------------------------
+Entry 139 has no 'replaced_concepts' key.
+Entry 140 replaced concepts:
+{
+  "ক্যান্ডি": "চারগুণ",
+  "মেশিনে": "থেকে",
+  "নীল গামবল": "নীল গামবল",
+  "২২০": "২২০ টাকা",
+  "গোলাপি": "গোলাপি গামবল",
+  "১২": "১২ টি"
+}
+----------------------------------------
+Entry 141 replaced concepts:
+{
+  "car": "গাড়ি",
+  "automatic": "সেমি-অটোমেটিক",
+  "$10": "১০০ টাকা"
+}
+----------------------------------------
+Entry 142 replaced concepts:
+{
+  "মৌমাছি": "मौमाछी",
+  "কর্মী": "कर्मी",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 143 has no 'replaced_concepts' key.
+Entry 144 has no 'replaced_concepts' key.
+Entry 145 replaced concepts:
+{
+  "Ram": "রমেশ",
+  "muffins": "ব্লিচ",
+  "$10": "৮৩০ টাকা",
+  "5 customers": "এখন তিনি অন্য 5 জন সম্ভাব্য গ্রাহকের সাথে কথা বলছেন",
+  "each blich": "এখন অন্য খরচের পার্থক্যই হল লাভ",
+  "each packet of coffee": "এখন অন্য প্যাকেট কাপড়ের প্যাকেটের মূল্য"
+}
+----------------------------------------
+Entry 146 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "আনারস",
+  "$10": "১০০ আনারস"
+}
+----------------------------------------
+Entry 147 has no 'replaced_concepts' key.
+Entry 148 has no 'replaced_concepts' key.
+Entry 149 has no 'replaced_concepts' key.
+Entry 150 has no 'replaced_concepts' key.
+Entry 151 has no 'replaced_concepts' key.
+Entry 152 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 153 has no 'replaced_concepts' key.
+Entry 154 has no 'replaced_concepts' key.
+Entry 155 has no 'replaced_concepts' key.
+Entry 156 replaced concepts:
+{
+  "bil": "रमेश",
+  "rol": "परोटा",
+  "chakla": "क्रसा",
+  "bekgute": "ब्यगुয়েए",
+  "fut": "फुए"
+}
+----------------------------------------
+Entry 157 replaced concepts:
+{
+  "চিড়িয়াখানা": "রক্ষক",
+  "খামা": "খাবার",
+  "অর্ডার": "প্রয়োজন"
+}
+----------------------------------------
+Entry 158 has no 'replaced_concepts' key.
+Entry 159 replaced concepts:
+{
+  "John": "রাফায়েল",
+  "muffins": "জিঞিস",
+  "$1.5": "১৫ টাকা",
+  "$4": "৪ টাকা",
+  "$20": "২০ টাকা"
+}
+----------------------------------------
+Entry 160 replaced concepts:
+{
+  "ফিন": "Ram",
+  "পুকুরে": "muffins",
+  "$10": "৮৩০ টাকা",
+  "লিলি": "lili",
+  "পাতার আড়াল": "John's house",
+  "পাথরের নিচে": "John's friend",
+  "আপনার উত্তর": "your answer",
+  "১০০ টাকায়": "one hundred rupees",
+  "২টি বন্ধুকে": "two friends"
+}
+----------------------------------------
+Entry 161 replaced concepts:
+{
+  "আপনি": "আপনি",
+  "একটি": "একটি",
+  "আরও": "আরও",
+  "মঙ্গলবারে": "মঙ্গলবারে",
+  "ট্যাঙ্কের": "ট্যাঙ্কের",
+  "জলের": "জলের",
+  "গভীরতা": "গভীরতা",
+  "দুই তৃতীয়াংশ": "দুই তৃতীয়াংশ"
+}
+----------------------------------------
+Entry 162 replaced concepts:
+{
+  "Anakin": "রমেশ",
+  "muffins": "তারামাছ",
+  "$10": "১০ টাকা",
+  "sinthu": "সিন্ধু",
+  "klounma": "ক্লাউনমাছ"
+}
+----------------------------------------
+Entry 163 replaced concepts:
+{
+  "$20": "২০ টাকা",
+  "marbles": "মার্বেল"
+}
+----------------------------------------
+Entry 164 replaced concepts:
+{
+  "একটি ঘরে": "একটি ঘরে",
+  "লাল গাড়ি": "লাল গাড়ি",
+  "অ্যাকশন ফিগার": "অ্যাকশন ফিগার",
+  "পুতুল": "পুতুল",
+  "$4": "$৩টি অ্যাকশন ফিগারের দামের সমান",
+  "$5": "$৫"
+}
+----------------------------------------
+Entry 165 has no 'replaced_concepts' key.
+Entry 166 has no 'replaced_concepts' key.
+Entry 167 has no 'replaced_concepts' key.
+Entry 168 replaced concepts:
+{
+  "Ram": "রমেশ",
+  "years": "বয়সের সমষ্টি"
+}
+----------------------------------------
+Entry 169 has no 'replaced_concepts' key.
+Entry 170 replaced concepts:
+{
+  "20": "২০",
+  "10": "১০",
+  "milk": "খাটা",
+  "month": "মাস",
+  "week": "সপ্তাহ"
+}
+----------------------------------------
+Entry 171 has no 'replaced_concepts' key.
+Entry 172 replaced concepts:
+{
+  "Jack": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 173 replaced concepts:
+{
+  "John": "रमेश",
+  "muffins": "परोটा",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 174 has no 'replaced_concepts' key.
+Entry 175 replaced concepts:
+{
+  "John": "रमेश",
+  "muffins": "परोटा",
+  "$10": "८३० एकाका"
+}
+----------------------------------------
+Entry 176 has no 'replaced_concepts' key.
+Entry 177 replaced concepts:
+{
+  "Japanese": "জাপানিজ",
+  "Chinese": "চাইনিজ"
+}
+----------------------------------------
+Entry 178 has no 'replaced_concepts' key.
+Entry 179 has no 'replaced_concepts' key.
+Entry 180 replaced concepts:
+{
+  "$10": "৩০ টাকা",
+  "John": "রমেশ",
+  "muffins": "পরোটা"
+}
+----------------------------------------
+Entry 181 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 182 has no 'replaced_concepts' key.
+Entry 183 has no 'replaced_concepts' key.
+Entry 184 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 185 replaced concepts:
+{
+  "John": "रমেश",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 186 replaced concepts:
+{
+  "Jenny": "আপনার মা",
+  "muffins": "আপেল",
+  "$10": "২০ আপেল"
+}
+----------------------------------------
+Entry 187 replaced concepts:
+{
+  "Ramel": "রামেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 188 replaced concepts:
+{
+  "$100": "১০০ টাকা",
+  "monthly": "মাসিক",
+  "sud": "সুদে"
+}
+----------------------------------------
+Entry 189 replaced concepts:
+{
+  "$20": "২০ টাকা",
+  "$30": "৩০ টাকা",
+  "$400": "৪০০ টাকা"
+}
+----------------------------------------
+Entry 190 replaced concepts:
+{
+  "John": "रমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা",
+  "$20.25": "২০.২৫ টাকা",
+  "$4.50": "৪.৫০ টাকা",
+  "$33": "৩৩ টাকা"
+}
+----------------------------------------
+Entry 191 replaced concepts:
+{
+  "John": "Ramesh",
+  "muffins": "পিচ",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 192 replaced concepts:
+{
+  "hans": "ঝাঁকে",
+  "pound": "পাউন্ড",
+  "day": "দিন"
+}
+----------------------------------------
+Entry 193 replaced concepts:
+{
+  "Tom": "টম",
+  "money": "গাছ",
+  "year": "বছর"
+}
+----------------------------------------
+Entry 194 has no 'replaced_concepts' key.
+Entry 195 replaced concepts:
+{
+  "John": "Ramu",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা",
+  "$20": "২টাকা"
+}
+----------------------------------------
+Entry 196 has no 'replaced_concepts' key.
+Entry 197 replaced concepts:
+{
+  "Shahar": "শহর",
+  "Pound": "পাউন্ড",
+  "$100": "২০০ পাউন্ড"
+}
+----------------------------------------
+Entry 198 replaced concepts:
+{
+  "Sohag": "সোডা",
+  "city": "শহর",
+  "people": "বাসিন্দা",
+  "men": "পুরুষ",
+  "women": "মহিলা",
+  "employed": "অন্তর্ভুক্ত",
+  "children": "শিশু",
+  "age": "আছে"
+}
+----------------------------------------
+Entry 199 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 200 replaced concepts:
+{
+  "Mark": "রমেশ",
+  "boss": "আঁডিটর",
+  "$10": "৮৩০ টাকা",
+  "1000": "১০০০ সংখ্যা",
+  "5": "পৃথক"
+}
+----------------------------------------
+Entry 201 replaced concepts:
+{
+  "Baldu": "रमेश",
+  "muffins": "परोटा",
+  "$10": "८३० एक्टा"
+}
+----------------------------------------
+Entry 202 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা",
+  "month": "একটি মাস",
+  "week": "একটি সপ্তাহ",
+  "year": "একটি বছর"
+}
+----------------------------------------
+Entry 203 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "আঙ্গুর",
+  "$10": "১০ একর",
+  "$2": "২ ব্যারেল"
+}
+----------------------------------------
+Entry 204 has no 'replaced_concepts' key.
+Entry 205 has no 'replaced_concepts' key.
+Entry 206 has no 'replaced_concepts' key.
+Entry 207 has no 'replaced_concepts' key.
+Entry 208 replaced concepts:
+{
+  "Jo-er halwai": "রমেশ",
+  "chowmein": "পরোটা",
+  "$10": "৮৩০ টাকা",
+  "$40": "৪০ টাকা"
+}
+----------------------------------------
+Entry 209 has no 'replaced_concepts' key.
+Entry 210 has no 'replaced_concepts' key.
+Entry 211 has no 'replaced_concepts' key.
+Entry 212 replaced concepts:
+{
+  "আপনি": "আপনি",
+  "ঝাঁক": "ঝাঁক",
+  "লাল মুরগি": "লাল মুরগি",
+  "৩": "৩",
+  "৫": "৫",
+  "ডিম": "ডিম",
+  "তার": "তার",
+  "আছে": "আছে",
+  "৪২": "৪২"
+}
+----------------------------------------
+Entry 213 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 214 replaced concepts:
+{
+  "100": "১০০ জন",
+  "50": "৫০ জন",
+  "500": "৫০০ হয়",
+  "moat": "মোট"
+}
+----------------------------------------
+Entry 215 replaced concepts:
+{
+  "John": "झेरी",
+  "muffins": "जलाधार"
+}
+----------------------------------------
+Entry 216 replaced concepts:
+{
+  "John": "Ram",
+  "muffins": "goods",
+  "$10": "৮৩০ টাকা",
+  "$320.00": "৩২০ টাকায়",
+  "$8.00": "৮.০০ টাকা"
+}
+----------------------------------------
+Entry 217 replaced concepts:
+{
+  "$2000": "২০০০ ধার",
+  "$165": "১৬৫ হিসেবে",
+  "$12": "১২ মাস"
+}
+----------------------------------------
+Entry 218 replaced concepts:
+{
+  "ফুল (flower)": "ডালিয়া",
+  "গোলাপ (money)": "৳"
+}
+----------------------------------------
+Entry 219 has no 'replaced_concepts' key.
+Entry 220 replaced concepts:
+{
+  "একটি (one)": "একছাট",
+  "খেলায় (in the exam)": "চারজন",
+  "চারজন শিক্ষার্থী (exam student)": "শিক্ষার্থী",
+  "মোট (most)": "অংশ",
+  "251পয়েন্ট (251 rupees)": "৮৩০ টাকা",
+  "68 পয়েন্ট (68 rupees)": "০৮২ টাকা",
+  "ইউরি (Josh)": "ইউরি",
+  "নাওমি (Nammi)": "নাওমি",
+  "অর্জিত (prepared)": "অর্জিত",
+  "পয়েন্টের (of the)": "পয়েন্টের",
+  "থেকে (from)": "থেকে",
+  "বেশি (more)": "অংশ",
+  "১৭ পয়েন্ট (17 rupees)": "১৭ টাকা"
+}
+----------------------------------------
+Entry 221 replaced concepts:
+{
+  "John": "रমেশ",
+  "muffins": "সুদোকু ধাঁধা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 222 replaced concepts:
+{
+  "জল\" (water)": "পানি",
+  "ট্যাঙ্কে\" (tank)": "উৎসা",
+  "লিটা\" (liter)": "ছোট",
+  "ছোট বাগানে\" (small bag)": "ছোট আছে",
+  "সংগ্রহ\" (absorption)": "অংশ",
+  "ট্যাঙ্কটিতে\" (in the tank)": "উৎসাটিতে"
+}
+----------------------------------------
+Entry 223 replaced concepts:
+{
+  "John": "Ramu",
+  "muffins": "মূড়া",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 224 has no 'replaced_concepts' key.
+Entry 225 has no 'replaced_concepts' key.
+Entry 226 has no 'replaced_concepts' key.
+Entry 227 has no 'replaced_concepts' key.
+Entry 228 has no 'replaced_concepts' key.
+Entry 229 has no 'replaced_concepts' key.
+Entry 230 has no 'replaced_concepts' key.
+Entry 231 replaced concepts:
+{
+  "Mark": "রমেশ",
+  "$20,000": "২০০০ টাকা",
+  "$1000": "১০০০ খরচ",
+  "নিবন্ধীকরণের": "১০০০ খরচ"
+}
+----------------------------------------
+Entry 232 has no 'replaced_concepts' key.
+Entry 233 has no 'replaced_concepts' key.
+Entry 234 has no 'replaced_concepts' key.
+Entry 235 has no 'replaced_concepts' key.
+Entry 236 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পিৎজা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 237 has no 'replaced_concepts' key.
+Entry 238 has no 'replaced_concepts' key.
+Entry 239 replaced concepts:
+{
+  "Jesus": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 240 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 241 has no 'replaced_concepts' key.
+Entry 242 replaced concepts:
+{
+  "John": "Ramesh",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 243 replaced concepts:
+{
+  "John": "রমেশ",
+  "muffins": "পরোটা",
+  "$10": "৮৩০ টাকা",
+  "2 friends": "ছিল",
+  "5 friends": "আপনের আছে",
+  "একইভাবে": "একই আছে",
+  "ঘণ্টা": "আছে"
+}
+----------------------------------------
+Entry 244 replaced concepts:
+{
+  "১০০০": "৩০০০",
+  "৩০": "৩০০০"
+}
+----------------------------------------
+Entry 245 replaced concepts:
+{
+  "John": "জিনজার",
+  "muffins": "গ্রিফিন",
+  "$10": "৮৩০ টাকা"
+}
+----------------------------------------
+Entry 246 replaced concepts:
+{
+  "একটি": "একটি অ্যাকোরিয়াম",
+  "আরেকটি": "আরেকটি অ্যাকোরিয়াম",
+  "অ্যাকোরিয়াম": "অ্যাকোরিয়াম",
+  "থাকা": "থাকা",
+  "অ্যাকোরিয়ামে": "অ্যাকোরিয়ামে",
+  "এছে": "এছে",
+  "আছে": "আছে",
+  "অংশ": "অংশ",
+  "অংশে": "অংশে",
+  "অংশের": "অংশের",
+  "অংশের অংশ": "অংশের অংশ",
+  "অংশের অংশে": "অংশের অংশে",
+  "অংশের অংশের": "অংশের অংশের",
+  "অংশের অংশের অংশ": "অংশের অংশের অংশ"
+}
+----------------------------------------
+Entry 247 has no 'replaced_concepts' key.
+Entry 248 has no 'replaced_concepts' key.
+Entry 249 has no 'replaced_concepts' key.
+Entry 250 has no 'replaced_concepts' key.

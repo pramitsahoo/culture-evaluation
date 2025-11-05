@@ -1,0 +1,163 @@
+model,state,count,percentage
+llama-3.2-1b_gsm_8k_test,Uttar Pradesh,538,47.61061946902655
+llama-3.2-1b_gsm_8k_test,Chandigarh,267,23.628318584070797
+llama-3.2-1b_gsm_8k_test,Delhi,152,13.451327433628318
+llama-3.2-1b_gsm_8k_test,Punjab,83,7.345132743362832
+llama-3.2-1b_gsm_8k_test,Odisha,20,1.7699115044247788
+llama-3.2-1b_gsm_8k_test,Uttarakhand,5,0.4424778761061947
+llama-3.2-1b_gsm_8k_test,Andaman and Nicobar Islands,8,0.7079646017699115
+llama-3.2-1b_gsm_8k_test,Maharashtra,8,0.7079646017699115
+llama-3.2-1b_gsm_8k_test,Assam,2,0.17699115044247787
+llama-3.2-1b_gsm_8k_test,Haryana,5,0.4424778761061947
+llama-3.2-1b_gsm_8k_test,Telangana,11,0.9734513274336283
+llama-3.2-1b_gsm_8k_test,Meghalaya,1,0.08849557522123894
+llama-3.2-1b_gsm_8k_test,Kerala,1,0.08849557522123894
+llama-3.2-1b_gsm_8k_test,Puducherry,8,0.7079646017699115
+llama-3.2-1b_gsm_8k_test,Karnataka,5,0.4424778761061947
+llama-3.2-1b_gsm_8k_test,Himachal Pradesh,3,0.2654867256637168
+llama-3.2-1b_gsm_8k_test,Lakshadweep,2,0.17699115044247787
+llama-3.2-1b_gsm_8k_test,Dadra and Nagar Haveli and Dama,3,0.2654867256637168
+llama-3.2-1b_gsm_8k_test,Bihar,2,0.17699115044247787
+llama-3.2-1b_gsm_8k_test,Rajasthan,2,0.17699115044247787
+llama-3.2-1b_gsm_8k_test,Andhra Pradesh,1,0.08849557522123894
+llama-3.2-1b_gsm_8k_test,Chhattisgarh,1,0.08849557522123894
+llama-3.2-1b_gsm_8k_test,Jharkhand,1,0.08849557522123894
+llama-3.2-1b_gsm_8k_test,Sikkim,1,0.08849557522123894
+mistral_gsm_8k_test,Chandigarh,21,2.7851458885941645
+mistral_gsm_8k_test,Delhi,232,30.76923076923077
+mistral_gsm_8k_test,Odisha,100,13.262599469496022
+mistral_gsm_8k_test,Himachal Pradesh,2,0.2652519893899204
+mistral_gsm_8k_test,Maharashtra,32,4.244031830238726
+mistral_gsm_8k_test,Uttar Pradesh,233,30.90185676392573
+mistral_gsm_8k_test,Haryana,4,0.5305039787798408
+mistral_gsm_8k_test,Jharkhand,8,1.0610079575596816
+mistral_gsm_8k_test,Karnataka,15,1.989389920424403
+mistral_gsm_8k_test,Tamil Nadu,4,0.5305039787798408
+mistral_gsm_8k_test,Puducherry,4,0.5305039787798408
+mistral_gsm_8k_test,Andaman and Nicobar Islands,14,1.8567639257294428
+mistral_gsm_8k_test,Uttarakhand,9,1.1936339522546418
+mistral_gsm_8k_test,Mizoram,3,0.3978779840848806
+mistral_gsm_8k_test,Telangana,14,1.8567639257294428
+mistral_gsm_8k_test,Punjab,6,0.7957559681697612
+mistral_gsm_8k_test,Dadra and Nagar Haveli and Dama,3,0.3978779840848806
+mistral_gsm_8k_test,Goa,1,0.1326259946949602
+mistral_gsm_8k_test,Gujarat,23,3.050397877984085
+mistral_gsm_8k_test,Lakshadweep,2,0.2652519893899204
+mistral_gsm_8k_test,Rajasthan,8,1.0610079575596816
+mistral_gsm_8k_test,Andhra Pradesh,3,0.3978779840848806
+mistral_gsm_8k_test,Kerala,4,0.5305039787798408
+mistral_gsm_8k_test,West Bengal,1,0.1326259946949602
+mistral_gsm_8k_test,Assam,1,0.1326259946949602
+mistral_gsm_8k_test,Madhya Pradesh,3,0.3978779840848806
+mistral_gsm_8k_test,Tripura,2,0.2652519893899204
+mistral_gsm_8k_test,Ladakh,1,0.1326259946949602
+mistral_gsm_8k_test,Chhattisgarh,1,0.1326259946949602
+gemma-2-2b_gsm_8k_test,Uttar Pradesh,275,47.49568221070812
+gemma-2-2b_gsm_8k_test,Chandigarh,35,6.0449050086355784
+gemma-2-2b_gsm_8k_test,Punjab,46,7.9447322970639025
+gemma-2-2b_gsm_8k_test,Karnataka,7,1.2089810017271159
+gemma-2-2b_gsm_8k_test,Tamil Nadu,1,0.17271157167530224
+gemma-2-2b_gsm_8k_test,Puducherry,1,0.17271157167530224
+gemma-2-2b_gsm_8k_test,Telangana,89,15.3713298791019
+gemma-2-2b_gsm_8k_test,Delhi,52,8.981001727115718
+gemma-2-2b_gsm_8k_test,Meghalaya,4,0.690846286701209
+gemma-2-2b_gsm_8k_test,Sikkim,2,0.3454231433506045
+gemma-2-2b_gsm_8k_test,Dadra and Nagar Haveli and Dama,39,6.7357512953367875
+gemma-2-2b_gsm_8k_test,Odisha,10,1.7271157167530224
+gemma-2-2b_gsm_8k_test,Andhra Pradesh,4,0.690846286701209
+gemma-2-2b_gsm_8k_test,Gujarat,2,0.3454231433506045
+gemma-2-2b_gsm_8k_test,Uttarakhand,2,0.3454231433506045
+gemma-2-2b_gsm_8k_test,Lakshadweep,1,0.17271157167530224
+gemma-2-2b_gsm_8k_test,Andaman and Nicobar Islands,1,0.17271157167530224
+gemma-2-2b_gsm_8k_test,Arunachal Pradesh,1,0.17271157167530224
+gemma-2-2b_gsm_8k_test,Maharashtra,2,0.3454231433506045
+gemma-2-2b_gsm_8k_test,Rajasthan,1,0.17271157167530224
+gemma-2-2b_gsm_8k_test,Haryana,1,0.17271157167530224
+gemma-2-2b_gsm_8k_test,Mizoram,1,0.17271157167530224
+gemma-2-2b_gsm_8k_test,Chhattisgarh,1,0.17271157167530224
+gemma-2-2b_gsm_8k_test,Assam,1,0.17271157167530224
+llama-2_gsm_8k_test,Uttar Pradesh,749,60.20900321543409
+llama-2_gsm_8k_test,Chandigarh,419,33.68167202572347
+llama-2_gsm_8k_test,Tamil Nadu,1,0.08038585209003216
+llama-2_gsm_8k_test,Maharashtra,7,0.5627009646302251
+llama-2_gsm_8k_test,Punjab,20,1.607717041800643
+llama-2_gsm_8k_test,Puducherry,3,0.2411575562700965
+llama-2_gsm_8k_test,Haryana,2,0.1607717041800643
+llama-2_gsm_8k_test,Delhi,23,1.8488745980707395
+llama-2_gsm_8k_test,Dadra and Nagar Haveli and Dama,3,0.2411575562700965
+llama-2_gsm_8k_test,Andaman and Nicobar Islands,2,0.1607717041800643
+llama-2_gsm_8k_test,Odisha,3,0.2411575562700965
+llama-2_gsm_8k_test,Telangana,3,0.2411575562700965
+llama-2_gsm_8k_test,Jharkhand,2,0.1607717041800643
+llama-2_gsm_8k_test,Kerala,1,0.08038585209003216
+llama-2_gsm_8k_test,Mizoram,1,0.08038585209003216
+llama-2_gsm_8k_test,Chhattisgarh,3,0.2411575562700965
+llama-2_gsm_8k_test,Madhya Pradesh,1,0.08038585209003216
+llama-2_gsm_8k_test,Meghalaya,1,0.08038585209003216
+llama-3_gsm_8k_test,Chandigarh,49,5.691056910569105
+llama-3_gsm_8k_test,Delhi,40,4.645760743321719
+llama-3_gsm_8k_test,Punjab,328,38.095238095238095
+llama-3_gsm_8k_test,Maharashtra,27,3.1358885017421603
+llama-3_gsm_8k_test,Karnataka,336,39.02439024390244
+llama-3_gsm_8k_test,Andaman and Nicobar Islands,15,1.7421602787456445
+llama-3_gsm_8k_test,Mizoram,2,0.23228803716608595
+llama-3_gsm_8k_test,Madhya Pradesh,3,0.34843205574912894
+llama-3_gsm_8k_test,Gujarat,2,0.23228803716608595
+llama-3_gsm_8k_test,Uttar Pradesh,17,1.9744483159117305
+llama-3_gsm_8k_test,Chhattisgarh,1,0.11614401858304298
+llama-3_gsm_8k_test,Rajasthan,17,1.9744483159117305
+llama-3_gsm_8k_test,Jharkhand,1,0.11614401858304298
+llama-3_gsm_8k_test,Tamil Nadu,4,0.4645760743321719
+llama-3_gsm_8k_test,Andhra Pradesh,6,0.6968641114982579
+llama-3_gsm_8k_test,Himachal Pradesh,1,0.11614401858304298
+llama-3_gsm_8k_test,Jammu and Kashmir,1,0.11614401858304298
+llama-3_gsm_8k_test,Haryana,1,0.11614401858304298
+llama-3_gsm_8k_test,Uttarakhand,3,0.34843205574912894
+llama-3_gsm_8k_test,Dadra and Nagar Haveli and Dama,2,0.23228803716608595
+llama-3_gsm_8k_test,Kerala,1,0.11614401858304298
+llama-3_gsm_8k_test,West Bengal,1,0.11614401858304298
+llama-3_gsm_8k_test,Puducherry,1,0.11614401858304298
+llama-3_gsm_8k_test,Telangana,1,0.11614401858304298
+llama-3_gsm_8k_test,Bihar,1,0.11614401858304298
+llama-3.2-3b_gsm_8k_test,Uttar Pradesh,626,65.8254468980021
+llama-3.2-3b_gsm_8k_test,Chandigarh,131,13.774973711882229
+llama-3.2-3b_gsm_8k_test,Telangana,3,0.31545741324921134
+llama-3.2-3b_gsm_8k_test,Maharashtra,12,1.2618296529968454
+llama-3.2-3b_gsm_8k_test,Delhi,21,2.2082018927444795
+llama-3.2-3b_gsm_8k_test,Punjab,92,9.674027339642482
+llama-3.2-3b_gsm_8k_test,Rajasthan,19,1.9978969505783386
+llama-3.2-3b_gsm_8k_test,Jharkhand,16,1.6824395373291272
+llama-3.2-3b_gsm_8k_test,Odisha,2,0.2103049421661409
+llama-3.2-3b_gsm_8k_test,Andaman and Nicobar Islands,9,0.9463722397476341
+llama-3.2-3b_gsm_8k_test,Tamil Nadu,3,0.31545741324921134
+llama-3.2-3b_gsm_8k_test,Puducherry,2,0.2103049421661409
+llama-3.2-3b_gsm_8k_test,Andhra Pradesh,1,0.10515247108307045
+llama-3.2-3b_gsm_8k_test,Karnataka,3,0.31545741324921134
+llama-3.2-3b_gsm_8k_test,Uttarakhand,2,0.2103049421661409
+llama-3.2-3b_gsm_8k_test,Arunachal Pradesh,1,0.10515247108307045
+llama-3.2-3b_gsm_8k_test,Dadra and Nagar Haveli and Dama,3,0.31545741324921134
+llama-3.2-3b_gsm_8k_test,Chhattisgarh,2,0.2103049421661409
+llama-3.2-3b_gsm_8k_test,Madhya Pradesh,1,0.10515247108307045
+llama-3.2-3b_gsm_8k_test,Himachal Pradesh,1,0.10515247108307045
+llama-3.2-3b_gsm_8k_test,Kerala,1,0.10515247108307045
+gemma-2_gsm_8k_test,Chandigarh,12,1.7725258493353029
+gemma-2_gsm_8k_test,Delhi,343,50.66469719350074
+gemma-2_gsm_8k_test,Uttar Pradesh,57,8.419497784342688
+gemma-2_gsm_8k_test,Kerala,3,0.4431314623338257
+gemma-2_gsm_8k_test,Rajasthan,2,0.29542097488921715
+gemma-2_gsm_8k_test,Tamil Nadu,5,0.7385524372230428
+gemma-2_gsm_8k_test,Goa,1,0.14771048744460857
+gemma-2_gsm_8k_test,Punjab,180,26.587887740029544
+gemma-2_gsm_8k_test,Karnataka,3,0.4431314623338257
+gemma-2_gsm_8k_test,Maharashtra,9,1.329394387001477
+gemma-2_gsm_8k_test,Lakshadweep,2,0.29542097488921715
+gemma-2_gsm_8k_test,Odisha,17,2.511078286558346
+gemma-2_gsm_8k_test,Andaman and Nicobar Islands,12,1.7725258493353029
+gemma-2_gsm_8k_test,West Bengal,5,0.7385524372230428
+gemma-2_gsm_8k_test,Dadra and Nagar Haveli and Dama,9,1.329394387001477
+gemma-2_gsm_8k_test,Puducherry,10,1.4771048744460855
+gemma-2_gsm_8k_test,Mizoram,1,0.14771048744460857
+gemma-2_gsm_8k_test,Jharkhand,2,0.29542097488921715
+gemma-2_gsm_8k_test,Haryana,1,0.14771048744460857
+gemma-2_gsm_8k_test,Chhattisgarh,2,0.29542097488921715
+gemma-2_gsm_8k_test,Uttarakhand,1,0.14771048744460857

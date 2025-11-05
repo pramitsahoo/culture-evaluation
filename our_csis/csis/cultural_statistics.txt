@@ -1,0 +1,787 @@
+INDIA CULTURAL FEATURES STATISTICS
+==================================================
+
+TEXTILES: 265 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 3 items
+  Andhra Pradesh: 8 items
+  Arunachal Pradesh: 10 items
+  Assam: 10 items
+  Bihar: 7 items
+  Chandigarh: 5 items
+  Chhattisgarh: 5 items
+  Dadra and Nagar Haveli and Dama: 1 items
+  Delhi: 5 items
+  Goa: 4 items
+  Gujarat: 8 items
+  Haryana: 7 items
+  Himachal Pradesh: 10 items
+  Jammu and Kashmir: 10 items
+  Jharkhand: 7 items
+  Karnataka: 8 items
+  Kerala: 10 items
+  Ladakh: 5 items
+  Lakshadweep: 3 items
+  Madhya Pradesh: 8 items
+  Maharashtra: 10 items
+  Manipur: 8 items
+  Meghalaya: 8 items
+  Mizoram: 7 items
+  Nagaland: 7 items
+  Odisha: 8 items
+  Puducherry: 4 items
+  Punjab: 9 items
+  Rajasthan: 8 items
+  Sikkim: 3 items
+  Tamil Nadu: 18 items
+  Telangana: 9 items
+  Tripura: 7 items
+  Uttar Pradesh: 6 items
+  Uttarakhand: 9 items
+  West Bengal: 10 items
+
+Source statistics:
+  Items with sources: 265 (100.0%)
+  Items with descriptions: 265 (100.0%)
+
+--------------------------------------------------
+
+DANCE: 1105 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 20 items
+  Andhra Pradesh: 43 items
+  Arunachal Pradesh: 20 items
+  Assam: 80 items
+  Bihar: 30 items
+  Chandigarh: 13 items
+  Chhattisgarh: 40 items
+  Dadra and Nagar Haveli and Dama: 13 items
+  Delhi: 15 items
+  Goa: 30 items
+  Gujarat: 38 items
+  Haryana: 19 items
+  Himachal Pradesh: 43 items
+  Jammu and Kashmir: 27 items
+  Jharkhand: 30 items
+  Karnataka: 41 items
+  Kerala: 46 items
+  Ladakh: 17 items
+  Lakshadweep: 13 items
+  Madhya Pradesh: 34 items
+  Maharashtra: 27 items
+  Manipur: 24 items
+  Meghalaya: 27 items
+  Mizoram: 12 items
+  Nagaland: 24 items
+  Odisha: 28 items
+  Puducherry: 5 items
+  Punjab: 45 items
+  Rajasthan: 38 items
+  Sikkim: 22 items
+  Tamil Nadu: 49 items
+  Telangana: 45 items
+  Tripura: 20 items
+  Uttar Pradesh: 43 items
+  Uttarakhand: 38 items
+  West Bengal: 46 items
+
+Source statistics:
+  Items with sources: 1105 (100.0%)
+  Items with descriptions: 1105 (100.0%)
+
+--------------------------------------------------
+
+PLACES: 547 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 15 items
+  Andhra Pradesh: 20 items
+  Arunachal Pradesh: 24 items
+  Assam: 15 items
+  Bihar: 15 items
+  Chandigarh: 10 items
+  Chhattisgarh: 15 items
+  Dadra and Nagar Haveli and Dama: 15 items
+  Delhi: 10 items
+  Goa: 15 items
+  Gujarat: 15 items
+  Haryana: 13 items
+  Himachal Pradesh: 20 items
+  Jammu and Kashmir: 27 items
+  Jharkhand: 19 items
+  Karnataka: 20 items
+  Kerala: 15 items
+  Ladakh: 10 items
+  Lakshadweep: 10 items
+  Madhya Pradesh: 15 items
+  Maharashtra: 15 items
+  Manipur: 19 items
+  Meghalaya: 10 items
+  Mizoram: 15 items
+  Nagaland: 10 items
+  Odisha: 15 items
+  Puducherry: 10 items
+  Punjab: 15 items
+  Rajasthan: 20 items
+  Sikkim: 10 items
+  Tamil Nadu: 20 items
+  Telangana: 10 items
+  Tripura: 15 items
+  Uttar Pradesh: 15 items
+  Uttarakhand: 20 items
+  West Bengal: 10 items
+
+Source statistics:
+  Items with sources: 547 (100.0%)
+  Items with descriptions: 547 (100.0%)
+
+--------------------------------------------------
+
+FESTIVALS: 873 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 31 items
+  Andhra Pradesh: 37 items
+  Arunachal Pradesh: 20 items
+  Assam: 67 items
+  Bihar: 65 items
+  Chandigarh: 10 items
+  Chhattisgarh: 29 items
+  Dadra and Nagar Haveli and Dama: 16 items
+  Delhi: 15 items
+  Goa: 84 items
+  Gujarat: 20 items
+  Haryana: 24 items
+  Himachal Pradesh: 20 items
+  Jammu and Kashmir: 10 items
+  Jharkhand: 23 items
+  Karnataka: 16 items
+  Kerala: 10 items
+  Ladakh: 12 items
+  Lakshadweep: 6 items
+  Madhya Pradesh: 10 items
+  Maharashtra: 9 items
+  Manipur: 31 items
+  Meghalaya: 25 items
+  Mizoram: 19 items
+  Nagaland: 10 items
+  Odisha: 60 items
+  Puducherry: 10 items
+  Punjab: 10 items
+  Rajasthan: 10 items
+  Sikkim: 8 items
+  Tamil Nadu: 12 items
+  Telangana: 11 items
+  Tripura: 11 items
+  Uttar Pradesh: 47 items
+  Uttarakhand: 10 items
+  West Bengal: 65 items
+
+Source statistics:
+  Items with sources: 872 (99.9%)
+  Items with descriptions: 873 (100.0%)
+
+--------------------------------------------------
+
+FOOD: 1419 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 30 items
+  Andhra Pradesh: 37 items
+  Arunachal Pradesh: 20 items
+  Assam: 42 items
+  Bihar: 35 items
+  Chandigarh: 50 items
+  Chhattisgarh: 31 items
+  Dadra and Nagar Haveli and Dama: 27 items
+  Delhi: 42 items
+  Goa: 44 items
+  Gujarat: 36 items
+  Haryana: 41 items
+  Himachal Pradesh: 31 items
+  Jammu and Kashmir: 40 items
+  Jharkhand: 40 items
+  Karnataka: 39 items
+  Kerala: 46 items
+  Ladakh: 45 items
+  Lakshadweep: 38 items
+  Madhya Pradesh: 34 items
+  Maharashtra: 45 items
+  Manipur: 47 items
+  Meghalaya: 30 items
+  Mizoram: 37 items
+  Nagaland: 30 items
+  Odisha: 47 items
+  Puducherry: 37 items
+  Punjab: 50 items
+  Rajasthan: 41 items
+  Sikkim: 40 items
+  Tamil Nadu: 86 items
+  Telangana: 36 items
+  Tripura: 36 items
+  Uttar Pradesh: 43 items
+  Uttarakhand: 36 items
+  West Bengal: 30 items
+
+Source statistics:
+  Items with sources: 1418 (99.9%)
+  Items with descriptions: 1418 (99.9%)
+
+--------------------------------------------------
+
+GAMES: 412 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 4 items
+  Andhra Pradesh: 20 items
+  Arunachal Pradesh: 10 items
+  Assam: 20 items
+  Bihar: 10 items
+  Chandigarh: 2 items
+  Chhattisgarh: 12 items
+  Delhi: 10 items
+  Goa: 10 items
+  Gujarat: 11 items
+  Haryana: 20 items
+  Himachal Pradesh: 20 items
+  Jammu and Kashmir: 11 items
+  Jharkhand: 10 items
+  Karnataka: 15 items
+  Kerala: 12 items
+  Ladakh: 5 items
+  Madhya Pradesh: 11 items
+  Maharashtra: 20 items
+  Manipur: 10 items
+  Meghalaya: 8 items
+  Mizoram: 10 items
+  Nagaland: 9 items
+  Odisha: 20 items
+  Puducherry: 8 items
+  Punjab: 20 items
+  Rajasthan: 10 items
+  Sikkim: 5 items
+  Tamil Nadu: 20 items
+  Telangana: 10 items
+  Tripura: 15 items
+  Uttar Pradesh: 10 items
+  Uttarakhand: 10 items
+  West Bengal: 14 items
+
+Source statistics:
+  Items with sources: 412 (100.0%)
+  Items with descriptions: 412 (100.0%)
+
+--------------------------------------------------
+
+STATES_INFO: 37 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 1 items
+  Andhra Pradesh: 1 items
+  Arunachal Pradesh: 1 items
+  Assam: 1 items
+  Bihar: 1 items
+  Chandigarh: 1 items
+  Chhattisgarh: 1 items
+  Dadra and Nagar Haveli and Dama: 1 items
+  Delhi: 1 items
+  Goa: 1 items
+  Gujarat: 1 items
+  Haryana: 1 items
+  Himachal Pradesh: 1 items
+  Jammu and Kashmir: 2 items
+  Jharkhand: 1 items
+  Karnataka: 1 items
+  Kerala: 1 items
+  Ladakh: 1 items
+  Lakshadweep: 1 items
+  Madhya Pradesh: 1 items
+  Maharashtra: 1 items
+  Manipur: 1 items
+  Meghalaya: 1 items
+  Mizoram: 1 items
+  Nagaland: 1 items
+  Odisha: 1 items
+  Puducherry: 1 items
+  Punjab: 1 items
+  Rajasthan: 1 items
+  Sikkim: 1 items
+  Tamil Nadu: 1 items
+  Telangana: 1 items
+  Tripura: 1 items
+  Uttar Pradesh: 1 items
+  Uttarakhand: 1 items
+  West Bengal: 1 items
+
+Source statistics:
+  Items with sources: 37 (100.0%)
+  Items with descriptions: 37 (100.0%)
+
+--------------------------------------------------
+
+TRADITIONS: 503 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 10 items
+  Andhra Pradesh: 31 items
+  Arunachal Pradesh: 15 items
+  Assam: 17 items
+  Bihar: 14 items
+  Chandigarh: 2 items
+  Chhattisgarh: 6 items
+  Dadra and Nagar Haveli and Dama: 7 items
+  Delhi: 15 items
+  Goa: 30 items
+  Gujarat: 15 items
+  Haryana: 13 items
+  Himachal Pradesh: 8 items
+  Jammu and Kashmir: 5 items
+  Jharkhand: 6 items
+  Karnataka: 13 items
+  Kerala: 20 items
+  Ladakh: 12 items
+  Lakshadweep: 5 items
+  Madhya Pradesh: 9 items
+  Maharashtra: 10 items
+  Manipur: 10 items
+  Meghalaya: 12 items
+  Mizoram: 20 items
+  Nagaland: 20 items
+  Odisha: 20 items
+  Puducherry: 10 items
+  Punjab: 10 items
+  Rajasthan: 12 items
+  Sikkim: 10 items
+  Tamil Nadu: 15 items
+  Telangana: 8 items
+  Tripura: 10 items
+  Uttar Pradesh: 48 items
+  Uttarakhand: 20 items
+  West Bengal: 15 items
+
+Source statistics:
+  Items with sources: 503 (100.0%)
+  Items with descriptions: 503 (100.0%)
+
+--------------------------------------------------
+
+LANGUAGES: 502 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 20 items
+  Andhra Pradesh: 15 items
+  Arunachal Pradesh: 24 items
+  Assam: 15 items
+  Bihar: 10 items
+  Chandigarh: 8 items
+  Chhattisgarh: 15 items
+  Dadra and Nagar Haveli and Dama: 9 items
+  Delhi: 7 items
+  Goa: 10 items
+  Gujarat: 12 items
+  Haryana: 13 items
+  Himachal Pradesh: 13 items
+  Jammu and Kashmir: 10 items
+  Jharkhand: 12 items
+  Karnataka: 19 items
+  Kerala: 37 items
+  Ladakh: 8 items
+  Lakshadweep: 4 items
+  Madhya Pradesh: 10 items
+  Maharashtra: 17 items
+  Manipur: 15 items
+  Meghalaya: 13 items
+  Mizoram: 15 items
+  Nagaland: 20 items
+  Odisha: 29 items
+  Puducherry: 7 items
+  Punjab: 10 items
+  Rajasthan: 15 items
+  Sikkim: 12 items
+  Tamil Nadu: 21 items
+  Telangana: 7 items
+  Tripura: 10 items
+  Uttar Pradesh: 10 items
+  Uttarakhand: 15 items
+  West Bengal: 15 items
+
+Source statistics:
+  Items with sources: 502 (100.0%)
+  Items with descriptions: 502 (100.0%)
+
+--------------------------------------------------
+
+ARTS: 288 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 6 items
+  Andhra Pradesh: 10 items
+  Arunachal Pradesh: 8 items
+  Assam: 8 items
+  Bihar: 8 items
+  Chandigarh: 5 items
+  Chhattisgarh: 8 items
+  Dadra and Nagar Haveli and Dama: 6 items
+  Delhi: 5 items
+  Goa: 11 items
+  Gujarat: 10 items
+  Haryana: 9 items
+  Himachal Pradesh: 7 items
+  Jammu and Kashmir: 10 items
+  Jharkhand: 9 items
+  Karnataka: 10 items
+  Kerala: 10 items
+  Ladakh: 4 items
+  Lakshadweep: 7 items
+  Madhya Pradesh: 10 items
+  Maharashtra: 10 items
+  Manipur: 7 items
+  Meghalaya: 10 items
+  Mizoram: 5 items
+  Nagaland: 7 items
+  Odisha: 10 items
+  Puducherry: 5 items
+  Punjab: 9 items
+  Rajasthan: 10 items
+  Sikkim: 10 items
+  Tamil Nadu: 6 items
+  Telangana: 10 items
+  Tripura: 6 items
+  Uttar Pradesh: 7 items
+  Uttarakhand: 5 items
+  West Bengal: 10 items
+
+Source statistics:
+  Items with sources: 288 (100.0%)
+  Items with descriptions: 288 (100.0%)
+
+--------------------------------------------------
+
+JWELLERY: 562 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 5 items
+  Andhra Pradesh: 12 items
+  Arunachal Pradesh: 20 items
+  Assam: 13 items
+  Bihar: 15 items
+  Chandigarh: 10 items
+  Chhattisgarh: 30 items
+  Dadra and Nagar Haveli and Dama: 4 items
+  Delhi: 25 items
+  Goa: 14 items
+  Gujarat: 20 items
+  Haryana: 16 items
+  Himachal Pradesh: 20 items
+  Jammu and Kashmir: 11 items
+  Jharkhand: 25 items
+  Karnataka: 15 items
+  Kerala: 17 items
+  Ladakh: 10 items
+  Lakshadweep: 10 items
+  Madhya Pradesh: 10 items
+  Maharashtra: 20 items
+  Manipur: 9 items
+  Meghalaya: 13 items
+  Mizoram: 5 items
+  Nagaland: 10 items
+  Odisha: 11 items
+  Puducherry: 10 items
+  Punjab: 28 items
+  Rajasthan: 13 items
+  Sikkim: 29 items
+  Tamil Nadu: 19 items
+  Telangana: 40 items
+  Tripura: 7 items
+  Uttar Pradesh: 10 items
+  Uttarakhand: 19 items
+  West Bengal: 17 items
+
+Source statistics:
+  Items with sources: 562 (100.0%)
+  Items with descriptions: 562 (100.0%)
+
+--------------------------------------------------
+
+RELIGION: 239 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 7 items
+  Andhra Pradesh: 6 items
+  Arunachal Pradesh: 9 items
+  Assam: 7 items
+  Bihar: 6 items
+  Chandigarh: 7 items
+  Chhattisgarh: 9 items
+  Dadra and Nagar Haveli and Dama: 6 items
+  Delhi: 8 items
+  Goa: 6 items
+  Gujarat: 9 items
+  Haryana: 7 items
+  Himachal Pradesh: 6 items
+  Jammu and Kashmir: 6 items
+  Jharkhand: 6 items
+  Karnataka: 7 items
+  Kerala: 8 items
+  Ladakh: 6 items
+  Lakshadweep: 6 items
+  Madhya Pradesh: 7 items
+  Maharashtra: 8 items
+  Manipur: 5 items
+  Meghalaya: 6 items
+  Mizoram: 7 items
+  Nagaland: 7 items
+  Odisha: 7 items
+  Puducherry: 6 items
+  Punjab: 6 items
+  Rajasthan: 6 items
+  Sikkim: 7 items
+  Tamil Nadu: 6 items
+  Telangana: 6 items
+  Tripura: 4 items
+  Uttar Pradesh: 6 items
+  Uttarakhand: 6 items
+  West Bengal: 7 items
+
+Source statistics:
+  Items with sources: 239 (100.0%)
+  Items with descriptions: 239 (100.0%)
+
+--------------------------------------------------
+
+RITUALS: 411 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 9 items
+  Andhra Pradesh: 10 items
+  Arunachal Pradesh: 10 items
+  Assam: 14 items
+  Bihar: 19 items
+  Chandigarh: 10 items
+  Chhattisgarh: 19 items
+  Dadra and Nagar Haveli and Dama: 10 items
+  Delhi: 10 items
+  Goa: 14 items
+  Gujarat: 10 items
+  Haryana: 10 items
+  Himachal Pradesh: 10 items
+  Jammu and Kashmir: 10 items
+  Jharkhand: 10 items
+  Karnataka: 16 items
+  Kerala: 20 items
+  Ladakh: 10 items
+  Lakshadweep: 10 items
+  Madhya Pradesh: 10 items
+  Maharashtra: 12 items
+  Manipur: 14 items
+  Meghalaya: 10 items
+  Mizoram: 10 items
+  Nagaland: 10 items
+  Odisha: 10 items
+  Puducherry: 10 items
+  Punjab: 10 items
+  Rajasthan: 10 items
+  Sikkim: 10 items
+  Tamil Nadu: 15 items
+  Telangana: 10 items
+  Tripura: 9 items
+  Uttar Pradesh: 10 items
+  Uttarakhand: 10 items
+  West Bengal: 10 items
+
+Source statistics:
+  Items with sources: 411 (100.0%)
+  Items with descriptions: 411 (100.0%)
+
+--------------------------------------------------
+
+CLOTHING: 464 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 6 items
+  Andhra Pradesh: 28 items
+  Arunachal Pradesh: 58 items
+  Assam: 19 items
+  Bihar: 20 items
+  Chandigarh: 10 items
+  Chhattisgarh: 33 items
+  Dadra and Nagar Haveli and Dama: 9 items
+  Delhi: 8 items
+  Goa: 17 items
+  Gujarat: 16 items
+  Haryana: 10 items
+  Himachal Pradesh: 15 items
+  Jammu and Kashmir: 10 items
+  Jharkhand: 10 items
+  Karnataka: 11 items
+  Kerala: 10 items
+  Ladakh: 10 items
+  Lakshadweep: 5 items
+  Madhya Pradesh: 8 items
+  Maharashtra: 10 items
+  Manipur: 10 items
+  Meghalaya: 10 items
+  Mizoram: 9 items
+  Nagaland: 8 items
+  Odisha: 10 items
+  Puducherry: 5 items
+  Punjab: 10 items
+  Rajasthan: 10 items
+  Sikkim: 10 items
+  Tamil Nadu: 8 items
+  Telangana: 8 items
+  Tripura: 16 items
+  Uttar Pradesh: 10 items
+  Uttarakhand: 8 items
+  West Bengal: 9 items
+
+Source statistics:
+  Items with sources: 464 (100.0%)
+  Items with descriptions: 464 (100.0%)
+
+--------------------------------------------------
+
+ARCHITECTURES: 381 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 10 items
+  Andhra Pradesh: 15 items
+  Arunachal Pradesh: 10 items
+  Assam: 19 items
+  Bihar: 10 items
+  Chandigarh: 10 items
+  Chhattisgarh: 6 items
+  Dadra and Nagar Haveli and Dama: 10 items
+  Delhi: 10 items
+  Goa: 15 items
+  Gujarat: 13 items
+  Haryana: 10 items
+  Himachal Pradesh: 10 items
+  Jammu and Kashmir: 10 items
+  Jharkhand: 10 items
+  Karnataka: 10 items
+  Kerala: 20 items
+  Ladakh: 10 items
+  Lakshadweep: 5 items
+  Madhya Pradesh: 10 items
+  Maharashtra: 10 items
+  Manipur: 10 items
+  Meghalaya: 8 items
+  Mizoram: 10 items
+  Nagaland: 10 items
+  Odisha: 10 items
+  Puducherry: 10 items
+  Punjab: 10 items
+  Rajasthan: 10 items
+  Sikkim: 10 items
+  Tamil Nadu: 10 items
+  Telangana: 10 items
+  Tripura: 10 items
+  Uttar Pradesh: 10 items
+  Uttarakhand: 10 items
+  West Bengal: 10 items
+
+Source statistics:
+  Items with sources: 381 (100.0%)
+  Items with descriptions: 381 (100.0%)
+
+--------------------------------------------------
+
+DRINKS: 328 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 6 items
+  Andhra Pradesh: 10 items
+  Arunachal Pradesh: 8 items
+  Assam: 9 items
+  Bihar: 7 items
+  Chandigarh: 7 items
+  Chhattisgarh: 6 items
+  Dadra and Nagar Haveli and Dama: 11 items
+  Delhi: 10 items
+  Goa: 11 items
+  Gujarat: 10 items
+  Haryana: 10 items
+  Himachal Pradesh: 7 items
+  Jammu and Kashmir: 9 items
+  Jharkhand: 5 items
+  Karnataka: 10 items
+  Kerala: 10 items
+  Ladakh: 6 items
+  Lakshadweep: 6 items
+  Madhya Pradesh: 10 items
+  Maharashtra: 10 items
+  Manipur: 10 items
+  Meghalaya: 10 items
+  Mizoram: 7 items
+  Nagaland: 5 items
+  Odisha: 10 items
+  Puducherry: 5 items
+  Punjab: 10 items
+  Rajasthan: 20 items
+  Sikkim: 6 items
+  Tamil Nadu: 10 items
+  Telangana: 10 items
+  Tripura: 12 items
+  Uttar Pradesh: 12 items
+  Uttarakhand: 13 items
+  West Bengal: 10 items
+
+Source statistics:
+  Items with sources: 328 (100.0%)
+  Items with descriptions: 328 (100.0%)
+
+--------------------------------------------------
+
+NAMES: 608 items
+
+State-wise distribution:
+  Andaman and Nicobar Islands: 8 items
+  Andhra Pradesh: 36 items
+  Arunachal Pradesh: 11 items
+  Assam: 16 items
+  Bihar: 10 items
+  Chandigarh: 10 items
+  Chhattisgarh: 17 items
+  Dadra and Nagar Haveli and Dama: 8 items
+  Delhi: 20 items
+  Goa: 13 items
+  Gujarat: 19 items
+  Haryana: 10 items
+  Himachal Pradesh: 7 items
+  Jammu and Kashmir: 20 items
+  Jharkhand: 14 items
+  Karnataka: 25 items
+  Kerala: 28 items
+  Ladakh: 15 items
+  Lakshadweep: 13 items
+  Madhya Pradesh: 18 items
+  Maharashtra: 27 items
+  Manipur: 46 items
+  Meghalaya: 14 items
+  Mizoram: 10 items
+  Nagaland: 16 items
+  Odisha: 17 items
+  Puducherry: 19 items
+  Punjab: 29 items
+  Rajasthan: 12 items
+  Sikkim: 15 items
+  Tamil Nadu: 12 items
+  Telangana: 16 items
+  Tripura: 10 items
+  Uttar Pradesh: 27 items
+  Uttarakhand: 10 items
+  West Bengal: 10 items
+
+Source statistics:
+  Items with sources: 608 (100.0%)
+  Items with descriptions: 608 (100.0%)
+
+--------------------------------------------------
+
+OVERALL SUMMARY
+==================================================
+Total number of cultural items: 8944
+Number of feature categories: 17

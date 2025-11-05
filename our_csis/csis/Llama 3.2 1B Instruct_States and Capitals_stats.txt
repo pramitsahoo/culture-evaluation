@@ -1,0 +1,222 @@
+Adaptation Statistics Per State:
+State: Andhra Pradesh
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Arunachal Pradesh
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Assam
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Bihar
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Chhattisgarh
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Goa
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Gujarat
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Haryana
+  Total Concepts   : 1
+  Adapted Concepts : 1
+  Not Adapted      : 0
+  Matched Concepts : Chandigarh
+
+State: Himachal Pradesh
+  Total Concepts   : 1
+  Adapted Concepts : 1
+  Not Adapted      : 0
+  Matched Concepts : Shimla
+
+State: Jharkhand
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Karnataka
+  Total Concepts   : 1
+  Adapted Concepts : 1
+  Not Adapted      : 0
+  Matched Concepts : Bengaluru
+
+State: Kerala
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Madhya Pradesh
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Maharashtra
+  Total Concepts   : 1
+  Adapted Concepts : 1
+  Not Adapted      : 0
+  Matched Concepts : Mumbai
+
+State: Manipur
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Meghalaya
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Mizoram
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Nagaland
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Odisha
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Punjab
+  Total Concepts   : 1
+  Adapted Concepts : 1
+  Not Adapted      : 0
+  Matched Concepts : Chandigarh
+
+State: Rajasthan
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Sikkim
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Tamil Nadu
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Telangana
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Tripura
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Uttarakhand
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Uttar Pradesh
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: West Bengal
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Andaman and Nicobar Islands
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Chandigarh
+  Total Concepts   : 1
+  Adapted Concepts : 1
+  Not Adapted      : 0
+  Matched Concepts : Chandigarh
+
+State: Dadra and Nagar Haveli and Dama
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Delhi
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Jammu and Kashmir
+  Total Concepts   : 2
+  Adapted Concepts : 0
+  Not Adapted      : 2
+  Matched Concepts : None
+
+State: Ladakh
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Lakshadweep
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+State: Puducherry
+  Total Concepts   : 1
+  Adapted Concepts : 0
+  Not Adapted      : 1
+  Matched Concepts : None
+
+Overall Statistics:
+Total Concepts         : 37
+Total Adapted Concepts : 6
+Total Not Adapted      : 31
+Overall Adaptation Score: 0.16

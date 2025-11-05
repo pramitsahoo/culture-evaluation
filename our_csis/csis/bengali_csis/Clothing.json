@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "items": [
+      { "Clothing Name": "ধুতি" },
+      { "Clothing Name": "কুর্তা" },
+      { "Clothing Name": "লুঙ্গি" },
+      { "Clothing Name": "শাড়ি" },
+      { "Clothing Name": "লাঙ্গা ভনি" },
+      { "Clothing Name": "সালওয়ার কামিজ" },
+      { "Clothing Name": "নিভি ড্রেপ" },
+      { "Clothing Name": "পাট্টু পাভাডাই" },
+      { "Clothing Name": "শেরওয়ানি" },
+      { "Clothing Name": "উপ্পাদা সিল্ক শাড়ি" },
+      { "Clothing Name": "মঙ্গলগিরি শাড়ি" },
+      { "Clothing Name": "গাদওয়াল শাড়ি" },
+      { "Clothing Name": "ধর্মাভারম শাড়ি" },
+      { "Clothing Name": "কলমকারি ফ্যাব্রিক" },
+      { "Clothing Name": "ইকাট ফ্যাব্রিক" },
+      { "Clothing Name": "লাম্বাদি পোশাক" },
+      { "Clothing Name": "পোচমপল্লি শাড়ি" },
+      { "Clothing Name": "ভেঙ্কটাগিরি শাড়ি" },
+      { "Clothing Name": "হাফ-শাড়ি অনুষ্ঠানের পোশাক" },
+      { "Clothing Name": "আধুনিক ফিউশন পরিধান" },
+      { "Clothing Name": "নারায়ণপেট শাড়ি" },
+      { "Clothing Name": "কুপ্পাডম শাড়ি" },
+      { "Clothing Name": "চিরালা শাড়ি" },
+      { "Clothing Name": "বন্দরুলাঙ্কা শাড়ি" },
+      { "Clothing Name": "কলমকারি শাড়ি" },
+      { "Clothing Name": "পাট্টু লাঙ্গা" },
+      { "Clothing Name": "পঞ্চে" },
+      { "Clothing Name": "খারা দুপাট্টা" }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      { "Clothing Name": "শিংকা" },
+      { "Clothing Name": "গালে" },
+      { "Clothing Name": "পেহকান" },
+      { "Clothing Name": "কুপান" },
+      { "Clothing Name": "বাকু" },
+      { "Clothing Name": "পার এয়িজ" },
+      { "Clothing Name": "পোমো" },
+      { "Clothing Name": "বোপিয়া" },
+      { "Clothing Name": "মুশাইকস" },
+      { "Clothing Name": "গুরদাম স্কাল-ক্যাপ" },
+      { "Clothing Name": "গ্রি জা" },
+      { "Clothing Name": "লেনিন" },
+      { "Clothing Name": "ইয়ানপো" },
+      { "Clothing Name": "থুম" },
+      { "Clothing Name": "সিংফো লুঙ্গি" },
+      { "Clothing Name": "সিংফো উল স্কার্ট" },
+      { "Clothing Name": "বিয়াংসিপি" },
+      { "Clothing Name": "বোগ্রে" },
+      { "Clothing Name": "কং" },
+      { "Clothing Name": "বাকু (পুরুষদের)" },
+      { "Clothing Name": "ঐতিহ্যবাহী গয়না" },
+      { "Clothing Name": "মিবু গaluk" },
+      { "Clothing Name": "উগোন" },
+      { "Clothing Name": "জিলাং" },
+      { "Clothing Name": "লেটুম" },
+      { "Clothing Name": "পাতি" },
+      { "Clothing Name": "ইয়ামেং" },
+      { "Clothing Name": "নারা" },
+      { "Clothing Name": "নিকেই" },
+      { "Clothing Name": "পিনন হাদি" },
+      { "Clothing Name": "শ্যামথোক" },
+      { "Clothing Name": "গুরদাম" },
+      { "Clothing Name": "মুশাইকস" },
+      { "Clothing Name": "বেওপ" },
+      { "Clothing Name": "বাউহচে" },
+      { "Clothing Name": "পেবার" },
+      { "Clothing Name": "সাম্পু" },
+      { "Clothing Name": "সানগিয়াং" },
+      { "Clothing Name": "আনাবোউ" },
+      { "Clothing Name": "সেংমে" },
+      { "Clothing Name": "শ্যামথোক" },
+      { "Clothing Name": "গালে" },
+      { "Clothing Name": "টিংমাই" },
+      { "Clothing Name": "বাকু" },
+      { "Clothing Name": "পাতি" },
+      { "Clothing Name": "ইয়ামেং" },
+      { "Clothing Name": "নারা" },
+      { "Clothing Name": "নিকেই" },
+      { "Clothing Name": "পিনন হাদি" },
+      { "Clothing Name": "মুশাইকস" },
+      { "Clothing Name": "গুরদাম" },
+      { "Clothing Name": "বেওপ" },
+      { "Clothing Name": "বাউহচে" },
+      { "Clothing Name": "পেবার" },
+      { "Clothing Name": "সাম্পু" },
+      { "Clothing Name": "সানগিয়াং" },
+      { "Clothing Name": "আনাবোউ" },
+      { "Clothing Name": "সেংমে" }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      { "Clothing Name": "মেখেলা চাদর" },
+      { "Clothing Name": "ধুতি ও গামছা" },
+      { "Clothing Name": "রিহা" },
+      { "Clothing Name": "সগাওফা" },
+      { "Clothing Name": "পাগুরি" },
+      { "Clothing Name": "তঙালি" },
+      { "Clothing Name": "জাপি" },
+      { "Clothing Name": "মুগা সিল্ক কুর্তা" },
+      { "Clothing Name": "দোখোনা" },
+      { "Clothing Name": "গামছা" },
+      { "Clothing Name": "এরি চাদর" },
+      { "Clothing Name": "পাট মেখেলা চাদর" },
+      { "Clothing Name": "কার্বি পিনি" },
+      { "Clothing Name": "কার্বি ছোই" },
+      { "Clothing Name": "চুতিয়া মেখেলা" },
+      { "Clothing Name": "চুতিয়া রিহা" },
+      { "Clothing Name": "মিসিং রিবি গাসোর" },
+      { "Clothing Name": "রাভা কাউম কন্টং" },
+      { "Clothing Name": "রাভা কামবাং" }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      { "Clothing Name": "ধুতি কুর্তা" },
+      { "Clothing Name": "লুঙ্গি" },
+      { "Clothing Name": "গামছা" },
+      { "Clothing Name": "শেরওয়ানি" },
+      { "Clothing Name": "শাড়ি (সিধা আঁচল)" },
+      { "Clothing Name": "তসর সিল্ক শাড়ি" },
+      { "Clothing Name": "মধুবনি প্রিন্ট শাড়ি" },
+      { "Clothing Name": "সালওয়ার কামিজ" },
+      { "Clothing Name": "লেহেঙ্গা চোলি" },
+      { "Clothing Name": "পাগ" },
+      { "Clothing Name": "পিয়ারি পোশাক" },
+      { "Clothing Name": "শাখা-পলা" },
+      { "Clothing Name": "ভাগলপুরী শাল" },
+      { "Clothing Name": "খাদি কুর্তা" },
+      { "Clothing Name": "চুড়িদার পায়জামা" },
+      { "Clothing Name": "আঙরাখা" },
+      { "Clothing Name": "মিরজাই" },
+      { "Clothing Name": "কমরবন্ধ" },
+      { "Clothing Name": "মাঙ টিক্কা" },
+      { "Clothing Name": "নথিয়া" }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      { "Clothing Name": "শাড়ি" },
+      { "Clothing Name": "লুগদা" },
+      { "Clothing Name": "ওড়নি" },
+      { "Clothing Name": "ধুতি" },
+      { "Clothing Name": "কুর্তা" },
+      { "Clothing Name": "পাতা" },
+      { "Clothing Name": "কচ্ছোরা শাড়ি" },
+      { "Clothing Name": "পোলখা" },
+      { "Clothing Name": "সালওয়ার কামিজ" },
+      { "Clothing Name": "আঙ্গোছা" },
+      { "Clothing Name": "পাগড়ি" },
+      { "Clothing Name": "বাটিক পোষাক" },
+      { "Clothing Name": "কুন্ধি নেকলেস" },
+      { "Clothing Name": "বিছিয়া" },
+      { "Clothing Name": "কড়া চুড়ি" },
+      { "Clothing Name": "কোমর চেইন (কুন্ধি)" },
+      { "Clothing Name": "কাঁসবাঁধি" },
+      { "Clothing Name": "ঘাঘরা চোলি" },
+      { "Clothing Name": "ঝিঝিয়া" },
+      { "Clothing Name": "বাখিয়া" },
+      { "Clothing Name": "কোশা সিল্ক শাড়ি" },
+      { "Clothing Name": "চিক বড়াইক বুনন" },
+      { "Clothing Name": "পুডিয়া" },
+      { "Clothing Name": "চেনদ্রা" },
+      { "Clothing Name": "ফুলি" },
+      { "Clothing Name": "বাঁধা নেকলেস" },
+      { "Clothing Name": "সুতা" },
+      { "Clothing Name": "ঐন্টি" },
+      { "Clothing Name": "পট্টা" },
+      { "Clothing Name": "চূড়া" },
+      { "Clothing Name": "কারধনি" },
+      { "Clothing Name": "পৌঞ্ছি" },
+      { "Clothing Name": "গেড়ি" }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      { "Clothing Name": "পানোর ভাজু" },
+      { "Clothing Name": "কাশটি" },
+      { "Clothing Name": "নাভ ভারি" },
+      { "Clothing Name": "কুনবি শাড়ি" },
+      { "Clothing Name": "ফেনি স্যুট" },
+      { "Clothing Name": "লুঙ্গি" },
+      { "Clothing Name": "কুপ্য" },
+      { "Clothing Name": "মান্ডো ড্রেস" },
+      { "Clothing Name": "ভালকাল" },
+      { "Clothing Name": "গোয়ান বিয়ের গাউন" },
+      { "Clothing Name": "খারাক" },
+      { "Clothing Name": "পুদভেম" },
+      { "Clothing Name": "চোলি" },
+      { "Clothing Name": "শিগমো পোশাক" },
+      { "Clothing Name": "গোয়ান লোকজ পোশাক" },
+      { "Clothing Name": "নাউভারি শাড়ি" },
+      { "Clothing Name": "বিছোলিম পোশাক" }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      { "Clothing Name": "চানিয়া চোলি" },
+      { "Clothing Name": "কেডিয়ু" },
+      { "Clothing Name": "ধুতি" },
+      { "Clothing Name": "চোর্ণো" },
+      { "Clothing Name": "কুর্তা" },
+      { "Clothing Name": "চোলি" },
+      { "Clothing Name": "ওড়নি" },
+      { "Clothing Name": "ফেন্টো" },
+      { "Clothing Name": "কেদিয়া" },
+      { "Clothing Name": "ঘাঘরা চোলি" },
+      { "Clothing Name": "চুড়িদার" },
+      { "Clothing Name": "বাঁধনি শাড়ি" },
+      { "Clothing Name": "নাউভারি শাড়ি" },
+      { "Clothing Name": "ব্রোকেড শেরওয়ানি" },
+      { "Clothing Name": "ঘর চোলা" },
+      { "Clothing Name": "কাঞ্জারি" }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "ধুতি" },
+      { "Clothing/Attire": "কুর্তা" },
+      { "Clothing/Attire": "পাগড়ি" },
+      { "Clothing/Attire": "জুত্তি" },
+      { "Clothing/Attire": "ঘাঘরা" },
+      { "Clothing/Attire": "কুর্তি" },
+      { "Clothing/Attire": "ওড়নি" },
+      { "Clothing/Attire": "আঙ্গিয়া" },
+      { "Clothing/Attire": "লেহেঙ্গা" },
+      { "Clothing/Attire": "চুন্দের" }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "কুল্লু শাল" },
+      { "Clothing/Attire": "কুল্লু টুপি" },
+      { "Clothing/Attire": "লুয়ানচারী" },
+      { "Clothing/Attire": "চোলা" },
+      { "Clothing/Attire": "পাত্তু" },
+      { "Clothing/Attire": "ধাতু বা থিপু" },
+      { "Clothing/Attire": "চাম্বা রুমাল" },
+      { "Clothing/Attire": "ছুবা" },
+      { "Clothing/Attire": "সুতান" },
+      { "Clothing/Attire": "ঘাগরি" },
+      { "Clothing/Attire": "চোলি" },
+      { "Clothing/Attire": "সুলতান" },
+      { "Clothing/Attire": "ডোরা" },
+      { "Clothing/Attire": "পাহাড়ি পাত্তু" },
+      { "Clothing/Attire": "চামন কুর্তি" }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "গামছা" },
+      { "Clothing/Attire": "লুঙ্গি" },
+      { "Clothing/Attire": "কুর্তা" },
+      { "Clothing/Attire": "পায়জামা" },
+      { "Clothing/Attire": "চাদর" },
+      { "Clothing/Attire": "শাড়ি" },
+      { "Clothing/Attire": "ব্লাউজ" },
+      { "Clothing/Attire": "দুপাত্তা" },
+      { "Clothing/Attire": "সালওয়ার" },
+      { "Clothing/Attire": "কামিজ" }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "ইলকাল শাড়ি" },
+      { "Clothing/Attire": "মাইসোর সিল্ক শাড়ি" },
+      { "Clothing/Attire": "কোডাভা পোশাক" },
+      { "Clothing/Attire": "মোলাকালমুরু শাড়ি" },
+      { "Clothing/Attire": "কাসুটি এমব্রয়ডারি" },
+      { "Clothing/Attire": "পঞ্চে" },
+      { "Clothing/Attire": "লুঙ্গি" },
+      { "Clothing/Attire": "অঙ্গবস্ত্রম" },
+      { "Clothing/Attire": "মাইসোর পেটা" },
+      { "Clothing/Attire": "করনাডু শাড়ি" },
+      { "Clothing/Attire": "বানজারা পোশাক" }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "মুন্ডুম নেরিয়াথুম" },
+      { "Clothing/Attire": "কসাভু শাড়ি" },
+      { "Clothing/Attire": "মুন্ডু" },
+      { "Clothing/Attire": "সেট মুন্ডু" },
+      { "Clothing/Attire": "চেন্দামঙ্গলম শাড়ি" },
+      { "Clothing/Attire": "কুথামপল্লী সেট মুন্ডু" },
+      { "Clothing/Attire": "আরনমুলা কন্নাদি শাড়ি" },
+      { "Clothing/Attire": "কাভানি" },
+      { "Clothing/Attire": "চাট্টা এবং মুন্ডু" },
+      { "Clothing/Attire": "মুসলিম মহিলাদের মুন্ডু" }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "চন্দেরি শাড়ি" },
+      { "Clothing/Attire": "মহেশ্বরী শাড়ি" },
+      { "Clothing/Attire": "ভিল ঐতিহ্যবাহী পোশাক" },
+      { "Clothing/Attire": "গোন্ড ঐতিহ্যবাহী পোশাক" },
+      { "Clothing/Attire": "বাঘ প্রিন্ট ফ্যাব্রিক" },
+      { "Clothing/Attire": "বাটুয়া" },
+      { "Clothing/Attire": "লেহেঙ্গা চোলি" },
+      { "Clothing/Attire": "ওড়নি" }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "পৈঠনি শাড়ি" },
+      { "Clothing/Attire": "নাউভারি শাড়ি" },
+      { "Clothing/Attire": "ধুতি" },
+      { "Clothing/Attire": "ফেতা" },
+      { "Clothing/Attire": "চোলি" },
+      { "Clothing/Attire": "ধোতার ও সাদরা" },
+      { "Clothing/Attire": "পীতাম্বর" },
+      { "Clothing/Attire": "বান্দি" },
+      { "Clothing/Attire": "কলহাপুরি সাজ" },
+      { "Clothing/Attire": "বানজারা এমব্রয়ডারি পোশাক" }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "ফানেক" },
+      { "Clothing/Attire": "ইন্নাফি" },
+      { "Clothing/Attire": "মায়েক নাইবি" },
+      { "Clothing/Attire": "ফেইজম" },
+      { "Clothing/Attire": "খামেন চাটপা" },
+      { "Clothing/Attire": "পোটলোই" },
+      { "Clothing/Attire": "কোক্যেট" },
+      { "Clothing/Attire": "শাফি লানফি" },
+      { "Clothing/Attire": "মোইরাং ফি" },
+      { "Clothing/Attire": "ওয়াংখেই ফি" }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "জাইনসেম" },
+      { "Clothing/Attire": "ধারা" },
+      { "Clothing/Attire": "জিমফং" },
+      { "Clothing/Attire": "এরি সিল্ক শাল" },
+      { "Clothing/Attire": "ধোখোনা" },
+      { "Clothing/Attire": "গারো পুরুষদের পোশাক" },
+      { "Clothing/Attire": "জয়ন্তিয়া মহিলাদের পোশাক" },
+      { "Clothing/Attire": "জয়ন্তিয়া পুরুষদের পোশাক" },
+      { "Clothing/Attire": "তাপমোহখ্লিয়েহ" },
+      { "Clothing/Attire": "জাইনকুপ" }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "পুয়ান" },
+      { "Clothing/Attire": "পুয়ানচেই" },
+      { "Clothing/Attire": "কওরচেই" },
+      { "Clothing/Attire": "ঙোটেখেরহ" },
+      { "Clothing/Attire": "পাউন্দুম" },
+      { "Clothing/Attire": "তাওলহলহ পুয়ান" },
+      { "Clothing/Attire": "জাকুওলাইসেন" },
+      { "Clothing/Attire": "লুসেই পুরুষদের ঐতিহ্যবাহী পোশাক" },
+      { "Clothing/Attire": "পাছ্হু" }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "আও নাগা শাল" },
+      { "Clothing/Attire": "অংগামি নাগা শাল" },
+      { "Clothing/Attire": "লোথা নাগা শাল" },
+      { "Clothing/Attire": "ছুংকোটেপসু শাল" },
+      { "Clothing/Attire": "রেংমা নাগা শাল" },
+      { "Clothing/Attire": "মেখেলা" },
+      { "Clothing/Attire": "অংগামি মহিলাদের স্কার্ট" },
+      { "Clothing/Attire": "কোনিয়াক হেডগিয়ার" }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "সম্বলপুরী শাড়ি" },
+      { "Clothing/Attire": "বোম্কাই শাড়ি" },
+      { "Clothing/Attire": "বেরহামপুরী পট্টা" },
+      { "Clothing/Attire": "খান্ডুয়া" },
+      { "Clothing/Attire": "হাবাসপুরী শাড়ি" },
+      { "Clothing/Attire": "কোটপাড শাড়ি" },
+      { "Clothing/Attire": "ডোংগরিয়া কন্ধ শাল" },
+      { "Clothing/Attire": "গামছা" },
+      { "Clothing/Attire": "পাসাপল্লী শাড়ি" },
+      { "Clothing/Attire": "শাক্তাপার শাড়ি" }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "পাঞ্জাবি স্যুট" },
+      { "Clothing/Attire": "ফুলকারি দুপাট্টা" },
+      { "Clothing/Attire": "পাটিয়ালা সালওয়ার" },
+      { "Clothing/Attire": "তেহমত" },
+      { "Clothing/Attire": "কুর্তা-পায়জামা" },
+      { "Clothing/Attire": "দস্তার (পাগড়ি)" },
+      { "Clothing/Attire": "জুত্তি" },
+      { "Clothing/Attire": "চোলা" },
+      { "Clothing/Attire": "ঘাঘরা" },
+      { "Clothing/Attire": "কাইনথা" }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "বান্ধনি দুপাট্টা" },
+      { "Clothing/Attire": "ঘাঘরা-চোলি" },
+      { "Clothing/Attire": "পাগড়ি" },
+      { "Clothing/Attire": "আঙরাখা" },
+      { "Clothing/Attire": "ওড়নি" },
+      { "Clothing/Attire": "লেহেরিয়া শাড়ি" },
+      { "Clothing/Attire": "কাঞ্চলি" },
+      { "Clothing/Attire": "পোটিয়া" },
+      { "Clothing/Attire": "ধুতি" },
+      { "Clothing/Attire": "মোজারি" }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "বাখু/খো" },
+      { "Clothing/Attire": "হোনজু" },
+      { "Clothing/Attire": "পাংডেন" },
+      { "Clothing/Attire": "থোকরো-ডুম" },
+      { "Clothing/Attire": "ডুমভুম/ডুমডিয়াম" },
+      { "Clothing/Attire": "তাগো" },
+      { "Clothing/Attire": "দাউরা সুরুওয়াল" },
+      { "Clothing/Attire": "গুন্যু চোলো" },
+      { "Clothing/Attire": "শ্যাম্বো" },
+      { "Clothing/Attire": "ন্যমরেক" }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "কাঞ্চিপুরম শাড়ি" },
+      { "Clothing/Attire": "মাদুরাই সুঙ্গুডি" },
+      { "Clothing/Attire": "কানডাঙ্গি শাড়ি" },
+      { "Clothing/Attire": "ভেস্তি" },
+      { "Clothing/Attire": "পাভাডা দাভানি" },
+      { "Clothing/Attire": "মাদিসার" },
+      { "Clothing/Attire": "অঙ্গবস্ত্রম" },
+      { "Clothing/Attire": "লুঙ্গি" }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "পোচমপল্লী ইকাট শাড়ি" },
+      { "Clothing/Attire": "গাদওয়াল শাড়ি" },
+      { "Clothing/Attire": "নারায়ণপেট শাড়ি" },
+      { "Clothing/Attire": "লাম্বাদি পোশাক" },
+      { "Clothing/Attire": "গোল্লাভামা শাড়ি" },
+      { "Clothing/Attire": "টেলিয়া রুমাল" },
+      { "Clothing/Attire": "পঞ্চ ধুতি" },
+      { "Clothing/Attire": "হায়দ্রাবাদি শেরওয়ানি" }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "রিগনাই" },
+      { "Clothing/Attire": "রিসা" },
+      { "Clothing/Attire": "রিকুটু" },
+      { "Clothing/Attire": "চামাথুই রিগনাই" },
+      { "Clothing/Attire": "কাচাক রিগনাই" },
+      { "Clothing/Attire": "রিকুটু গামছা" },
+      { "Clothing/Attire": "কামচুলুই বরোক" },
+      { "Clothing/Attire": "পাচরা" },
+      { "Clothing/Attire": "রিকাতোহ" },
+      { "Clothing/Attire": "রিসা সোর্মানি" },
+      { "Clothing/Attire": "পিনন" },
+      { "Clothing/Attire": "হাদি" },
+      { "Clothing/Attire": "পামুং" },
+      { "Clothing/Attire": "ধুতি" },
+      { "Clothing/Attire": "গেংলি" },
+      { "Clothing/Attire": "ফুটা" }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "ঘাগরি" },
+      { "Clothing/Attire": "পিচোরা" },
+      { "Clothing/Attire": "কুর্তা-পায়জামা" },
+      { "Clothing/Attire": "চোরা" },
+      { "Clothing/Attire": "ঘাঘরা" },
+      { "Clothing/Attire": "ধান্তু" },
+      { "Clothing/Attire": "ঝাঙ্গেল" },
+      { "Clothing/Attire": "চোলোরি" }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "বনারসী শাড়ি" },
+      { "Clothing/Attire": "চিকানকারি কুর্তা" },
+      { "Clothing/Attire": "ঘাঘরা চোলি" },
+      { "Clothing/Attire": "ঘারারা" },
+      { "Clothing/Attire": "শেরওয়ানি" },
+      { "Clothing/Attire": "লেহেঙ্গা চোলি" },
+      { "Clothing/Attire": "ধুতি কুর্তা" },
+      { "Clothing/Attire": "সালওয়ার কামিজ" },
+      { "Clothing/Attire": "পাগড়ি" },
+      { "Clothing/Attire": "আঙরাখা" }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "items": [
+      { "Clothing/Attire": "বালুচরি শাড়ি" },
+      { "Clothing/Attire": "ঢাকাই জামদানি শাড়ি" },
+      { "Clothing/Attire": "তাঁত শাড়ি" },
+      { "Clothing/Attire": "গরদ শাড়ি" },
+      { "Clothing/Attire": "কোরিয়াল শাড়ি" },
+      { "Clothing/Attire": "সাঁওতালি ঐতিহ্যবাহী পোশাক" },
+      { "Clothing/Attire": "ধুতি ও পাঞ্জাবি" },
+      { "Clothing/Attire": "ফতুয়া" },
+      { "Clothing/Attire": "লুঙ্গি" }
+    ]
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union Territory",
+    "items": [
+      { "Clothing/Attire": "গ্রেট আন্দামানিজ পোশাক" },
+      { "Clothing/Attire": "ওঙ্গ পোশাক" },
+      { "Clothing/Attire": "জারওয়া পোশাক" },
+      { "Clothing/Attire": "নিকোবারিজ লয়েনক্লথ" },
+      { "Clothing/Attire": "শম্পেন পোশাক" },
+      { "Clothing/Attire": "মূলধারা পোশাক" }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "items": [
+      { "Clothing/Attire": "সালওয়ার কামিজ" },
+      { "Clothing/Attire": "শাড়ি" },
+      { "Clothing/Attire": "কুর্তা পায়জামা" },
+      { "Clothing/Attire": "ফুলকারি দুপাট্টা" },
+      { "Clothing/Attire": "লেহেঙ্গা চোলি" },
+      { "Clothing/Attire": "পাগড়ি (তুরবান)" },
+      { "Clothing/Attire": "ঘাঘরা" },
+      { "Clothing/Attire": "ধুতি" },
+      { "Clothing/Attire": "কুর্তি" },
+      { "Clothing/Attire": "চোলা" }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Dama",
+    "type": "Union Territory",
+    "items": [
+      { "Clothing/Attire": "ওয়ারলি পুরুষদের পোশাক" },
+      { "Clothing/Attire": "ওয়ারলি মহিলাদের লুগদেন" },
+      { "Clothing/Attire": "ধোডিয়া পুরুষদের ধুতি" },
+      { "Clothing/Attire": "ধোডিয়া মহিলাদের শাড়ি" },
+      { "Clothing/Attire": "কোকনা পুরুষদের পোশাক" },
+      { "Clothing/Attire": "কোকনা মহিলাদের শাড়ি" },
+      { "Clothing/Attire": "দমন ও দিউ পুরুষদের ঐতিহ্যবাহী পোশাক" },
+      { "Clothing/Attire": "দমন ও দিউ মহিলাদের ঐতিহ্যবাহী পোশাক" },
+      { "Clothing/Attire": "ইন্দো-পর্তুগিজ পোশাক" }
+    ]
+  },
+  {
+    "name": "Delhi",
+    "type": "Union Territory",
+    "items": [
+      { "Clothing/Attire": "শেরওয়ানি" },
+      { "Clothing/Attire": "সালওয়ার কামিজ" },
+      { "Clothing/Attire": "শাড়ি" },
+      { "Clothing/Attire": "লেহেঙ্গা চোলি" },
+      { "Clothing/Attire": "চুড়িদার" },
+      { "Clothing/Attire": "আঙরাখা" },
+      { "Clothing/Attire": "জামা" },
+      { "Clothing/Attire": "দুপাট্টা" }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "Union Territory",
+    "items": [
+      { "Clothing/Attire": "ফেরান" },
+      { "Clothing/Attire": "ডোগরি স্যুট" },
+      { "Clothing/Attire": "গোঞ্চা" },
+      { "Clothing/Attire": "কাশ্মীরি শাল" },
+      { "Clothing/Attire": "পশমিনা শাল" },
+      { "Clothing/Attire": "কাসাবা" },
+      { "Clothing/Attire": "তারাঙ্গা" },
+      { "Clothing/Attire": "সুতান" },
+      { "Clothing/Attire": "পুটস" },
+      { "Clothing/Attire": "লাদাখি পেরাক" }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "items": [
+      { "Clothing/Attire": "গোঞ্চা" },
+      { "Clothing/Attire": "সুলমা" },
+      { "Clothing/Attire": "কোস কার" },
+      { "Clothing/Attire": "যোগার" },
+      { "Clothing/Attire": "লোকপা" },
+      { "Clothing/Attire": "পাবু" },
+      { "Clothing/Attire": "টিপি" },
+      { "Clothing/Attire": "পেরাক" },
+      { "Clothing/Attire": "স্কেরাগ" },
+      { "Clothing/Attire": "বক" }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "items": [
+      { "Clothing/Attire": "কাচি" },
+      { "Clothing/Attire": "মুন্ডু" },
+      { "Clothing/Attire": "লিবুস" },
+      { "Clothing/Attire": "আরাচাল" },
+      { "Clothing/Attire": "থাত্তাম" }
+    ]
+  },
+  {
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "items": [
+      { "Clothing/Attire": "শাড়ি এবং ব্লাউজ" },
+      { "Clothing/Attire": "ধুতি এবং কুর্তা" },
+      { "Clothing/Attire": "অঙ্গবস্ত্রম" },
+      { "Clothing/Attire": "পাভাডা দাভানি" },
+      { "Clothing/Attire": "ফ্রাঙ্কো-তামিল ফিউশন পোশাক" }
+    ]
+  }
+]

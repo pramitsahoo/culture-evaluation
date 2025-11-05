@@ -1,0 +1,1271 @@
+{
+  "dataset_statistics": {
+    "total_sentences": 77,
+    "entries_with_replacements": 76,
+    "total_strict_matches": 32,
+    "total_singular_plural_matches": 4,
+    "total_fuzzy_matches": 13,
+    "average_strict_match_per_sentence": 0.4155844155844156,
+    "average_singular_plural_match_per_sentence": 0.05194805194805195,
+    "average_fuzzy_match_per_sentence": 0.16883116883116883
+  },
+  "detailed_scores": [
+    {
+      "adapted_text": "2 नीले साड़ी और उसके आधा सफेद साड़ी बनाने के लिए 2 रिल की आवश्यकता होगी। यह बनाने के लिए कुल कितने रिल की आवश्यकता होगी?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "2"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ने एक घर फ्लिप करने का फैसला लिया। उसने ₹80,000 में एक घर खरीदा और ₹50,000 से मरम्मत करवाया। इससे घर का मूल्य 150% बढ़ गया। उसने कितना डॉलर लाभ कमाया?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.25,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "house flip",
+        "₹50000",
+        "₹80000",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "रमेश एक सप्ताह में 3 बार 3 किमी दौड़ा। हर दौड़ में 60 मीटर चलता है। एक सप्ताह में कुल कितनी दूरी दौड़ी?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Ramesh went to a shop to buy a raw material for his new apartment. The price of a raw material is ₹5, but the price of each second glass is 60% of the original price. Ramesh wants to buy 16 pieces of raw material. How much money will he have to pay?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.14285714285714285,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "apartment",
+        "each second glass",
+        "inr",
+        "₹5",
+        "ramesh",
+        "16 pieces",
+        "raw material"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh  60 किमी प्रति घंटे की गति से 3 घंटे तक गाड़ी चलाने के बाद घर पर महत्वपूर्ण चीजें भूल गया और इसलिए वापस आया। उसने 4 घंटे घर वापस जाने की कोशिश की लेकिन पहले 2 घंटे में उसकी ट्रैफिक जमा में खर्च हो गया। बाद में आधा घंटा वह प्रति घंटा 30 किमी की गति से गाड़ी चलाने पर खर्च करता है, बाकी 4 घंटे में वह प्रति घंटा 80 किमी की गति से गाड़ी चलाने में सक्षम हो गया। 4 घंटे के अंत में वह घर से कितनी दूर है?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "4",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "एक व्यवसायी दो क्रेय योजनाओं में से एक को चुनना चाहता है: ₹5000 मूल्य की गायना या ₹8000 मूल्य की इलेक्ट्रॉनिक गैजेट।  उनका वित्तीय सलाहकार मानता है कि इस महीने में गायन का बाजार 2.5% बढ़ेगा और इलेक्ट्रॉनिक गैजेट का बाजार 1.2% बढ़ेगा। किसी एक योजना को चुनकर अगर यह महीने के अंत में सबसे अधिक लाभ प्राप्त करना चाहता है, तो उस लाभ का मात्रा कितना हो सकता है?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "₹5000",
+        "₹8000",
+        "12"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh को प्रति घंटा ₹1500 और चायरलीडर प्रशिक्षक के रूप में ₹2100 का वेतन मिलता है। अगर वह एक साल में 50 सप्ताह काम करता है, तो एक सप्ताह में 35 घंटे शिक्षक और एक सप्ताह में 15 घंटे प्रशिक्षक के रूप में काम करके, उसके सालाना वेतन कितना होगा?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "ramesh    ₹1500       ₹2100"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh 12 किलोमीटर चल रहा है। उसके बीच पहले 4 किलोमीटर चलने में उसने 1 घंटा और बाद के दो किलोमीटर चलने में एक घंटा समय लिया। अगर वह चाहता है तो उसकी चलने की गति घंटे में 4 किलोमीटर होगी, तो उसके लिए बाकी दूरी पार करने के लिए उसे कितनी गति से (किलोमीटर प्रति घंटा) चलना होगा?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh last year bought the most sold book at ₹1950. It was bought at a discount of 25% from its original price. What was the original price of the book?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.16666666666666666,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "year",
+        "original price",
+        "₹1950",
+        "ramesh",
+        "price",
+        "the most sold book"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ने 5 प्याज ₹830 में खरीदे और दो अपने दोस्त को दिए। प्रति प्याज का खर्च कितना था?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "₹1200",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh daily eats one serving of ice cream. He can buy 15 servings of ice cream for ₹600 per carton. How much will he spend on ice cream in 60 days?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.25,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "how much will he spend on ice cream in 60 days",
+        "ramesh daily eats one serving of ice cream",
+        "ramesh",
+        "he can buy 15 servings of ice cream for ₹600 per carton"
+      ]
+    },
+    {
+      "adapted_text": "110 मुद्रा राहें हैं। सोने की मुद्रा से 30 अधिक सोने की मुद्रा हैं। ग्रेचन के पास कितनी सोने की मुद्रा हैं?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh দিনে 2টি ইয়োগার্ট খেয়ে। সম্প্রতি 4টি ইয়োগার্ট ₹250-এর ছাড়যুক্ত মূল্যে বিক্রি হচ্ছে। 30 দিনে তিনি ইয়োগার্টের জন্য কত Rupees ব্যয় করেন?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 1.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ने अपने सभी खिलौनों को बेचकर उस धन का उपयोग वीडियो गेम खरीदने की योजना बना रहा है। उसके पास 13 टिकट हैं और वह प्रत्येक टिकट को ₹15 में बेच चुका है। उसने ₹20 का मूल्य में 8 वीडियो गेम खरीद लिए हैं और उसके पास अभी ₹5 बचा है। उसके पास अभी कितने टिकट हैं?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.2,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "8",
+        "₹20",
+        "ramesh",
+        "₹15"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought 5 parathas for ₹830 and gave 2 to his friend. How much money did he spend per paratha?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ramesh bought 5 parathas for ₹830 and gave 2 to his friend how much money did he spend per paratha"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ने अपने पर्स में 80 पोस्ट-इट नोट रखे। उसके जाने का रास्ता पर, उसने दुकान में खरीदारी की और एक पैकेट पोस्ट-इट नोट खरीदा; काम पर जाने के बाद, उसने प्रत्येक कप में एक पोस्ट-इट नोट रखा। अगर उसके पास अभी 23 पोस्ट-इट नोट बचे हैं, तो उसके ख़रीदे गए पैकेट में कितने पोस्ट-इट नोट थे?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.2,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "220",
+        "80",
+        "23",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "রিজেন দুইটি রঙের টাই ক্রয় করেছেন। রঙের তুলনায় রঙের দাম 50% বেশি। তিনি রঙের টাই ৪০ টাকা দরে ক্রয় করেছেন। তিনি টাই বাবদ মোট কত ব্যয় করেছেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রিজেন",
+        "₹40"
+      ]
+    },
+    {
+      "adapted_text": "Rameshने 4 फुट लंबी एक बेल की मदद से टमाटर के पौधे की देखभाल की। उसे 6 इंच लंबा टुकड़ा काट दिया। उसने कितने टुकड़े लिए?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "30 ललिपप हैं जीन के पास। जीन 2 ललिपप खाने के बाद, बाकी ललिपपों को एक बैग में 2 ललिपप भरने की कोशिश कर रहा है। तो जीन कितने बैग में ललिपप भर सकता है?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "30",
+        "2"
+      ]
+    },
+    {
+      "adapted_text": "রিচার্ড অনলাইনে খাবারের অর্ডার করেছেন। তাঁর চূড়ান্ত বার্তা $40.00। যেহেতু এটি একটি বিক্রিকারী মাধ্যমে করা হয়েছিল, তাই তাঁরা তাঁর মোট বার্তার ওপর 25% ফি এবং ডেলিভারি ফি হিসেবে ₹300 যোগ করেছিল। রিচার্ড ₹400 বকশিসও দিয়েছিলেন। অতিরিক্ত ফি সমেত, রিচার্ডের খাবারের সামগ্রী বাবদ সর্বশেষ মূল্য কত ছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "খাবারের অর্ডার",
+        "₹400",
+        "₹300",
+        "রিচার্ড"
+      ]
+    },
+    {
+      "adapted_text": "25 कलमलेबू में 1 कलमलेबू खराब है, 20% कच्ची, 2 टोक और बाकी सब ठीक हैं। कितनी कलमलेबू ठीक हैं?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "ঝুড়িতে"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ने अपनी बेटी के लिए एक ब्रोश खरीद लिया। उसने इसे बनाने के लिए सामग्री के लिए $500 और इसे बनाने के लिए जहूरिक को और $800 दिए। फिर उसने इसे बीमा करने के लिए 10% दे दिया। उसने कितना खर्च किया?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.16666666666666666,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "₹45500  ₹64000  ₹4550",
+        "₹4550",
+        "₹45500",
+        "ramesh",
+        "₹64000"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ने एक कुत्ते को दान दिया। उसने कुत्ते को ग्रामर के पास ले गया, जिसके लिए उसके लिए ₹830 का खर्च आया। नए ग्राहक बनने के लिए ग्रामर ने उसे 30% छूट दी। ग्रामर को कितना खर्च करना पड़ेगा?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "₹830",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ke 10 स्टिकर थे। वो मल के एक दुकान से 21 स्टिकर खरीदे और जन्मदिन पर 23 स्टिकर पाए। उसके बाद रमेश अपनी बहन को 9 स्टिकर देकर और 28 स्टिकर ग्रीटिंग कार्ड सजाने के लिए इस्तेमाल कर रहे हैं। रमेश के पास अभी कितने स्टिकर बचे हैं?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "mahl",
+        "dumka",
+        "ben"
+      ],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.14285714285714285,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.42857142857142855,
+      "replaced_words": [
+        "bhen",
+        "mal",
+        "janamdin",
+        "strikers",
+        "greeting card",
+        "ramesh",
+        "dukan"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ने 3 गुलाब के पेड़ लगाए। प्रत्येक गुलाब पेड़ में 25 गुलाब हैं। प्रत्येक गुलाब में 8 चाकू हैं। कुल कितने चाकू हैं?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.25,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "8",
+        "ramesh",
+        "25"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh has set an alarm to go off thrice a day for the market. As long as the alarm is not turned off, it will keep ringing. Today is the first time it has rung four times. The second time it rang, it was three times louder than the first time. The third time, it rang half the time of the second time. Altogether, how many times has the alarm rung?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "goff",
+        "reang",
+        "halam"
+      ],
+      "total_replaced_words": 10,
+      "strict_match_score": 0.1,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3,
+      "replaced_words": [
+        "half",
+        "alarm",
+        "bazaar",
+        "first time",
+        "off",
+        "rang",
+        "ramesh",
+        "second time",
+        "three times",
+        "altogether"
+      ]
+    },
+    {
+      "adapted_text": "रमेश की कॉपी 10 गुना ज्यादा बिक रही थी। अगर वे कुल 88,000 कॉपी बेच रहे हैं, तो रमेश कितने कॉपी बेच रहे थे?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "10",
+        "88000"
+      ]
+    },
+    {
+      "adapted_text": "Kritiya  chalo  janamdin ke  program  kar rahi hai aur  niyamit  pratijan  aathi  ke liye .75  kit  gift  bag  praan  kar rahi hai,  kaise  1/4  baag  aaghi  hai.  Tini  16  jan  bhool  kar  rahi hai.  Ek  kit  gift  bag  ka  dam  $2  hai.  Tini  kya  artha  kharcha  kar  rahi hai?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "marathi"
+      ],
+      "total_replaced_words": 8,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.125,
+      "replaced_words": [
+        "14 baag aaghi hai",
+        "kritiya",
+        "aathi",
+        "16 jan bhool  kar  rahi hai",
+        "ek kit gift bag  ka  dam  2",
+        "tini  kya  artha  kharcha  kar  rahi hai",
+        "janamdin ke program",
+        "75 kit gift bag"
+      ]
+    },
+    {
+      "adapted_text": "एक पार्क में, बिल्ली और बंदर की संख्या में तुलना में बिल्ली के बच्चे कम हैं। यदि प्रत्येक बिल्ली के लिए दो बंदर हैं, और बिल्ली की संख्या 60 है, तो पार्क में कितने बिल्ली के बच्चे हैं?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "हरि गतरात्र में 9 घंटे सोये थे। हरि सोये हुए घंटों की संख्या उसके बंधु जमस की तुलना में कम थी। जमस की तुलना में हरि कितने घंटे ज्यादा सोये थे?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Ramesh খেয়েছিল 5 parathas। उसने दो को दिए। उसने कितना खर्च किया?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [
+        "paratha"
+      ],
+      "fuzzy_matches": [
+        "paranthas"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.5,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "parathas",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "तीन बॉक्स हैं। प्रत्येक बॉक्स का आकार 5 इंच x 6 इंच x 4 इंच है। बॉक्सों के दीवारों की चौड़ाई 1 इंच है। तीन बॉक्स के अंदर कुल आयतन कितना है?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "रमेश रात में घर काम करके टीवी देखता है। हर सोमवार और मंगलवार रात में, वह अपना पसंदीदा शो का एक 1-घंटा का एपिसोड देखता था। बुधवार को, वह 30 मिनट के शो के कुछ एपिसोड देखता था। शुक्रवार को, वह तुरंत घर काम करके शो देखता था और एक 1-घंटा का एपिसोड और 30 मिनट का एक शो देखता था। शनिवार को, सप्ताह के दिन वह देर से उठने में सक्षम नहीं था, इसलिए वह 1 घंटा का दो एपिसोड देखता था। कुल मिलाकर, अगर वह 7 घंटे टीवी देखता है, तो वह बुधवार को 30 मिनट के कितने एपिसोड देखता था?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "30",
+        "1"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought 5 parathas for ₹830 and gave 2 to his friend. How much money did he spend per paratha?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [
+        "paratha"
+      ],
+      "fuzzy_matches": [
+        "paranthas"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.2,
+      "singular_plural_score": 0.2,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "parathas",
+        "₹830",
+        "₹20",
+        "ramesh",
+        "friend"
+      ]
+    },
+    {
+      "adapted_text": "সবথেকে বেশি ফ্রুট রোল-আপ খেতে পারে তা দেখার জন্য রাজেশ ও বিয়াট্রিজ একটি প্রতিযোগিতা করছে, তাই তারা যতগুলো পারে ততগুলোকে আনরোল করে। দুর্ভাগ্যবশত, কেউ একজন একটি ভুল করে এবং ফলত বিয়াট্রিজেরটি দুই রোল-আপ চওড়া ও 24 রোল-আপ লম্বা হয়ে যায় যেখানে রাজেশেরটি 3 রোল-আপ চওড়া ও 14 রোল-আপ লম্বা ছিল। যদি তারা দুজনেই তাদের ভাগের সবটা খেয়ে নেয়, তবে তারা গড়ে কতগুলি করে খেয়েছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রাজেশ ও বিয়াট্রিজ"
+      ]
+    },
+    {
+      "adapted_text": "एक कक्षा में एक हाईट बोर्ड है जिसमें चार शिक्षक होते हैं। जब वे कक्षा लेते हैं तो वे इसे इस्तेमाल करते हैं। हर शिक्षक प्रतिदिन दो बार अध्याय पढ़ते हैं और प्रत्येक अध्याय के लिए हाईट बोर्ड का इस्तेमाल करते हैं। प्रत्येक अध्याय के लिए अगर तीन बार हाईट बोर्ड को मारा जाता है, तो एक दिन में हाईट बोर्ड को कितनी बार मारा जाता है?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "रमेश ने अपने बगीचे में एक दिन में दो फूल लगाए। 15 दिन बाद, यदि 5 फूल बढ़े तो कुल कितने फूल होंगे?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ने अपने तीन बच्चों के लिए प्रत्येक के लिए दो जूते खरीदे। प्रत्येक की कीमत $60 है। कुल कितना खर्च हुआ?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.25,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "₹60",
+        "ramesh",
+        "₹"
+      ]
+    },
+    {
+      "adapted_text": "अध्ययनर मोट बेटन लायलर से 30 प्रतिशत ज्यादा था। चार साल बाद, उनके बेटन बढि़या पाई, और चार साल पहले उन्होंने जो पाई थी, उसके से उन्होंने 40% ज्यादा आय कर रहे थे। यदि अध्ययन और लायलर बेटन एक ही साथ बढि़या पाई, और चार साल पहले अध्ययन $40000 आय कर रहा था, तो चार साल बाद दोनों कितने बेटन पा रहे थे, इसका पता लगाएं।",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "30",
+        "40",
+        "40000"
+      ]
+    },
+    {
+      "adapted_text": "Rani 3 घंटे धरती प्रति घंटे 10 किमी की गति से दौड़ सकती है। फिर, वह प्रति घंटे 5 किमी की गति से दौड़ती है। 7 घंटे में वह कितने किमी दौड़ सकती है?",
+      "strict_matches": [
+        "rani"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "rani",
+        ""
+      ]
+    },
+    {
+      "adapted_text": "জেনি তার মায়ের কার্যালয়ে সাহায্য করছে। তার কাছে 60টি চিঠির গোছা আছে যাতে স্ট্যাম্প লাগানোর প্রয়োজন আছে, এবং এক গোছা চিঠিতে ইতিমধ্যেই স্ট্যাম্প লাগানো হয়েছে। স্ট্যাম্প লাগানোর প্রয়োজন রয়েছে এরকম এক-তৃতীয়াংশ চিঠিতে সে স্ট্যাম্প লাগিয়েছে। ইতিমধ্যেই স্ট্যাম্প লাগানো চিঠির গোছার মধ্যে যদি এখন 30টি চিঠি থাকে, জেনি যখন শুরু করেছিল ঐ গোছায় তখন কতগুলি চিঠি ছিল?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কার্যালয়",
+        "মাতা"
+      ]
+    },
+    {
+      "adapted_text": "एक नई विद्यालय में स्थानांतरित हो जाने के बाद, अमीर लिली की तुलना में 20 से ज्यादा दोस्त हैं। यदि लिली की 50 दोस्त हैं, तो लिली और अमीर एक साथ कितने दोस्त हैं?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "20",
+        "50"
+      ]
+    },
+    {
+      "adapted_text": "राम 4 बार गाड़ी धुए थे। अगर हर बार गाड़ी धुनाने के लिए ₹15 खर्च होता है, तो वह एक साल में कितना खर्च करता है?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "₹15"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ने 200 रुपये में दूध, 300 रुपये में अंडे, 300 रुपये में लाइट बॉल, 300 रुपये में कप, और 400 रुपये में अरशोला फाँड खरीदा। जो कि खाद्य सामग्री नहीं है, उस पर 10% कर लगता है, तो कुल मूल्य कितना होगा?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.25,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "200",
+        "300",
+        "400",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "रमेश ने अपने घर के मेल में खिलौना निकाल रहा है। उसने 500 टुकड़ों के लॉजिक बॉक्स सेट को मेल में जड़ा कर रखा था, और दूसरी जगह में 500 टुकड़ों के बॉक्स से तुलना में 3 गुना टुकड़े थे, और दूसरी जगह में 1/4 भाग टुकड़े थे। अगर रमेश सभी लॉजिक को निकाल लेता है तो कितने ब्लॉक उसे निकाल चुका है?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "14",
+        "3",
+        "500"
+      ]
+    },
+    {
+      "adapted_text": "एक मॉच को एक दिन में कितने की मॉसिकें आने-जाने में देख रहा है। उसने पहले 6 घंटे में 30 की मॉसिकें देख लीं, बाद में 6 घंटे में उसके 1/2 भाग की मॉसिकें वापस आने को देख ली। उसने पहली बार कितनी मॉसिकें देखी थी, उसके दोगुनी मॉसिकें बाद में 6 घंटे में मॉच को छोड़कर उड़ने को देखी। फिर प्रत्येक मॉसिक जो पहले चाक छोड़ चुकी थी और वापस आ गई थी, वो बाद में 6 घंटे में मॉच को वापस आ गई। दिन के अंत में 6 घंटे में डब्रा कितनी मॉसिकें मॉच को वापस आने को देखी?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "6"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ने एक बड़ा पैकेट डेव फ्रेंच-फ्राई ख़रीद लिया और एक छोटा सा सिक्का चोरी करने से पहले उसे छः प्याज खाए। सिक्का को ले जाने पर, रमेश ने खाए हुए प्याज से आधा मात्रा में प्याज ले लिया। उसके बाद तीन प्याज उसे खाने से छुटकारा दिलाए, और प्रत्येक प्याज तीन प्याज के लिए फ्राई खाए। फिर, एक रक्कन बचे हुए फ्राई का दो-तिहाई चोरी कर लिया। पांच प्याज लेकर, रमेश फ्रेंच-फ्राई को लेकर चला गया। रमेश ने पकड़े हुए पैकेट में कितने फ्रेंच-फ्राई थे?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh, the caretaker of Churiya Khan, feeds all the animals of the Churiya Khan. Every two months, he takes orders from a local farm. If 200 pieces of fruit are needed for monkeys, 400 pieces for gorillas, and 100 pieces for baboons every month, how many orders will he need to take for two months?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.2,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "how many orders will he need to take for two months",
+        "feeds all the animals of the churiya khan",
+        "every two months he takes orders from a local farm",
+        "200 pieces of fruit 400 pieces for gorillas and 100 pieces for baboons every month",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "যদি এক ব্যাগ মার্বেলের দাম ₹1600 হয় এবং প্রতি দুমাসে আসল মূল্যের 20% বৃদ্ধি পায়, 36 মাস পরে এক ব্যাগ মার্বেলের কত দাম হতে পারে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "₹1600"
+      ]
+    },
+    {
+      "adapted_text": "रमेश ने बड़े बाजार से 2 गुना बड़ा खरीदा। 2 साल बाद, उनकी उम्र का योग 28 होगा। रमेश की उम्र कितनी है?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "2"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh  is preparing a big family reunion feast. He is chopping and slicing potatoes for it. It's a big event, so he will need 60 potatoes, the potatoes are roughly the same size, so it will take roughly the same amount of time to chop and slice each one. Chopping the potatoes takes Ramesh about two minutes, but it takes only 5 seconds to slice them. How much time will it take Ramesh to prepare the potatoes?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "potatoes",
+        "family reunion feast",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh, who sells flowers, is very upset because the delivery order was not completed. Sandeep, who ordered a lot of red roses, ordered four times more than the white carnation. He also ordered 200 red rose lilies, which is five times the number of white carnations. If Sandeep cannot deliver the red roses by 5 pm, he has threatened to change the supplier. Sandeep has threatened to change the supplier if his business is not maintained. How many red roses must Ramesh deliver by 5 pm?",
+      "strict_matches": [
+        "sandeep",
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 11,
+      "strict_match_score": 0.18181818181818182,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "maintain his business",
+        "sandeep",
+        "delivery order was not completed",
+        "five times",
+        "white carnation",
+        "ramesh",
+        "red roses delivered by 5 pm",
+        "how many red roses must ramesh deliver by 5 pm",
+        "four times more",
+        "threatened to change the supplier",
+        "200 red rose lilies"
+      ]
+    },
+    {
+      "adapted_text": "रमेश ने दो साल पहले दस साल का। दो साल पहले मारक का उम्र जैन की उम्र का आधा से 5 साल बढी थी। जैन की उम्र 30 साल हो तो रमेश की उम्र कितनी है?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "30",
+        "5"
+      ]
+    },
+    {
+      "adapted_text": "দুটি ট্র্যাক টিম একে অপরের বিরুদ্ধে একটি 400 মিটার রিলেতে প্রতিদ্বন্দ্বিতা করছেন; যেখানে একটি প্রতিযোগীতায় প্রত্যেক প্রতিযোগী দলের চার জন করে সদস্য আছে যারা প্রত্যেকে 400 মিটার, অথবা একটি পাকে, একটি স্ট্যান্ডার্ড ট্র্যাকের চারপাশে দৌড়ন। দুটি দলের মধ্যে একটি সবদিকে খুব ভালো এবং তাঁদের প্রত্যেক সদস্য যথাযথভাবে 55 সেকেন্ডে 400 মিটার দৌড়বেন। অন্য দলটি সবদিকে কম ভালো; তাঁদের প্রথম রানার 60 সেকেন্ডে তাঁদের 400 মিটার দৌড়বেন তারপর পরবর্তী রানার পূর্ববর্তী রানারের থেকে 3 সেকেন্ড দ্রুত দৌড়বেন। এই তথ্য অনুসারে, দ্রুততম দলটি কত সেকেন্ডে জিতবেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "দুটি ট্র্যাক টিম",
+        "400 মিটার রিলেতে প্রতিদ্বন্দ্বিতা করছেন"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought 5 parathas for ₹830 and gave 2 to his friend. How much money did he spend per paratha?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [
+        "paratha"
+      ],
+      "fuzzy_matches": [
+        "paranthas",
+        "peri"
+      ],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.14285714285714285,
+      "singular_plural_score": 0.14285714285714285,
+      "fuzzy_match_score": 0.2857142857142857,
+      "replaced_words": [
+        "parathas",
+        "bought",
+        "gave",
+        "₹830",
+        "per",
+        "ramesh",
+        "2"
+      ]
+    },
+    {
+      "adapted_text": "एक व्यवसायी एक किसान से प्रति बस्ते $20 में कुछ गम की बस्ते खरीदे। यदि प्रत्येक बस्ते से गुलदाम तक परिवहन का खर्च $2 है, और व्यवसायी प्रत्येक बस्ते $30 में बेचकर कुल $400 लाभ कमाता है, तो उसने कितने बस्ते बेचे हैं?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "₹120000",
+        "₹1600",
+        "₹300"
+      ]
+    },
+    {
+      "adapted_text": "रमेश ने एक साल में 10 पेड़ लगाए। हर साल वह 2 पेड़ काटकर फेंकता है। वह 50 पेड़ से शुरुआत करता है। 10 साल बाद 30% पेड़ मर जाते हैं। उसके पास अभी कितने पेड़ बचे हैं?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "10",
+        "10   30",
+        "50",
+        "2"
+      ]
+    },
+    {
+      "adapted_text": "एक मज़ेदार घर में रहता है। एक सप्ताह में, पड़ोसियों ने मज़े करने का फैसला किया। शुक्रवार सुबह, पड़ोसियों ने मज़े के लिए मज़ेदार जगह पर 18 गुलाबी प्लास्टिक के फ्लेमिंगो रखे। शनिवार सुबह, पड़ोसियों ने फ्लेमिंगो का एक तिहाई वापस ले लिया, उन्हें सफेद रंग दिया, और नए रंग के फ्लेमिंगो को मज़ेदार जगह पर रख दिया। फिर, रविवार सुबह, उन्होंने अपने संग्रह से और 18 गुलाबी प्लास्टिक के फ्लेमिंगो जोड़ दिए। रविवार दोपहर में, सफेद प्लास्टिक फ्लेमिंगो से कितने गुलाबी प्लास्टिक फ्लेमिंगो बचे? ",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought 5 parathas for ₹830 and gave 2 to his friend. How much money did he spend per paratha?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "paratha"
+      ],
+      "fuzzy_matches": [
+        "paranthas"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.25,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "₹2700",
+        "parathas",
+        "irejaar",
+        "₹9960"
+      ]
+    },
+    {
+      "adapted_text": "রাজীব কর্মক্ষেত্রে একটি পুরষ্কার জিতেছেন। এতে ৫০০০ টাকা একটি 1 কালীন আর্থিক পুরষ্কার ও 5% হারে বেতন বৃদ্ধি আছে। যদি তিনি এক সপ্তাহে 2000 টাকা পান, বছরের প্রতি সপ্তাহে এবং বছরের প্রথম দিনে তিনি পুরষ্কারটি পান তবে ঐ বছরে তিনি কত অর্থ পেয়েছিলেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১ কালীন আর্থিক পুরষ্কার",
+        "কর্ম",
+        "রাজীব",
+        "৫০০০ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "রাজীবের 10 একরের ক্ষেতে আঙ্গুর ফেলেছেন। প্রতি বছর প্রতি একর 5 টন আঙ্গুর উৎপাদন হয়, এবং প্রতি টন আঙ্গুর থেকে 2 ব্যারেল ওয়াইন তৈরি হয়। প্রতি বছর তাঁর ক্ষেত থেকে কত ব্যারেল ওয়াইন উৎপাদিত হয়?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রাজীব",
+        "10 একর"
+      ]
+    },
+    {
+      "adapted_text": "রামেশ ব্রিনলি মিঃ বার্টের অঙ্কের ক্লাসে আছে। প্রতিটি সেমিস্টারে বার্ট ছয়টি করে পরীক্ষা নেন। তিনি প্রতিটি সেমিস্টারের গড় থেকে সর্বনিম্ন স্কোর সরানোর জন্য ছাত্রছাত্রীদের অনুমতি দেন। প্রথম পাঁচটি পরীক্ষায় ব্রিনলি যদি 89, 71, 92, 100 ও 86 পায়, ষষ্ঠ পরীক্ষায় গড়ে 93 পেতে হলে তাকে কত স্কোর করতে হবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "প্রতিটি সেমিস্টারে",
+        "রামেশ",
+        "রামলি"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought 10 parathas for ₹5000 and gave 2 to his friend. How much money did he spend per paratha?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.25,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "₹5000",
+        "₹1200",
+        "how much money did he spend per paratha",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ₹320.00 में एक जोड़ा जूता और एक मेलानसय बैल्ट खरीदना चाहता है जिसकी कीमत ₹32.00 है। उसके पार्ट-टाइम के काम से घंटे में ₹8.00 आय होती है। तो उसे इन चीजों को खरीदने के लिए कितने घंटे काम करना होगा?",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.2,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "₹3200",
+        "₹32000",
+        "ramesh",
+        "₹800"
+      ]
+    },
+    {
+      "adapted_text": "रमेश ने 2000 रुपये धार लिए और प्रतिज्ञा दी कि उस धन का 10% अतिरिक्त धन समेत वापस देगा। यदि वह प्रति माह 165 रुपये के रूप में 12 महीने तक भुगतान करता है, तो रमेश के बाद कितना धन वापस किया जाएगा?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "10",
+        "₹2000",
+        "12"
+      ]
+    },
+    {
+      "adapted_text": "4 छात्रों ने कुल 251 पॉइंट जीते। नोमी 68 पॉइंट जीती। यूरी नोमी ने पॉइंट्स से 10 पॉइंट ज्यादा जीता और ब्रायन ने नोमी की पॉइंट्स से 17 पॉइंट ज्यादा जीता। जोजो ने कितने पॉइंट जीते?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "68",
+        "4    251",
+        "10",
+        "17"
+      ]
+    },
+    {
+      "adapted_text": "एक कंपनी ने एक वर्ष में ₹1,50,000 रुपये खर्च किए, और फिर अगले वर्ष में उस राशि का एक-तिहाई खर्च किया। कंपनी ने दो वर्षों में कुल कितना खर्च किया?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "₹150000"
+      ]
+    },
+    {
+      "adapted_text": "अन्‍द्रू ने रॉयल जर्सी से रेश्टर तक एक रोड ट्रिप की योजना बनाई है। रॉयल जर्सी से रेश्टर तक बस में 6 दिन लगेंगे और गाड़ी में फ़रते समय की आधी ज़रूर लगेंगे। अगर वह बस से रेश्टर जाएं और रेश्टर से गाड़ी में वापस आएं तो उसे कितने दिनों में यात्रा करनी होगी?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "रमेश और रॉबर्ट साथ जाकर चाँद के लिए पसंद करते हैं। सोमवार रॉबर्ट 20 चाँदें इकट्ठा कर चुके थे और काइली उसके तुलना में 5 चाँदें ज़्यादा इकट्ठा कर चुकी थी। सोमवार काइली कितने चाँदें इकट्ठा कर चुकी थी, मंगलवार उसके से 2 गुना ज़्यादा चाँदें इकट्ठा कर चुकी थी। मंगलवार काइली कितने चाँदें इकट्ठा कर चुकी थी?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Ramesh went to the orchard to pick apples and saw half the number of beetles he saw in the garden. If 50 beetles are there, calculate the total number of butterflies in the garden.",
+      "strict_matches": [
+        "ramesh"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "sawm"
+      ],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.16666666666666666,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.16666666666666666,
+      "replaced_words": [
+        "half the number of beetles",
+        "calculate the total number of butterflies in the garden",
+        "if 50 beetles are there",
+        "saw",
+        "ramesh",
+        "went to the orchard to pick apples"
+      ]
+    },
+    {
+      "adapted_text": "रमेश की दो साल की बेटी से दो साल छोटी, जो जसरी से पांच साल बड़ी। जसरी की उम्र 20 साल हो तो तीन महिलाओं की उम्र का योगफल कितना है?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "20"
+      ]
+    },
+    {
+      "adapted_text": "रमेश से रॉबर्ट के पास 6 टुकड़े केक ज्यादा हैं। जेन के पास रॉबर्ट से दो गुना ज्यादा केक हैं। जेन के पास 54 टुकड़े केक हैं तो जेन के पास रमेश से कितने ज्यादा केक हैं?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "डली के पास दो किताबें हैं। पांडोर के पास एक है। डली और पांडोर यदि वे एक दूसरे की किताब पढ़ते हैं तो खुद की किताब भी पढ़ते हैं, तो अंत में वे कितने किताबें पढ़ सकते हैं?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "kitab"
+      ]
+    },
+    {
+      "adapted_text": "एक अकॉरीयम में 4 टोपी हैं और एक और अकॉरीयम में 32 टोपी हैं। दो अकॉरीयम में होने वाले टोपी की संख्या का अंतर दोनों अकॉरीयम में होने वाले मछली की संख्या का दोगुना है। यदि दोनों अकॉरीयम में समान संख्या में मछली होती है, तो प्रत्येक अकॉरीयम में कितने मछली होते हैं?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "रेशम ने मेकअप कलाकार के लिए प्रति घंटा ₹250 लिया। एक फिल्म में अभिनय के लिए उनकी बहुत महंगी मेकअप की आवश्यकता है और यह हर दिन 6 घंटे समय लगता है और सप्ताह में 4 बार उन्हें यह करना होता है। फिल्म 5 सप्ताह चलती है। काम की मात्रा के लिए फिल्म के काम को समाप्त होने पर मेकअप कलाकार जीन को 10% छूट दे। जीन कितना पैसा कमाया?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "",
+        "₹250"
+      ]
+    },
+    {
+      "adapted_text": "রিচার্ড তার বোনের জন্মদিনের পার্টির জন্য পার্টির উপকরণ কিনেছিল। সে কেক তৈরির উপাদানের জন্য ₹12, জন্মদিনের উপহারের জন্য ₹43, অন্দরসজ্জার জন্য ₹15, নিমন্ত্রণের জন্য ₹4 এবং পার্টির অতিথিদের গুডি ব্যাগ দেওয়ার জন্য ₹22 ব্যয় করেছিল। তার মাতা ও পিতা সবাইকে সমানভাবে তিনভাগে ভাগ করে নিয়েছিল। প্রত্যেকে কত রুপি ব্যয় করেছিলেন?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 8,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "₹12",
+        "জন্মদিনের পার্টি",
+        "₹",
+        "₹43",
+        "রিচার্ড",
+        "₹4",
+        "₹22",
+        "₹15"
+      ]
+    }
+  ]
+}

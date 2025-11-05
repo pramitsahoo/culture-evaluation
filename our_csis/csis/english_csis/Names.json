@@ -1,0 +1,3866 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Lakshmi",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Derived from Sanskrit, Lakshmi is the Hindu goddess of wealth, fortune, and prosperity. It is a widely used name in Andhra Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lakshmi"
+      },
+      {
+        "Name": "Venkata",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Refers to Lord Venkateswara, a form of Vishnu worshipped in Andhra Pradesh, especially in Tirupati.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Venkateswara"
+      },
+      {
+        "Name": "Satyavathi",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'one who speaks the truth'; a name from Hindu mythology, Satyavati was the wife of sage Parashara and the mother of Vyasa.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Satyavati"
+      },
+      {
+        "Name": "Srinivasarao",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "A combination of 'Srinivasa' (another name for Lord Venkateswara) and 'Rao' (a title), commonly used in Andhra Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Venkateswara"
+      },
+      {
+        "Name": "Nagamani",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'jewel of the serpent'; associated with mythology and often used in Andhra Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagamani"
+      },
+      {
+        "Name": "Ramanamma",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "A feminine form of 'Rama', referring to the Hindu deity; commonly used in Andhra Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rama"
+      },
+      {
+        "Name": "Sathyanarayana",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Combines 'Sathya' (truth) and 'Narayana' (a form of Vishnu); refers to a form of Vishnu worshipped in Andhra Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Satyanarayan"
+      },
+      {
+        "Name": "Ramesh",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'lord of Rama'; another name for Vishnu.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ramesh"
+      },
+      {
+        "Name": "Nagaraju",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'king of serpents'; associated with mythology and commonly used in Andhra Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaraja"
+      },
+      {
+        "Name": "Durga",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Refers to the Hindu goddess Durga, symbolizing strength and protection.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Durga"
+      },
+      {
+        "Name": "Vijaya",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'victory'; commonly used for both males and females in Andhra Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Vijaya"
+      },
+      {
+        "Name": "Varalakshmi",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Combines 'Vara' (boon) and 'Lakshmi' (goddess of wealth); refers to a form of the goddess Lakshmi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Varalakshmi_Vratam"
+      },
+      {
+        "Name": "Apparao",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "A traditional name in Andhra Pradesh, often used with the title 'Rao'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rao_(title)"
+      },
+      {
+        "Name": "Aadhya",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'first power' or 'beginning'; signifies the primordial power.",
+        "Reference Link": "https://www.in.pampers.com/pregnancy/baby-names/article/telugu-baby-girl-names"
+      },
+      {
+        "Name": "Aaradhya",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'worshipped' or 'adored'; signifies someone who is revered.",
+        "Reference Link": "https://www.in.pampers.com/pregnancy/baby-names/article/telugu-baby-girl-names"
+      },
+      {
+        "Name": "Aarav",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'peaceful' or 'melodious'; signifies calmness.",
+        "Reference Link": "https://www.in.pampers.com/pregnancy/baby-names/article/telugu-baby-boy-names"
+      },
+      {
+        "Name": "Aadithya",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'sun'; refers to the sun god in Hindu mythology.",
+        "Reference Link": "https://www.in.pampers.com/pregnancy/baby-names/article/telugu-baby-boy-names"
+      },
+      {
+        "Name": "Ananya",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'unique' or 'incomparable'; signifies someone who is unparalleled.",
+        "Reference Link": "https://www.in.pampers.com/pregnancy/baby-names/article/telugu-baby-girl-names"
+      },
+      {
+        "Name": "Arjun",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'bright' or 'shining'; also the name of a hero in the Mahabharata.",
+        "Reference Link": "https://www.in.pampers.com/pregnancy/baby-names/article/telugu-baby-boy-names"
+      },
+      {
+        "Name": "Bhavani",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Another name for the goddess Parvati; signifies the consort of Lord Shiva.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhavani"
+      },
+      {
+        "Name": "Chaitanya",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'consciousness' or 'intelligence'; signifies knowledge.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chaitanya_(consciousness)"
+      },
+      {
+        "Name": "Devi",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'goddess'; commonly used to refer to female deities in Hinduism.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Devi"
+      },
+      {
+        "Name": "Gopal",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'protector of cows'; another name for Lord Krishna.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gopal"
+      },
+      {
+        "Name": "Harsha",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'happiness' or 'delight'; signifies joy.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Harsha"
+      },
+      {
+        "Name": "Indira",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'splendid' or 'beauty'; another name for the goddess Lakshmi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indira"
+      },
+      {
+        "Name": "Jaya",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'victory'; signifies success.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jaya"
+      },
+      {
+        "Name": "Kalyani",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'auspicious' or 'blessed'; signifies good fortune.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kalyani"
+      },
+      {
+        "Name": "Lalitha",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'playful' or 'graceful'; another name for the goddess Parvati.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lalita"
+      },
+      {
+        "Name": "Madhavi",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'creeper with beautiful flowers'; signifies beauty.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Madhavi"
+      },
+      {
+        "Name": "Naveen",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'new' or 'novel'; signifies innovation.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Naveen"
+      },
+      {
+        "Name": "Padma",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'lotus'; another name for the goddess Lakshmi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Padma"
+      },
+      {
+        "Name": "Rajesh",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'lord of kings'; signifies sovereignty.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rajesh"
+      },
+      {
+        "Name": "Saraswati",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Refers to the Hindu goddess of knowledge and arts.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Saraswati"
+      },
+      {
+        "Name": "Uma",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Another name for the goddess Parvati; signifies light.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Uma"
+      },
+      {
+        "Name": "Vasudev",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'father of Krishna'; signifies divinity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Vasudeva"
+      },
+      {
+        "Name": "Yashoda",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'one who gives fame'; the foster mother of Lord Krishna.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Yashoda"
+      }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Tsering",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Meaning 'long life'; common among Monpa and Sherdukpen tribes.",
+        "Reference Link": "https://forebears.io/india/arunachal-pradesh/forenames"
+      },
+      {
+        "Name": "Dorjee",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Translates to 'vajra' or 'thunderbolt'; prevalent in Monpa culture.",
+        "Reference Link": "https://forebears.io/india/arunachal-pradesh/forenames"
+      },
+      {
+        "Name": "Tashi",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Means 'auspicious' or 'prosperous'; used by Monpa and related communities.",
+        "Reference Link": "https://forebears.io/india/arunachal-pradesh/forenames"
+      },
+      {
+        "Name": "Yama",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Associated with the deity of death; signifies control and power.",
+        "Reference Link": "https://forebears.io/india/arunachal-pradesh/forenames"
+      },
+      {
+        "Name": "Nabam",
+        "Language/Cultural Origin": "Nyishi",
+        "Description": "A common surname among the Nyishi tribe.",
+        "Reference Link": "https://forebears.io/india/arunachal-pradesh/surnames"
+      },
+      {
+        "Name": "Wangsu",
+        "Language/Cultural Origin": "Nocte",
+        "Description": "A prevalent surname in the Nocte tribe.",
+        "Reference Link": "https://forebears.io/india/arunachal-pradesh/surnames"
+      },
+      {
+        "Name": "Wangsa",
+        "Language/Cultural Origin": "Nocte",
+        "Description": "Another common surname among the Nocte people.",
+        "Reference Link": "https://forebears.io/india/arunachal-pradesh/surnames"
+      },
+      {
+        "Name": "Nyadar",
+        "Language/Cultural Origin": "Apatani",
+        "Description": "A traditional name among the Apatani tribe.",
+        "Reference Link": "https://egyankosh.ac.in/bitstream/123456789/69427/1/Unit-1.pdf"
+      },
+      {
+        "Name": "Taba",
+        "Language/Cultural Origin": "Nyishi",
+        "Description": "A given name in the Nyishi community.",
+        "Reference Link": "https://egyankosh.ac.in/bitstream/123456789/69427/1/Unit-1.pdf"
+      },
+      {
+        "Name": "Tayeng",
+        "Language/Cultural Origin": "Adi",
+        "Description": "A surname commonly found among the Adi tribe.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Adi_people"
+      },
+      {
+        "Name": "Mize",
+        "Language/Cultural Origin": "Adi",
+        "Description": "Another surname prevalent in the Adi community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Adi_people"
+      }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Hiran",
+        "Language/Cultural Origin": "Assamese",
+        "Description": "Derived from Sanskrit 'hirana' meaning 'gold'; used as a unisex name in Assam.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/assamese"
+      },
+      {
+        "Name": "Hradini",
+        "Language/Cultural Origin": "Assamese",
+        "Description": "Means 'river' or 'lightning' in Sanskrit; used as a feminine name.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/assamese"
+      },
+      {
+        "Name": "Ihit",
+        "Language/Cultural Origin": "Assamese",
+        "Description": "Means 'sought', 'wished', or 'desired' in Sanskrit; used as a masculine name.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/assamese"
+      },
+      {
+        "Name": "Jagat",
+        "Language/Cultural Origin": "Assamese",
+        "Description": "Derived from Sanskrit meaning 'world' or 'universe'; used as a masculine name.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/assamese"
+      },
+      {
+        "Name": "Jamuna",
+        "Language/Cultural Origin": "Assamese",
+        "Description": "From the name of the Yamuna River; possibly derived from Sanskrit 'yama' meaning 'twin'; used as a feminine name.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/assamese"
+      },
+      {
+        "Name": "Samudra",
+        "Language/Cultural Origin": "Assamese",
+        "Description": "Derived from Sanskrit meaning 'sea' or 'ocean'; used as a unisex name.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/assamese"
+      },
+      {
+        "Name": "Sangita",
+        "Language/Cultural Origin": "Assamese",
+        "Description": "From Sanskrit meaning 'music' or 'sung together'; used as a feminine name.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/assamese"
+      },
+      {
+        "Name": "Sanjoy",
+        "Language/Cultural Origin": "Assamese",
+        "Description": "Assamese form of the name Sanjaya; used as a masculine name.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/assamese"
+      },
+      {
+        "Name": "Berdina",
+        "Language/Cultural Origin": "Bodo",
+        "Description": "Means 'glorious' in the Bodo language; used as a feminine name.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/bodo"
+      },
+      {
+        "Name": "Faami",
+        "Language/Cultural Origin": "Bodo",
+        "Description": "Means 'lotus' in the Bodo language; used as a feminine name.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/bodo"
+      },
+      {
+        "Name": "Mwnthai",
+        "Language/Cultural Origin": "Bodo",
+        "Description": "Means 'blessing' in the Bodo language; used as a unisex name.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/bodo"
+      },
+      {
+        "Name": "Sansuma",
+        "Language/Cultural Origin": "Bodo",
+        "Description": "Means 'moon' in the Bodo language; used as a masculine name.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/bodo"
+      },
+      {
+        "Name": "Shravya",
+        "Language/Cultural Origin": "Bodo",
+        "Description": "Means 'musical tone' in the Bodo language; used as a feminine name.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/bodo"
+      },
+      {
+        "Name": "Anjan",
+        "Language/Cultural Origin": "Assamese",
+        "Description": "Modern masculine form of Anjana; means 'kohl' or 'collyrium' in Sanskrit.",
+        "Reference Link": "https://www.behindthename.com/names/usage/assamese"
+      },
+      {
+        "Name": "Anjana",
+        "Language/Cultural Origin": "Assamese",
+        "Description": "Means 'kohl' or 'collyrium' in Sanskrit; feminine form associated with the mother of Hanuman in the Ramayana.",
+        "Reference Link": "https://www.behindthename.com/names/usage/assamese"
+      },
+      {
+        "Name": "Amit",
+        "Language/Cultural Origin": "Assamese",
+        "Description": "From Sanskrit 'amita' meaning 'immeasurable' or 'infinite'; used as a masculine name.",
+        "Reference Link": "https://www.behindthename.com/names/usage/assamese"
+      }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Arjun",
+        "Language/Cultural Origin": "Maithili/Bhojpuri",
+        "Description": "A revered figure from the epic Mahabharata, Arjun was a Pandava prince known for his exceptional archery skills and unwavering devotion to duty. The name signifies strength, purity, and righteousness.",
+        "Reference Link": "https://timesofindia.indiatimes.com/life-style/parenting/web-stories/10-bihari-baby-boy-names-that-are-meaningful-and-spiritual/photostory/114980531.cms"
+      },
+      {
+        "Name": "Yashvardhan",
+        "Language/Cultural Origin": "Maithili/Magahi",
+        "Description": "Associated with success, honor, and spiritual prosperity, Yashvardhan represents a person destined to bring glory to themselves and uplift others spiritually.",
+        "Reference Link": "https://timesofindia.indiatimes.com/life-style/parenting/web-stories/10-bihari-baby-boy-names-that-are-meaningful-and-spiritual/photostory/114980531.cms"
+      },
+      {
+        "Name": "Keshav",
+        "Language/Cultural Origin": "Maithili/Bhojpuri",
+        "Description": "Another name for Lord Vishnu, the protector and preserver of the universe, symbolizing divinity, protection, and righteousness.",
+        "Reference Link": "https://timesofindia.indiatimes.com/life-style/parenting/web-stories/10-bihari-baby-boy-names-that-are-meaningful-and-spiritual/photostory/114980531.cms"
+      },
+      {
+        "Name": "Aadhish",
+        "Language/Cultural Origin": "Maithili/Magahi",
+        "Description": "Signifies 'one who is the beginning' or 'the supreme lord,' often associated with a higher power, symbolizing someone powerful and influential from the start.",
+        "Reference Link": "https://timesofindia.indiatimes.com/life-style/parenting/web-stories/10-bihari-baby-boy-names-that-are-meaningful-and-spiritual/photostory/114980531.cms"
+      },
+      {
+        "Name": "Pranav",
+        "Language/Cultural Origin": "Maithili/Bhojpuri",
+        "Description": "Synonymous with the sacred sound 'Om,' representing the universe’s creation, preservation, and destruction, reflecting a connection to the divine and cosmic energy.",
+        "Reference Link": "https://timesofindia.indiatimes.com/life-style/parenting/web-stories/10-bihari-baby-boy-names-that-are-meaningful-and-spiritual/photostory/114980531.cms"
+      },
+      {
+        "Name": "Aarti",
+        "Language/Cultural Origin": "Maithili/Magahi",
+        "Description": "Derived from the ritual of worship involving lighted lamps, symbolizing devotion and reverence.",
+        "Reference Link": "https://checkall.in/bihari/baby-names-bihari/bihari-baby-girl-names-meanings/"
+      },
+      {
+        "Name": "Aabha",
+        "Language/Cultural Origin": "Maithili/Bhojpuri",
+        "Description": "Means 'shine' or 'glow,' representing brightness and radiance.",
+        "Reference Link": "https://checkall.in/bihari/baby-names-bihari/bihari-baby-girl-names-meanings/"
+      },
+      {
+        "Name": "Aadarshini",
+        "Language/Cultural Origin": "Maithili/Magahi",
+        "Description": "Signifies 'idealistic,' reflecting a person with high ideals and principles.",
+        "Reference Link": "https://checkall.in/bihari/baby-names-bihari/bihari-baby-girl-names-meanings/"
+      },
+      {
+        "Name": "Aafreen",
+        "Language/Cultural Origin": "Maithili/Bhojpuri",
+        "Description": "Means 'encouragement' or 'brave,' symbolizing acclaim and courage.",
+        "Reference Link": "https://checkall.in/bihari/baby-names-bihari/bihari-baby-girl-names-meanings/"
+      },
+      {
+        "Name": "Aamisha",
+        "Language/Cultural Origin": "Maithili/Magahi",
+        "Description": "Translates to 'sunshine' or 'truthful,' representing beauty and honesty.",
+        "Reference Link": "https://checkall.in/bihari/baby-names-bihari/bihari-baby-girl-names-meanings/"
+      }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Netam",
+        "Language/Cultural Origin": "Gond",
+        "Description": "A common surname among the Gond tribe, often used as a first name; its specific meaning is not well-documented.",
+        "Reference Link": "https://gariaband.gov.in/en/tourism/culture-heritage/"
+      },
+      {
+        "Name": "Marakam",
+        "Language/Cultural Origin": "Gond",
+        "Description": "A prevalent surname in the Gond community, sometimes adopted as a first name; specific meaning remains unclear.",
+        "Reference Link": "https://gariaband.gov.in/en/tourism/culture-heritage/"
+      },
+      {
+        "Name": "Kunjam",
+        "Language/Cultural Origin": "Gond",
+        "Description": "Frequently used surname among Gonds, occasionally serving as a first name; exact meaning is not specified.",
+        "Reference Link": "https://gariaband.gov.in/en/tourism/culture-heritage/"
+      },
+      {
+        "Name": "Mandavi",
+        "Language/Cultural Origin": "Gond",
+        "Description": "A surname commonly found in the Gond tribe, also used as a first name; specific meaning is not detailed.",
+        "Reference Link": "https://gariaband.gov.in/en/tourism/culture-heritage/"
+      },
+      {
+        "Name": "Manjhi",
+        "Language/Cultural Origin": "Gond",
+        "Description": "A surname within the Gond community, sometimes used as a first name; its particular meaning is not provided.",
+        "Reference Link": "https://gariaband.gov.in/en/tourism/culture-heritage/"
+      },
+      {
+        "Name": "Tikam",
+        "Language/Cultural Origin": "Gond",
+        "Description": "A surname prevalent among Gonds, occasionally used as a first name; specific meaning is not documented.",
+        "Reference Link": "https://gariaband.gov.in/en/tourism/culture-heritage/"
+      },
+      {
+        "Name": "Bijhwar",
+        "Language/Cultural Origin": "Baiga",
+        "Description": "A sub-caste within the Baiga tribe; the term is also used as a name, though its specific meaning is not detailed.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Baiga"
+      },
+      {
+        "Name": "Narotia",
+        "Language/Cultural Origin": "Baiga",
+        "Description": "A sub-group of the Baiga tribe; used as a name within the community, specific meaning is not provided.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Baiga"
+      },
+      {
+        "Name": "Bharotiya",
+        "Language/Cultural Origin": "Baiga",
+        "Description": "A sub-caste of the Baiga tribe; sometimes used as a name, though its particular meaning is not specified.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Baiga"
+      },
+      {
+        "Name": "Nahar",
+        "Language/Cultural Origin": "Baiga",
+        "Description": "A sub-division within the Baiga community; also used as a name, specific meaning is not documented.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Baiga"
+      },
+      {
+        "Name": "Rai Maina",
+        "Language/Cultural Origin": "Baiga",
+        "Description": "A sub-group of the Baiga tribe; occasionally used as a name, though its exact meaning is not detailed.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Baiga"
+      },
+      {
+        "Name": "Kath Maina",
+        "Language/Cultural Origin": "Baiga",
+        "Description": "A sub-caste within the Baiga community; used as a name, specific meaning is not provided.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Baiga"
+      },
+      {
+        "Name": "Ekka",
+        "Language/Cultural Origin": "Kurukh",
+        "Description": "A clan name among the Kurukh tribe, often used as a surname; associated with the turtle, symbolizing longevity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kurukh_people"
+      },
+      {
+        "Name": "Lakra",
+        "Language/Cultural Origin": "Kurukh",
+        "Description": "A clan name in the Kurukh community, meaning 'tiger,' representing strength and bravery.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kurukh_people"
+      },
+      {
+        "Name": "Toppo",
+        "Language/Cultural Origin": "Kurukh",
+        "Description": "A clan designation among Kurukhs, linked to the woodpecker, symbolizing diligence.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kurukh_people"
+      },
+      {
+        "Name": "Tirkey",
+        "Language/Cultural Origin": "Kurukh",
+        "Description": "A clan name in the Kurukh tribe, associated with the eagle, denoting sharp vision and freedom.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kurukh_people"
+      },
+      {
+        "Name": "Xaxa",
+        "Language/Cultural Origin": "Kurukh",
+        "Description": "A clan name among the Kurukh people, representing the crow, often symbolizing adaptability.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kurukh_people"
+      }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Maria",
+        "Language/Cultural Origin": "Portuguese",
+        "Description": "A widely used name among Goan Catholics, honoring the Virgin Mary.",
+        "Reference Link": "https://forebears.io/india/goa/forenames"
+      },
+      {
+        "Name": "Laxmi",
+        "Language/Cultural Origin": "Sanskrit",
+        "Description": "A common Hindu name in Goa, representing the goddess of wealth.",
+        "Reference Link": "https://forebears.io/india/goa/forenames"
+      },
+      {
+        "Name": "José",
+        "Language/Cultural Origin": "Portuguese",
+        "Description": "The Portuguese form of Joseph, prevalent among Goan Catholics.",
+        "Reference Link": "https://forebears.io/india/goa/forenames"
+      },
+      {
+        "Name": "Santosh",
+        "Language/Cultural Origin": "Sanskrit",
+        "Description": "A unisex name meaning 'contentment' in Hindu tradition.",
+        "Reference Link": "https://forebears.io/india/goa/forenames"
+      },
+      {
+        "Name": "Antanv",
+        "Language/Cultural Origin": "Konkani",
+        "Description": "Konkani adaptation of Anthony, used by Goan Catholics.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/konkani"
+      },
+      {
+        "Name": "Bawthis",
+        "Language/Cultural Origin": "Konkani",
+        "Description": "Konkani form of Baptista, reflecting Christian heritage.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/konkani"
+      },
+      {
+        "Name": "Mortin",
+        "Language/Cultural Origin": "Konkani",
+        "Description": "Konkani version of Martin, common among Goan Christians.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/konkani"
+      },
+      {
+        "Name": "Pedru",
+        "Language/Cultural Origin": "Konkani",
+        "Description": "Konkani form of Peter, derived from Portuguese Pedro.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/konkani"
+      },
+      {
+        "Name": "Sebestao",
+        "Language/Cultural Origin": "Konkani",
+        "Description": "Konkani adaptation of Sebastian, from Portuguese Sebastião.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/konkani"
+      },
+      {
+        "Name": "Simanv",
+        "Language/Cultural Origin": "Konkani",
+        "Description": "Konkani form of Simon, via Portuguese Simão.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/konkani"
+      },
+      {
+        "Name": "Zuanv",
+        "Language/Cultural Origin": "Konkani",
+        "Description": "Konkani version of John, borrowed from Portuguese João.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/konkani"
+      },
+      {
+        "Name": "Shardul",
+        "Language/Cultural Origin": "Sanskrit",
+        "Description": "Means 'tiger'; used in Konkani and Marathi cultures.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/konkani"
+      },
+      {
+        "Name": "Vinayak",
+        "Language/Cultural Origin": "Sanskrit",
+        "Description": "Another name for Lord Ganesha, significant in Hindu tradition.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/konkani"
+      }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Jayesh",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'lord of victory'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/gujarati"
+      },
+      {
+        "Name": "Jitendra",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'conqueror of Indra'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/gujarati"
+      },
+      {
+        "Name": "Kajal",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'kohl' or 'collyrium'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/gujarati"
+      },
+      {
+        "Name": "Kiran",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'sunbeam' or 'ray of light'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/gujarati"
+      },
+      {
+        "Name": "Mayur",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'peacock'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/gujarati"
+      },
+      {
+        "Name": "Neha",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'love' or 'affection'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/gujarati"
+      },
+      {
+        "Name": "Rajesh",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'lord of kings'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/gujarati"
+      },
+      {
+        "Name": "Rakesh",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'lord of the full moon'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/gujarati"
+      },
+      {
+        "Name": "Kumarpal",
+        "Language/Cultural Origin": "Jain",
+        "Description": "A Jain king of medieval Gujarat.",
+        "Reference Link": "https://jainworld.com/societies-sanghs/jain-boys-and-girls-name/"
+      },
+      {
+        "Name": "Hemchandra",
+        "Language/Cultural Origin": "Jain",
+        "Description": "A famous Jain Acharya in 12th century.",
+        "Reference Link": "https://jainworld.com/societies-sanghs/jain-boys-and-girls-name/"
+      },
+      {
+        "Name": "Mahavir",
+        "Language/Cultural Origin": "Jain",
+        "Description": "Name of the 24th Tirthankara.",
+        "Reference Link": "https://jainworld.com/societies-sanghs/jain-boys-and-girls-name/"
+      },
+      {
+        "Name": "Parshwanath",
+        "Language/Cultural Origin": "Jain",
+        "Description": "Name of the 23rd Tirthankara.",
+        "Reference Link": "https://jainworld.com/societies-sanghs/jain-boys-and-girls-name/"
+      },
+      {
+        "Name": "Neminath",
+        "Language/Cultural Origin": "Jain",
+        "Description": "Name of the 22nd Tirthankara.",
+        "Reference Link": "https://jainworld.com/societies-sanghs/jain-boys-and-girls-name/"
+      },
+      {
+        "Name": "Keshubhai",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'lord of mercy'.",
+        "Reference Link": "https://www.babynamesdirect.com/baby-names/gujarati/"
+      },
+      {
+        "Name": "Harshad",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'one who gives happiness'.",
+        "Reference Link": "https://www.babynamesdirect.com/baby-names/gujarati/"
+      },
+      {
+        "Name": "Bhavesh",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'lord of the world'.",
+        "Reference Link": "https://www.babynamesdirect.com/baby-names/gujarati/"
+      },
+      {
+        "Name": "Hetal",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'friendly' or 'cheerful'.",
+        "Reference Link": "https://www.babynamesdirect.com/baby-names/gujarati/"
+      },
+      {
+        "Name": "Falguni",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'born in the Falgun month'.",
+        "Reference Link": "https://www.babynamesdirect.com/baby-names/gujarati/"
+      },
+      {
+        "Name": "Manish",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'lord of the mind'.",
+        "Reference Link": "https://www.babynamesdirect.com/baby-names/gujarati/"
+      }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Sarla",
+        "Language/Cultural Origin": "Haryanvi",
+        "Description": "Female name meaning 'simple' or 'straightforward'.",
+        "Reference Link": "https://www.babynamesdirect.com/baby-names/haryanvi/girl/s"
+      },
+      {
+        "Name": "Suhana",
+        "Language/Cultural Origin": "Haryanvi",
+        "Description": "Female name meaning 'pleasant' or 'pure'.",
+        "Reference Link": "https://www.babynamesdirect.com/baby-names/haryanvi/girl/s"
+      },
+      {
+        "Name": "Sushma",
+        "Language/Cultural Origin": "Haryanvi",
+        "Description": "Female name meaning 'beautiful woman' or 'beauty'.",
+        "Reference Link": "https://www.babynamesdirect.com/baby-names/haryanvi/girl/s"
+      },
+      {
+        "Name": "Rajswaroop",
+        "Language/Cultural Origin": "Haryanvi",
+        "Description": "Male name meaning 'embodiment of royalty'.",
+        "Reference Link": "https://forebears.io/india/haryana/forenames"
+      },
+      {
+        "Name": "Suamn",
+        "Language/Cultural Origin": "Haryanvi",
+        "Description": "Male name meaning 'good mind' or 'virtuous'.",
+        "Reference Link": "https://forebears.io/india/haryana/forenames"
+      },
+      {
+        "Name": "Rajeshvarun",
+        "Language/Cultural Origin": "Haryanvi",
+        "Description": "Male name meaning 'lord of kings'.",
+        "Reference Link": "https://forebears.io/india/haryana/forenames"
+      },
+      {
+        "Name": "Krihna",
+        "Language/Cultural Origin": "Haryanvi",
+        "Description": "Male name, a regional variation of 'Krishna', meaning 'dark' or 'black'.",
+        "Reference Link": "https://forebears.io/india/haryana/forenames"
+      },
+      {
+        "Name": "Sanyosh",
+        "Language/Cultural Origin": "Haryanvi",
+        "Description": "Male name meaning 'contentment' or 'satisfaction'.",
+        "Reference Link": "https://forebears.io/india/haryana/forenames"
+      },
+      {
+        "Name": "Suinil",
+        "Language/Cultural Origin": "Haryanvi",
+        "Description": "Male name, a regional variation of 'Sunil', meaning 'dark blue' or 'sapphire'.",
+        "Reference Link": "https://forebears.io/india/haryana/forenames"
+      },
+      {
+        "Name": "Suiresh",
+        "Language/Cultural Origin": "Haryanvi",
+        "Description": "Male name, a regional variation of 'Suresh', meaning 'lord of the gods'.",
+        "Reference Link": "https://forebears.io/india/haryana/forenames"
+      }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Himachal",
+        "Language/Cultural Origin": "Hindi/Sanskrit",
+        "Description": "Means 'the Himalayas'; symbolizes the snow-laden mountains.",
+        "Reference Link": "https://www.momjunction.com/baby-names/himachal/"
+      },
+      {
+        "Name": "Chena",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Derived from the River Chenab, originating near Spiti in Himachal Pradesh.",
+        "Reference Link": "https://www.parentcircle.com/indian-baby-girl-names/article"
+      },
+      {
+        "Name": "Hidimba",
+        "Language/Cultural Origin": "Sanskrit",
+        "Description": "Name of a character from the Mahabharata; wife of Bhima; revered in local traditions.",
+        "Reference Link": "https://www.parentcircle.com/indian-baby-girl-names/article"
+      },
+      {
+        "Name": "Shaila",
+        "Language/Cultural Origin": "Sanskrit",
+        "Description": "Means 'daughter of a hill'; associated with Goddess Parvati.",
+        "Reference Link": "https://www.parentcircle.com/indian-baby-girl-names/article"
+      },
+      {
+        "Name": "Gauri",
+        "Language/Cultural Origin": "Sanskrit",
+        "Description": "Means 'the fair one'; another name for Goddess Parvati.",
+        "Reference Link": "https://www.parentcircle.com/indian-baby-girl-names/article"
+      },
+      {
+        "Name": "Katoch",
+        "Language/Cultural Origin": "Sanskrit",
+        "Description": "A prominent Rajput clan in Himachal Pradesh; historically rulers of Kangra.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Katoch"
+      },
+      {
+        "Name": "Gogaji",
+        "Language/Cultural Origin": "Rajasthani/Hindi",
+        "Description": "A folk deity worshipped in parts of Himachal Pradesh; protector against snake bites.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gogaji"
+      }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Murmu",
+        "Language/Cultural Origin": "Santali",
+        "Description": "Surname meaning 'Nilgai (blue bull)', often used as a first name.",
+        "Reference Link": "https://nitishpriyadarshi.blogspot.com/2013/05/totemism-in-different-tribes-in.html"
+      },
+      {
+        "Name": "Soren",
+        "Language/Cultural Origin": "Santali",
+        "Description": "Surname meaning 'Bird', commonly adopted as a first name.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Munda_people"
+      },
+      {
+        "Name": "Hansda",
+        "Language/Cultural Origin": "Ho",
+        "Description": "Surname meaning 'Wild Goose', also used as a first name.",
+        "Reference Link": "https://nitishpriyadarshi.blogspot.com/2013/05/totemism-in-different-tribes-in.html"
+      },
+      {
+        "Name": "Bage",
+        "Language/Cultural Origin": "Ho",
+        "Description": "Surname meaning 'Tiger', occasionally used as a first name.",
+        "Reference Link": "https://nitishpriyadarshi.blogspot.com/2013/05/totemism-in-different-tribes-in.html"
+      },
+      {
+        "Name": "Kerketta",
+        "Language/Cultural Origin": "Mundari",
+        "Description": "Surname meaning 'Quail Bird', sometimes used as a first name.",
+        "Reference Link": "https://thetribaltales101.wordpress.com/2020/05/24/a-history-of-tribal-septsgotras/"
+      },
+      {
+        "Name": "Lakra",
+        "Language/Cultural Origin": "Mundari",
+        "Description": "Surname meaning 'Tiger', often adopted as a first name.",
+        "Reference Link": "https://thetribaltales101.wordpress.com/2020/05/24/a-history-of-tribal-septsgotras/"
+      },
+      {
+        "Name": "Ekka",
+        "Language/Cultural Origin": "Mundari",
+        "Description": "Surname meaning 'Tortoise', occasionally used as a first name.",
+        "Reference Link": "https://thetribaltales101.wordpress.com/2020/05/24/a-history-of-tribal-septsgotras/"
+      },
+      {
+        "Name": "Tirkey",
+        "Language/Cultural Origin": "Mundari",
+        "Description": "Surname meaning 'Bird' or 'Young Mouse', sometimes used as a first name.",
+        "Reference Link": "https://thetribaltales101.wordpress.com/2020/05/24/a-history-of-tribal-septsgotras/"
+      },
+      {
+        "Name": "Agni",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'Fire'; name of the Vedic fire god.",
+        "Reference Link": "https://www.behindthename.com/names/usage/hindi"
+      },
+      {
+        "Name": "Aditya",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'Belonging to Aditi'; another name for the sun god Surya.",
+        "Reference Link": "https://www.behindthename.com/names/usage/hindi"
+      },
+      {
+        "Name": "Yashoda",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'One who gives fame'; foster mother of Lord Krishna.",
+        "Reference Link": "https://forebears.io/india/jharkhand/forenames"
+      },
+      {
+        "Name": "Sangita",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'Music' or 'Harmony'; signifies melodiousness.",
+        "Reference Link": "https://forebears.io/india/jharkhand/forenames"
+      },
+      {
+        "Name": "Budhani",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "A name commonly used in Jharkhand; specific meaning is not well-documented.",
+        "Reference Link": "https://forebears.io/india/jharkhand/forenames"
+      },
+      {
+        "Name": "Kaushalya",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'Skillful'; mother of Lord Rama in Hindu mythology.",
+        "Reference Link": "https://forebears.io/india/jharkhand/forenames"
+      }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Aarav",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Means 'peaceful' or 'melodious'; signifies calmness.",
+        "Reference Link": "https://www.momjunction.com/baby-names/kannada/"
+      },
+      {
+        "Name": "Aadhya",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Means 'first power' or 'beginning'; signifies the primordial power.",
+        "Reference Link": "https://www.momjunction.com/baby-names/kannada/"
+      },
+      {
+        "Name": "Aaradhya",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Means 'worshipped' or 'adored'; signifies someone who is revered.",
+        "Reference Link": "https://www.momjunction.com/baby-names/kannada/"
+      },
+      {
+        "Name": "Ananya",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Means 'unique' or 'incomparable'; signifies someone who is unparalleled.",
+        "Reference Link": "https://www.momjunction.com/baby-names/kannada/"
+      },
+      {
+        "Name": "Arjun",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Means 'bright' or 'shining'; also the name of a hero in the Mahabharata.",
+        "Reference Link": "https://www.momjunction.com/baby-names/kannada/"
+      },
+      {
+        "Name": "Ravi",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Means 'sun'; refers to the Hindu sun god.",
+        "Reference Link": "https://www.behindthename.com/names/usage/kannada"
+      },
+      {
+        "Name": "Rakesh",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Means 'lord of the full moon'; signifies the moonlit night.",
+        "Reference Link": "https://www.behindthename.com/names/usage/kannada"
+      },
+      {
+        "Name": "Rohit",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Means 'red' or 'first rays of the sun'; signifies dawn.",
+        "Reference Link": "https://www.behindthename.com/names/usage/kannada"
+      },
+      {
+        "Name": "Sampath",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Means 'prosperity' or 'wealth'; signifies abundance.",
+        "Reference Link": "https://www.behindthename.com/names/usage/kannada"
+      },
+      {
+        "Name": "Sandeep",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Means 'a lighted lamp'; signifies enlightenment.",
+        "Reference Link": "https://www.behindthename.com/names/usage/kannada"
+      },
+      {
+        "Name": "Shankar",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Another name for Lord Shiva; signifies auspiciousness.",
+        "Reference Link": "https://www.behindthename.com/names/usage/kannada"
+      },
+      {
+        "Name": "Shanthi",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Means 'peace'; signifies tranquility.",
+        "Reference Link": "https://www.behindthename.com/names/usage/kannada"
+      },
+      {
+        "Name": "Surya",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Means 'sun'; refers to the sun god in Hindu mythology.",
+        "Reference Link": "https://www.behindthename.com/names/usage/kannada"
+      },
+      {
+        "Name": "Uma",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Another name for Goddess Parvati; signifies light or splendor.",
+        "Reference Link": "https://www.behindthename.com/names/usage/kannada"
+      },
+      {
+        "Name": "Usha",
+        "Language/Cultural Origin": "Kannada",
+        "Description": "Means 'dawn'; signifies the first light of day.",
+        "Reference Link": "https://www.behindthename.com/names/usage/kannada"
+      },
+      {
+        "Name": "Aiyappa",
+        "Language/Cultural Origin": "Kodava",
+        "Description": "Derived from 'Aiyappa', a deity worshipped in Kodagu; signifies reverence.",
+        "Reference Link": "https://www.jstor.org/stable/599885"
+      },
+      {
+        "Name": "Pemmayya",
+        "Language/Cultural Origin": "Kodava",
+        "Description": "Combines 'Pemma' (a name) and 'ayya' (father); a traditional Kodava name.",
+        "Reference Link": "https://www.jstor.org/stable/599885"
+      },
+      {
+        "Name": "Appanna",
+        "Language/Cultural Origin": "Kodava",
+        "Description": "Means 'father'; a common term of respect in Kodava culture.",
+        "Reference Link": "https://www.jstor.org/stable/599885"
+      },
+      {
+        "Name": "Kaveri",
+        "Language/Cultural Origin": "Kodava",
+        "Description": "Named after the Kaveri River, which is sacred in Kodagu.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kaveri_River"
+      },
+      {
+        "Name": "Chandappa",
+        "Language/Cultural Origin": "Kodava",
+        "Description": "Combines 'Chanda' (moon) and 'appa' (father); signifies brightness.",
+        "Reference Link": "https://www.jstor.org/stable/599885"
+      },
+      {
+        "Name": "Nettara",
+        "Language/Cultural Origin": "Tulu",
+        "Description": "Means 'leader' or 'chief'; signifies authority.",
+        "Reference Link": "https://tulu-research.blogspot.com/2008/07/123-strange-words.html"
+      },
+      {
+        "Name": "Poonja",
+        "Language/Cultural Origin": "Tulu",
+        "Description": "Means 'worship' or 'reverence'; signifies devotion.",
+        "Reference Link": "https://tulu-research.blogspot.com/2008/07/123-strange-words.html"
+      },
+      {
+        "Name": "Shetty",
+        "Language/Cultural Origin": "Tulu",
+        "Description": "Derived from 'Setti', meaning merchant; signifies a trader.",
+        "Reference Link": "https://tulu-research.blogspot.com/2008/07/123-strange-words.html"
+      },
+      {
+        "Name": "Ballal",
+        "Language/Cultural Origin": "Tulu",
+        "Description": "Means 'chief' or 'leader'; signifies nobility.",
+        "Reference Link": "https://tulu-research.blogspot.com/2008/07/123-strange-words.html"
+      },
+      {
+        "Name": "Hegde",
+        "Language/Cultural Origin": "Tulu",
+        "Description": "Means 'headman' or 'chief'; signifies leadership.",
+        "Reference Link": "https://tulu-research.blogspot.com/2008/07/123-strange-words.html"
+      }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Asha",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'hope' or 'desire'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Arya",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'noble' or 'honorable'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Deepika",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'little lamp' or 'light'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Girish",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'lord of the mountains'; refers to Lord Shiva.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Kiran",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'ray of light' or 'sunbeam'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Neha",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'love' or 'affection'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Rajesh",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'lord of kings'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Sanjay",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'triumphant' or 'victorious'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Sunil",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'very blue' or 'dark blue'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Vinay",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'modesty' or 'humility'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Geevarghese",
+        "Language/Cultural Origin": "Malayalam (Christian)",
+        "Description": "Malayalam form of 'George'; commonly used among Saint Thomas Christians.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/indian-christian"
+      },
+      {
+        "Name": "Koshy",
+        "Language/Cultural Origin": "Malayalam (Christian)",
+        "Description": "Derived from the Aramaic name 'Jesus'; used by Saint Thomas Christians.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/indian-christian"
+      },
+      {
+        "Name": "Fathima",
+        "Language/Cultural Origin": "Malayalam (Muslim)",
+        "Description": "Form of 'Fatima'; name of Prophet Muhammad's daughter.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Aadam",
+        "Language/Cultural Origin": "Malayalam (Muslim)",
+        "Description": "Name of the first Prophet in Islam; means 'earth'.",
+        "Reference Link": "https://www.prokerala.com/kids/baby-names/muslim/"
+      },
+      {
+        "Name": "Asha",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'hope' or 'desire'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Arya",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'noble' or 'honorable'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Deepika",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'little lamp' or 'light'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Girish",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'lord of the mountains'; refers to Lord Shiva.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Kiran",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'ray of light' or 'sunbeam'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Neha",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'love' or 'affection'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Rajesh",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'lord of kings'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Sanjay",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'triumphant' or 'victorious'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Sunil",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'very blue' or 'dark blue'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Vinay",
+        "Language/Cultural Origin": "Malayalam",
+        "Description": "Means 'modesty' or 'humility'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Geevarghese",
+        "Language/Cultural Origin": "Malayalam (Christian)",
+        "Description": "Malayalam form of 'George'; commonly used among Saint Thomas Christians.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/indian-christian"
+      },
+      {
+        "Name": "Koshy",
+        "Language/Cultural Origin": "Malayalam (Christian)",
+        "Description": "Derived from the Aramaic name 'Jesus'; used by Saint Thomas Christians.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/indian-christian"
+      },
+      {
+        "Name": "Fathima",
+        "Language/Cultural Origin": "Malayalam (Muslim)",
+        "Description": "Form of 'Fatima'; name of Prophet Muhammad's daughter.",
+        "Reference Link": "https://www.behindthename.com/names/usage/malayalam"
+      },
+      {
+        "Name": "Aadam",
+        "Language/Cultural Origin": "Malayalam (Muslim)",
+        "Description": "Name of the first Prophet in Islam; means 'earth'.",
+        "Reference Link": "https://www.prokerala.com/kids/baby-names/muslim/"
+      }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Sunit",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Male name meaning 'well-behaved' or 'polite'.",
+        "Reference Link": "https://forebears.io/india/madhya-pradesh/forenames"
+      },
+      {
+        "Name": "Ramesh",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Male name meaning 'lord of Rama', an epithet of Vishnu.",
+        "Reference Link": "https://forebears.io/india/madhya-pradesh/forenames"
+      },
+      {
+        "Name": "Santoshi",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Female name meaning 'contented' or 'satisfied'.",
+        "Reference Link": "https://forebears.io/india/madhya-pradesh/forenames"
+      },
+      {
+        "Name": "Kamal",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Unisex name meaning 'lotus', symbolizing purity.",
+        "Reference Link": "https://forebears.io/india/madhya-pradesh/forenames"
+      },
+      {
+        "Name": "Anita",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Female name meaning 'grace' or 'favor'.",
+        "Reference Link": "https://forebears.io/india/madhya-pradesh/forenames"
+      },
+      {
+        "Name": "Mamta",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Female name meaning 'motherly love' or 'affection'.",
+        "Reference Link": "https://forebears.io/india/madhya-pradesh/forenames"
+      },
+      {
+        "Name": "Rajesh",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Male name meaning 'lord of kings'.",
+        "Reference Link": "https://forebears.io/india/madhya-pradesh/forenames"
+      },
+      {
+        "Name": "Gita",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Female name meaning 'song', also refers to the Bhagavad Gita.",
+        "Reference Link": "https://forebears.io/india/madhya-pradesh/forenames"
+      },
+      {
+        "Name": "Mukesh",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Male name meaning 'lord of music', an epithet of Shiva.",
+        "Reference Link": "https://forebears.io/india/madhya-pradesh/forenames"
+      },
+      {
+        "Name": "Rekha",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Female name meaning 'line' or 'limit'.",
+        "Reference Link": "https://forebears.io/india/madhya-pradesh/forenames"
+      },
+      {
+        "Name": "Dinesh",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Male name meaning 'lord of the day', referring to the sun.",
+        "Reference Link": "https://forebears.io/india/madhya-pradesh/forenames"
+      },
+      {
+        "Name": "Munni",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Female name meaning 'little girl' or 'small'.",
+        "Reference Link": "https://forebears.io/india/madhya-pradesh/forenames"
+      },
+      {
+        "Name": "Jagadish",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Male name meaning 'lord of the universe', an epithet of Vishnu.",
+        "Reference Link": "https://forebears.io/india/madhya-pradesh/forenames"
+      },
+      {
+        "Name": "Tantya",
+        "Language/Cultural Origin": "Bhil",
+        "Description": "Male name meaning 'leader' or 'chief'; associated with freedom fighter Tantya Bhil.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tantya_Bheel"
+      },
+      {
+        "Name": "Birsa",
+        "Language/Cultural Origin": "Gond",
+        "Description": "Male name meaning 'lord of the forest'; associated with tribal leader Birsa Munda.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Birsa_Munda"
+      },
+      {
+        "Name": "Phoolan",
+        "Language/Cultural Origin": "Bundelkhandi",
+        "Description": "Female name meaning 'flower'; associated with Phoolan Devi from Bundelkhand region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Phoolan_Devi"
+      },
+      {
+        "Name": "Avanti",
+        "Language/Cultural Origin": "Malwa",
+        "Description": "Unisex name derived from the ancient city of Ujjain, historically known as Avanti.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ujjain"
+      },
+      {
+        "Name": "Narmada",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Female name referring to the Narmada River, considered sacred in Madhya Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Narmada_River"
+      }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Aadesh",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Command; message.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Aarohi",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "A musical tune.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Abhay",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Fearless; courageous.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Anjali",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Divine offering.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Ashwini",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Name of a star; light.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Balasaheb",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "A respectful title; often associated with leaders.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Bhavana",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Pure; sacred.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Chaitanya",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Consciousness; life.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Dnyaneshwar",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Name of a famous saint and poet.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Eknath",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Poet; saint.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Gauri",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Fair; another name for Goddess Parvati.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Harishchandra",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "An honest king from mythology.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Ishwari",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Goddess; supreme ruler.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Jijabai",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Mother of Chhatrapati Shivaji Maharaj.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Keshav",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Another name for Lord Krishna.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Laxmi",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Goddess of wealth.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Madhuri",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Sweetness.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Namdev",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "A saint and poet.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Omkar",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "The sound of the sacred syllable 'Om'.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Parvati",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Daughter of the mountain; Goddess Parvati.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Raghunath",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Lord Rama; descendant of Raghu.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Savitri",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Goddess Saraswati; a mythological figure.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Tanaji",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "A famous Maratha warrior.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Uddhav",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Friend of Lord Krishna.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Vithoba",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "A form of Lord Krishna worshipped in Maharashtra.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Yashoda",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Foster mother of Lord Krishna.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      },
+      {
+        "Name": "Zunjar",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Courageous; warrior.",
+        "Reference Link": "https://www.momjunction.com/baby-names/marathi/"
+      }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Achouba",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'big, large, great'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Ahouba",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'the beginning, first, foremost'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Angaan",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'bright, shiny, lustrous'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Angamba",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'winner, one with great ability'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Atangba",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'precious one, rare'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Atinga",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'one who has everything'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Ayangba",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'speed, fast'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Chabonjao",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'he who drinks rice water'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Ebungo",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'son, boy, man'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Epari",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'only son'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Ichik Hunba",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'night-time deep silence'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Inao",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'younger sibling, younger brother'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Inglen",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'cool silence'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Khaba Nganba",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'tough and enlightened'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Khashim",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'village house, prominent'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Khenjong",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'centre, bud'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Khongyangba",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'fast'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Korou",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'sun'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Lamnganba",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'bright, brighter'.",
+        "Reference Link": "https://leichil.com/app/manipuri-baby-names"
+      },
+      {
+        "Name": "Leirentonbi",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'royal daughter'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Leiriktombi",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Derived from 'leirik' meaning 'flower pollen' and 'tombi' meaning 'youngest daughter'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Leishabi",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'young lady'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Leishi",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'flower'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Liklai",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'dewdrop'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Lingjen",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'courage'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Luching Ngambi",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'she who can lead'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Lugailu",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'good girl'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Luhan",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'intelligent, wise'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Mairen",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'pumpkin'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Malem",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'earth'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Malemleima",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'queen of the earth'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Mangaal",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'light; brightness'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Mangaleima",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'victory'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Mangaljao",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'one who brightens'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Manganba",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'he who shines'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Mehenba",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'one who outshines everyone'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Meithingu",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'one who sees the end clearly'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Memthoybi",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'winning daughter'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Mihen",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'best'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Mijao",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'big child'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Monbi",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'graceful'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Mungam",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'he will conquer'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Naobi",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'youthful'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Naocha",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'youngest'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Ngakha",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'long lasting'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      },
+      {
+        "Name": "Nganba",
+        "Language/Cultural Origin": "Meitei",
+        "Description": "Means 'lighting up'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/manipuri"
+      }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Lamphrang",
+        "Language/Cultural Origin": "Khasi",
+        "Description": "Means 'light'; signifies brightness and hope.",
+        "Reference Link": "https://forebears.io/india/meghalaya/forenames"
+      },
+      {
+        "Name": "Shanbor",
+        "Language/Cultural Origin": "Khasi",
+        "Description": "Denotes 'blessing'; reflects a cherished gift.",
+        "Reference Link": "https://forebears.io/india/meghalaya/forenames"
+      },
+      {
+        "Name": "Ridalin",
+        "Language/Cultural Origin": "Khasi",
+        "Description": "A unique name; specific meaning varies.",
+        "Reference Link": "https://forebears.io/india/meghalaya/forenames"
+      },
+      {
+        "Name": "Shemphang",
+        "Language/Cultural Origin": "Khasi",
+        "Description": "Connotes 'strength' or 'courage'.",
+        "Reference Link": "https://forebears.io/india/meghalaya/forenames"
+      },
+      {
+        "Name": "Cheng",
+        "Language/Cultural Origin": "Khasi",
+        "Description": "Means 'star'; symbolizes guidance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khasi_people"
+      },
+      {
+        "Name": "Kong",
+        "Language/Cultural Origin": "Khasi",
+        "Description": "Refers to 'elder sister'; a term of respect.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khasi_people"
+      },
+      {
+        "Name": "Araphira",
+        "Language/Cultural Origin": "Garo",
+        "Description": "Means 'morning star'; signifies new beginnings.",
+        "Reference Link": "https://easternroutes.com/northeast-india/meghalaya/khasi-tribe-garo-jaintia/"
+      },
+      {
+        "Name": "Chibok",
+        "Language/Cultural Origin": "Garo",
+        "Description": "Denotes 'flower'; symbolizes beauty.",
+        "Reference Link": "https://easternroutes.com/northeast-india/meghalaya/khasi-tribe-garo-jaintia/"
+      },
+      {
+        "Name": "Jopthia",
+        "Language/Cultural Origin": "Garo",
+        "Description": "Means 'moonlight'; reflects serenity.",
+        "Reference Link": "https://easternroutes.com/northeast-india/meghalaya/khasi-tribe-garo-jaintia/"
+      },
+      {
+        "Name": "Saka",
+        "Language/Cultural Origin": "Garo",
+        "Description": "Refers to 'brave'; denotes valor.",
+        "Reference Link": "https://easternroutes.com/northeast-india/meghalaya/khasi-tribe-garo-jaintia/"
+      },
+      {
+        "Name": "Khlur",
+        "Language/Cultural Origin": "Jaintia",
+        "Description": "Means 'tiger'; symbolizes strength.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khasi_people"
+      },
+      {
+        "Name": "Pynshngain",
+        "Language/Cultural Origin": "Jaintia",
+        "Description": "Denotes 'prosperity'; reflects abundance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khasi_people"
+      },
+      {
+        "Name": "Wanlam",
+        "Language/Cultural Origin": "Jaintia",
+        "Description": "Means 'victory'; signifies success.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khasi_people"
+      },
+      {
+        "Name": "Treilang",
+        "Language/Cultural Origin": "Jaintia",
+        "Description": "Refers to 'unity'; denotes togetherness.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khasi_people"
+      }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Lalchhanhima",
+        "Language/Cultural Origin": "Mizo",
+        "Description": "Lal' means 'chief' or 'God'; 'chhanhima' signifies 'blessing'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_names"
+      },
+      {
+        "Name": "Zoramthanga",
+        "Language/Cultural Origin": "Mizo",
+        "Description": "Zoram' refers to 'Mizoram'; 'thanga' means 'famous' or 'glory'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Zoramthanga_(politician)"
+      },
+      {
+        "Name": "Lalrinchhani",
+        "Language/Cultural Origin": "Mizo",
+        "Description": "Lal' denotes 'God'; 'rinchhani' implies 'precious' or 'beloved'.",
+        "Reference Link": "https://www.ijnrd.org/papers/IJNRD2310304.pdf"
+      },
+      {
+        "Name": "Tlawmliani",
+        "Language/Cultural Origin": "Mizo",
+        "Description": "Tlawmliani' signifies 'humility' or 'selflessness'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_names"
+      },
+      {
+        "Name": "Vanlalruatkima",
+        "Language/Cultural Origin": "Mizo",
+        "Description": "Vanlalruatkima' means 'gift from the God who created us'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/mizo"
+      },
+      {
+        "Name": "Zothanchhungi",
+        "Language/Cultural Origin": "Mizo",
+        "Description": "Zo' pertains to 'Mizo'; 'thanchhungi' means 'prosperity'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_names"
+      },
+      {
+        "Name": "Lalchhuanmawia",
+        "Language/Cultural Origin": "Mizo",
+        "Description": "Lal' stands for 'God'; 'chhuanmawia' denotes 'guidance'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_names"
+      },
+      {
+        "Name": "Lalramthara",
+        "Language/Cultural Origin": "Mizo",
+        "Description": "Lal' signifies 'God'; 'ramthara' means 'blessed land'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_names"
+      },
+      {
+        "Name": "Lalduhawma",
+        "Language/Cultural Origin": "Mizo",
+        "Description": "Lal' means 'God'; 'duhawma' implies 'compassion'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_names"
+      },
+      {
+        "Name": "Lalnunpuii",
+        "Language/Cultural Origin": "Mizo",
+        "Description": "Lal' denotes 'God'; 'nunpuii' signifies 'abundant life'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_names"
+      }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Aben",
+        "Language/Cultural Origin": "Ao",
+        "Description": "Male name meaning 'sun'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ao_Naga"
+      },
+      {
+        "Name": "Aienla",
+        "Language/Cultural Origin": "Ao",
+        "Description": "Female name meaning 'blessed'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ao_Naga"
+      },
+      {
+        "Name": "Chuba",
+        "Language/Cultural Origin": "Ao",
+        "Description": "Male name meaning 'prosperity'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ao_Naga"
+      },
+      {
+        "Name": "Chizoba",
+        "Language/Cultural Origin": "Igbo",
+        "Description": "Unisex name meaning 'God protect us'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Igbo_Naga"
+      },
+      {
+        "Name": "Kethoser",
+        "Language/Cultural Origin": "Angami",
+        "Description": "Male name meaning 'brave warrior'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Angami_Naga"
+      },
+      {
+        "Name": "Vitsü",
+        "Language/Cultural Origin": "Angami",
+        "Description": "Female name meaning 'flower'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Angami_Naga"
+      },
+      {
+        "Name": "Zubeni",
+        "Language/Cultural Origin": "Angami",
+        "Description": "Female name meaning 'grace'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Angami_Naga"
+      },
+      {
+        "Name": "Kikru",
+        "Language/Cultural Origin": "Sumi",
+        "Description": "Male name meaning 'strength'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sumi_Naga"
+      },
+      {
+        "Name": "Vihuto",
+        "Language/Cultural Origin": "Sumi",
+        "Description": "Male name meaning 'victory'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sumi_Naga"
+      },
+      {
+        "Name": "Kughali",
+        "Language/Cultural Origin": "Sumi",
+        "Description": "Female name meaning 'blessing'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sumi_Naga"
+      },
+      {
+        "Name": "Azo",
+        "Language/Cultural Origin": "Zeme",
+        "Description": "Male name meaning 'peace'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Zeme_Naga"
+      },
+      {
+        "Name": "Neike",
+        "Language/Cultural Origin": "Zeme",
+        "Description": "Female name meaning 'love'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Zeme_Naga"
+      },
+      {
+        "Name": "Heno",
+        "Language/Cultural Origin": "Chakhesang",
+        "Description": "Male name meaning 'leader'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chakhesang_Naga"
+      },
+      {
+        "Name": "Sopfü",
+        "Language/Cultural Origin": "Chakhesang",
+        "Description": "Female name meaning 'star'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chakhesang_Naga"
+      },
+      {
+        "Name": "Mhalo",
+        "Language/Cultural Origin": "Lotha",
+        "Description": "Female name meaning 'beautiful'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lotha_Naga"
+      },
+      {
+        "Name": "Nrio",
+        "Language/Cultural Origin": "Lotha",
+        "Description": "Male name meaning 'strong'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lotha_Naga"
+      }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Aalaya",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'home and refuge'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Aamodini",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'fragrant'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Aaryamani",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'belonging to the Sun'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Saagarik",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'belonging to the ocean'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Saagnika",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'fiery; passionate; with fire'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Saahithi",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'one who is good at literature'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Saavini",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'born in Saavan' (monsoon month).",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Sabita",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'sun' or 'bright'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Udai",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'to rise; the rising'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Udanda",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'against evil and vice'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Udant",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'the correct message'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Udar",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'generous'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Udaranga",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'one with a beautiful body'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Udarathi",
+        "Language/Cultural Origin": "Odia",
+        "Description": "One of Vishnu's names.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Udarchis",
+        "Language/Cultural Origin": "Odia",
+        "Description": "One of the names of Shiva.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/odia"
+      },
+      {
+        "Name": "Ravi",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'sun'; a Hindu sun god.",
+        "Reference Link": "https://www.behindthename.com/names/usage/odia"
+      },
+      {
+        "Name": "Rohit",
+        "Language/Cultural Origin": "Odia",
+        "Description": "Means 'red' in Sanskrit.",
+        "Reference Link": "https://www.behindthename.com/names/usage/odia"
+      }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Baljeet",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Mighty victorious.",
+        "Reference Link": "https://www.sikhiwiki.org/index.php/Sikh_names"
+      },
+      {
+        "Name": "Balwant",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Full of might.",
+        "Reference Link": "https://www.sikhiwiki.org/index.php/Sikh_names"
+      },
+      {
+        "Name": "Bhagat",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Devotee of God.",
+        "Reference Link": "https://www.sikhiwiki.org/index.php/Sikh_names"
+      },
+      {
+        "Name": "Dilraaj",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Hearty kingdom.",
+        "Reference Link": "https://sikhismguide.neocities.org/babynames"
+      },
+      {
+        "Name": "Fateh",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Victory.",
+        "Reference Link": "https://sikhismguide.neocities.org/babynames"
+      },
+      {
+        "Name": "Gian",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Knowledge.",
+        "Reference Link": "https://sikhismguide.neocities.org/babynames"
+      },
+      {
+        "Name": "Gulwant",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Beautiful like flowers.",
+        "Reference Link": "https://sikhismguide.neocities.org/babynames"
+      },
+      {
+        "Name": "Harbir",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Warrior of God.",
+        "Reference Link": "https://sikhismguide.neocities.org/babynames"
+      },
+      {
+        "Name": "Himmat",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Courage; making an effort.",
+        "Reference Link": "https://sikhismguide.neocities.org/babynames"
+      },
+      {
+        "Name": "Ikroop",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Oneness with God.",
+        "Reference Link": "https://sikhismguide.neocities.org/babynames"
+      },
+      {
+        "Name": "Jujhar",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "One who struggles.",
+        "Reference Link": "https://www.reddit.com/r/Sikh/comments/13h8dql/traditional_punjabi_names_suggestion/"
+      },
+      {
+        "Name": "Nihal",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Happy; prosperous.",
+        "Reference Link": "https://www.reddit.com/r/Sikh/comments/13h8dql/traditional_punjabi_names_suggestion/"
+      },
+      {
+        "Name": "Nirvair",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Without enmity.",
+        "Reference Link": "https://www.reddit.com/r/Sikh/comments/13h8dql/traditional_punjabi_names_suggestion/"
+      },
+      {
+        "Name": "Zorawar",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Brave; powerful.",
+        "Reference Link": "https://www.reddit.com/r/Sikh/comments/13h8dql/traditional_punjabi_names_suggestion/"
+      },
+      {
+        "Name": "Anhad",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Limitless; unstruck sound.",
+        "Reference Link": "https://www.reddit.com/r/Sikh/comments/13h8dql/traditional_punjabi_names_suggestion/"
+      },
+      {
+        "Name": "Gurfateh",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "The Guru's victory.",
+        "Reference Link": "https://www.reddit.com/r/Sikh/comments/13h8dql/traditional_punjabi_names_suggestion/"
+      },
+      {
+        "Name": "Gurman",
+        "Language/Cultural Origin": "Sikh",
+        "Description": "Heart of the Guru.",
+        "Reference Link": "https://www.reddit.com/r/Sikh/comments/13h8dql/traditional_punjabi_names_suggestion/"
+      },
+      {
+        "Name": "Anita",
+        "Language/Cultural Origin": "Hindu",
+        "Description": "Grace; favor.",
+        "Reference Link": "https://www.momjunction.com/baby-names/sikh/"
+      },
+      {
+        "Name": "Kiran",
+        "Language/Cultural Origin": "Hindu",
+        "Description": "Ray of light.",
+        "Reference Link": "https://www.mumsnet.com/talk/baby_names/4508296-Punjabi-English-baby-names"
+      },
+      {
+        "Name": "Maya",
+        "Language/Cultural Origin": "Hindu",
+        "Description": "Illusion; divine power.",
+        "Reference Link": "https://www.mumsnet.com/talk/baby_names/4508296-Punjabi-English-baby-names"
+      },
+      {
+        "Name": "Asha",
+        "Language/Cultural Origin": "Hindu",
+        "Description": "Hope; desire.",
+        "Reference Link": "https://www.mumsnet.com/talk/baby_names/4508296-Punjabi-English-baby-names"
+      },
+      {
+        "Name": "Rekha",
+        "Language/Cultural Origin": "Hindu",
+        "Description": "Line; limit.",
+        "Reference Link": "https://www.mumsnet.com/talk/baby_names/4508296-Punjabi-English-baby-names"
+      },
+      {
+        "Name": "Rohan",
+        "Language/Cultural Origin": "Hindu",
+        "Description": "Ascending; sandalwood.",
+        "Reference Link": "https://www.mumsnet.com/talk/baby_names/4508296-Punjabi-English-baby-names"
+      },
+      {
+        "Name": "Ajit",
+        "Language/Cultural Origin": "Hindu",
+        "Description": "Unconquered; invincible.",
+        "Reference Link": "https://www.mumsnet.com/talk/baby_names/4508296-Punjabi-English-baby-names"
+      },
+      {
+        "Name": "Amrit",
+        "Language/Cultural Origin": "Hindu",
+        "Description": "Nectar of immortality.",
+        "Reference Link": "https://www.mumsnet.com/talk/baby_names/4508296-Punjabi-English-baby-names"
+      },
+      {
+        "Name": "Aakash",
+        "Language/Cultural Origin": "Hindu",
+        "Description": "Sky; open space.",
+        "Reference Link": "https://www.mumsnet.com/talk/baby_names/4508296-Punjabi-English-baby-names"
+      },
+      {
+        "Name": "Jai",
+        "Language/Cultural Origin": "Hindu",
+        "Description": "Victory; triumph.",
+        "Reference Link": "https://www.mumsnet.com/talk/baby_names/4508296-Punjabi-English-baby-names"
+      },
+      {
+        "Name": "Shaan",
+        "Language/Cultural Origin": "Hindu",
+        "Description": "Pride; peace.",
+        "Reference Link": "https://www.mumsnet.com/talk/baby_names/4508296-Punjabi-English-baby-names"
+      },
+      {
+        "Name": "Taran",
+        "Language/Cultural Origin": "Hindu",
+        "Description": "Raft; heaven.",
+        "Reference Link": "https://www.mumsnet.com/talk/baby_names/4508296-Punjabi-English-baby-names"
+      }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Abhay",
+        "Language/Cultural Origin": "Rajasthani",
+        "Description": "Means 'fearless'; signifies courage.",
+        "Reference Link": "https://www.iloveindia.com/babynames/rajasthani-boys.html"
+      },
+      {
+        "Name": "Aarti",
+        "Language/Cultural Origin": "Rajasthani",
+        "Description": "Refers to a form of worship involving light.",
+        "Reference Link": "https://www.iloveindia.com/babynames/rajasthani-girls.html"
+      },
+      {
+        "Name": "Bhagwant",
+        "Language/Cultural Origin": "Rajput",
+        "Description": "Means 'fortunate or lucky'; denotes devotion.",
+        "Reference Link": "https://www.momjunction.com/articles/royal-rajput-names-for-baby-boys-and-girls_00432217/"
+      },
+      {
+        "Name": "Chandraprakash",
+        "Language/Cultural Origin": "Rajput",
+        "Description": "Means 'moonlight'; signifies illumination.",
+        "Reference Link": "https://www.momjunction.com/articles/royal-rajput-names-for-baby-boys-and-girls_00432217/"
+      },
+      {
+        "Name": "Devendra",
+        "Language/Cultural Origin": "Rajasthani",
+        "Description": "Means 'king of gods'; another name for Indra.",
+        "Reference Link": "https://www.iloveindia.com/babynames/rajasthani-boys.html"
+      },
+      {
+        "Name": "Gulab",
+        "Language/Cultural Origin": "Rajput",
+        "Description": "Means 'rose'; symbolizes beauty.",
+        "Reference Link": "https://www.momjunction.com/articles/royal-rajput-names-for-baby-boys-and-girls_00432217/"
+      },
+      {
+        "Name": "Hanuman",
+        "Language/Cultural Origin": "Rajasthani",
+        "Description": "Name of a Hindu god associated with valor.",
+        "Reference Link": "https://www.iloveindia.com/babynames/rajasthani-boys.html"
+      },
+      {
+        "Name": "Karan",
+        "Language/Cultural Origin": "Rajput",
+        "Description": "Means 'ear'; name of a great warrior.",
+        "Reference Link": "https://www.momjunction.com/articles/royal-rajput-names-for-baby-boys-and-girls_00432217/"
+      },
+      {
+        "Name": "Mandakini",
+        "Language/Cultural Origin": "Rajasthani",
+        "Description": "Means 'Indian river'; signifies purity.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/rajasthani"
+      },
+      {
+        "Name": "Pankaj",
+        "Language/Cultural Origin": "Rajput",
+        "Description": "Means 'lotus'; symbolizes purity.",
+        "Reference Link": "https://www.momjunction.com/articles/royal-rajput-names-for-baby-boys-and-girls_00432217/"
+      },
+      {
+        "Name": "Raghuveer",
+        "Language/Cultural Origin": "Rajasthani",
+        "Description": "Means 'hero of the Raghu dynasty'; refers to Lord Rama.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/rajasthani"
+      },
+      {
+        "Name": "Reewa",
+        "Language/Cultural Origin": "Rajasthani",
+        "Description": "Means 'swift'; denotes speed.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/rajasthani"
+      }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Chandra",
+        "Language/Cultural Origin": "Nepali",
+        "Description": "Means 'moon'; symbolizes brightness and calmness.",
+        "Reference Link": "https://forebears.io/india/sikkim/forenames"
+      },
+      {
+        "Name": "Dhan",
+        "Language/Cultural Origin": "Nepali",
+        "Description": "Means 'wealth' or 'prosperity'.",
+        "Reference Link": "https://forebears.io/india/sikkim/forenames"
+      },
+      {
+        "Name": "Sonam",
+        "Language/Cultural Origin": "Bhutia",
+        "Description": "Means 'merit' or 'virtue'; unisex name.",
+        "Reference Link": "https://forebears.io/india/sikkim/forenames"
+      },
+      {
+        "Name": "Tshering",
+        "Language/Cultural Origin": "Bhutia",
+        "Description": "Means 'long life'; common in Bhutia community.",
+        "Reference Link": "https://forebears.io/india/sikkim/forenames"
+      },
+      {
+        "Name": "Karma",
+        "Language/Cultural Origin": "Bhutia",
+        "Description": "Means 'destiny' or 'fate'; reflects spiritual belief.",
+        "Reference Link": "https://forebears.io/india/sikkim/forenames"
+      },
+      {
+        "Name": "Passang",
+        "Language/Cultural Origin": "Bhutia",
+        "Description": "Means 'Friday'; often given to those born on this day.",
+        "Reference Link": "https://forebears.io/india/sikkim/forenames"
+      },
+      {
+        "Name": "Dawa",
+        "Language/Cultural Origin": "Bhutia",
+        "Description": "Means 'moon' or 'Monday'; signifies purity.",
+        "Reference Link": "https://forebears.io/india/sikkim/forenames"
+      },
+      {
+        "Name": "Purna",
+        "Language/Cultural Origin": "Nepali",
+        "Description": "Means 'complete' or 'full'; denotes fulfillment.",
+        "Reference Link": "https://forebears.io/india/sikkim/forenames"
+      },
+      {
+        "Name": "Lepcha",
+        "Language/Cultural Origin": "Lepcha",
+        "Description": "Refers to the indigenous people of Sikkim; also used as a surname.",
+        "Reference Link": "https://forebears.io/india/sikkim/surnames"
+      },
+      {
+        "Name": "Bhutia",
+        "Language/Cultural Origin": "Bhutia",
+        "Description": "Denotes the Bhutia community; commonly used as a surname.",
+        "Reference Link": "https://forebears.io/india/sikkim/surnames"
+      },
+      {
+        "Name": "Chettri",
+        "Language/Cultural Origin": "Nepali",
+        "Description": "A warrior class in Nepali culture; signifies bravery.",
+        "Reference Link": "https://forebears.io/india/sikkim/surnames"
+      },
+      {
+        "Name": "Rai",
+        "Language/Cultural Origin": "Nepali",
+        "Description": "An ethnic group in Sikkim; also a common surname.",
+        "Reference Link": "https://forebears.io/india/sikkim/surnames"
+      },
+      {
+        "Name": "Lhamu",
+        "Language/Cultural Origin": "Bhutia",
+        "Description": "Means 'Goddess'; reflects spiritual reverence.",
+        "Reference Link": "https://www.momjunction.com/articles/tibetan-sherpa-names-girls-boys-meanings_00680269/"
+      },
+      {
+        "Name": "Tenzing",
+        "Language/Cultural Origin": "Bhutia",
+        "Description": "Means 'holder of teachings'; popularized by Tenzing Norgay.",
+        "Reference Link": "https://www.momjunction.com/articles/tibetan-sherpa-names-girls-boys-meanings_00680269/"
+      },
+      {
+        "Name": "Pema",
+        "Language/Cultural Origin": "Bhutia",
+        "Description": "Means 'lotus'; symbolizes purity and enlightenment.",
+        "Reference Link": "https://www.momjunction.com/articles/tibetan-sherpa-names-girls-boys-meanings_00680269/"
+      }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Aadhavan",
+        "Language/Cultural Origin": "Dravidian",
+        "Description": "Means 'sun'; symbolizes brightness and energy.",
+        "Reference Link": "https://www.parentune.com/parent-blog/Unique-Tamil-Baby-Names-With-Their-Meanings/9219"
+      },
+      {
+        "Name": "Anbu",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'love' or 'affection'; denotes kindness.",
+        "Reference Link": "https://www.parentune.com/parent-blog/Unique-Tamil-Baby-Names-With-Their-Meanings/9219"
+      },
+      {
+        "Name": "Arul",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'grace' or 'divine blessing'; signifies benevolence.",
+        "Reference Link": "https://www.parentune.com/parent-blog/Unique-Tamil-Baby-Names-With-Their-Meanings/9219"
+      },
+      {
+        "Name": "Devan",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'divine' or 'god-like'; reflects purity.",
+        "Reference Link": "https://www.parentune.com/parent-blog/Unique-Tamil-Baby-Names-With-Their-Meanings/9219"
+      },
+      {
+        "Name": "Kavi",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'poet'; symbolizes creativity and expression.",
+        "Reference Link": "https://www.parentune.com/parent-blog/Unique-Tamil-Baby-Names-With-Their-Meanings/9219"
+      },
+      {
+        "Name": "Malini",
+        "Language/Cultural Origin": "Sanskrit",
+        "Description": "Means 'garlanded'; associated with Goddess Durga.",
+        "Reference Link": "https://www.behindthename.com/names/usage/tamil"
+      },
+      {
+        "Name": "Nila",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'moon'; represents beauty and calmness.",
+        "Reference Link": "https://www.behindthename.com/names/usage/tamil"
+      },
+      {
+        "Name": "Perumal",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'the great one'; refers to Lord Vishnu.",
+        "Reference Link": "https://www.behindthename.com/names/usage/tamil"
+      },
+      {
+        "Name": "Selvi",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'young woman'; denotes prosperity.",
+        "Reference Link": "https://www.behindthename.com/names/usage/tamil"
+      },
+      {
+        "Name": "Thendral",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'cool breeze'; signifies gentleness.",
+        "Reference Link": "https://www.reddit.com/r/tamil/comments/e9ad96/looking_for_baby_names/"
+      },
+      {
+        "Name": "Vetri",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'victory'; symbolizes success.",
+        "Reference Link": "https://www.parentune.com/parent-blog/Unique-Tamil-Baby-Names-With-Their-Meanings/9219"
+      },
+      {
+        "Name": "Yazhini",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Refers to a musical instrument; denotes harmony.",
+        "Reference Link": "https://www.parentune.com/parent-blog/Unique-Tamil-Baby-Names-With-Their-Meanings/9219"
+      }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Chandrashekhar",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'crown of the moon'; an epithet of Lord Shiva.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Chiranjeevi",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Derived from Sanskrit, meaning 'long-lived' or 'immortal'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Deepak",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'lamp' or 'light' in Sanskrit.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Rajendra",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'lord of kings'; name of historical rulers.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Rakesh",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'lord of the full moon' in Sanskrit.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Rama",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'pleasing' or 'beautiful'; name of a Hindu deity.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Ramachandra",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Combination of 'Rama' and 'Chandra' (moon); another name for Lord Rama.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Ramakrishna",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Combination of 'Rama' and 'Krishna'; names of Hindu deities.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Ramana",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'pleasing' or 'delightful'; an epithet of the love god Kama.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Rani",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'queen' in Sanskrit.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Rashmi",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'ray of sunlight' in Sanskrit.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Ratna",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'jewel' or 'treasure' in Sanskrit.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Ravindra",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'lord of the sun'; another name for the sun god Surya.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Reshma",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Derived from Hindi, meaning 'silk'.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Rohit",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Means 'red' in Sanskrit.",
+        "Reference Link": "https://www.behindthename.com/names/usage/telugu"
+      },
+      {
+        "Name": "Maisamma",
+        "Language/Cultural Origin": "Telugu",
+        "Description": "Folk goddess worshipped in Telangana; considered a mother goddess.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Maisamma"
+      }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Sabita",
+        "Language/Cultural Origin": "Bengali",
+        "Description": "Female name meaning 'sunlight'.",
+        "Reference Link": "https://forebears.io/india/tripura/forenames"
+      },
+      {
+        "Name": "Pradip",
+        "Language/Cultural Origin": "Bengali",
+        "Description": "Male name meaning 'lamp' or 'light'.",
+        "Reference Link": "https://forebears.io/india/tripura/forenames"
+      },
+      {
+        "Name": "Gita",
+        "Language/Cultural Origin": "Bengali",
+        "Description": "Female name meaning 'song'; also refers to the Bhagavad Gita.",
+        "Reference Link": "https://forebears.io/india/tripura/forenames"
+      },
+      {
+        "Name": "Narayan",
+        "Language/Cultural Origin": "Bengali",
+        "Description": "Male name meaning 'refuge of mankind'; an epithet of Vishnu.",
+        "Reference Link": "https://forebears.io/india/tripura/forenames"
+      },
+      {
+        "Name": "Tripura",
+        "Language/Cultural Origin": "Tripuri",
+        "Description": "Male name referring to Lord Vishnu; also the state's name.",
+        "Reference Link": "https://www.babynamesdirect.com/boy/tripura"
+      },
+      {
+        "Name": "Reang",
+        "Language/Cultural Origin": "Reang",
+        "Description": "Surname of the Reang tribe; signifies community identity.",
+        "Reference Link": "https://forebears.io/india/tripura/surnames"
+      },
+      {
+        "Name": "Debbarma",
+        "Language/Cultural Origin": "Tripuri",
+        "Description": "Surname meaning 'chief' or 'headman'; prevalent among Tripuri people.",
+        "Reference Link": "https://forebears.io/india/tripura/surnames"
+      },
+      {
+        "Name": "Chakma",
+        "Language/Cultural Origin": "Chakma",
+        "Description": "Surname of the Chakma tribe; denotes cultural heritage.",
+        "Reference Link": "https://forebears.io/india/tripura/surnames"
+      },
+      {
+        "Name": "Jamatia",
+        "Language/Cultural Origin": "Jamatia",
+        "Description": "Surname of the Jamatia tribe; reflects tribal lineage.",
+        "Reference Link": "https://forebears.io/india/tripura/surnames"
+      },
+      {
+        "Name": "Mog",
+        "Language/Cultural Origin": "Mog",
+        "Description": "Surname of the Mog tribe; indicates ethnic background.",
+        "Reference Link": "https://forebears.io/india/tripura/surnames"
+      }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Mohan",
+        "Language/Cultural Origin": "Garhwali/Kumaoni",
+        "Description": "Means 'charming' or 'attractive'; another name for Lord Krishna.",
+        "Reference Link": "https://forebears.io/india/uttarkhand/forenames"
+      },
+      {
+        "Name": "Chandra",
+        "Language/Cultural Origin": "Garhwali/Kumaoni",
+        "Description": "Means 'moon'; symbolizes brightness and calmness.",
+        "Reference Link": "https://forebears.io/india/uttarkhand/forenames"
+      },
+      {
+        "Name": "Basanti",
+        "Language/Cultural Origin": "Garhwali/Kumaoni",
+        "Description": "Means 'spring'; signifies renewal and growth.",
+        "Reference Link": "https://forebears.io/india/uttarkhand/forenames"
+      },
+      {
+        "Name": "Ganga",
+        "Language/Cultural Origin": "Garhwali/Kumaoni",
+        "Description": "Named after the sacred river Ganges; symbolizes purity.",
+        "Reference Link": "https://forebears.io/india/uttarkhand/forenames"
+      },
+      {
+        "Name": "Nandan",
+        "Language/Cultural Origin": "Garhwali/Kumaoni",
+        "Description": "Means 'son' or 'delightful'; often used in local folklore.",
+        "Reference Link": "https://forebears.io/india/uttarkhand/forenames"
+      },
+      {
+        "Name": "Hema",
+        "Language/Cultural Origin": "Garhwali/Kumaoni",
+        "Description": "Means 'golden' or 'of gold'; signifies purity.",
+        "Reference Link": "https://forebears.io/india/uttarkhand/forenames"
+      },
+      {
+        "Name": "Kesar",
+        "Language/Cultural Origin": "Garhwali/Kumaoni",
+        "Description": "Means 'saffron'; a valued spice in the region.",
+        "Reference Link": "https://forebears.io/india/uttarkhand/forenames"
+      },
+      {
+        "Name": "Bhola",
+        "Language/Cultural Origin": "Garhwali/Kumaoni",
+        "Description": "Means 'innocent' or 'simple'; reflects local virtues.",
+        "Reference Link": "https://forebears.io/india/uttarkhand/forenames"
+      },
+      {
+        "Name": "Indira",
+        "Language/Cultural Origin": "Garhwali/Kumaoni",
+        "Description": "Means 'splendid' or 'beauty'; another name for Goddess Lakshmi.",
+        "Reference Link": "https://forebears.io/india/uttarkhand/forenames"
+      },
+      {
+        "Name": "Kamal",
+        "Language/Cultural Origin": "Garhwali/Kumaoni",
+        "Description": "Means 'lotus'; symbolizes purity and beauty.",
+        "Reference Link": "https://forebears.io/india/uttarkhand/forenames"
+      }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Ram",
+        "Language/Cultural Origin": "Awadhi",
+        "Description": "Means 'pleasing'; name of a major Hindu deity.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Sunita",
+        "Language/Cultural Origin": "Bhojpuri",
+        "Description": "Means 'well-behaved'; signifies good character.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Rajesh",
+        "Language/Cultural Origin": "Braj",
+        "Description": "Means 'lord of kings'; denotes sovereignty.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Gita",
+        "Language/Cultural Origin": "Awadhi",
+        "Description": "Means 'song'; refers to the Bhagavad Gita.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Anita",
+        "Language/Cultural Origin": "Bhojpuri",
+        "Description": "Means 'grace'; signifies elegance.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Santosh",
+        "Language/Cultural Origin": "Braj",
+        "Description": "Means 'contentment'; denotes satisfaction.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Manoj",
+        "Language/Cultural Origin": "Awadhi",
+        "Description": "Means 'born of the mind'; another name for Kamadeva.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Sunil",
+        "Language/Cultural Origin": "Bhojpuri",
+        "Description": "Means 'very blue'; signifies deep color.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Anil",
+        "Language/Cultural Origin": "Braj",
+        "Description": "Means 'air' or 'wind'; denotes freedom.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Shiv",
+        "Language/Cultural Origin": "Awadhi",
+        "Description": "Short form of Shiva, the auspicious one.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Shanti",
+        "Language/Cultural Origin": "Bhojpuri",
+        "Description": "Means 'peace'; signifies tranquility.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Rakesh",
+        "Language/Cultural Origin": "Braj",
+        "Description": "Means 'lord of the night'; refers to the moon.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Vinod",
+        "Language/Cultural Origin": "Awadhi",
+        "Description": "Means 'delight'; signifies happiness.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Sima",
+        "Language/Cultural Origin": "Bhojpuri",
+        "Description": "Means 'boundary'; denotes limit or border.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Ashok",
+        "Language/Cultural Origin": "Braj",
+        "Description": "Means 'without sorrow'; name of a famous emperor.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Munni",
+        "Language/Cultural Origin": "Awadhi",
+        "Description": "Affectionate term meaning 'little girl'.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Suman",
+        "Language/Cultural Origin": "Bhojpuri",
+        "Description": "Means 'flower'; signifies beauty.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Rekha",
+        "Language/Cultural Origin": "Braj",
+        "Description": "Means 'line'; denotes a boundary or limit.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Rajendra",
+        "Language/Cultural Origin": "Awadhi",
+        "Description": "Means 'lord of kings'; denotes sovereignty.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Ramesh",
+        "Language/Cultural Origin": "Bhojpuri",
+        "Description": "Means 'lord of Rama'; another name for Vishnu.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Raj",
+        "Language/Cultural Origin": "Braj",
+        "Description": "Means 'king'; denotes royalty.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Urmila",
+        "Language/Cultural Origin": "Awadhi",
+        "Description": "Means 'waves of passion'; name from the Ramayana.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Dinesh",
+        "Language/Cultural Origin": "Bhojpuri",
+        "Description": "Means 'lord of the day'; refers to the sun.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Sanjay",
+        "Language/Cultural Origin": "Braj",
+        "Description": "Means 'victory'; name of a character in the Mahabharata.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Sangita",
+        "Language/Cultural Origin": "Awadhi",
+        "Description": "Means 'music'; signifies melody.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Mamta",
+        "Language/Cultural Origin": "Bhojpuri",
+        "Description": "Means 'motherly love'; denotes affection.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      },
+      {
+        "Name": "Vijay",
+        "Language/Cultural Origin": "Braj",
+        "Description": "Means 'victory'; signifies success.",
+        "Reference Link": "https://forebears.io/india/uttar-pradesh/forenames"
+      }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "items": [
+      {
+        "Name": "Aditi",
+        "Language/Cultural Origin": "Bengali",
+        "Description": "Means 'boundless' or 'freedom'; name of a Hindu goddess.",
+        "Reference Link": "https://www.behindthename.com/names/usage/bengali"
+      },
+      {
+        "Name": "Akash",
+        "Language/Cultural Origin": "Bengali",
+        "Description": "Means 'sky' in Sanskrit.",
+        "Reference Link": "https://www.behindthename.com/names/usage/bengali"
+      },
+      {
+        "Name": "Ananda",
+        "Language/Cultural Origin": "Bengali",
+        "Description": "Means 'happiness' or 'bliss'; also a disciple of Buddha.",
+        "Reference Link": "https://www.behindthename.com/names/usage/bengali"
+      },
+      {
+        "Name": "Arijit",
+        "Language/Cultural Origin": "Bengali",
+        "Description": "Means 'conquering enemies' in Sanskrit.",
+        "Reference Link": "https://www.behindthename.com/names/usage/bengali"
+      },
+      {
+        "Name": "Aparajita",
+        "Language/Cultural Origin": "Bengali",
+        "Description": "Means 'unconquered'; another name for goddess Durga.",
+        "Reference Link": "https://www.behindthename.com/names/usage/bengali"
+      },
+      {
+        "Name": "Bir",
+        "Language/Cultural Origin": "Santali",
+        "Description": "Means 'best' in Santali.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/santali"
+      },
+      {
+        "Name": "Chirantan",
+        "Language/Cultural Origin": "Bengali",
+        "Description": "Means 'immortal' or 'eternal'.",
+        "Reference Link": "https://www.momjunction.com/baby-names/bengali/"
+      },
+      {
+        "Name": "Labonyo",
+        "Language/Cultural Origin": "Bengali",
+        "Description": "Means 'grace' or 'beauty'.",
+        "Reference Link": "https://www.reddit.com/r/bengalilanguage/comments/17lxdxs/what_are_some_timeless_iconic_bengali_names/"
+      },
+      {
+        "Name": "Ranjini",
+        "Language/Cultural Origin": "Bengali",
+        "Description": "Means 'pleasing' or 'charming'.",
+        "Reference Link": "https://www.momjunction.com/baby-names/bengali/girl/"
+      },
+      {
+        "Name": "Soumya",
+        "Language/Cultural Origin": "Bengali",
+        "Description": "Means 'born of the moon'; unisex name.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Soumya"
+      }
+    ]
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Name": "Boa Sr",
+        "Language/Cultural Origin": "Great Andamanese",
+        "Description": "Name of the last speaker of the Bo language.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Boa_Sr"
+      },
+      {
+        "Name": "Licho",
+        "Language/Cultural Origin": "Jarawa",
+        "Description": "A common name among the Jarawa tribe.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jarawa_people_(Andaman_Islands)"
+      },
+      {
+        "Name": "Jirake",
+        "Language/Cultural Origin": "Onge",
+        "Description": "A traditional name among the Onge people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Onge_people"
+      },
+      {
+        "Name": "Tirai",
+        "Language/Cultural Origin": "Great Andamanese",
+        "Description": "A name from the Great Andamanese community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Great_Andamanese"
+      },
+      {
+        "Name": "Subhash",
+        "Language/Cultural Origin": "Hindi/Bengali",
+        "Description": "Means 'soft-spoken'; popular among settlers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Subhash"
+      },
+      {
+        "Name": "Anita",
+        "Language/Cultural Origin": "Hindi/Bengali",
+        "Description": "Means 'grace'; common among migrant communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Anita_(given_name)"
+      },
+      {
+        "Name": "Rajesh",
+        "Language/Cultural Origin": "Hindi/Bengali",
+        "Description": "Means 'lord of kings'; widely used.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rajesh"
+      },
+      {
+        "Name": "Muthu",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'pearl'; reflects Tamil influence.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Muthu_(name)"
+      }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Name": "Nihal",
+        "Language/Cultural Origin": "Punjabi",
+        "Description": "Means 'happy' or 'prosperous'.",
+        "Reference Link": "https://www.reddit.com/r/Sikh/comments/13h8dql/traditional_punjabi_names_suggestion/"
+      },
+      {
+        "Name": "Nirvair",
+        "Language/Cultural Origin": "Punjabi",
+        "Description": "Means 'without enmity'; signifies peace.",
+        "Reference Link": "https://www.reddit.com/r/Sikh/comments/13h8dql/traditional_punjabi_names_suggestion/"
+      },
+      {
+        "Name": "Zorawar",
+        "Language/Cultural Origin": "Punjabi",
+        "Description": "Means 'strong' or 'powerful'.",
+        "Reference Link": "https://www.reddit.com/r/Sikh/comments/13h8dql/traditional_punjabi_names_suggestion/"
+      },
+      {
+        "Name": "Fateh",
+        "Language/Cultural Origin": "Punjabi",
+        "Description": "Means 'victory'; denotes success.",
+        "Reference Link": "https://www.reddit.com/r/Sikh/comments/13h8dql/traditional_punjabi_names_suggestion/"
+      },
+      {
+        "Name": "Jujhar",
+        "Language/Cultural Origin": "Punjabi",
+        "Description": "Means 'warrior'; symbolizes bravery.",
+        "Reference Link": "https://www.reddit.com/r/Sikh/comments/13h8dql/traditional_punjabi_names_suggestion/"
+      },
+      {
+        "Name": "Aarza",
+        "Language/Cultural Origin": "Punjabi",
+        "Description": "Means 'a gift from God'.",
+        "Reference Link": "https://parenting.firstcry.com/articles/150-sikh-or-punjabi-baby-girl-names-with-meanings-content-brief/"
+      },
+      {
+        "Name": "Aasa",
+        "Language/Cultural Origin": "Punjabi",
+        "Description": "Means 'hope'; signifies optimism.",
+        "Reference Link": "https://parenting.firstcry.com/articles/150-sikh-or-punjabi-baby-girl-names-with-meanings-content-brief/"
+      },
+      {
+        "Name": "Adarshpreet",
+        "Language/Cultural Origin": "Punjabi",
+        "Description": "Means 'love of ideals'.",
+        "Reference Link": "https://parenting.firstcry.com/articles/150-sikh-or-punjabi-baby-girl-names-with-meanings-content-brief/"
+      },
+      {
+        "Name": "Agampreet",
+        "Language/Cultural Origin": "Punjabi",
+        "Description": "Means 'the lover of God'.",
+        "Reference Link": "https://parenting.firstcry.com/articles/150-sikh-or-punjabi-baby-girl-names-with-meanings-content-brief/"
+      },
+      {
+        "Name": "Ajooni",
+        "Language/Cultural Origin": "Punjabi",
+        "Description": "Means 'beyond birth and death'.",
+        "Reference Link": "https://parenting.firstcry.com/articles/150-sikh-or-punjabi-baby-girl-names-with-meanings-content-brief/"
+      }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Dama",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Name": "Varli",
+        "Language/Cultural Origin": "Varli Tribe",
+        "Description": "Denotes the Varli tribe; symbolizes the community.",
+        "Reference Link": "https://dnh.gov.in/district-profile/"
+      },
+      {
+        "Name": "Dhodia",
+        "Language/Cultural Origin": "Dhodia Tribe",
+        "Description": "Represents the Dhodia tribe; signifies the group.",
+        "Reference Link": "https://dnh.gov.in/district-profile/"
+      },
+      {
+        "Name": "Kokana",
+        "Language/Cultural Origin": "Kokana Tribe",
+        "Description": "Pertains to the Kokana tribe; reflects the ethnicity.",
+        "Reference Link": "https://dnh.gov.in/district-profile/"
+      },
+      {
+        "Name": "Dubla",
+        "Language/Cultural Origin": "Dubla Tribe",
+        "Description": "Associated with the Dubla tribe; indicates the clan.",
+        "Reference Link": "https://dnh.gov.in/district-profile/"
+      },
+      {
+        "Name": "Sebastião",
+        "Language/Cultural Origin": "Portuguese",
+        "Description": "Portuguese form of Sebastian; means 'venerable'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Portuguese_name"
+      },
+      {
+        "Name": "Maria",
+        "Language/Cultural Origin": "Portuguese",
+        "Description": "Common Portuguese name; associated with Mary.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Portuguese_name"
+      },
+      {
+        "Name": "Anjali",
+        "Language/Cultural Origin": "Gujarati",
+        "Description": "Means 'divine offering'; signifies devotion.",
+        "Reference Link": "https://www.behindthename.com/name/anjali"
+      },
+      {
+        "Name": "Rohit",
+        "Language/Cultural Origin": "Marathi",
+        "Description": "Means 'red' or 'first rays of the sun'; denotes dawn.",
+        "Reference Link": "https://www.behindthename.com/name/rohit"
+      }
+    ]
+  },
+  {
+    "name": "Delhi",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Name": "Ram",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'pleasing' or 'charming'; name of a Hindu deity.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Mohammed",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'praiseworthy'; name of the Prophet in Islam.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Raj",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'king' or 'rule'; signifies royalty.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Sunita",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'well-behaved' or 'polite'; common female name.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Rajesh",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'lord of kings'; signifies sovereignty.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Sanjay",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'victorious' or 'triumphant'; also a character in Mahabharata.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Deepak",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'lamp' or 'light'; symbolizes brightness.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Amit",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'infinite' or 'boundless'; signifies endlessness.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Sunil",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'dark blue'; often associated with calmness.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Vijay",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'victory'; signifies success.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Anil",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'air' or 'wind'; symbolizes freedom.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Manoj",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'born of the mind'; another name for Kamadeva.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Santosh",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'contentment' or 'satisfaction'; signifies peace.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Rakesh",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'lord of the full moon'; signifies brightness.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Anita",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'grace' or 'favor'; common female name.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Ashok",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'without sorrow'; name of a famous Indian emperor.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Poonam",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'full moon'; signifies completeness.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Geeta",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'song'; refers to the Bhagavad Gita.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Vinod",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'delight' or 'enjoyment'; signifies happiness.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      },
+      {
+        "Name": "Ajay",
+        "Language/Cultural Origin": "Hindi",
+        "Description": "Means 'unconquerable'; signifies invincibility.",
+        "Reference Link": "https://forebears.io/india/delhi/forenames"
+      }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Name": "Sheen",
+        "Language/Cultural Origin": "Kashmiri",
+        "Description": "Means 'snow'.",
+        "Reference Link": "https://kashmirasitis.com/kashmiri-names/"
+      },
+      {
+        "Name": "Kong Posh",
+        "Language/Cultural Origin": "Kashmiri",
+        "Description": "Means 'saffron flower'.",
+        "Reference Link": "https://kashmirasitis.com/kashmiri-names/"
+      },
+      {
+        "Name": "Shehjaar",
+        "Language/Cultural Origin": "Kashmiri",
+        "Description": "Means 'coolness'.",
+        "Reference Link": "https://kashmirasitis.com/kashmiri-names/"
+      },
+      {
+        "Name": "Shuhul",
+        "Language/Cultural Origin": "Kashmiri",
+        "Description": "Means 'cool' or 'calm'.",
+        "Reference Link": "https://kashmirasitis.com/kashmiri-names/"
+      },
+      {
+        "Name": "Vitasta",
+        "Language/Cultural Origin": "Kashmiri",
+        "Description": "Name of the Jhelum river.",
+        "Reference Link": "https://kashmirasitis.com/kashmiri-names/"
+      },
+      {
+        "Name": "Zoongash",
+        "Language/Cultural Origin": "Kashmiri",
+        "Description": "Means 'moonlight'.",
+        "Reference Link": "https://kashmirasitis.com/kashmiri-names/"
+      },
+      {
+        "Name": "Zitin",
+        "Language/Cultural Origin": "Kashmiri",
+        "Description": "Means 'spark'.",
+        "Reference Link": "https://kashmirasitis.com/kashmiri-names/"
+      },
+      {
+        "Name": "Madano",
+        "Language/Cultural Origin": "Kashmiri",
+        "Description": "Means 'beloved'.",
+        "Reference Link": "https://kashmirasitis.com/kashmiri-names/"
+      },
+      {
+        "Name": "Pamposh",
+        "Language/Cultural Origin": "Kashmiri",
+        "Description": "Means 'lotus'.",
+        "Reference Link": "https://kashmirasitis.com/kashmiri-names/"
+      },
+      {
+        "Name": "Sharda",
+        "Language/Cultural Origin": "Kashmiri",
+        "Description": "One of the names of Goddess Saraswati.",
+        "Reference Link": "https://kashmirasitis.com/kashmiri-names/"
+      },
+      {
+        "Name": "Zoon",
+        "Language/Cultural Origin": "Kashmiri",
+        "Description": "Means 'moon'.",
+        "Reference Link": "https://kashmirasitis.com/kashmiri-names/"
+      },
+      {
+        "Name": "Devya",
+        "Language/Cultural Origin": "Dogri",
+        "Description": "Means 'God's gift'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/dogri"
+      },
+      {
+        "Name": "Ghajini",
+        "Language/Cultural Origin": "Dogri",
+        "Description": "Means 'patient' and 'independent'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/dogri"
+      },
+      {
+        "Name": "Girdhari",
+        "Language/Cultural Origin": "Dogri",
+        "Description": "Name of Lord Krishna.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/dogri"
+      },
+      {
+        "Name": "Jiviya",
+        "Language/Cultural Origin": "Dogri",
+        "Description": "Means 'life'.",
+        "Reference Link": "https://www.behindthename.com/submit/names/usage/dogri"
+      },
+      {
+        "Name": "Tashi",
+        "Language/Cultural Origin": "Ladakhi",
+        "Description": "Means 'prosperity'.",
+        "Reference Link": "https://idrinkmyteasweet.wordpress.com/2010/07/18/a-rough-guide-to-ladakhi-names/"
+      },
+      {
+        "Name": "Stanzin",
+        "Language/Cultural Origin": "Ladakhi",
+        "Description": "Means 'holder of the teachings'.",
+        "Reference Link": "https://idrinkmyteasweet.wordpress.com/2010/07/18/a-rough-guide-to-ladakhi-names/"
+      },
+      {
+        "Name": "Padma",
+        "Language/Cultural Origin": "Ladakhi",
+        "Description": "Means 'lotus'.",
+        "Reference Link": "https://idrinkmyteasweet.wordpress.com/2010/07/18/a-rough-guide-to-ladakhi-names/"
+      },
+      {
+        "Name": "Sonam",
+        "Language/Cultural Origin": "Ladakhi",
+        "Description": "Means 'merit' or 'virtue'.",
+        "Reference Link": "https://idrinkmyteasweet.wordpress.com/2010/07/18/a-rough-guide-to-ladakhi-names/"
+      },
+      {
+        "Name": "Jigmet",
+        "Language/Cultural Origin": "Ladakhi",
+        "Description": "Means 'fearless'.",
+        "Reference Link": "https://idrinkmyteasweet.wordpress.com/2010/07/18/a-rough-guide-to-ladakhi-names/"
+      }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Name": "Stanzin",
+        "Language/Cultural Origin": "Ladakhi",
+        "Description": "Means 'holder of Buddha Dharma'; popular in Ladakh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tenzin"
+      },
+      {
+        "Name": "Tsering",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Means 'long life'; common in Tibetan communities.",
+        "Reference Link": "https://kadampa-center.org/some-common-tibetan-names-and-their-meanings"
+      },
+      {
+        "Name": "Tenzin",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Means 'holder of Buddha Dharma'; associated with the Dalai Lama.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tenzin"
+      },
+      {
+        "Name": "Jigmet",
+        "Language/Cultural Origin": "Ladakhi",
+        "Description": "Means 'fearless'; signifies courage.",
+        "Reference Link": "https://idrinkmyteasweet.wordpress.com/2010/07/18/a-rough-guide-to-ladakhi-names/"
+      },
+      {
+        "Name": "Sonam",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Means 'merit' or 'virtue'; denotes good fortune.",
+        "Reference Link": "https://kadampa-center.org/some-common-tibetan-names-and-their-meanings"
+      },
+      {
+        "Name": "Padma",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Means 'lotus'; symbolizes purity.",
+        "Reference Link": "https://kadampa-center.org/some-common-tibetan-names-and-their-meanings"
+      },
+      {
+        "Name": "Kunzang",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Means 'all-good'; reflects universal benevolence.",
+        "Reference Link": "https://kadampa-center.org/some-common-tibetan-names-and-their-meanings"
+      },
+      {
+        "Name": "Lhamo",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Means 'goddess'; also the birth name of the Dalai Lama.",
+        "Reference Link": "https://www.familyeducation.com/the-ultimate-list-of-buddhist-names"
+      },
+      {
+        "Name": "Dorje",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Means 'indestructible'; symbolizes the vajra.",
+        "Reference Link": "https://kadampa-center.org/some-common-tibetan-names-and-their-meanings"
+      },
+      {
+        "Name": "Pema",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Means 'lotus'; signifies purity and enlightenment.",
+        "Reference Link": "https://www.momjunction.com/articles/tibetan-sherpa-names-girls-boys-meanings_00680269/"
+      },
+      {
+        "Name": "Ngawang",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Means 'powerful speech'; denotes eloquence.",
+        "Reference Link": "https://www.momjunction.com/articles/tibetan-sherpa-names-girls-boys-meanings_00680269/"
+      },
+      {
+        "Name": "Dawa",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Means 'moon'; often given to children born on a Monday.",
+        "Reference Link": "https://www.momjunction.com/articles/tibetan-sherpa-names-girls-boys-meanings_00680269/"
+      },
+      {
+        "Name": "Kelsang",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Means 'good fortune'; reflects auspiciousness.",
+        "Reference Link": "https://kadampa-center.org/some-common-tibetan-names-and-their-meanings"
+      },
+      {
+        "Name": "Jampa",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Means 'loving-kindness'; Tibetan name for Maitreya Buddha.",
+        "Reference Link": "https://kadampa-center.org/some-common-tibetan-names-and-their-meanings"
+      },
+      {
+        "Name": "Gyaltsen",
+        "Language/Cultural Origin": "Tibetan",
+        "Description": "Means 'victory banner'; symbolizes triumph.",
+        "Reference Link": "https://kadampa-center.org/some-common-tibetan-names-and-their-meanings"
+      }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Name": "Mohammed",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'praiseworthy'; name of the Prophet of Islam.",
+        "Reference Link": "https://forebears.io/india/lakshadweep/forenames"
+      },
+      {
+        "Name": "Abdul",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'servant of'; often used in combination with other names.",
+        "Reference Link": "https://forebears.io/india/lakshadweep/forenames"
+      },
+      {
+        "Name": "Sayed",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'master' or 'lord'; denotes respect.",
+        "Reference Link": "https://forebears.io/india/lakshadweep/forenames"
+      },
+      {
+        "Name": "Aysha",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'alive' or 'living'; name of Prophet Muhammad's wife.",
+        "Reference Link": "https://forebears.io/india/lakshadweep/forenames"
+      },
+      {
+        "Name": "Ali",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'elevated' or 'exalted'; name of the Prophet's cousin.",
+        "Reference Link": "https://forebears.io/india/lakshadweep/forenames"
+      },
+      {
+        "Name": "Amina",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'trustworthy' or 'faithful'; mother of Prophet Muhammad.",
+        "Reference Link": "https://forebears.io/india/lakshadweep/forenames"
+      },
+      {
+        "Name": "Fathima",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'one who weans'; daughter of Prophet Muhammad.",
+        "Reference Link": "https://forebears.io/india/lakshadweep/forenames"
+      },
+      {
+        "Name": "Havva",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'life'; equivalent to 'Eve' in Islamic tradition.",
+        "Reference Link": "https://forebears.io/india/lakshadweep/forenames"
+      },
+      {
+        "Name": "Hassan",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'handsome' or 'good'; grandson of Prophet Muhammad.",
+        "Reference Link": "https://forebears.io/india/lakshadweep/forenames"
+      },
+      {
+        "Name": "Hussain",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'little handsome one'; grandson of Prophet Muhammad.",
+        "Reference Link": "https://forebears.io/india/lakshadweep/forenames"
+      },
+      {
+        "Name": "Beebi",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'lady' or 'madam'; term of respect.",
+        "Reference Link": "https://forebears.io/india/lakshadweep/forenames"
+      },
+      {
+        "Name": "Moosa",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'drawn out of the water'; equivalent to 'Moses'.",
+        "Reference Link": "https://forebears.io/india/lakshadweep/forenames"
+      },
+      {
+        "Name": "Ibrahim",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'father of nations'; equivalent to 'Abraham'.",
+        "Reference Link": "https://forebears.io/india/lakshadweep/forenames"
+      }
+    ]
+  },
+  {
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Name": "Lakshmi",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'goddess of wealth'; a revered deity in Hinduism.",
+        "Reference Link": "https://forebears.io/india/pondicherry/forenames"
+      },
+      {
+        "Name": "Murugan",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Name of the Tamil god of war; symbolizes valor.",
+        "Reference Link": "https://forebears.io/india/pondicherry/forenames"
+      },
+      {
+        "Name": "Vijayalakshmi",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'goddess of victory'; denotes success.",
+        "Reference Link": "https://forebears.io/india/pondicherry/forenames"
+      },
+      {
+        "Name": "Selvi",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'young woman'; signifies youthfulness.",
+        "Reference Link": "https://forebears.io/india/pondicherry/forenames"
+      },
+      {
+        "Name": "Dhanalakshmi",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'goddess of wealth'; associated with prosperity.",
+        "Reference Link": "https://forebears.io/india/pondicherry/forenames"
+      },
+      {
+        "Name": "Mohamed",
+        "Language/Cultural Origin": "Arabic",
+        "Description": "Means 'praiseworthy'; widely used among Muslims.",
+        "Reference Link": "https://forebears.io/india/pondicherry/forenames"
+      },
+      {
+        "Name": "Saravanan",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Another name for Lord Murugan; signifies beauty.",
+        "Reference Link": "https://forebears.io/india/pondicherry/forenames"
+      },
+      {
+        "Name": "Jayalakshmi",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'victorious goddess'; denotes triumph.",
+        "Reference Link": "https://forebears.io/india/pondicherry/forenames"
+      },
+      {
+        "Name": "Manikandan",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Refers to Lord Ayyappa; symbolizes divinity.",
+        "Reference Link": "https://forebears.io/india/pondicherry/forenames"
+      },
+      {
+        "Name": "Arumugam",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'six-faced'; another name for Murugan.",
+        "Reference Link": "https://forebears.io/india/pondicherry/forenames"
+      },
+      {
+        "Name": "Vijaya",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'victory'; denotes success.",
+        "Reference Link": "https://forebears.io/india/pondicherry/forenames"
+      },
+      {
+        "Name": "Shanthi",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'peace'; signifies tranquility.",
+        "Reference Link": "https://forebears.io/india/pondicherry/forenames"
+      },
+      {
+        "Name": "Muthu",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'pearl'; symbolizes purity.",
+        "Reference Link": "https://www.reddit.com/r/TamilNadu/comments/104tflh/why_do_some_tamil_families_have_a_french_name/"
+      },
+      {
+        "Name": "Anbu",
+        "Language/Cultural Origin": "Tamil",
+        "Description": "Means 'love'; denotes affection.",
+        "Reference Link": "https://www.reddit.com/r/TamilNadu/comments/104tflh/why_do_some_tamil_families_have_a_french_name/"
+      },
+      {
+        "Name": "Vardarajoulou",
+        "Language/Cultural Origin": "Franco-Tamil",
+        "Description": "French transliteration of 'Vardarajulu'; reflects colonial influence.",
+        "Reference Link": "https://www.reddit.com/r/TamilNadu/comments/104tflh/why_do_some_tamil_families_have_a_french_name/"
+      },
+      {
+        "Name": "Durand",
+        "Language/Cultural Origin": "Franco-Tamil",
+        "Description": "French surname adopted by some Tamil families.",
+        "Reference Link": "https://www.reddit.com/r/TamilNadu/comments/104tflh/why_do_some_tamil_families_have_a_french_name/"
+      },
+      {
+        "Name": "Dupont",
+        "Language/Cultural Origin": "Franco-Tamil",
+        "Description": "French surname meaning 'of the bridge'; used in Franco-Tamil communities.",
+        "Reference Link": "https://www.reddit.com/r/TamilNadu/comments/104tflh/why_do_some_tamil_families_have_a_french_name/"
+      },
+      {
+        "Name": "Thomas",
+        "Language/Cultural Origin": "Franco-Tamil",
+        "Description": "Biblical name adopted during French colonial period.",
+        "Reference Link": "https://www.reddit.com/r/TamilNadu/comments/104tflh/why_do_some_tamil_families_have_a_french_name/"
+      },
+      {
+        "Name": "Coridon",
+        "Language/Cultural Origin": "Franco-Tamil",
+        "Description": "French surname seen among Tamil families.",
+        "Reference Link": "https://www.reddit.com/r/TamilNadu/comments/104tflh/why_do_some_tamil_families_have_a_french_name/"
+      }
+    ]
+  }
+]

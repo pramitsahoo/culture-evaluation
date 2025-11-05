@@ -1,0 +1,703 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "তেলুগু" },
+      { "Language/Dialect Name": "উর্দু" },
+      { "Language/Dialect Name": "গোন্ডি" },
+      { "Language/Dialect Name": "কলমি" },
+      { "Language/Dialect Name": "কুভি" },
+      { "Language/Dialect Name": "লামবাদি" },
+      { "Language/Dialect Name": "কোয়া" },
+      { "Language/Dialect Name": "চেনচু" },
+      { "Language/Dialect Name": "ইরুকালা" },
+      { "Language/Dialect Name": "সাভারা" },
+      { "Language/Dialect Name": "কোন্ডা" },
+      { "Language/Dialect Name": "মন্দা" },
+      { "Language/Dialect Name": "অল্লারি" },
+      { "Language/Dialect Name": "নাইকি" },
+      { "Language/Dialect Name": "পট্টাপু" }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "ন্যিশি" },
+      { "Language/Dialect Name": "আদি" },
+      { "Language/Dialect Name": "অপাতানি" },
+      { "Language/Dialect Name": "গালো" },
+      { "Language/Dialect Name": "ট্যাগিন" },
+      { "Language/Dialect Name": "মিশিং" },
+      { "Language/Dialect Name": "ইডু মিশমি" },
+      { "Language/Dialect Name": "ডিগারো মিশমি" },
+      { "Language/Dialect Name": "মিজু মিশমি" },
+      { "Language/Dialect Name": "মনপা" },
+      { "Language/Dialect Name": "শেরডুকপেন" },
+      { "Language/Dialect Name": "বুগুন" },
+      { "Language/Dialect Name": "হ্রুসো" },
+      { "Language/Dialect Name": "মিজি" },
+      { "Language/Dialect Name": "কোরো" },
+      { "Language/Dialect Name": "নোচটে" },
+      { "Language/Dialect Name": "ওয়ানচো" },
+      { "Language/Dialect Name": "ট্যাঙ্গসা" },
+      { "Language/Dialect Name": "সিংফো" },
+      { "Language/Dialect Name": "চাকমা" },
+      { "Language/Dialect Name": "তাই খামতি" },
+      { "Language/Dialect Name": "পুরইক" },
+      { "Language/Dialect Name": "ব্যাংরু" },
+      { "Language/Dialect Name": "মেয়র" }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "অসমীয়া" },
+      { "Language/Dialect Name": "বডো" },
+      { "Language/Dialect Name": "মিশিং" },
+      { "Language/Dialect Name": "কাৰ্বি" },
+      { "Language/Dialect Name": "ডিমাসা" },
+      { "Language/Dialect Name": "ৰাভা" },
+      { "Language/Dialect Name": "তীওয়া" },
+      { "Language/Dialect Name": "ডেওরি" },
+      { "Language/Dialect Name": "আহোম" },
+      { "Language/Dialect Name": "গোলপড়ীয়া" },
+      { "Language/Dialect Name": "কামৰূপী" },
+      { "Language/Dialect Name": "হ্মাৰ" },
+      { "Language/Dialect Name": "হাজং" }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "মৈথিলী" },
+      { "Language/Dialect Name": "ভোজপুরী" },
+      { "Language/Dialect Name": "মাগাহী" },
+      { "Language/Dialect Name": "অঙ্গিকা" },
+      { "Language/Dialect Name": "বজ্জিকা" },
+      { "Language/Dialect Name": "সূরজাপুৰী" },
+      { "Language/Dialect Name": "খরথা" },
+      { "Language/Dialect Name": "সান্তালী" },
+      { "Language/Dialect Name": "কুর্মালি" }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "ছত্তীসগড়ী" },
+      { "Language/Dialect Name": "সুরগুজিয়া" },
+      { "Language/Dialect Name": "গোন্ডি" },
+      { "Language/Dialect Name": "হালবী" },
+      { "Language/Dialect Name": "ভাত্রী" },
+      { "Language/Dialect Name": "কুরুখ" },
+      { "Language/Dialect Name": "করওয়া" },
+      { "Language/Dialect Name": "মুরিয়া" },
+      { "Language/Dialect Name": "মাদিয়া" },
+      { "Language/Dialect Name": "দর্লি" },
+      { "Language/Dialect Name": "কোয়া" },
+      { "Language/Dialect Name": "আবুজমরিয়া" },
+      { "Language/Dialect Name": "ধুর্বা" },
+      { "Language/Dialect Name": "কামার" },
+      { "Language/Dialect Name": "বাইগানি" }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "কোঙ্কানি" },
+      { "Language/Dialect Name": "গোয়ান কোঙ্কানি" },
+      { "Language/Dialect Name": "পর্তুগিজ" },
+      { "Language/Dialect Name": "কোঙ্কানি-পর্তুগিজ ক্রিওল" },
+      { "Language/Dialect Name": "মারাঠী" },
+      { "Language/Dialect Name": "কন্নড়" },
+      { "Language/Dialect Name": "হিন্দি" },
+      { "Language/Dialect Name": "ইংরেজি" },
+      { "Language/Dialect Name": "উর্দু" },
+      { "Language/Dialect Name": "কোঙ্কানি মুসলিম উপভাষা" }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "গুজরাটি" },
+      { "Language/Dialect Name": "কাঠিয়াওয়াড়ী" },
+      { "Language/Dialect Name": "সূর্তি" },
+      { "Language/Dialect Name": "চারোতারী" },
+      { "Language/Dialect Name": "পাটানি" },
+      { "Language/Dialect Name": "কুッチি" },
+      { "Language/Dialect Name": "ভিলি" },
+      { "Language/Dialect Name": "রথবী" },
+      { "Language/Dialect Name": "বাসাভি" },
+      { "Language/Dialect Name": "ডাঙ্গি" }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "হারিয়ানভী" },
+      { "Language/Dialect Name": "ব্যাংরু" },
+      { "Language/Dialect Name": "আহিরওয়াটি" },
+      { "Language/Dialect Name": "বাগড়ী" },
+      { "Language/Dialect Name": "মেওয়াটি" },
+      { "Language/Dialect Name": "দেসওয়ালি" },
+      { "Language/Dialect Name": "জাটু" },
+      { "Language/Dialect Name": "ব্রাজ ভাষা" },
+      { "Language/Dialect Name": "পুয়াধী" },
+      { "Language/Dialect Name": "রাঙ্গরী" },
+      { "Language/Dialect Name": "সানসী" },
+      { "Language/Dialect Name": "রাথী" },
+      { "Language/Dialect Name": "মালওয়াই" }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "কাঙড়ী" },
+      { "Language/Dialect Name": "মানদেয়ালী" },
+      { "Language/Dialect Name": "কুল্লুই" },
+      { "Language/Dialect Name": "চাম্বেইলী" },
+      { "Language/Dialect Name": "বিলাসপুরী" },
+      { "Language/Dialect Name": "মাহাসু পাহাড়ী" },
+      { "Language/Dialect Name": "সিরমৌড়ী" },
+      { "Language/Dialect Name": "পাংগوالی" },
+      { "Language/Dialect Name": "গাড়্ডি" },
+      { "Language/Dialect Name": "কিন্নৌড়ী" },
+      { "Language/Dialect Name": "লাহৌলী" },
+      { "Language/Dialect Name": "পট্টানি" },
+      { "Language/Dialect Name": "কানাশি" }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "সান্তালী" },
+      { "Language/Dialect Name": "মুন্দারি" },
+      { "Language/Dialect Name": "হো" },
+      { "Language/Dialect Name": "কুরুখ" },
+      { "Language/Dialect Name": "খরথা" },
+      { "Language/Dialect Name": "নাগপুরী" },
+      { "Language/Dialect Name": "কুর্মালি" },
+      { "Language/Dialect Name": "ভুমিজ" },
+      { "Language/Dialect Name": "খাড়িয়া" },
+      { "Language/Dialect Name": "মাল্টো" },
+      { "Language/Dialect Name": "বিরহোর" },
+      { "Language/Dialect Name": "আসুরি" }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "কান্নড়" },
+      { "Language/Dialect Name": "মাইসোর কান্নড়" },
+      { "Language/Dialect Name": "ধরবাদ কান্নড়" },
+      { "Language/Dialect Name": "ম্যাংলোর কান্নড়" },
+      { "Language/Dialect Name": "গুলবর্গা কান্নড়" },
+      { "Language/Dialect Name": "তুলু" },
+      { "Language/Dialect Name": "কোডাভা" },
+      { "Language/Dialect Name": "কোঙ্কানি" },
+      { "Language/Dialect Name": "বিয়ারি" },
+      { "Language/Dialect Name": "হাভ্যাকা কান্নড়" },
+      { "Language/Dialect Name": "আরে‌ভাশে" },
+      { "Language/Dialect Name": "সাঙ্কেথি" },
+      { "Language/Dialect Name": "বাদাগা" },
+      { "Language/Dialect Name": "লাম্বানি" },
+      { "Language/Dialect Name": "কোরাগা" },
+      { "Language/Dialect Name": "সিদ্দি" },
+      { "Language/Dialect Name": "ইরুলা" },
+      { "Language/Dialect Name": "হোলায়া" },
+      { "Language/Dialect Name": "শোলাগা" }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "মালয়ালম" },
+      { "Language/Dialect Name": "কাশারগোড় ডায়ালেক্ট" },
+      { "Language/Dialect Name": "উত্তর মালাবার ডায়ালেক্ট" },
+      { "Language/Dialect Name": "ওয়ায়ানাদ ডায়ালেক্ট" },
+      { "Language/Dialect Name": "বিয়ারি" },
+      { "Language/Dialect Name": "রাভুলা" },
+      { "Language/Dialect Name": "পানিয়া" },
+      { "Language/Dialect Name": "কুরুম্বা" },
+      { "Language/Dialect Name": "কাদার" },
+      { "Language/Dialect Name": "মালাপন্দরাম" },
+      { "Language/Dialect Name": "মালার্যন" },
+      { "Language/Dialect Name": "মালাভেদন" },
+      { "Language/Dialect Name": "পালিয়ান" },
+      { "Language/Dialect Name": "আরণাদন" },
+      { "Language/Dialect Name": "মান্নান" },
+      { "Language/Dialect Name": "ইরুলা" },
+      { "Language/Dialect Name": "কানিক্কারণ" },
+      { "Language/Dialect Name": "বেট্টা কুরুম্বা" },
+      { "Language/Dialect Name": "মুথুভান" },
+      { "Language/Dialect Name": "ইরুকুলা" },
+      { "Language/Dialect Name": "কোডাভা" },
+      { "Language/Dialect Name": "জেনু কুরুম্বা" },
+      { "Language/Dialect Name": "মুল্লু কুরুম্বা" },
+      { "Language/Dialect Name": "উরালি" },
+      { "Language/Dialect Name": "ওয়ায়ানাদ চেট্টি" },
+      { "Language/Dialect Name": "কোরা কোরাগা" },
+      { "Language/Dialect Name": "মুদু কোরাগা" }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "বুন্দেলী" },
+      { "Language/Dialect Name": "বাঘেলী" },
+      { "Language/Dialect Name": "মালভী" },
+      { "Language/Dialect Name": "নিমাদি" },
+      { "Language/Dialect Name": "ভিলি" },
+      { "Language/Dialect Name": "গোন্ডি" },
+      { "Language/Dialect Name": "কোরকু" },
+      { "Language/Dialect Name": "কাল্তো (নাহালি)" },
+      { "Language/Dialect Name": "পর্দান" },
+      { "Language/Dialect Name": "বাইগা" }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "মারাঠী" },
+      { "Language/Dialect Name": "ভারহাদি" },
+      { "Language/Dialect Name": "মালভানি" },
+      { "Language/Dialect Name": "কোঙ্কানি" },
+      { "Language/Dialect Name": "আহিরাণী" },
+      { "Language/Dialect Name": "ডাঙ্গি" },
+      { "Language/Dialect Name": "ওয়ারলি" },
+      { "Language/Dialect Name": "ভিলি" },
+      { "Language/Dialect Name": "গোন্ডি" },
+      { "Language/Dialect Name": "কোরকু" },
+      { "Language/Dialect Name": "পাওয়ারী" },
+      { "Language/Dialect Name": "কটকারী" },
+      { "Language/Dialect Name": "ভাদভালি" },
+      { "Language/Dialect Name": "সামাভেদী" },
+      { "Language/Dialect Name": "আন্ধ" },
+      { "Language/Dialect Name": "কলমি" },
+      { "Language/Dialect Name": "নাইকি" }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "মেইতেই (ম্যানিপুরি)" },
+      { "Language/Dialect Name": "তাংখুল" },
+      { "Language/Dialect Name": "পাইতে" },
+      { "Language/Dialect Name": "মাও" },
+      { "Language/Dialect Name": "থাদৌ" },
+      { "Language/Dialect Name": "হ্মার" },
+      { "Language/Dialect Name": "রঙমেই" },
+      { "Language/Dialect Name": "জেম" },
+      { "Language/Dialect Name": "লিয়াংমেই" },
+      { "Language/Dialect Name": "মারাম" },
+      { "Language/Dialect Name": "মারিং" },
+      { "Language/Dialect Name": "অ্যানাল" },
+      { "Language/Dialect Name": "ম্যানিপুরি (মেইতেই)" },
+      { "Language/Dialect Name": "কুকি-মিজো" },
+      { "Language/Dialect Name": "পৌমাই" },
+      { "Language/Dialect Name": "তাংখুল" },
+      { "Language/Dialect Name": "জেলিয়াং" },
+      { "Language/Dialect Name": "খিয়ামনিউঙ্গান" },
+      { "Language/Dialect Name": "সাংতম" },
+      { "Language/Dialect Name": "নাগামিস" }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "খাসি" },
+      { "Language/Dialect Name": "গারো" },
+      { "Language/Dialect Name": "পনার (জৈন্তিয়া)" },
+      { "Language/Dialect Name": "ওয়ার" },
+      { "Language/Dialect Name": "বিয়াতে" },
+      { "Language/Dialect Name": "হাজং" },
+      { "Language/Dialect Name": "রাভা" },
+      { "Language/Dialect Name": "মারাম" },
+      { "Language/Dialect Name": "লিংগনগাম" },
+      { "Language/Dialect Name": "অ্যাটং" },
+      { "Language/Dialect Name": "মেগাম" },
+      { "Language/Dialect Name": "কোচ" },
+      { "Language/Dialect Name": "রুগা" }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "মিজো (ডুহ্লিয়ান)" },
+      { "Language/Dialect Name": "হ্মার" },
+      { "Language/Dialect Name": "লাই (পাওই)" },
+      { "Language/Dialect Name": "মারা" },
+      { "Language/Dialect Name": "পাইতে" },
+      { "Language/Dialect Name": "রাল্টে" },
+      { "Language/Dialect Name": "থাদৌ" },
+      { "Language/Dialect Name": "জো" },
+      { "Language/Dialect Name": "চাকমা" },
+      { "Language/Dialect Name": "বাউম" },
+      { "Language/Dialect Name": "হ্রানখল" },
+      { "Language/Dialect Name": "ফালাম" },
+      { "Language/Dialect Name": "সিমতে" },
+      { "Language/Dialect Name": "ভাইফেই" },
+      { "Language/Dialect Name": "জৌ" }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "আও" },
+      { "Language/Dialect Name": "অ্যাঙ্গামি" },
+      { "Language/Dialect Name": "সুমি" },
+      { "Language/Dialect Name": "লোথা" },
+      { "Language/Dialect Name": "কনিয়াক" },
+      { "Language/Dialect Name": "চোকরি" },
+      { "Language/Dialect Name": "চ্যাং" },
+      { "Language/Dialect Name": "ফোম" },
+      { "Language/Dialect Name": "ইমখিউনগ্রু" },
+      { "Language/Dialect Name": "রেংমা" },
+      { "Language/Dialect Name": "পোচুরি" },
+      { "Language/Dialect Name": "জেম" },
+      { "Language/Dialect Name": "লিয়াংমেই" },
+      { "Language/Dialect Name": "মাও" },
+      { "Language/Dialect Name": "পৌমাই" },
+      { "Language/Dialect Name": "তাংখুল" },
+      { "Language/Dialect Name": "জেলিয়াং" },
+      { "Language/Dialect Name": "খিয়ামনিউঙ্গান" },
+      { "Language/Dialect Name": "সাংতম" },
+      { "Language/Dialect Name": "নাগামিস" }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "ওড়িয়া" },
+      { "Language/Dialect Name": "সাম্বলপুরী" },
+      { "Language/Dialect Name": "গঞ্জামি" },
+      { "Language/Dialect Name": "বালেস্বরী" },
+      { "Language/Dialect Name": "কাতাকি" },
+      { "Language/Dialect Name": "দেশিয়া" },
+      { "Language/Dialect Name": "কলাহান্দিয়া" },
+      { "Language/Dialect Name": "ফুলবানী" },
+      { "Language/Dialect Name": "সুন্দরগাড়ি" },
+      { "Language/Dialect Name": "সান্তালী" },
+      { "Language/Dialect Name": "হো" },
+      { "Language/Dialect Name": "মুন্দারি" },
+      { "Language/Dialect Name": "কুই" },
+      { "Language/Dialect Name": "খাড়িয়া" },
+      { "Language/Dialect Name": "জুয়াং" },
+      { "Language/Dialect Name": "ভুমিজ" },
+      { "Language/Dialect Name": "বন্ডা" },
+      { "Language/Dialect Name": "গদবা" },
+      { "Language/Dialect Name": "সোরা" },
+      { "Language/Dialect Name": "দেশিয়া" },
+      { "Language/Dialect Name": "ভাত্রী" },
+      { "Language/Dialect Name": "বডো পারজা" }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "মাঝি" },
+      { "Language/Dialect Name": "মালওয়াই" },
+      { "Language/Dialect Name": "ডোয়াবি" },
+      { "Language/Dialect Name": "পুয়াধী" },
+      { "Language/Dialect Name": "বাগড়ী" },
+      { "Language/Dialect Name": "কাঙড়ী" },
+      { "Language/Dialect Name": "ডোগ্রী" },
+      { "Language/Dialect Name": "পাহাড়ী-পোতোয়ারী" },
+      { "Language/Dialect Name": "গোজড়ী" },
+      { "Language/Dialect Name": "সানসী" }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "মারওয়াড়ী" },
+      { "Language/Dialect Name": "মেওয়াড়ী" },
+      { "Language/Dialect Name": "ধুন্ধাড়ী" },
+      { "Language/Dialect Name": "শেখাওয়াতী" },
+      { "Language/Dialect Name": "হারাউতি" },
+      { "Language/Dialect Name": "মেওয়াটি" },
+      { "Language/Dialect Name": "বাগড়ী" },
+      { "Language/Dialect Name": "মালভী" },
+      { "Language/Dialect Name": "ওয়াগডি" },
+      { "Language/Dialect Name": "ভিলি" },
+      { "Language/Dialect Name": "গারাসিয়া" },
+      { "Language/Dialect Name": "গুজরি" },
+      { "Language/Dialect Name": "লামবাদি" },
+      { "Language/Dialect Name": "আহিরওয়াটি" },
+      { "Language/Dialect Name": "গাডে লোহর" }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "নেপালি" },
+      { "Language/Dialect Name": "সিকিমিজ (ভূটিয়া)" },
+      { "Language/Dialect Name": "লেপচা" },
+      { "Language/Dialect Name": "লিম্বু" },
+      { "Language/Dialect Name": "গুরুং" },
+      { "Language/Dialect Name": "মাগার" },
+      { "Language/Dialect Name": "রাই" },
+      { "Language/Dialect Name": "তামাং" },
+      { "Language/Dialect Name": "শের্পা" },
+      { "Language/Dialect Name": "নেওয়ার" },
+      { "Language/Dialect Name": "সুনুয়ার" },
+      { "Language/Dialect Name": "মুখিয়া" }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "তামিল" },
+      { "Language/Dialect Name": "ম্যাড্রাস বশাই" },
+      { "Language/Dialect Name": "কঙ্গু তামিল" },
+      { "Language/Dialect Name": "মাদুরাই তামিল" },
+      { "Language/Dialect Name": "নেল্লাই তামিল" },
+      { "Language/Dialect Name": "কুমারী তামিল" },
+      { "Language/Dialect Name": "আরউই" },
+      { "Language/Dialect Name": "ব্রাহ্মিণ তামিল" },
+      { "Language/Dialect Name": "সাঙ্কেথি" },
+      { "Language/Dialect Name": "বাদাগা" },
+      { "Language/Dialect Name": "ইরুলা" },
+      { "Language/Dialect Name": "তোদা" },
+      { "Language/Dialect Name": "কোটা" },
+      { "Language/Dialect Name": "কুরুম্বা" },
+      { "Language/Dialect Name": "পানিয়া" },
+      { "Language/Dialect Name": "কাত্তুনায়াকান" },
+      { "Language/Dialect Name": "মালয়ালম" },
+      { "Language/Dialect Name": "তেলুগু" },
+      { "Language/Dialect Name": "কান্নড়" },
+      { "Language/Dialect Name": "উর্দু" },
+      { "Language/Dialect Name": "সৌরাষ্ট্র" }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "তেলেঙ্গানা তেলুগু" },
+      { "Language/Dialect Name": "গোন্ডি" },
+      { "Language/Dialect Name": "লামবাদি (বঞ্জারা)" },
+      { "Language/Dialect Name": "কলমি" },
+      { "Language/Dialect Name": "কোয়া" },
+      { "Language/Dialect Name": "চেনচু" },
+      { "Language/Dialect Name": "নাইকি" }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "কোকবরক" },
+      { "Language/Dialect Name": "চাকমা" },
+      { "Language/Dialect Name": "হালাম" },
+      { "Language/Dialect Name": "মোগ" },
+      { "Language/Dialect Name": "গারো" },
+      { "Language/Dialect Name": "বিষ্ণুপ্রিয়া মণিপুরী" },
+      { "Language/Dialect Name": "ম্যানিপুরি (মেইতেই)" },
+      { "Language/Dialect Name": "কুকি-মিজো" },
+      { "Language/Dialect Name": "রিয়াং (ব্রু)" },
+      { "Language/Dialect Name": "মুন্ডা" }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "গড়হালি" },
+      { "Language/Dialect Name": "কুমাওনি" },
+      { "Language/Dialect Name": "জৌনসারি" },
+      { "Language/Dialect Name": "রাঙকাস" },
+      { "Language/Dialect Name": "বায়ংসী" },
+      { "Language/Dialect Name": "চৌডাংগসি" },
+      { "Language/Dialect Name": "দর্মিয়া" },
+      { "Language/Dialect Name": "রাজী" },
+      { "Language/Dialect Name": "রাওয়াত" },
+      { "Language/Dialect Name": "জাদ" },
+      { "Language/Dialect Name": "রংপো" },
+      { "Language/Dialect Name": "বুক্সা" },
+      { "Language/Dialect Name": "থারু" },
+      { "Language/Dialect Name": "ডোটেলি" },
+      { "Language/Dialect Name": "মাহাসু পাহাড়ী" }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "আবাধী" },
+      { "Language/Dialect Name": "ব্রাজ ভাষা" },
+      { "Language/Dialect Name": "বুন্দেলী" },
+      { "Language/Dialect Name": "ভোজপুরী" },
+      { "Language/Dialect Name": "কান্নৌজি" },
+      { "Language/Dialect Name": "বাঘেলী" },
+      { "Language/Dialect Name": "খড়িবলি" },
+      { "Language/Dialect Name": "উর্দু" },
+      { "Language/Dialect Name": "থারু" },
+      { "Language/Dialect Name": "ভোকসা" }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "items": [
+      { "Language/Dialect Name": "বাঙালি" },
+      { "Language/Dialect Name": "রাঢ়ি" },
+      { "Language/Dialect Name": "ভারেন্দ্রী" },
+      { "Language/Dialect Name": "সান্তালী" },
+      { "Language/Dialect Name": "কুর্মালি" },
+      { "Language/Dialect Name": "রাজবংশী" },
+      { "Language/Dialect Name": "সূরজাপুরী" },
+      { "Language/Dialect Name": "মুন্দারি" },
+      { "Language/Dialect Name": "লেপচা" },
+      { "Language/Dialect Name": "ভূটিয়া" },
+      { "Language/Dialect Name": "তত" },
+      { "Language/Dialect Name": "চাকমা" },
+      { "Language/Dialect Name": "নেপালি" },
+      { "Language/Dialect Name": "হিন্দি" },
+      { "Language/Dialect Name": "উর্দু" }
+    ]
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union Territory",
+    "items": [
+      { "Language/Dialect Name": "গ্রেট অ্যান্ডামানিজ" },
+      { "Language/Dialect Name": "অঙ্গান" },
+      { "Language/Dialect Name": "ওঙ্গে" },
+      { "Language/Dialect Name": "জারাওয়া" },
+      { "Language/Dialect Name": "সেন্টিনেলিজ" },
+      { "Language/Dialect Name": "জাঙ্গিল" },
+      { "Language/Dialect Name": "নিকোবারিজ" },
+      { "Language/Dialect Name": "শম্পেন" },
+      { "Language/Dialect Name": "আকা-বিয়া" },
+      { "Language/Dialect Name": "আকা-জেরু" },
+      { "Language/Dialect Name": "আকা-কোরা" },
+      { "Language/Dialect Name": "আকা-বো" },
+      { "Language/Dialect Name": "আকা-ক্যারি" },
+      { "Language/Dialect Name": "আকা-কেদে" },
+      { "Language/Dialect Name": "আকা-কল" },
+      { "Language/Dialect Name": "আকা-পুচিকোয়ার" },
+      { "Language/Dialect Name": "আকার-বালে" },
+      { "Language/Dialect Name": "A-Pucikwar" },
+      { "Language/Dialect Name": "A-Pai" },
+      { "Language/Dialect Name": "আকার-বালে" }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "items": [
+      { "Language/Dialect Name": "হিন্দি" },
+      { "Language/Dialect Name": "পাঞ্জাবি" },
+      { "Language/Dialect Name": "ইংরেজি" },
+      { "Language/Dialect Name": "হারিয়ানভী" },
+      { "Language/Dialect Name": "পুয়াধী" },
+      { "Language/Dialect Name": "হিন্দুস্তানি" },
+      { "Language/Dialect Name": "পুঙ্গ্লিশ" },
+      { "Language/Dialect Name": "হিংগ্লিশ" }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Dama",
+    "type": "Union Territory",
+    "items": [
+      { "Language/Dialect Name": "গুজরাটি" },
+      { "Language/Dialect Name": "মারাঠী" },
+      { "Language/Dialect Name": "হিন্দি" },
+      { "Language/Dialect Name": "ইংরেজি" },
+      { "Language/Dialect Name": "পর্তুগিজ" },
+      { "Language/Dialect Name": "ওয়ারলি" },
+      { "Language/Dialect Name": "ধোডিয়া" },
+      { "Language/Dialect Name": "ভিলি/বিলডোলি" },
+      { "Language/Dialect Name": "কোঙ্কানি" }
+    ]
+  },
+  {
+    "name": "Delhi",
+    "type": "Union Territory",
+    "items": [
+      { "Language/Dialect Name": "খড়িবলি" },
+      { "Language/Dialect Name": "উর্দু" },
+      { "Language/Dialect Name": "ব্রাজ ভাষা" },
+      { "Language/Dialect Name": "হারিয়ানভী" },
+      { "Language/Dialect Name": "পাঞ্জাবি" },
+      { "Language/Dialect Name": "ফারসি" },
+      { "Language/Dialect Name": "রেখতা" }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "Union Territory",
+    "items": [
+      { "Language/Dialect Name": "কাশ্মীরী" },
+      { "Language/Dialect Name": "ডোগ্রী" },
+      { "Language/Dialect Name": "লাদাখী (ভোটি)" },
+      { "Language/Dialect Name": "বলতি" },
+      { "Language/Dialect Name": "শিনা" },
+      { "Language/Dialect Name": "গোজ্রী" },
+      { "Language/Dialect Name": "পাহাড়ী-পোতোয়ারী" },
+      { "Language/Dialect Name": "ভাদরواهী" },
+      { "Language/Dialect Name": "সারাজী" },
+      { "Language/Dialect Name": "বুরুশাস্কি" }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "items": [
+      { "Language/Dialect Name": "লাদাখী (ভোটি)" },
+      { "Language/Dialect Name": "জ্যাংস্কারি" },
+      { "Language/Dialect Name": "চাংথাং" },
+      { "Language/Dialect Name": "বলতি" },
+      { "Language/Dialect Name": "পুর্জি" },
+      { "Language/Dialect Name": "ব্রোকস্কাত" },
+      { "Language/Dialect Name": "শিনা" },
+      { "Language/Dialect Name": "ব্রোক্পা" }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "items": [
+      { "Language/Dialect Name": "জেসেরি (দ্বীপ ভাষা)" },
+      { "Language/Dialect Name": "মাহল" },
+      { "Language/Dialect Name": "মালিকু" },
+      { "Language/Dialect Name": "আরাবি মালয়ালম" }
+    ]
+  },
+  {
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "items": [
+      { "Language/Dialect Name": "তামিল" },
+      { "Language/Dialect Name": "তেলুগু" },
+      { "Language/Dialect Name": "মালয়ালম" },
+      { "Language/Dialect Name": "ফরাসী" },
+      { "Language/Dialect Name": "ইংরেজি" },
+      { "Language/Dialect Name": "তামিল উপভাষা (যেমন, পন্ডিচেরী তামিল)" },
+      { "Language/Dialect Name": "ফরাসী ক্রিওল (যেমন, তামিল-ফরাসী ক্রিওল)" }
+    ]
+  }
+]

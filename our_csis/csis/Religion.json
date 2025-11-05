@@ -1,0 +1,1413 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 90.89% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Andhra_Pradesh"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest religion, constituting 7.30% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Andhra_Pradesh"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Followed by 1.34% of the population, includes various denominations.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Andhra_Pradesh"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Minority faith with historical significance in the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Andhra_Pradesh"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Once prominent, now practiced by a small community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Andhra_Pradesh"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Practiced by a small community, including Sikligar groups.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Andhra_Pradesh"
+      }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Donyi-Polo",
+        "Description": "Indigenous faith worshipping Sun (Donyi) and Moon (Polo).",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Arunachal_Pradesh"
+      },
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Practiced by communities, especially near Assam border.",
+        "Reference Link": "https://www.britannica.com/place/Arunachal-Pradesh/People"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Followed by over 30% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Arunachal_Pradesh"
+      },
+      {
+        "Religion Name": "Tibetan Buddhism",
+        "Description": "Predominant in Tawang and West Kameng districts.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Arunachal_Pradesh"
+      },
+      {
+        "Religion Name": "Theravada Buddhism",
+        "Description": "Practiced by groups near the Myanmar border.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Arunachal_Pradesh"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Minority religion practiced by a small population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Arunachal_Pradesh"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Followed by a small community in the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Arunachal_Pradesh"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Practiced by a very small number of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Arunachal_Pradesh"
+      },
+      {
+        "Religion Name": "Rangfrah",
+        "Description": "Revivalist movement among the Tangsa and Nocte tribes.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Arunachal_Pradesh"
+      }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 61.47% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Assam"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest faith, followed by 34.22% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Assam"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Practiced by 3.7%, significant among tribal communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Assam"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Followed by 0.2%, mainly among certain indigenous groups.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Assam"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Minority religion, adhered to by 0.1% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Assam"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Practiced by 0.1% of residents, with historical presence.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Assam"
+      },
+      {
+        "Religion Name": "Animism",
+        "Description": "Traditional beliefs among tribes like Khamti and Phake.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Assam"
+      }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 82% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Bihar"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest faith, followed by 17.70% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Bihar"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Originated here; Bodh Gaya is a key pilgrimage site.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bodh_Gaya"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Mahavira, the 24th Tirthankara, was born in Vaishali.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Vaishali_(ancient_city)"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Guru Gobind Singh, the 10th Sikh Guru, was born in Patna.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Takht_Sri_Patna_Sahib"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Minority religion with historical presence in the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Christianity_in_Bihar"
+      }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 93.25% of the population.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11368"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest religion, followed by 2.02% of residents.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11368"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Practiced by 1.92%, with notable tribal adherence.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11368"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Minority faith with historical roots in the region.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11368"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Followed by a small segment of the population.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11368"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Practiced by a minority, contributing to cultural diversity.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11368"
+      },
+      {
+        "Religion Name": "Satnami Sect",
+        "Description": "A Hindu sect founded by Guru Ghasidas, opposing caste system.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Religion Name": "Kabirpanth",
+        "Description": "Followers of Kabir's teachings, emphasizing a formless God.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Religion Name": "Ramnami Samaj",
+        "Description": "Devotees of Lord Rama, known for tattooing 'Ram' on their bodies.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 66.1% of Goans.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Goa#Religion"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Second-largest faith, followed by 25.1% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Goa#Religion"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Minority religion, adhered to by 8.3% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Goa#Religion"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Practiced by a small community in Goa.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Goa#Religion"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Followed by a minor segment of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Goa#Religion"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Observed by a small group within the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Goa#Religion"
+      }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Predominant faith, practiced by majority of Gujaratis.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gujarat"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest religion, with a significant Muslim population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gujarat"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Ancient religion with deep roots in Gujarat.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gujarat"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Minority religion with various denominations present.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gujarat"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Practiced by a small community in the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gujarat"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Followed by a minority, including Neo-Buddhists.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gujarat"
+      },
+      {
+        "Religion Name": "Zoroastrianism (Parsi)",
+        "Description": "Practiced by Parsis, who migrated from Persia.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gujarat"
+      },
+      {
+        "Religion Name": "Judaism",
+        "Description": "Small Jewish community present in Gujarat.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gujarat"
+      },
+      {
+        "Religion Name": "Bahá'í Faith",
+        "Description": "Minority religion with a presence in the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gujarat"
+      }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, followed by 87.46% of the population.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11374"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest faith, adhered to by 7.03% of residents.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11374"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Practiced by 4.91% of the population, significant in certain districts.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11374"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Minority religion, followed by 0.20% of the population.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11374"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Adhered to by 0.21% of residents, with historical presence.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11374"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Followed by 0.02% of the population.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11374"
+      },
+      {
+        "Religion Name": "Other Religions & Persuasions",
+        "Description": "Collectively practiced by 0.18% of the population.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11374"
+      }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 95.17% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/2-himachal-pradesh.html"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Minority faith, constituting 2.18% of residents.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/2-himachal-pradesh.html"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Followed by 1.16% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/2-himachal-pradesh.html"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Practiced by 1.15%, especially in Lahaul and Spiti.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/2-himachal-pradesh.html"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Adhered to by 0.18% of the state's inhabitants.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/2-himachal-pradesh.html"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Followed by a small community, about 0.03%.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/2-himachal-pradesh.html"
+      }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, followed by 67.83% of the population.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11378"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest religion, adhered to by 14.53%.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11378"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Practiced by 4.3% of residents, significant among certain communities.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11378"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Followed by a small segment of the population.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11378"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Minority faith contributing to the state's diversity.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11378"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Practiced by a small number of individuals.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11378"
+      }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 84% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Karnataka"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest faith, followed by 13% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Karnataka"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Followed by 1.8% of the population, includes various denominations.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Karnataka"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Practiced by 0.7% of the population, with historical significance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Karnataka"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Followed by 0.2% of residents, with ancient roots in the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Karnataka"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Practiced by a small community in Karnataka.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Karnataka"
+      },
+      {
+        "Religion Name": "Lingayatism",
+        "Description": "A distinct Shaivite tradition with a significant following.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Karnataka"
+      }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 54.73% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Kerala"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest faith, followed by 26.56% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Kerala"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Followed by 18.38%, includes various denominations.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Kerala"
+      },
+      {
+        "Religion Name": "Judaism",
+        "Description": "Ancient community with historical synagogues in Kochi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Kerala"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Minority religion with historical presence in Wayanad.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Kerala"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Once prevalent, now practiced by a small community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Kerala"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Practiced by a small community in the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Kerala"
+      },
+      {
+        "Religion Name": "Zoroastrianism",
+        "Description": "Practiced by a small Parsi community in Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Kerala"
+      }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, followed by 90.9% of the population.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11381"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest faith, adhered to by 6.6% of residents.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11381"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Practiced by 0.8% of the population, with historical significance.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11381"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Followed by 0.3% of the population, with various denominations present.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11381"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Adhered to by 0.2% of residents, with several gurdwaras.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11381"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Practiced by 0.3% of the population, with historical roots.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11381"
+      },
+      {
+        "Religion Name": "Tribal Religions",
+        "Description": "Indigenous faiths practiced by tribal communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tribal_religions_in_India"
+      }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 79.83% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/27-maharashtra.html"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest faith, followed by 11.54% of residents.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/27-maharashtra.html"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Practiced by 5.81%, significant Ambedkarite community.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/27-maharashtra.html"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Followed by 1.25% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/27-maharashtra.html"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Adhered to by 0.96% of the state's inhabitants.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/27-maharashtra.html"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Minority faith, constituting 0.20% of residents.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/27-maharashtra.html"
+      },
+      {
+        "Religion Name": "Zoroastrianism",
+        "Description": "Notable Parsi community, primarily in Mumbai.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Maharashtra"
+      },
+      {
+        "Religion Name": "Judaism",
+        "Description": "Bene Israel community with historical presence.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Maharashtra"
+      }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Sanamahism",
+        "Description": "Indigenous Meitei religion worshipping Lainingthou Sanamahi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Manipur"
+      },
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Practiced by 41.39% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hinduism_in_Manipur"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Followed by 41.29%, predominant among tribal communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Manipur"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Comprises 8.3% of the population, mainly Meitei Pangals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Manipur"
+      },
+      {
+        "Religion Name": "Tingkao Ragwang Chapriak",
+        "Description": "Traditional religion of the Zeliangrong people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tingkao_Ragwang_Chapriak"
+      }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Christianity",
+        "Description": "Majority religion, practiced by ~75% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Christianity_in_Meghalaya"
+      },
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Second-largest faith, followed by ~11.5% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meghalaya#Religion"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Minority religion, adhered to by ~4.4% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meghalaya#Religion"
+      },
+      {
+        "Religion Name": "Niam Khasi",
+        "Description": "Indigenous faith practiced by the Khasi tribe.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indigenous_religions_of_India"
+      },
+      {
+        "Religion Name": "Songsarek",
+        "Description": "Traditional animist religion of the Garo people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indigenous_religions_of_India"
+      },
+      {
+        "Religion Name": "Niamtre",
+        "Description": "Indigenous faith followed by the Jaintia community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indigenous_religions_of_India"
+      }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Christianity",
+        "Description": "Majority faith, practiced by 87% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Christianity_in_Mizoram"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Followed by 8.5%, mainly by Chakma people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizoram"
+      },
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Practiced by 2.75% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizoram"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Minority religion, adhered to by 1.35%.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizoram"
+      },
+      {
+        "Religion Name": "Judaism",
+        "Description": "Practiced by the Bnei Menashe community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_people"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Followed by a small community in the state.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11385"
+      },
+      {
+        "Religion Name": "Sakhua",
+        "Description": "Traditional Mizo religion, practiced by some.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_people"
+      }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Christianity",
+        "Description": "Predominant faith, embraced by 87.93% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/13-nagaland.html"
+      },
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Second-largest religion, practiced by 8.75% of residents.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/13-nagaland.html"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Minority faith, followed by 2.47% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/13-nagaland.html"
+      },
+      {
+        "Religion Name": "Indigenous Animism",
+        "Description": "Traditional beliefs focusing on nature worship.",
+        "Reference Link": "https://indianexpress.com/article/north-east-india/nagaland/in-christian-nagaland-indigenous-religion-of-pre-christian-nagas-withstand-test-of-time-5010777/"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Practiced by a small community within the state.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/13-nagaland.html"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Followed by a minor segment of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/13-nagaland.html"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Observed by a very small community in Nagaland.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/13-nagaland.html"
+      }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 93.63% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hinduism_in_Odisha"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Followed by 2.17% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Odisha#Demographics"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Adhered to by 2.77% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Odisha#Demographics"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Historical significance; minor presence today.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Historical roots; minimal contemporary following.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Practiced by 0.05% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Odisha#Demographics"
+      },
+      {
+        "Religion Name": "Sarnaism",
+        "Description": "Indigenous faith among tribal communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Odisha#Demographics"
+      }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Dominant faith, followed by 57.69% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Punjab,_India"
+      },
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Second-largest religion, practiced by 38.49% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Punjab,_India"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Minority religion, constituting 1.93% of the populace.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Punjab,_India"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Followed by 1.26% of the state's inhabitants.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Punjab,_India"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Practiced by 0.16% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Punjab,_India"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Adhered to by a small community in the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Punjab,_India"
+      }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 88.49% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Rajasthan"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest faith, followed by 9.07% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Rajasthan"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Practiced by 1.27% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Rajasthan"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Followed by 0.91% of residents; significant historical influence.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Rajasthan"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Minority religion, adhered to by 0.14% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Rajasthan"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Practiced by a small community in the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Rajasthan"
+      }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, followed by 57.76% of the population.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11391"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Second-largest faith, adhered to by 27.39%.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11391"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Practiced by 9.91% of residents.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11391"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Minority religion, constituting 1.62%.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11391"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Followed by 0.31% of the population.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11391"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Adhered to by 0.05% of residents.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11391"
+      },
+      {
+        "Religion Name": "Traditional Religions",
+        "Description": "Practiced by 2.67%, including animist beliefs.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11391"
+      }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Predominant religion, followed by 87.6% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Tamil_Nadu"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Largest minority religion, accounting for 6.1% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Tamil_Nadu"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Practiced by 5.9% of the state's population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Tamil_Nadu"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Followed by a small community, about 0.12%.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Tamil_Nadu"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Adhered to by approximately 0.02% of people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Tamil_Nadu"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Observed by a minor segment, around 0.02%.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Tamil_Nadu"
+      }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 85.1% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Demographics_of_Telangana"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest faith, followed by 12.7% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Demographics_of_Telangana"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Adhered to by 1.3% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Demographics_of_Telangana"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Historical significance; minimal contemporary following.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Telangana"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Practiced by a small community within the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Demographics_of_Telangana"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Followed by a minor segment of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Demographics_of_Telangana"
+      }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority faith, followed by 83.40% of the population.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11393"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest religion, practiced by 8.60% of residents.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11393"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Followed by 4.35% of the population, mainly among indigenous communities.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11393"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Adhered to by 3.41%, particularly among certain tribal groups.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11393"
+      }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, deeply tied to Char Dham temples and pilgrimage traditions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Uttarakhand"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest faith, followed by a minority population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Uttarakhand"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Practiced by a significant community, linked to Hemkund Sahib.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Uttarakhand"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Followed by a small population, with churches in major towns.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Uttarakhand"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Practiced by Tibetan communities in areas like Dehradun.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Uttarakhand"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Followed by a small community, with historical presence.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Uttarakhand"
+      }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 79.7% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Demographics_of_Uttar_Pradesh"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest faith, followed by 19.3% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Demographics_of_Uttar_Pradesh"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Minority religion, adhered to by 0.2% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Demographics_of_Uttar_Pradesh"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Practiced by 0.3% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Demographics_of_Uttar_Pradesh"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Followed by 0.1% of residents; significant historical influence.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Demographics_of_Uttar_Pradesh"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Practiced by 0.1% of the population; Sarnath is a key pilgrimage site.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Demographics_of_Uttar_Pradesh"
+      }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 70.54% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_West_Bengal"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest faith, followed by 27.01% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_West_Bengal"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Practiced by 0.72% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_West_Bengal"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Followed by 0.31% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_West_Bengal"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Adhered to by 0.07% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_West_Bengal"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Observed by 0.06% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_West_Bengal"
+      },
+      {
+        "Religion Name": "Animism",
+        "Description": "Practiced by some indigenous tribal communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_West_Bengal"
+      }
+    ]
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority faith, practiced by 69.45% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/35-andaman-and-nicobar-islands.html"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Followed by 21.7% of residents, significant in Nicobar Islands.",
+        "Reference Link": "https://www.britannica.com/place/Andaman-and-Nicobar-Islands"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Practiced by 8.5% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/35-andaman-and-nicobar-islands.html"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Minority religion with a small community presence.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Followed by a small segment of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Practiced by a very small community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands"
+      },
+      {
+        "Religion Name": "Baháʼí Faith",
+        "Description": "Observed by a minor segment of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Andaman_Islands"
+      }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, followed by 80.78% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/117-chandigarh.html"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Second-largest faith, practiced by 13.11% of residents.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/117-chandigarh.html"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Followed by 4.87% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/117-chandigarh.html"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Adhered to by 0.83% of inhabitants.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/117-chandigarh.html"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Practiced by 0.19% of the populace.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/117-chandigarh.html"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Observed by 0.11% of residents.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/117-chandigarh.html"
+      },
+      {
+        "Religion Name": "Others",
+        "Description": "Minor faiths constituting 0.02% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/117-chandigarh.html"
+      }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Dama",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 93.93% in Dadra and Nagar Haveli.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/177-dadra-and-nagar-haveli.html"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Minority faith, followed by 3.76% in Dadra and Nagar Haveli.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/177-dadra-and-nagar-haveli.html"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Reflects Portuguese influence; 1.49% in Dadra and Nagar Haveli.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/177-dadra-and-nagar-haveli.html"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Practiced by 0.35% in Dadra and Nagar Haveli.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/177-dadra-and-nagar-haveli.html"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Followed by 0.18% in Dadra and Nagar Haveli.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/177-dadra-and-nagar-haveli.html"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Adhered to by 0.06% in Dadra and Nagar Haveli.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/177-dadra-and-nagar-haveli.html"
+      }
+    ]
+  },
+  {
+    "name": "Delhi",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 81.68% of Delhi's population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hinduism_in_Delhi"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Second-largest faith, followed by 12.86% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Delhi#Demographics"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Practiced by 3.40% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Delhi#Demographics"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Adhered to by 0.87% of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Delhi#Demographics"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Followed by 0.99% of the population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Delhi#Demographics"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Practiced by 0.11% of Delhi's residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Delhi#Demographics"
+      },
+      {
+        "Religion Name": "Zoroastrianism",
+        "Description": "Minority religion with a small community in Delhi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Delhi#Demographics"
+      },
+      {
+        "Religion Name": "Baháʼí Faith",
+        "Description": "Notable presence with the Lotus Temple in Delhi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lotus_Temple"
+      }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "Islam",
+        "Description": "Majority religion, practiced by 68.31% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/1-jammu-and-kashmir.html"
+      },
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Second-largest faith, followed by 28.44% of residents.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/1-jammu-and-kashmir.html"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Practiced by 1.87% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/1-jammu-and-kashmir.html"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Followed by 0.90% of residents, mainly in Ladakh.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/1-jammu-and-kashmir.html"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Minority religion, adhered to by 0.28% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/1-jammu-and-kashmir.html"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Observed by 0.02% of residents.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/state/1-jammu-and-kashmir.html"
+      }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Predominant in central and eastern regions.",
+        "Reference Link": "https://www.jktdc.co.in/info.aspx?id=143"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Mainly Shia, prevalent in western areas.",
+        "Reference Link": "https://www.jktdc.co.in/info.aspx?id=143"
+      },
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Practiced by a minority community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ladakh"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Followed by a small group in Leh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ladakh"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Observed by a minor segment of residents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ladakh"
+      },
+      {
+        "Religion Name": "Bon",
+        "Description": "Ancient animistic faith influencing local traditions.",
+        "Reference Link": "https://www.lehladakhtourism.com/about-ladakh/ladakh-religion.html"
+      }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "Islam",
+        "Description": "Dominant religion, practiced by 96.58% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/587-lakshadweep.html"
+      },
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Minority faith, followed by 2.77% of residents.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/587-lakshadweep.html"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Practiced by 0.49% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/587-lakshadweep.html"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Observed by 0.01% of inhabitants.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/587-lakshadweep.html"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Followed by 0.02% of the population.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/587-lakshadweep.html"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Adhered to by 0.02% of residents.",
+        "Reference Link": "https://www.census2011.co.in/data/religion/district/587-lakshadweep.html"
+      }
+    ]
+  },
+  {
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "Hinduism",
+        "Description": "Majority religion, practiced by 87.3% of the population.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11388"
+      },
+      {
+        "Religion Name": "Christianity",
+        "Description": "Significant minority, accounting for 6.3%; reflects French colonial influence.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11388"
+      },
+      {
+        "Religion Name": "Islam",
+        "Description": "Practiced by 6.1% of residents.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11388"
+      },
+      {
+        "Religion Name": "Sikhism",
+        "Description": "Followed by a small community.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11388"
+      },
+      {
+        "Religion Name": "Buddhism",
+        "Description": "Adhered to by a minor segment.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11388"
+      },
+      {
+        "Religion Name": "Jainism",
+        "Description": "Observed by a small group.",
+        "Reference Link": "https://censusindia.gov.in/nada/index.php/catalog/11388"
+      }
+    ]
+  }
+]

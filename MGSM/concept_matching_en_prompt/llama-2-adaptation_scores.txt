@@ -1,0 +1,64 @@
+{
+  "dataset_statistics": {
+    "total_sentences": 4,
+    "entries_with_replacements": 4,
+    "total_strict_matches": 0,
+    "total_singular_plural_matches": 0,
+    "average_strict_match_per_sentence": 0.0,
+    "average_singular_plural_match_per_sentence": 0.0
+  },
+  "detailed_scores": [
+    {
+      "adapted_text": "Ramesh saw 2 parathas on TV at 8:00 am and bought them at \u20b9830 per paratha. How much money did he spend on TVs in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "parathas",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought 3 muffins for \u20b9830 and gave 2 to his friend. How much money did he spend per muffin?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "parathas",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought 8 parathas for \u20b9830 and gave 2 to his friend. How much money did he spend per paratha?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "parathas",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought 6 parathas from Rabindranath's shop. Ramesh's shop has 24 candies, and Rabindranath's shop has 32 candies. If Ramesh's shop has 54 candies, how many candies does Ramesh have from Rabindranath's shop?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "parathas",
+        "\u20b9830"
+      ]
+    }
+  ]
+}

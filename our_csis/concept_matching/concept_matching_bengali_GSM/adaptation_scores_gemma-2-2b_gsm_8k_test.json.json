@@ -1,0 +1,120 @@
+{
+  "dataset_statistics": {
+    "total_sentences": 6,
+    "entries_with_replacements": 6,
+    "total_strict_matches": 0,
+    "total_singular_plural_matches": 0,
+    "total_fuzzy_matches": 3,
+    "average_strict_match_per_sentence": 0.0,
+    "average_singular_plural_match_per_sentence": 0.0,
+    "average_fuzzy_match_per_sentence": 0.5
+  },
+  "detailed_scores": [
+    {
+      "adapted_text": "ক্যারলিন একটা ডেলিভারি সার্ভিস কোম্পানির কর্মী যা চাকরি ভিত্তিতে নিয়োগ করে। মে মাসে তারা ৪০ জন কর্মী নিয়োগ করে, প্রতি কর্মীকে ৪০ ঘন্টার কাজের জন্য ৳১৫ করে। জুন মাসে কর্মীদের ৪০% চাকরি বন্ধ হয়ে গেছে। দুই মাসে কোম্পানিটি কর্মীদের জন্য কত টাকা খরচ করেছে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জু"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "মে",
+        "জুন",
+        "ক্যারলিন",
+        "৳১৫",
+        "৪০"
+      ]
+    },
+    {
+      "adapted_text": "সেসিলিয়া দিমের মালিকানা দিয়ে গ্যালন জার খোলেন এবং জানতে পারেন যে এক গ্যালন জারের দাম এক হারের জারের দামের চেয়ে $2 বেশি। যদি এক গ্যালন জারের দাম $5 হয়, তাহলে তিনি 10 গ্যালন জার এবং 16 হারের জারের মূল্য কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গ্যালন",
+        "হার",
+        "৫ টাকা",
+        "সেসিলিয়া"
+      ]
+    },
+    {
+      "adapted_text": " Dijana এবং আনিসেরা একটা নদী  প্রাচীরের  পার্শ্ববর্তী, এবং সকালে সকালে  নদীতে  ব্রিজ করে।  দিনের  কালে   Dijana  50 মাইল  ব্রিজ করে। আনিস   Dijana  এক  কোন  দিনের  ব্রিজ করে।  ব্রিজ  কোন  দিনের  ব্রিজ করে।",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "কালিরে"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "dijana",
+        "কালে",
+        "নদী",
+        "দিন",
+        "মাইল"
+      ]
+    },
+    {
+      "adapted_text": "মার্কাসের বয়স লোয়ের হারের হিসাবে এবং দেয়ানার চেয়ে পাঁচ বছর কম। দেয়ানার বয়স 26। লোয়ের বয়স কত?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মার্কাস",
+        "লোয়",
+        "দেয়ানা"
+      ]
+    },
+    {
+      "adapted_text": "রোমওয়ের 120 জন লোকের ট্রেনে য boarded। প্রথম স্টপে 20 জন আর য boarded। দ্বিতীয় স্টপে 50 জন ট্রেনে বের হয়ে যায়, এবং দুইবার তা পরিবর্তন করে ঠিক য boarded। তৃতীয় স্টপে 80 জন আর বের হয়ে যায়, তাহলে শেষ স্টপে কত লোক থাকবে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জূন"
+      ],
+      "total_replaced_words": 9,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.1111111111111111,
+      "replaced_words": [
+        "জন য boarded",
+        "কোন লোক",
+        "তৃতীয় স্টপ",
+        "জন বের হয়ে যায়",
+        "রোমওয়ের",
+        "ট্রেন",
+        "প্রথম স্টপ",
+        "জন",
+        "দ্বিতীয় স্টপ"
+      ]
+    },
+    {
+      "adapted_text": "লিয়াম এখন 16 বছর বয়সে। দুই বছর আগে, লিয়ামের বয়স ভিনসের বয়সের দ্বিগুণ ছিল। ভিনস এখন কত বয়সে?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "লিয়াম",
+        "ভিনস"
+      ]
+    }
+  ]
+}

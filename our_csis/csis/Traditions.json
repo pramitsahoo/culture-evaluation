@@ -1,0 +1,2733 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Mangala Snanam",
+        "Description": "A purifying holy bath taken by the bride and groom on the wedding day.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telugu_wedding_ceremony"
+      },
+      {
+        "Tradition": "Gauri Puja",
+        "Description": "Pre-wedding ritual where the bride offers prayers to Goddess Gauri for blessings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telugu_wedding_ceremony"
+      },
+      {
+        "Tradition": "Kanyadaanam",
+        "Description": "The bride's parents formally give their daughter's hand to the groom.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telugu_wedding_ceremony"
+      },
+      {
+        "Tradition": "Jeelakarra-Bellam",
+        "Description": "Ritual where the couple places cumin and jaggery paste on each other's heads, symbolizing unity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telugu_wedding_ceremony"
+      },
+      {
+        "Tradition": "Mangalsutra Dharana",
+        "Description": "The groom ties a sacred necklace around the bride's neck, signifying marriage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telugu_wedding_ceremony"
+      },
+      {
+        "Tradition": "Saptapadi",
+        "Description": "The couple takes seven steps around the sacred fire, making vows.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telugu_wedding_ceremony"
+      },
+      {
+        "Tradition": "Grihapravesham",
+        "Description": "The bride's ceremonial entry into the groom's home post-wedding.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telugu_wedding_ceremony"
+      },
+      {
+        "Tradition": "Satyanarayana Vratam",
+        "Description": "A post-wedding ritual where the couple performs a puja seeking divine blessings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telugu_wedding_ceremony"
+      },
+      {
+        "Tradition": "Appagintalu",
+        "Description": "Ceremony marking the bride's formal send-off from her family to the groom's.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telugu_wedding_ceremony"
+      },
+      {
+        "Tradition": "Arundhati Nakshatram",
+        "Description": "The couple is shown the Arundhati star, symbolizing an ideal marital relationship.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telugu_wedding_ceremony"
+      },
+      {
+        "Tradition": "Pellikuturu Ceremony",
+        "Description": "Pre-wedding event where the bride is anointed with turmeric paste for purification.",
+        "Reference Link": "https://www.weddingbazaar.com/blog/andhra-reddy-wedding-rituals"
+      },
+      {
+        "Tradition": "Snathakam",
+        "Description": "A ritual where the groom wears a silver thread, signifying the transition to household responsibilities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telugu_wedding_ceremony"
+      },
+      {
+        "Tradition": "Kondapalli Toys",
+        "Description": "Handcrafted wooden toys from Kondapalli village, showcasing traditional artisanship.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Andhra_Pradesh"
+      },
+      {
+        "Tradition": "Etikoppaka Toys",
+        "Description": "Lacquered wooden toys known for vibrant colors, originating from Etikoppaka.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Andhra_Pradesh"
+      },
+      {
+        "Tradition": "Kalamkari Art",
+        "Description": "Ancient textile art involving hand-painted or block-printed designs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Andhra_Pradesh"
+      },
+      {
+        "Tradition": "Durgi Stone Craft",
+        "Description": "Stone carvings from Durgi village, reflecting intricate craftsmanship.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Andhra_Pradesh"
+      },
+      {
+        "Tradition": "Lepakshi Handicrafts",
+        "Description": "Artisan products ranging from textiles to sculptures, embodying regional art forms.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Andhra_Pradesh"
+      },
+      {
+        "Tradition": "Avakaya",
+        "Description": "A spicy mango pickle integral to Andhra cuisine.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Andhra_Pradesh"
+      },
+      {
+        "Tradition": "Gongura Pachadi",
+        "Description": "A tangy chutney made from sorrel leaves, staple in Andhra meals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Andhra_Pradesh"
+      },
+      {
+        "Tradition": "Pulihora",
+        "Description": "Tamarind-flavored rice dish served during special occasions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Andhra_Pradesh"
+      },
+      {
+        "Tradition": "Pappu Charu",
+        "Description": "A lentil-based stew accompanying rice in traditional meals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Andhra_Pradesh"
+      },
+      {
+        "Tradition": "Pootharekulu",
+        "Description": "Delicate sweet made from rice starch, known as 'paper sweet'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Andhra_Pradesh"
+      },
+      {
+        "Tradition": "Chekka Bhajana",
+        "Description": "Devotional practice involving rhythmic clapping, performed in groups.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chekka_Bhajana"
+      },
+      {
+        "Tradition": "Tholu Bommalata",
+        "Description": "Traditional shadow puppetry art form narrating epic stories.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tholu_Bommalata"
+      },
+      {
+        "Tradition": "Oggu Katha",
+        "Description": "Folk storytelling tradition accompanied by music and dance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Oggu_Katha"
+      },
+      {
+        "Tradition": "Puli Vesham",
+        "Description": "Folk art where performers paint themselves as tigers, showcasing valor.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Puli_Vesham"
+      },
+      {
+        "Tradition": "Perini Sivatandavam",
+        "Description": "Ancient dance dedicated to Lord Shiva, performed by warriors.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Perini_Sivatandavam"
+      },
+      {
+        "Tradition": "Lambadi Dance",
+        "Description": "Traditional dance of the Banjara community, reflecting their culture.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lambadi"
+      },
+      {
+        "Tradition": "Dhimsa",
+        "Description": "Tribal dance expressing joy and unity, prevalent in tribal communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dhimsa"
+      },
+      {
+        "Tradition": "Koya Dance",
+        "Description": "Folk dance of the Koya tribe, performed during communal gatherings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Koya_people"
+      },
+      {
+        "Tradition": "Kolattam",
+        "Description": "Stick dance symbolizing communal harmony, performed during celebrations.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kolattam"
+      }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Shamanistic Practices",
+        "Description": "Shamans act as healers and spiritual mediators.",
+        "Reference Link": "https://en.wikipedia.org/wiki/National_List_for_Intangible_Cultural_Heritage"
+      },
+      {
+        "Tradition": "Funeral Rites of Idu Mishmi",
+        "Description": "Unique rituals guiding the departed's soul.",
+        "Reference Link": "https://en.wikipedia.org/wiki/National_List_for_Intangible_Cultural_Heritage"
+      },
+      {
+        "Tradition": "Bulyañ",
+        "Description": "Traditional village councils of the Apatani tribe.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Apatani_people"
+      },
+      {
+        "Tradition": "Nyibu",
+        "Description": "Priesthood institution among the Tani tribes.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nyishi_people"
+      },
+      {
+        "Tradition": "Animal Sacrifice",
+        "Description": "Offering animals to deities for prosperity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nyokum"
+      },
+      {
+        "Tradition": "Tattooing",
+        "Description": "Permanent body markings signifying identity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Apatani_people"
+      },
+      {
+        "Tradition": "Wood Carving",
+        "Description": "Crafting wooden masks and religious items.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Monpa_people"
+      },
+      {
+        "Tradition": "Bamboo and Cane Craftsmanship",
+        "Description": "Creating baskets, mats, and tools.",
+        "Reference Link": "https://www.apricous.com/travelogue/exploring-the-rich-culture-and-traditions-of-the-mishmi-tribes"
+      },
+      {
+        "Tradition": "Apong Preparation",
+        "Description": "Traditional rice beer brewing method.",
+        "Reference Link": "https://www.arunachalonline.in/guide/culture-of-arunachal-pradesh"
+      },
+      {
+        "Tradition": "Terrace Farming",
+        "Description": "Stepped agriculture on hilly terrains.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Apatani_people"
+      },
+      {
+        "Tradition": "Gompa Worship",
+        "Description": "Buddhist monastery rituals by Monpa tribe.",
+        "Reference Link": "https://westkameng.nic.in/culture-heritage/"
+      },
+      {
+        "Tradition": "Marriage Rituals",
+        "Description": "Extended ceremonies fostering family bonds.",
+        "Reference Link": "https://www.tripoto.com/arunachal-pradesh/trips/arunachal-pradesh-culture-traditions-craft-and-food-of-arunachal-pradesh-61bb00a0e9a8c"
+      },
+      {
+        "Tradition": "Traditional Healing",
+        "Description": "Use of herbs and rituals for ailments.",
+        "Reference Link": "https://en.wikipedia.org/wiki/National_List_for_Intangible_Cultural_Heritage"
+      },
+      {
+        "Tradition": "Oral Storytelling",
+        "Description": "Preserving history through spoken tales.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Galo_people"
+      },
+      {
+        "Tradition": "Agricultural Rituals",
+        "Description": "Ceremonies ensuring bountiful harvests.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nyokum"
+      }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Tamul Paan",
+        "Description": "Offering of betel nut and leaves in ceremonies.",
+        "Reference Link": "https://assam.gov.in/about-us/culture-assam"
+      },
+      {
+        "Tradition": "Xorai",
+        "Description": "Bell-metal tray used in respectful offerings.",
+        "Reference Link": "https://assam.gov.in/about-us/culture-assam"
+      },
+      {
+        "Tradition": "Gamosa",
+        "Description": "White cloth with red border, symbolizing Assamese culture.",
+        "Reference Link": "https://assam.gov.in/about-us/culture-assam"
+      },
+      {
+        "Tradition": "Ai Soba",
+        "Description": "Worship of forefathers by Thengal Kachari community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thengal_Kachari_people"
+      },
+      {
+        "Tradition": "Apeswari Soba",
+        "Description": "Ritualistic worship of deities among Thengal Kacharis.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thengal_Kachari_people"
+      },
+      {
+        "Tradition": "Mritakok Diya",
+        "Description": "Offering to the deceased in Thengal Kachari tradition.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thengal_Kachari_people"
+      },
+      {
+        "Tradition": "Jakh-Jakhini Puja",
+        "Description": "Spirit worship practiced by Thengal Kacharis.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thengal_Kachari_people"
+      },
+      {
+        "Tradition": "Ga Dangoria Puja",
+        "Description": "Village deity worship among Thengal Kacharis.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thengal_Kachari_people"
+      },
+      {
+        "Tradition": "Bhitar Sokam",
+        "Description": "Inner sanctum rituals in Thengal Kachari culture.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thengal_Kachari_people"
+      },
+      {
+        "Tradition": "Sani Gharar Sawul",
+        "Description": "Household rituals observed by Thengal Kacharis.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thengal_Kachari_people"
+      },
+      {
+        "Tradition": "Jal Debota Puja",
+        "Description": "Water deity worship in Thengal Kachari tradition.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thengal_Kachari_people"
+      },
+      {
+        "Tradition": "Lakhimi Sal",
+        "Description": "Ritual for prosperity among Thengal Kacharis.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thengal_Kachari_people"
+      },
+      {
+        "Tradition": "Tupula Bandha",
+        "Description": "Traditional practice related to food preservation.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thengal_Kachari_people"
+      },
+      {
+        "Tradition": "Pir Diya",
+        "Description": "Offering to spirits in Thengal Kachari culture.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thengal_Kachari_people"
+      },
+      {
+        "Tradition": "Jun Beel Mela",
+        "Description": "Traditional fair featuring barter system.",
+        "Reference Link": "https://en.wikipedia.org/wiki/National_List_for_Intangible_Cultural_Heritage"
+      },
+      {
+        "Tradition": "Pachoti",
+        "Description": "Folk festival celebrated on the fifth day of a child's birth.",
+        "Reference Link": "https://en.wikipedia.org/wiki/National_List_for_Intangible_Cultural_Heritage"
+      },
+      {
+        "Tradition": "Deepor Beel Folklore",
+        "Description": "Customs and rituals associated with Deepor Beel wetland.",
+        "Reference Link": "https://en.wikipedia.org/wiki/National_List_for_Intangible_Cultural_Heritage"
+      }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Chhath Puja Rituals",
+        "Description": "Devotees observe fasting and offer prayers to the Sun God at riverbanks.",
+        "Reference Link": "https://www.hidmc.com/blog-posts/bihars-cultural-heritage-a-journey-through-history-and-art"
+      },
+      {
+        "Tradition": "Haldi Kutai Ceremony",
+        "Description": "Turmeric paste sent by groom's family is applied to the bride.",
+        "Reference Link": "https://qpidindia.in/bihari-wedding-ritals"
+      },
+      {
+        "Tradition": "Tilak Ceremony",
+        "Description": "Bride's brother visits groom's home with gifts and blessings.",
+        "Reference Link": "https://qpidindia.in/bihari-wedding-ritals"
+      },
+      {
+        "Tradition": "Mandappachadan",
+        "Description": "Setting up the wedding holy place before marriage rituals.",
+        "Reference Link": "https://blog.matrimilan.com/discover-beautiful-bihar-wedding-traditions-customs/"
+      },
+      {
+        "Tradition": "Silpoha",
+        "Description": "Rice crushing custom performed during pre-wedding ceremonies.",
+        "Reference Link": "https://blog.matrimilan.com/discover-beautiful-bihar-wedding-traditions-customs/"
+      },
+      {
+        "Tradition": "Imli Ghutai",
+        "Description": "Ritual to ward off evil eye before wedding.",
+        "Reference Link": "https://blog.matrimilan.com/discover-beautiful-bihar-wedding-traditions-customs/"
+      },
+      {
+        "Tradition": "Pitri Paksha Mela",
+        "Description": "Pilgrims offer pinda to honor ancestors in Gaya.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bihari_culture"
+      },
+      {
+        "Tradition": "Sonepur Mela",
+        "Description": "Asia's largest cattle fair held at the confluence of Ganges and Gandak.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bihari_culture"
+      },
+      {
+        "Tradition": "Shravani Mela",
+        "Description": "Month-long observance where pilgrims walk barefoot to Deoghar.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bihari_culture"
+      },
+      {
+        "Tradition": "Jitiya",
+        "Description": "Mothers fast without water for their children's well-being.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jitiya"
+      },
+      {
+        "Tradition": "Manasa Puja",
+        "Description": "Worship of Goddess Manasa, the serpent deity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Angika"
+      },
+      {
+        "Tradition": "Paag Headgear Tradition",
+        "Description": "Men wear Paag as a symbol of honor and respect.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mithila_culture"
+      },
+      {
+        "Tradition": "Madhubani Painting",
+        "Description": "Traditional art form depicting nature and mythology.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bihari_culture"
+      },
+      {
+        "Tradition": "Manjusha Art",
+        "Description": "Temple-shaped boxes used in Bishahari puja.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Angika"
+      }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Chudi Pahanana",
+        "Description": "Women-initiated marriage termination custom.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Tradition": "Witchcraft Accusation",
+        "Description": "Belief in witchcraft leading to social ostracism.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Tradition": "Ear Piercing (Kan Bedhi)",
+        "Description": "Traditional ear-piercing ceremony for children.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chik_Baraik"
+      },
+      {
+        "Tradition": "Clan Exogamy",
+        "Description": "Marriage practice avoiding same-clan unions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chik_Baraik"
+      },
+      {
+        "Tradition": "Masna Burial",
+        "Description": "Traditional burial practice with head towards north.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chik_Baraik"
+      },
+      {
+        "Tradition": "Bride Price",
+        "Description": "Groom's family pays a sum to bride's family.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chik_Baraik"
+      }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Siolim Zagor",
+        "Description": "All-night folk theatre by both Hindus and Christians.",
+        "Reference Link": "https://www.sahapedia.org/glimpses-goa-fusion-indo-portuguese-culture"
+      },
+      {
+        "Tradition": "Konsanche Fest",
+        "Description": "Harvest celebration involving offering first crops at church.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Taleig%C3%A3o"
+      },
+      {
+        "Tradition": "Chorutsav",
+        "Description": "Unique ritual involving walking on hot embers.",
+        "Reference Link": "https://www.gomantaktimes.com/my-goa/art-culture/these-spine-chilling-rituals-and-traditions-are-unique-to-goa"
+      },
+      {
+        "Tradition": "Sheni Uzzo",
+        "Description": "Traditional practice of partial burial as a ritual.",
+        "Reference Link": "https://www.gomantaktimes.com/my-goa/art-culture/these-spine-chilling-rituals-and-traditions-are-unique-to-goa"
+      },
+      {
+        "Tradition": "Homkund",
+        "Description": "Fire ritual performed with specific religious significance.",
+        "Reference Link": "https://www.gomantaktimes.com/my-goa/art-culture/these-spine-chilling-rituals-and-traditions-are-unique-to-goa"
+      },
+      {
+        "Tradition": "Ghumat Aarti",
+        "Description": "Devotional songs accompanied by the ghumat drum.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Goa"
+      },
+      {
+        "Tradition": "Zoti",
+        "Description": "Traditional practice of offering cucumbers during monsoon.",
+        "Reference Link": "https://aratigoa.wordpress.com/2024/06/20/understanding-goas-ecology-through-rituals-and-festivals/"
+      },
+      {
+        "Tradition": "Siesta",
+        "Description": "Afternoon rest period reflecting Goan lifestyle.",
+        "Reference Link": "https://www.ft.com/content/686d0c8c-6720-456d-8804-56138a263d04"
+      },
+      {
+        "Tradition": "Susegad",
+        "Description": "Philosophy of relaxed and contented living.",
+        "Reference Link": "https://www.thetimes.co.uk/article/goa-cn7r7rfbn"
+      },
+      {
+        "Tradition": "Matov",
+        "Description": "Traditional temporary shelters built during harvest.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Goa"
+      },
+      {
+        "Tradition": "Bebinca Preparation",
+        "Description": "Layered dessert made during special occasions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Goa"
+      },
+      {
+        "Tradition": "Feni Distillation",
+        "Description": "Traditional process of making cashew or coconut liquor.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Goa"
+      },
+      {
+        "Tradition": "Toddy Tapping",
+        "Description": "Collecting sap from palm trees for fermentation.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Goa"
+      },
+      {
+        "Tradition": "Kunbi Weaving",
+        "Description": "Crafting traditional sarees by the Kunbi tribe.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Goa"
+      },
+      {
+        "Tradition": "Konkani Language",
+        "Description": "Native language rich in Indo-Portuguese influence.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Goa"
+      },
+      {
+        "Tradition": "Siolim Zagor",
+        "Description": "All-night folk theatre by both Hindus and Christians.",
+        "Reference Link": "https://www.sahapedia.org/glimpses-goa-fusion-indo-portuguese-culture"
+      },
+      {
+        "Tradition": "Konsanche Fest",
+        "Description": "Harvest celebration involving offering first crops at church.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Taleig%C3%A3o"
+      },
+      {
+        "Tradition": "Chorutsav",
+        "Description": "Unique ritual involving walking on hot embers.",
+        "Reference Link": "https://www.gomantaktimes.com/my-goa/art-culture/these-spine-chilling-rituals-and-traditions-are-unique-to-goa"
+      },
+      {
+        "Tradition": "Sheni Uzzo",
+        "Description": "Traditional practice of partial burial as a ritual.",
+        "Reference Link": "https://www.gomantaktimes.com/my-goa/art-culture/these-spine-chilling-rituals-and-traditions-are-unique-to-goa"
+      },
+      {
+        "Tradition": "Homkund",
+        "Description": "Fire ritual performed with specific religious significance.",
+        "Reference Link": "https://www.gomantaktimes.com/my-goa/art-culture/these-spine-chilling-rituals-and-traditions-are-unique-to-goa"
+      },
+      {
+        "Tradition": "Ghumat Aarti",
+        "Description": "Devotional songs accompanied by the ghumat drum.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Goa"
+      },
+      {
+        "Tradition": "Zoti",
+        "Description": "Traditional practice of offering cucumbers during monsoon.",
+        "Reference Link": "https://aratigoa.wordpress.com/2024/06/20/understanding-goas-ecology-through-rituals-and-festivals/"
+      },
+      {
+        "Tradition": "Siesta",
+        "Description": "Afternoon rest period reflecting Goan lifestyle.",
+        "Reference Link": "https://www.ft.com/content/686d0c8c-6720-456d-8804-56138a263d04"
+      },
+      {
+        "Tradition": "Susegad",
+        "Description": "Philosophy of relaxed and contented living.",
+        "Reference Link": "https://www.thetimes.co.uk/article/goa-cn7r7rfbn"
+      },
+      {
+        "Tradition": "Matov",
+        "Description": "Traditional temporary shelters built during harvest.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Goa"
+      },
+      {
+        "Tradition": "Bebinca Preparation",
+        "Description": "Layered dessert made during special occasions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Goa"
+      },
+      {
+        "Tradition": "Feni Distillation",
+        "Description": "Traditional process of making cashew or coconut liquor.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Goa"
+      },
+      {
+        "Tradition": "Toddy Tapping",
+        "Description": "Collecting sap from palm trees for fermentation.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Goa"
+      },
+      {
+        "Tradition": "Kunbi Weaving",
+        "Description": "Crafting traditional sarees by the Kunbi tribe.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Goa"
+      },
+      {
+        "Tradition": "Konkani Language",
+        "Description": "Native language rich in Indo-Portuguese influence.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Goa"
+      }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Gol Dhana",
+        "Description": "Pre-wedding ceremony exchanging jaggery and coriander seeds.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Gujarat"
+      },
+      {
+        "Tradition": "Chandlo Matli",
+        "Description": "Engagement ritual where bride's father applies a red mark on groom's forehead.",
+        "Reference Link": "https://www.kalkifashion.com/blogs/an-ultimate-guide-to-gujarati-wedding-traditions-rituals-more/"
+      },
+      {
+        "Tradition": "Paan Chewing",
+        "Description": "Consumption of betel leaf with areca nut and slaked lime.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Gujarat"
+      },
+      {
+        "Tradition": "Bhavai Theatre",
+        "Description": "Traditional folk theatre form depicting religious stories.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Gujarat"
+      },
+      {
+        "Tradition": "Bandhani",
+        "Description": "Tie-dye textile art creating intricate patterns.",
+        "Reference Link": "https://www.flamingotravels.net/india-travel-guide/gujarat-travel-guide/history-and-culture-of-gujarat"
+      },
+      {
+        "Tradition": "Patola Weaving",
+        "Description": "Double ikat silk weaving technique from Patan.",
+        "Reference Link": "https://www.flamingotravels.net/india-travel-guide/gujarat-travel-guide/history-and-culture-of-gujarat"
+      },
+      {
+        "Tradition": "Tangaliya Weaving",
+        "Description": "Unique textile craft from Surendranagar.",
+        "Reference Link": "https://www.flamingotravels.net/india-travel-guide/gujarat-travel-guide/history-and-culture-of-gujarat"
+      },
+      {
+        "Tradition": "Jain Dietary Practices",
+        "Description": "Adherence to strict vegetarianism and non-violence in food choices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Gujarat"
+      },
+      {
+        "Tradition": "Swaminarayan Tradition",
+        "Description": "Devotional practices following teachings of Swaminarayan.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Gujarat"
+      },
+      {
+        "Tradition": "Pithi Ceremony",
+        "Description": "Pre-wedding ritual applying turmeric paste to bride and groom.",
+        "Reference Link": "https://www.kalkifashion.com/blogs/an-ultimate-guide-to-gujarati-wedding-traditions-rituals-more/"
+      },
+      {
+        "Tradition": "Kite Flying during Uttarayan",
+        "Description": "Celebration involving competitive kite flying.",
+        "Reference Link": "https://www.reuters.com/world/india/kite-making-picks-up-indias-gujarat-harvest-festival-nears-2024-12-19/"
+      },
+      {
+        "Tradition": "Mangal Pheras",
+        "Description": "Bride and groom circle sacred fire during wedding.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Gujarat"
+      },
+      {
+        "Tradition": "Aeki Beki",
+        "Description": "Post-wedding game involving finding a ring in a tray.",
+        "Reference Link": "https://www.kalkifashion.com/blogs/an-ultimate-guide-to-gujarati-wedding-traditions-rituals-more/"
+      },
+      {
+        "Tradition": "Chunri Ceremony",
+        "Description": "Presentation of a sari to the bride during engagement.",
+        "Reference Link": "https://www.kalkifashion.com/blogs/an-ultimate-guide-to-gujarati-wedding-traditions-rituals-more/"
+      },
+      {
+        "Tradition": "Namkaran",
+        "Description": "Naming ceremony for newborns.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Gujarat"
+      }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Meditation and Yoga",
+        "Description": "Age-old practices of meditation and yoga.",
+        "Reference Link": "https://www.indianmirror.com/culture/states-culture/haryana.html"
+      },
+      {
+        "Tradition": "Chanting of Vedic Mantras",
+        "Description": "Recitation of ancient Vedic hymns.",
+        "Reference Link": "https://www.indianmirror.com/culture/states-culture/haryana.html"
+      },
+      {
+        "Tradition": "Sagai Ceremony",
+        "Description": "Engagement ritual formalizing marriage commitment.",
+        "Reference Link": "https://blog.matrimilan.com/haryanvi-wedding-traditions-rituals-you-should-know/"
+      },
+      {
+        "Tradition": "Baraat Procession",
+        "Description": "Groom's wedding procession to bride's venue.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Baraat"
+      },
+      {
+        "Tradition": "Milini Ritual",
+        "Description": "Greeting ceremony between families during weddings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Baraat"
+      },
+      {
+        "Tradition": "Salono Ceremony",
+        "Description": "Priests tie protective amulets during Raksha Bandhan.",
+        "Reference Link": "https://www.myhubble.money/blog/raksha-bandhan-in-haryana-unique-traditions-of-salono"
+      },
+      {
+        "Tradition": "Sanjhi Festival",
+        "Description": "Creation of mud images of goddess Sanjhi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sanjhi"
+      },
+      {
+        "Tradition": "Bhai Dooj",
+        "Description": "Sisters pray for brothers' long life.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhai_Dooj"
+      },
+      {
+        "Tradition": "Haryali Teej",
+        "Description": "Celebration marking the onset of monsoon.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Teej"
+      },
+      {
+        "Tradition": "Sindhara",
+        "Description": "Gifts given to married daughters during Teej.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Teej"
+      },
+      {
+        "Tradition": "Jangam Gāyan",
+        "Description": "Narrative singing by the Jangam community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/National_List_for_Intangible_Cultural_Heritage"
+      },
+      {
+        "Tradition": "Alibakshi Khayal",
+        "Description": "Dramatic performance art form.",
+        "Reference Link": "https://en.wikipedia.org/wiki/National_List_for_Intangible_Cultural_Heritage"
+      },
+      {
+        "Tradition": "Panduan ka Kada",
+        "Description": "Art form significant to the Meo community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/National_List_for_Intangible_Cultural_Heritage"
+      }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Kariyala",
+        "Description": "Folk theatre dedicated to local deities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/National_List_for_Intangible_Cultural_Heritage"
+      },
+      {
+        "Tradition": "Reverse Baraat",
+        "Description": "Bride's procession to groom's home in Upper Shimla.",
+        "Reference Link": "https://www.reddit.com/r/HimachalPradesh/comments/11poj50/rare_cultures_and_tradition_of_himachal_pradesh/"
+      },
+      {
+        "Tradition": "Sati Pradha Mela",
+        "Description": "Stone-pelting ritual post-Diwali in Dhami village.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sati_Pradha_Mela"
+      },
+      {
+        "Tradition": "Magha Ra Saza",
+        "Description": "Midwinter ritual bathing festival.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Maghi"
+      },
+      {
+        "Tradition": "Childbirth Customs",
+        "Description": "Husband avoids animal killing during wife's pregnancy.",
+        "Reference Link": "https://ijcrt.org/papers/IJCRT2209528.pdf"
+      },
+      {
+        "Tradition": "Temple-Centric Village Life",
+        "Description": "Communities centered around Devi and Devta temples.",
+        "Reference Link": "https://himachaltourism.gov.in/types/culture-heritage/"
+      },
+      {
+        "Tradition": "Devta Worship",
+        "Description": "Shaman-led rituals adjudicating societal matters.",
+        "Reference Link": "https://himachaltourism.gov.in/types/culture-heritage/"
+      },
+      {
+        "Tradition": "Suket Fair",
+        "Description": "Annual gathering of deities in Sundar Nagar.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Suket_Fair"
+      }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Patthalgari",
+        "Description": "Erecting stone markers for ancestral remembrance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Munda_people"
+      },
+      {
+        "Tradition": "Bride Price",
+        "Description": "Groom's family compensates bride's family.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Munda_people"
+      },
+      {
+        "Tradition": "Clan Exogamy",
+        "Description": "Marriage outside one's clan.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Munda_people"
+      },
+      {
+        "Tradition": "Ear Piercing (Kan Bedhi)",
+        "Description": "Traditional ear-piercing ceremony for children.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chik_Baraik"
+      },
+      {
+        "Tradition": "Masna Burial",
+        "Description": "Traditional burial practice with head towards north.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chik_Baraik"
+      },
+      {
+        "Tradition": "Jitiya",
+        "Description": "Mothers fast for children's well-being.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jitiya"
+      }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Hase Chitra",
+        "Description": "Traditional tribal mud painting art form.",
+        "Reference Link": "https://www.holidify.com/pages/karnataka-culture-85.html"
+      },
+      {
+        "Tradition": "Goravara Kunita",
+        "Description": "Dance worshipping Shiva, performed by Goravas.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Folk_arts_of_Karnataka"
+      },
+      {
+        "Tradition": "Togalu Gombeyaata",
+        "Description": "Shadow puppetry using leather dolls.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Folk_arts_of_Karnataka"
+      },
+      {
+        "Tradition": "Veeragase",
+        "Description": "Vigorous dance based on Hindu mythology.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Folk_arts_of_Karnataka"
+      },
+      {
+        "Tradition": "Joodu Haligi",
+        "Description": "Dance performed with two percussion instruments.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Folk_arts_of_Karnataka"
+      },
+      {
+        "Tradition": "Gaarudi Gombe",
+        "Description": "Folk dance with dancers in bamboo stick suits.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Folk_arts_of_Karnataka"
+      },
+      {
+        "Tradition": "Kashi Yatre",
+        "Description": "Groom's mock pilgrimage before wedding.",
+        "Reference Link": "https://www.jetir.org/papers/JETIR2304F08.pdf"
+      },
+      {
+        "Tradition": "Nandi Puja",
+        "Description": "Pre-wedding worship to Lord Nandi.",
+        "Reference Link": "https://www.jetir.org/papers/JETIR2304F08.pdf"
+      },
+      {
+        "Tradition": "Mandap Puja",
+        "Description": "Cleansing ritual of the wedding venue.",
+        "Reference Link": "https://www.jetir.org/papers/JETIR2304F08.pdf"
+      },
+      {
+        "Tradition": "Var Puja",
+        "Description": "Groom's welcoming ceremony at wedding.",
+        "Reference Link": "https://www.jetir.org/papers/JETIR2304F08.pdf"
+      },
+      {
+        "Tradition": "Hagalu Veshagaararu",
+        "Description": "Itinerant actors performing unscripted miming.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Folk_arts_of_Karnataka"
+      },
+      {
+        "Tradition": "Karaga",
+        "Description": "Folk festival dedicated to Draupadi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Karaga_(festival)"
+      },
+      {
+        "Tradition": "Ayudha Puja",
+        "Description": "Worship of tools and weapons.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ayudha_Puja"
+      }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Ayurvedic Practices",
+        "Description": "Traditional medicine using natural herbs and therapies.",
+        "Reference Link": "https://elpais.com/elviajero/viajes/2024-09-24/un-viaje-a-kerala-la-cuna-del-yoga-y-del-ayurveda-al-sur-de-la-india.html"
+      },
+      {
+        "Tradition": "Yoga",
+        "Description": "Physical and spiritual discipline for well-being.",
+        "Reference Link": "https://elpais.com/elviajero/viajes/2024-09-24/un-viaje-a-kerala-la-cuna-del-yoga-y-del-ayurveda-al-sur-de-la-india.html"
+      },
+      {
+        "Tradition": "Kalaripayattu",
+        "Description": "Ancient martial art form of Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kalaripayattu"
+      },
+      {
+        "Tradition": "Nair Service Society",
+        "Description": "Community organization upholding Nair customs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nair_Service_Society"
+      },
+      {
+        "Tradition": "Marumakkathayam",
+        "Description": "Matrilineal system of inheritance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Marumakkathayam"
+      },
+      {
+        "Tradition": "Sambandham",
+        "Description": "Traditional marital arrangement among Nairs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sambandham"
+      },
+      {
+        "Tradition": "Pulikkali",
+        "Description": "Folk art where performers paint themselves as tigers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pulikkali"
+      },
+      {
+        "Tradition": "Vallam Kali",
+        "Description": "Traditional boat rowing competition.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Vallam_Kali"
+      },
+      {
+        "Tradition": "Sadya",
+        "Description": "Feast served on banana leaf during special occasions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sadya"
+      },
+      {
+        "Tradition": "Mappila Paattu",
+        "Description": "Muslim folk songs blending Arabic and Malayalam.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mappila_songs"
+      },
+      {
+        "Tradition": "Thiruvathira",
+        "Description": "Ritualistic women's dance for marital bliss.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thiruvathira"
+      },
+      {
+        "Tradition": "Anjili Tharam",
+        "Description": "Traditional house construction using jackfruit tree wood.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Architecture_of_Kerala"
+      },
+      {
+        "Tradition": "Nalukettu",
+        "Description": "Traditional homestead with central courtyard.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nalukettu"
+      },
+      {
+        "Tradition": "Chundan Vallam",
+        "Description": "Snake boat used in traditional races.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chundan_vallam"
+      },
+      {
+        "Tradition": "Kettukazhcha",
+        "Description": "Temple procession with decorated structures.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kettukazhcha"
+      },
+      {
+        "Tradition": "Chenda Melam",
+        "Description": "Traditional percussion ensemble.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chenda"
+      },
+      {
+        "Tradition": "Muttarukkal",
+        "Description": "Breaking of coconuts in temples to remove obstacles.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Muttarukkal"
+      },
+      {
+        "Tradition": "Thulabharam",
+        "Description": "Offering where devotees weigh themselves against goods.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thulabharam"
+      },
+      {
+        "Tradition": "Vidyarambham",
+        "Description": "Initiation ceremony into learning and arts.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Vijayadashami"
+      },
+      {
+        "Tradition": "Vazhipadu",
+        "Description": "Offerings made to deities in fulfillment of vows.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Vazhipadu"
+      }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Narmada Parikrama",
+        "Description": "Circumambulation of the Narmada River by pilgrims.",
+        "Reference Link": "https://en.wikipedia.org/wiki/National_List_for_Intangible_Cultural_Heritage"
+      },
+      {
+        "Tradition": "Bhagoriya Marriage Custom",
+        "Description": "Elopement tradition during Bhagoriya festival among Bhil tribes.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhagoria_Festival"
+      },
+      {
+        "Tradition": "Tattooing Among Baiga Women",
+        "Description": "Permanent body art signifying identity and beauty.",
+        "Reference Link": "https://www.i4utravels.com/people-customs-rituals-of-madhya-pradesh/"
+      },
+      {
+        "Tradition": "Ghotul System",
+        "Description": "Youth dormitory for social and cultural education in Gond tribes.",
+        "Reference Link": "https://www.i4utravels.com/people-customs-rituals-of-madhya-pradesh/"
+      },
+      {
+        "Tradition": "Chulha Worship",
+        "Description": "Ritual of revering the household hearth by tribal communities.",
+        "Reference Link": "https://www.i4utravels.com/people-customs-rituals-of-madhya-pradesh/"
+      },
+      {
+        "Tradition": "Joint Family System",
+        "Description": "Extended family living together under one roof.",
+        "Reference Link": "https://www.i4utravels.com/people-customs-rituals-of-madhya-pradesh/"
+      },
+      {
+        "Tradition": "Gotmar Fair",
+        "Description": "Stone-pelting ritual between villages in Pandhurna.",
+        "Reference Link": "https://www.madhya-pradesh-tourism.com/subcategory/Customs-and-Rituals-89"
+      },
+      {
+        "Tradition": "Sati Worship",
+        "Description": "Veneration of women who self-immolated on their husband's pyre.",
+        "Reference Link": "https://www.i4utravels.com/people-customs-rituals-of-madhya-pradesh/"
+      },
+      {
+        "Tradition": "Chaar Bayt",
+        "Description": "Muslim lyrical oral poetry tradition.",
+        "Reference Link": "https://en.wikipedia.org/wiki/National_List_for_Intangible_Cultural_Heritage"
+      }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Divyanchi Amavasya",
+        "Description": "Cleaning and lighting of lamps on Ashadh Amavasya.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Marathi_people"
+      },
+      {
+        "Tradition": "Nag Panchami",
+        "Description": "Worship of cobras with offerings of milk and flowers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Marathi_people"
+      },
+      {
+        "Tradition": "Narayan Nagbali",
+        "Description": "Ritual to appease souls of unnatural death victims.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Narayan_nagbali"
+      },
+      {
+        "Tradition": "Maharashtrian Wedding Rituals",
+        "Description": "Ceremonies like Aaple Lagna involving family participation.",
+        "Reference Link": "https://www.weddingwire.in/wedding-tips/maharashtrian-wedding--c754"
+      },
+      {
+        "Tradition": "Paithani Saree Weaving",
+        "Description": "Crafting traditional silk sarees with intricate designs.",
+        "Reference Link": "https://www.ecraftindia.com/blogs/articles/maharashtra-history-traditions-festivals-tourism-food-art-culture"
+      },
+      {
+        "Tradition": "Warli Painting",
+        "Description": "Tribal art form depicting daily life and nature.",
+        "Reference Link": "https://www.ecraftindia.com/blogs/articles/maharashtra-history-traditions-festivals-tourism-food-art-culture"
+      },
+      {
+        "Tradition": "Lavani Dance",
+        "Description": "Traditional dance form combining powerful rhythms and sensuous movements.",
+        "Reference Link": "https://talkpal.ai/10-must-know-marathi-traditions-to-fit-in/"
+      },
+      {
+        "Tradition": "Makar Sankranti",
+        "Description": "Festival marking the transition of the sun into Capricorn.",
+        "Reference Link": "https://talkpal.ai/10-must-know-marathi-traditions-to-fit-in/"
+      },
+      {
+        "Tradition": "Ganesh Chaturthi",
+        "Description": "Celebration of the birth of Lord Ganesha with grand processions.",
+        "Reference Link": "https://talkpal.ai/10-must-know-marathi-traditions-to-fit-in/"
+      },
+      {
+        "Tradition": "Maharashtrian Cuisine",
+        "Description": "Diverse culinary traditions including dishes like Vada Pav and Puran Poli.",
+        "Reference Link": "https://talkpal.ai/10-must-know-marathi-traditions-to-fit-in/"
+      }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Yum Sengba",
+        "Description": "Purification of house on 10th day after birth.",
+        "Reference Link": "https://www.ijfmr.com/papers/2024/5/27995.pdf"
+      },
+      {
+        "Tradition": "Chakumba",
+        "Description": "First rice-feeding ceremony for infants.",
+        "Reference Link": "https://www.imphaltimes.com/editorial/manipur-s-traditions-is-the-product-of-its-civilization/"
+      },
+      {
+        "Tradition": "Nahutpa",
+        "Description": "Ritual marking child's readiness to join society.",
+        "Reference Link": "https://www.imphaltimes.com/editorial/manipur-s-traditions-is-the-product-of-its-civilization/"
+      },
+      {
+        "Tradition": "Patloi",
+        "Description": "Traditional attire worn by brides during weddings.",
+        "Reference Link": "https://www.todaystraveller.net/the-unique-customs-of-manipur-wedding/"
+      },
+      {
+        "Tradition": "Nat Sankirtana",
+        "Description": "Ritual singing and drumming during weddings.",
+        "Reference Link": "https://www.unesco.org/en/intangible-cultural-heritage/sankirtana-ritual-singing-drumming-and-dancing-manipur"
+      },
+      {
+        "Tradition": "Phou Kouba",
+        "Description": "Ritual calling back the spirit of paddy.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Phouoibi"
+      },
+      {
+        "Tradition": "Ching Kāba",
+        "Description": "Hillock climbing ritual during New Year.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sajibu_Nongma_Panba"
+      },
+      {
+        "Tradition": "Shikaplon",
+        "Description": "Funeral chant guiding the soul's journey.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meitei_intangible_cultural_heritage"
+      },
+      {
+        "Tradition": "Yenpha Khousa",
+        "Description": "Martial art performed during funerals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meitei_intangible_cultural_heritage"
+      },
+      {
+        "Tradition": "Clan Exogamy",
+        "Description": "Marriage practice avoiding same-clan unions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meitei_culture"
+      }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Matrilineal Inheritance",
+        "Description": "Property and lineage traced through the mother's line.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Matrilineal_society_of_Meghalaya"
+      },
+      {
+        "Tradition": "Ka Khadduh",
+        "Description": "Youngest daughter inherits family property and responsibilities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Matrilineal_society_of_Meghalaya"
+      },
+      {
+        "Tradition": "Nokma System",
+        "Description": "Garo village head responsible for administration and land management.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meghalaya#Traditional_political_institutions"
+      },
+      {
+        "Tradition": "Dorbar Shnong",
+        "Description": "Khasi village council governing local affairs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meghalaya#Traditional_political_institutions"
+      },
+      {
+        "Tradition": "Seng Khasi Movement",
+        "Description": "Socio-cultural movement preserving Khasi traditions and religion.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seng_Khasi_Movement"
+      },
+      {
+        "Tradition": "Living Root Bridges",
+        "Description": "Bridges made by training aerial roots of rubber trees.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meghalaya#Living_root_bridges"
+      },
+      {
+        "Tradition": "Eri Silk Weaving",
+        "Description": "Traditional hand-spinning and weaving of Eri silk fabric.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khasi_people"
+      },
+      {
+        "Tradition": "Ka Niam Khasi",
+        "Description": "Indigenous Khasi religion focusing on ancestor and nature worship.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seng_Khasi_Movement"
+      },
+      {
+        "Tradition": "Ka Niamtre",
+        "Description": "Traditional Jaintia religion emphasizing close relationship with nature.",
+        "Reference Link": "https://www.researchgate.net/publication/285640565_Culture_and_ethnobotany_of_Jaintia_tribal_community_of_Meghalaya_Northeast_India_-_a_mini_review"
+      },
+      {
+        "Tradition": "Chieftainship",
+        "Description": "Hereditary local governance system among Khasi and Jaintia tribes.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meghalaya#Traditional_political_institutions"
+      },
+      {
+        "Tradition": "Ka Blei Nongthaw",
+        "Description": "Khasi belief in a supreme creator god.",
+        "Reference Link": "https://nesac.gov.in/assets/resources/2020/12/Interpretation-of-womens-Role_An-analysis-on-Khasi-tribe-of-Meghalaya.pdf"
+      },
+      {
+        "Tradition": "Phawar",
+        "Description": "Impromptu chanting integral to Khasi ceremonies.",
+        "Reference Link": "https://easternroutes.com/northeast-india/meghalaya/khasi-tribe-garo-jaintia/"
+      }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Mangkhawn",
+        "Description": "Formal marriage proposal by groom's family.",
+        "Reference Link": "https://www.todaystraveller.net/mizoram-weddings-traditions-captivate-you/"
+      },
+      {
+        "Tradition": "Buh-faak",
+        "Description": "Rice-feeding ritual symbolizing marital commitment.",
+        "Reference Link": "https://www.todaystraveller.net/mizoram-weddings-traditions-captivate-you/"
+      },
+      {
+        "Tradition": "Tlawmngaihna",
+        "Description": "Ethic of selflessness and community service.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizoram"
+      },
+      {
+        "Tradition": "Zawlbuk",
+        "Description": "Bachelor's dormitory serving as social center.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizoram"
+      },
+      {
+        "Tradition": "Nula-rim",
+        "Description": "Traditional method of courtship among Mizos.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizoram"
+      },
+      {
+        "Tradition": "Hnatlang",
+        "Description": "Community labor for common village tasks.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizoram"
+      },
+      {
+        "Tradition": "Zu brewing",
+        "Description": "Traditional rice beer preparation for communal events.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Tradition": "Chhinlung origin myth",
+        "Description": "Legend of Mizo people's emergence from a cave.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Tradition": "Mizo Hlakungpui Mual",
+        "Description": "Monument honoring Mizo poets and writers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Tradition": "Nghah Loh Dawr",
+        "Description": "Unmanned roadside stalls based on trust system.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_people"
+      },
+      {
+        "Tradition": "Maraw-bawl",
+        "Description": "Traditional practice of offering food to spirits.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Tradition": "Buh-ai",
+        "Description": "Communal rice collection for families in need.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Tradition": "Inndawng",
+        "Description": "Collective house-building involving community participation.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Tradition": "Sawm",
+        "Description": "Youth dormitory fostering discipline and social values.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Tradition": "Bawhbel",
+        "Description": "Traditional announcement method using gongs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Tradition": "Thiangzang",
+        "Description": "Custom of maintaining sanctity in specific areas.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Tradition": "Chhawnghnawt",
+        "Description": "Ceremony of naming a newborn child.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Tradition": "Sutkhawn",
+        "Description": "Ritual of reconciliation between feuding parties.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Tradition": "Innkawm",
+        "Description": "Community meetings to discuss village matters.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Tradition": "Thlan",
+        "Description": "Traditional method of burial and honoring the dead.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Feasts of Merit",
+        "Description": "Ceremonial feasts enhancing social status.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Historical_rituals"
+      },
+      {
+        "Tradition": "Morung System",
+        "Description": "Community dormitories for youth education.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      },
+      {
+        "Tradition": "Head Hunting",
+        "Description": "Historical practice of taking enemies' heads.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Historical_rituals"
+      },
+      {
+        "Tradition": "Animism and Ancestor Worship",
+        "Description": "Belief in spirits and honoring ancestors.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pf%C3%BCtsana_Religion"
+      },
+      {
+        "Tradition": "Nature Worship",
+        "Description": "Reverence for natural elements and spirits.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pf%C3%BCtsana_Religion"
+      },
+      {
+        "Tradition": "Ancestral Veneration",
+        "Description": "Honoring ancestors through rituals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pf%C3%BCtsana_Religion"
+      },
+      {
+        "Tradition": "Community Rituals",
+        "Description": "Ceremonies tied to agriculture and life events.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pf%C3%BCtsana_Religion"
+      },
+      {
+        "Tradition": "Mithun Rearing",
+        "Description": "Ritualistic rearing of semi-domesticated bovines.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      },
+      {
+        "Tradition": "Traditional Tattooing",
+        "Description": "Body art signifying tribal identity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      },
+      {
+        "Tradition": "Folk Storytelling",
+        "Description": "Oral tradition of passing down myths.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      },
+      {
+        "Tradition": "Wood Carving",
+        "Description": "Crafting wooden items with cultural motifs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      },
+      {
+        "Tradition": "Basket Weaving",
+        "Description": "Creating functional and decorative baskets.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      },
+      {
+        "Tradition": "Traditional Healing Practices",
+        "Description": "Use of herbal remedies and rituals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      },
+      {
+        "Tradition": "Rice Beer Brewing",
+        "Description": "Fermentation of rice to produce local beer.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      },
+      {
+        "Tradition": "Community Fishing",
+        "Description": "Collective fishing using traditional methods.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      },
+      {
+        "Tradition": "Fire Making Rituals",
+        "Description": "Traditional methods of igniting fire ceremonially.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      },
+      {
+        "Tradition": "Marriage Negotiations",
+        "Description": "Customary discussions preceding weddings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      },
+      {
+        "Tradition": "Clan-based Governance",
+        "Description": "Social structure organized by clans.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      },
+      {
+        "Tradition": "Oral Legal Traditions",
+        "Description": "Dispute resolution through verbal agreements.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      },
+      {
+        "Tradition": "Agricultural Ceremonies",
+        "Description": "Rituals marking farming cycles.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Pattachitra Painting",
+        "Description": "Traditional cloth-based scroll painting depicting mythological narratives.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Pakhala Bhata",
+        "Description": "Fermented rice dish consumed to beat the summer heat.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Chena Poda",
+        "Description": "Caramelized cottage cheese dessert baked traditionally.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Boita Bandana",
+        "Description": "Ritual of floating miniature boats to commemorate ancient maritime heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Boita_Bandana"
+      },
+      {
+        "Tradition": "Pipili Appliqué Work",
+        "Description": "Craft of stitching colored fabrics onto base cloth to create motifs.",
+        "Reference Link": "https://isci2024.nluo.ac.in/traditional-art-of-odisha/"
+      },
+      {
+        "Tradition": "Palm Leaf Engraving",
+        "Description": "Intricate carvings on palm leaves depicting epics and folklore.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Dhanu Jatra",
+        "Description": "World's largest open-air theater performance depicting Krishna's tales.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Chhau Mask Making",
+        "Description": "Crafting masks for the Chhau dance using paper mache.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Rasagola Offering",
+        "Description": "Tradition of offering sweet dumplings to Lord Jagannath.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Palm Toddy Tapping",
+        "Description": "Extracting sap from palm trees to produce a local beverage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Tribal Wall Painting",
+        "Description": "Indigenous art form adorning walls with symbolic motifs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Nabakalebara Ritual",
+        "Description": "Periodic renewal of the wooden idols in Jagannath Temple.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Gotipua Dance Training",
+        "Description": "Young boys dressed as females performing devotional dances.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Dhokra Metal Casting",
+        "Description": "Ancient bell metal craft using lost-wax technique.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Akhandalamani Worship",
+        "Description": "Devotion to Lord Shiva in continuous lamp-lit sanctum.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Chandan Yatra",
+        "Description": "Smearing deities with sandalwood paste during summer.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Makar Mela",
+        "Description": "Celebration marking the sun's transition into Capricorn.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Nuakhai",
+        "Description": "Harvest ritual where new rice is offered to deities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Sital Sasthi",
+        "Description": "Marriage ceremony of Lord Shiva and Goddess Parvati reenacted.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      },
+      {
+        "Tradition": "Akshaya Tritiya",
+        "Description": "Commencement of agricultural activities with ceremonial plowing.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Odisha"
+      }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Jathera",
+        "Description": "Ancestral shrine worship for clan founders.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Folk_practices_in_Punjab"
+      },
+      {
+        "Tradition": "Langar",
+        "Description": "Community kitchen serving free meals in gurdwaras.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Langar_(Sikhism)"
+      },
+      {
+        "Tradition": "Anand Karaj",
+        "Description": "Sikh marriage ceremony meaning 'Blissful Union'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Anand_Karaj"
+      },
+      {
+        "Tradition": "Akhand Path",
+        "Description": "Continuous non-stop reading of Guru Granth Sahib.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Akhand_Path"
+      },
+      {
+        "Tradition": "Amrit Sanskar",
+        "Description": "Sikh initiation ceremony involving Amrit (holy water).",
+        "Reference Link": "https://en.wikipedia.org/wiki/Amrit_Sanskar"
+      },
+      {
+        "Tradition": "Dastar Bandi",
+        "Description": "Turban tying ceremony signifying coming of age.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dastar"
+      },
+      {
+        "Tradition": "Karah Parshad",
+        "Description": "Sacred sweet pudding distributed in gurdwaras.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Karah_parshad"
+      },
+      {
+        "Tradition": "Sati",
+        "Description": "Historical practice where a widow self-immolates on husband's pyre.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sati_(practice)"
+      },
+      {
+        "Tradition": "Kesh",
+        "Description": "Practice of allowing hair to grow naturally as a sign of respect.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kesh_(Sikhism)"
+      },
+      {
+        "Tradition": "Chooda Ceremony",
+        "Description": "Bridal ritual where red and white bangles are worn.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chooda"
+      }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Matrilineal Inheritance",
+        "Description": "Property and lineage traced through the mother's line.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Matrilineal_society_of_Meghalaya"
+      },
+      {
+        "Tradition": "Ka Khadduh",
+        "Description": "Youngest daughter inherits family property and responsibilities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Matrilineal_society_of_Meghalaya"
+      },
+      {
+        "Tradition": "Nokma System",
+        "Description": "Garo village head responsible for administration and land management.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meghalaya#Traditional_political_institutions"
+      },
+      {
+        "Tradition": "Dorbar Shnong",
+        "Description": "Khasi village council governing local affairs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meghalaya#Traditional_political_institutions"
+      },
+      {
+        "Tradition": "Seng Khasi Movement",
+        "Description": "Socio-cultural movement preserving Khasi traditions and religion.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seng_Khasi_Movement"
+      },
+      {
+        "Tradition": "Living Root Bridges",
+        "Description": "Bridges made by training aerial roots of rubber trees.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meghalaya#Living_root_bridges"
+      },
+      {
+        "Tradition": "Eri Silk Weaving",
+        "Description": "Traditional hand-spinning and weaving of Eri silk fabric.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khasi_people"
+      },
+      {
+        "Tradition": "Ka Niam Khasi",
+        "Description": "Indigenous Khasi religion focusing on ancestor and nature worship.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seng_Khasi_Movement"
+      },
+      {
+        "Tradition": "Ka Niamtre",
+        "Description": "Traditional Jaintia religion emphasizing close relationship with nature.",
+        "Reference Link": "https://www.researchgate.net/publication/285640565_Culture_and_ethnobotany_of_Jaintia_tribal_community_of_Meghalaya_Northeast_India_-_a_mini_review"
+      },
+      {
+        "Tradition": "Chieftainship",
+        "Description": "Hereditary local governance system among Khasi and Jaintia tribes.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meghalaya#Traditional_political_institutions"
+      },
+      {
+        "Tradition": "Ka Blei Nongthaw",
+        "Description": "Khasi belief in a supreme creator god.",
+        "Reference Link": "https://nesac.gov.in/assets/resources/2020/12/Interpretation-of-womens-Role_An-analysis-on-Khasi-tribe-of-Meghalaya.pdf"
+      },
+      {
+        "Tradition": "Phawar",
+        "Description": "Impromptu chanting integral to Khasi ceremonies.",
+        "Reference Link": "https://easternroutes.com/northeast-india/meghalaya/khasi-tribe-garo-jaintia/"
+      }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Mun Religion",
+        "Description": "Traditional shamanistic belief system of the Lepcha people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mun_(religion)"
+      },
+      {
+        "Tradition": "Kirat Mundhum",
+        "Description": "Animistic and shamanistic practices of the Kirati people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kirat_Mundhum"
+      },
+      {
+        "Tradition": "Zhitse Ritual",
+        "Description": "Bhutia practice of burning incense for purification.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_Sikkim"
+      },
+      {
+        "Tradition": "Chasok Tangnam",
+        "Description": "Harvest thanksgiving by the Limbu community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_Sikkim"
+      },
+      {
+        "Tradition": "Dzumsa System",
+        "Description": "Traditional village council governance among the Bhutias.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_Sikkim"
+      },
+      {
+        "Tradition": "Ngyatshap",
+        "Description": "Lepcha custom of monogamous marriage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_Sikkim"
+      },
+      {
+        "Tradition": "Bongthing",
+        "Description": "Lepcha priest acting as healer and mediator.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mun_(religion)"
+      },
+      {
+        "Tradition": "Khyom",
+        "Description": "Traditional practice of polyandry among Bhutias.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_Sikkim"
+      },
+      {
+        "Tradition": "Choksee",
+        "Description": "Offering of food to deities in Bhutia households.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_Sikkim"
+      },
+      {
+        "Tradition": "Lepcha Funeral Rites",
+        "Description": "Ceremonial practices honoring the deceased.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mun_(religion)"
+      }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Kolam",
+        "Description": "Intricate rice flour designs at doorsteps.",
+        "Reference Link": "https://ling-app.com/ta/what-are-tamil-traditions/"
+      },
+      {
+        "Tradition": "Silambattam",
+        "Description": "Martial art using bamboo staff.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tamil_culture"
+      },
+      {
+        "Tradition": "Grihapravesam",
+        "Description": "Housewarming ceremony with rituals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Griha_pravesha"
+      },
+      {
+        "Tradition": "Ear Piercing Ceremony",
+        "Description": "Ritual of piercing children's ears.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Karnavedha"
+      },
+      {
+        "Tradition": "Naming Ceremony",
+        "Description": "Naming ritual for newborns.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Namakarana"
+      },
+      {
+        "Tradition": "Mehendi Application",
+        "Description": "Henna designs on hands and feet.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mehndi"
+      },
+      {
+        "Tradition": "Ayudha Puja",
+        "Description": "Worship of tools and instruments.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ayudha_Puja"
+      },
+      {
+        "Tradition": "Kavadi Attam",
+        "Description": "Devotional act of carrying decorated structures.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kavadi_Attam"
+      },
+      {
+        "Tradition": "Mundan Ceremony",
+        "Description": "First head shaving of a child.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mundan"
+      },
+      {
+        "Tradition": "Seemantham",
+        "Description": "Prenatal ceremony for expecting mothers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seemantham"
+      },
+      {
+        "Tradition": "Thali Tying",
+        "Description": "Marriage ritual of tying sacred thread.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thali_(ceremony)"
+      },
+      {
+        "Tradition": "Sapindikaranam",
+        "Description": "Post-funeral rites for ancestors.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Antyesti"
+      },
+      {
+        "Tradition": "Earthen Lamp Lighting",
+        "Description": "Lighting lamps during auspicious occasions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Aarti"
+      },
+      {
+        "Tradition": "Prostration to Elders",
+        "Description": "Showing respect by bowing to elders.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pranāma"
+      },
+      {
+        "Tradition": "Offering Food to Crows",
+        "Description": "Feeding crows as offerings to ancestors.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Śrāddha"
+      }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Banjara Needle Crafts",
+        "Description": "Embroidery and mirror work by Banjara tribal women.",
+        "Reference Link": "https://www.telangana.gov.in/about/language-culture/"
+      },
+      {
+        "Tradition": "Nirmal Paintings",
+        "Description": "Art form featuring traditional themes with gold hues.",
+        "Reference Link": "https://hyderabad.telangana.gov.in/history/"
+      },
+      {
+        "Tradition": "Golconda Painting Style",
+        "Description": "16th-century art blending native and foreign techniques.",
+        "Reference Link": "https://hyderabad.telangana.gov.in/history/"
+      },
+      {
+        "Tradition": "Hyderabad Painting Style",
+        "Description": "17th-century art influenced by Mughal aesthetics.",
+        "Reference Link": "https://hyderabad.telangana.gov.in/history/"
+      },
+      {
+        "Tradition": "Pochampally Ikat Weaving",
+        "Description": "Intricate tie-dye textile craft from Pochampally.",
+        "Reference Link": "https://srikaram.org/exploring-the-rich-culture-heritage-and-traditions-of-telugu-language-and-festivals-in-telangana-and-andhra-pradesh/"
+      },
+      {
+        "Tradition": "Cross-Cousin Marriages",
+        "Description": "Dravidian custom of marrying one's cross-cousin.",
+        "Reference Link": "https://telanganaexpress.weebly.com/culture-of-telangana.html"
+      },
+      {
+        "Tradition": "Singing Favorable Songs at Marriages",
+        "Description": "Custom of singing auspicious songs during weddings.",
+        "Reference Link": "https://telanganaexpress.weebly.com/culture-of-telangana.html"
+      },
+      {
+        "Tradition": "Wearing Rings on Second Toe",
+        "Description": "Married women adorn rings on the second toe.",
+        "Reference Link": "https://telanganaexpress.weebly.com/culture-of-telangana.html"
+      }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Hamjwk Tubui Kaimani",
+        "Description": "Traditional marriage negotiation through a broker.",
+        "Reference Link": "https://www.tripuraonline.in/guide/wedding-customs-of-tripura"
+      },
+      {
+        "Tradition": "Koksurma",
+        "Description": "Preliminary marriage proposal between families.",
+        "Reference Link": "https://www.tripuraonline.in/guide/wedding-customs-of-tripura"
+      },
+      {
+        "Tradition": "Kokswhngmung",
+        "Description": "Finalization of marriage with rituals and feasts.",
+        "Reference Link": "https://www.tripuraonline.in/guide/wedding-customs-of-tripura"
+      },
+      {
+        "Tradition": "Khum Phunukmung",
+        "Description": "Inviting villagers to the wedding ceremony.",
+        "Reference Link": "https://www.tripuraonline.in/guide/wedding-customs-of-tripura"
+      },
+      {
+        "Tradition": "Maitwrang Beraimani",
+        "Description": "First visit of the couple to the bride's parents.",
+        "Reference Link": "https://www.tripuraonline.in/guide/wedding-customs-of-tripura"
+      },
+      {
+        "Tradition": "Abul Suhmani",
+        "Description": "Purification ceremony nine days post-birth.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tripuri_culture"
+      },
+      {
+        "Tradition": "Mung Pharma",
+        "Description": "Name-giving ritual during Abul Suhmani.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tripuri_culture"
+      },
+      {
+        "Tradition": "Kaklaimani",
+        "Description": "Custom allowing divorce through community mediation.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tripuri_culture"
+      },
+      {
+        "Tradition": "Masna Burial",
+        "Description": "Traditional cremation with specific rites.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tripuri_culture"
+      },
+      {
+        "Tradition": "Maitwrang Beraimani",
+        "Description": "Post-marriage visit to the bride's family.",
+        "Reference Link": "https://www.tripuraonline.in/guide/wedding-customs-of-tripura"
+      }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Aipan Art",
+        "Description": "Ritualistic folk art using rice paste on red surfaces.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Aipan_art"
+      },
+      {
+        "Tradition": "Likhai",
+        "Description": "Traditional woodcarving on doors and windows.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Likhai"
+      },
+      {
+        "Tradition": "Naulas",
+        "Description": "Stone structures built over natural springs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Naulas"
+      },
+      {
+        "Tradition": "Jakhya Spice",
+        "Description": "Use of wild mustard seeds in cooking.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttarakhand"
+      },
+      {
+        "Tradition": "Bhotia Weaving",
+        "Description": "Wool weaving tradition among Bhotia community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhotia"
+      },
+      {
+        "Tradition": "Ringal Craft",
+        "Description": "Crafting baskets and mats from dwarf bamboo.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ringal_bamboo"
+      },
+      {
+        "Tradition": "Chulha Chokha",
+        "Description": "Traditional kitchen design with mud stoves.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttarakhand"
+      },
+      {
+        "Tradition": "Devprayag Rituals",
+        "Description": "Ceremonial practices at the confluence of rivers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Devprayag"
+      },
+      {
+        "Tradition": "Pandav Lila",
+        "Description": "Folk re-enactment of Mahabharata episodes.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pandav_Lila"
+      },
+      {
+        "Tradition": "Kumaoni Marriage Customs",
+        "Description": "Distinctive wedding rituals in Kumaon region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttarakhand"
+      },
+      {
+        "Tradition": "Garhwali Naming Ceremony",
+        "Description": "Traditional infant naming rites in Garhwal.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttarakhand"
+      },
+      {
+        "Tradition": "Bhotiya Polyandry Practice",
+        "Description": "Historical practice of polyandry among Bhotiya tribes.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhotia"
+      },
+      {
+        "Tradition": "Dhauli-Kali Worship",
+        "Description": "Rituals associated with local deities Dhauli and Kali.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttarakhand"
+      },
+      {
+        "Tradition": "Harela Tree Planting",
+        "Description": "Planting saplings during Harela festival.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Harela"
+      },
+      {
+        "Tradition": "Bagwal Stone Pelting",
+        "Description": "Traditional ritual involving stone pelting at Devidhura.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bagwal"
+      },
+      {
+        "Tradition": "Kedarkhand Pilgrimage",
+        "Description": "Religious journey to sacred sites in Kedarkhand.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kedarkhand"
+      },
+      {
+        "Tradition": "Nanda Devi Raj Jat",
+        "Description": "Sacred pilgrimage dedicated to Nanda Devi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nanda_Devi_Raj_Jat"
+      },
+      {
+        "Tradition": "Chhipla Jaat",
+        "Description": "Annual trek to Chhiplakot peak as a form of worship.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhiplakot"
+      },
+      {
+        "Tradition": "Dola-Doli Procession",
+        "Description": "Ceremonial carrying of deities' palanquins.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttarakhand"
+      },
+      {
+        "Tradition": "Gharat Watermills",
+        "Description": "Traditional water-powered grain mills.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gharat"
+      }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Chikankari Embroidery",
+        "Description": "Delicate hand embroidery from Lucknow on fine fabrics.",
+        "Reference Link": "https://timesofindia.indiatimes.com/india/folk-culture-and-handicrafts-of-uttar-pradesh/photostory/108131950.cms"
+      },
+      {
+        "Tradition": "Zardozi Embroidery",
+        "Description": "Intricate metal thread embroidery popular in Varanasi.",
+        "Reference Link": "https://timesofindia.indiatimes.com/india/folk-culture-and-handicrafts-of-uttar-pradesh/photostory/108131950.cms"
+      },
+      {
+        "Tradition": "Banarasi Silk Weaving",
+        "Description": "Crafting luxurious silk sarees in Varanasi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Khurja Pottery",
+        "Description": "Glazed ceramic pottery from Khurja town.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Brassware Craft",
+        "Description": "Brass artifacts and utensils from Moradabad.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Sanjhi Art",
+        "Description": "Traditional stencil art depicting mythological scenes.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Ramayana Recitation",
+        "Description": "Oral storytelling of the Ramayana epic.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Ganga Aarti",
+        "Description": "Evening prayer ceremony on the Ganges ghats.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Paan Chewing",
+        "Description": "Consuming betel leaf preparations after meals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Itar Making",
+        "Description": "Crafting traditional perfumes in Kannauj.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Purdah System",
+        "Description": "Practice of veiling among women in certain communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Joint Family System",
+        "Description": "Extended family living together under one roof.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Khatri Weaving",
+        "Description": "Traditional weaving by the Khatri community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Panchayati Raj",
+        "Description": "Village-level self-governance system.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Langar",
+        "Description": "Community kitchen serving free meals in Gurudwaras.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Kumbh Mela",
+        "Description": "Mass Hindu pilgrimage to sacred rivers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Ghazal Singing",
+        "Description": "Poetic music form expressing love and loss.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Qawwali",
+        "Description": "Sufi devotional music performed in dargahs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Ramleela Performances",
+        "Description": "Dramatic enactment of Lord Rama's life.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Nautanki Theatre",
+        "Description": "Folk operatic theater with musical narratives.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Puppet Shows",
+        "Description": "Traditional storytelling using puppets.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Kite Flying",
+        "Description": "Popular pastime during specific seasons.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Mehendi Application",
+        "Description": "Applying henna designs on hands and feet.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Surya Namaskar",
+        "Description": "Sun salutation yoga practice.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Tilak Ceremony",
+        "Description": "Marking the forehead with a sacred mark.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Namaste Greeting",
+        "Description": "Traditional salutation with folded hands.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Touching Feet",
+        "Description": "Gesture of respect towards elders.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Jalebi Preparation",
+        "Description": "Making sweet, deep-fried spirals soaked in syrup.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Lassi Drinking",
+        "Description": "Consuming yogurt-based drink, often sweetened.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Thandai Consumption",
+        "Description": "Drinking spiced milk beverage during festivals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Puri and Kachori Making",
+        "Description": "Preparing deep-fried bread and stuffed pastries.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Aarti Rituals",
+        "Description": "Devotional song and light offering to deities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Prasad Distribution",
+        "Description": "Offering sacred food to devotees after worship.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Tulsi Vivah",
+        "Description": "Ceremonial marriage of the Tulsi plant to Vishnu.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Karva Chauth",
+        "Description": "Fasting by married women for husbands' longevity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Bhoomi Pujan",
+        "Description": "Ritual performed before starting construction work.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Holi Bonfire",
+        "Description": "Lighting bonfire on the eve of Holi festival.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Diya Lighting",
+        "Description": "Illuminating oil lamps during Diwali.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Rangoli Making",
+        "Description": "Creating decorative patterns on floors with colored powders.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Chulha Cooking",
+        "Description": "Using traditional clay stoves for cooking.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Charpai Usage",
+        "Description": "Sleeping on traditional woven cots.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Hookah Smoking",
+        "Description": "Inhaling flavored tobacco through a water pipe.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Bindi Application",
+        "Description": "Wearing decorative dot on the forehead.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Sindoor Application",
+        "Description": "Applying vermilion powder by married women.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Haldi Ceremony",
+        "Description": "Applying turmeric paste before weddings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Joota Chupai",
+        "Description": "Hiding the groom's shoes as a wedding prank.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Dastarkhwan",
+        "Description": "Traditional Awadhi style of communal dining.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      },
+      {
+        "Tradition": "Pankha Making",
+        "Description": "Crafting hand-held fans from palm leaves.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Uttar_Pradesh"
+      }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "Jatra",
+        "Description": "Folk theater form depicting melodious stories.",
+        "Reference Link": "https://www.holidify.com/pages/west-bengal-culture-187.html"
+      },
+      {
+        "Tradition": "Gaye Holud",
+        "Description": "Pre-wedding ceremony applying turmeric paste.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bengali_Hindu_wedding#Gaye_Holud"
+      },
+      {
+        "Tradition": "Baul Tradition",
+        "Description": "Mystic minstrels blending Hindu and Sufi beliefs.",
+        "Reference Link": "https://www.banglastories.org/the-bengal-diaspora/religion.html"
+      },
+      {
+        "Tradition": "Lathi Khela",
+        "Description": "Traditional stick-fighting martial art.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Bengal#Sports"
+      },
+      {
+        "Tradition": "Bhorta Preparation",
+        "Description": "Spiced mashed vegetables or fish delicacy.",
+        "Reference Link": "https://www.theguardian.com/food/2024/nov/20/how-to-cook-the-perfect-aloo-bhorta"
+      },
+      {
+        "Tradition": "Syncretic Folk Practices",
+        "Description": "Mixing Hindu and Muslim beliefs in rituals.",
+        "Reference Link": "https://ehrafworldcultures.yale.edu/cultures/aw69/summary"
+      },
+      {
+        "Tradition": "Widow Food Tradition",
+        "Description": "Dietary restrictions imposed on widows.",
+        "Reference Link": "https://togetherwomenrise.org/customsandcuisine/customs-cuisine-of-india-ek-tara/"
+      },
+      {
+        "Tradition": "Rice and Fish as Staple",
+        "Description": "Diet centered around rice and fish dishes.",
+        "Reference Link": "https://nssiitbblog.wordpress.com/2021/04/08/west-bengal-famous-traditions-and-foods/"
+      },
+      {
+        "Tradition": "Sholapith Craft",
+        "Description": "Crafting decorative items from shola plant.",
+        "Reference Link": "https://en.banglapedia.org/index.php/Bangali_Culture"
+      },
+      {
+        "Tradition": "Syncretic Religious Practices",
+        "Description": "Blending of Hindu and Muslim rituals.",
+        "Reference Link": "https://www.banglastories.org/the-bengal-diaspora/religion.html"
+      },
+      {
+        "Tradition": "Boat Racing",
+        "Description": "Traditional sport involving competitive rowing.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Bengal#Sports"
+      },
+      {
+        "Tradition": "Panta Bhat Consumption",
+        "Description": "Fermented rice dish eaten for breakfast.",
+        "Reference Link": "https://www.theguardian.com/food/2024/nov/20/how-to-cook-the-perfect-aloo-bhorta"
+      },
+      {
+        "Tradition": "Traditional Weaving",
+        "Description": "Handloom weaving of textiles like muslin.",
+        "Reference Link": "https://en.banglapedia.org/index.php/Bangali_Culture"
+      },
+      {
+        "Tradition": "Kumari Puja",
+        "Description": "Worship of young pre-pubescent girls as goddess.",
+        "Reference Link": "https://en.banglapedia.org/index.php/Bangali_Culture"
+      },
+      {
+        "Tradition": "Bengali Hospitality",
+        "Description": "Warm reception and feeding of guests.",
+        "Reference Link": "https://www.fodors.com/community/asia/west-bengali-customs-579081/"
+      }
+    ]
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "Matrilineal Society",
+        "Description": "Property and lineage traced through the mother's line.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Andamanese"
+      },
+      {
+        "Tradition": "Animistic Beliefs",
+        "Description": "Worship of nature and ancestral spirits.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Andamanese"
+      },
+      {
+        "Tradition": "Hunter-Gatherer Lifestyle",
+        "Description": "Subsistence through hunting, fishing, and gathering.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Andamanese"
+      },
+      {
+        "Tradition": "Canoe Building",
+        "Description": "Crafting traditional canoes for seafaring.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chowra_Island"
+      },
+      {
+        "Tradition": "Wood, Cane, and Bamboo Handicrafts",
+        "Description": "Creating items from local materials.",
+        "Reference Link": "https://www.travelogyindia.com/andaman-nicobar/culture.html"
+      },
+      {
+        "Tradition": "Traditional Medicine",
+        "Description": "Use of herbal remedies for healthcare.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Andamanese"
+      },
+      {
+        "Tradition": "Communal Living",
+        "Description": "Collective sharing of resources within tribes.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Andamanese"
+      },
+      {
+        "Tradition": "Oral Storytelling",
+        "Description": "Preserving history through spoken narratives.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Andamanese"
+      },
+      {
+        "Tradition": "Body Art and Decorations",
+        "Description": "Adorning bodies with natural materials.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Andamanese"
+      },
+      {
+        "Tradition": "Fishing Practices",
+        "Description": "Sustainable fishing methods for sustenance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Andamanese"
+      }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "Communal Dining",
+        "Description": "Sharing meals to foster community bonds.",
+        "Reference Link": "https://www.ftd.travel/chandigarh-culture"
+      },
+      {
+        "Tradition": "Artisan Handicrafts",
+        "Description": "Crafting textiles and pottery reflecting cultural heritage.",
+        "Reference Link": "https://adventurebackpack.com/chandigarh-culture/"
+      }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Dama",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "Tarpa Dance",
+        "Description": "Nightly tribal dance with tarpa instrument.",
+        "Reference Link": "https://www.dnhonline.in/guide/culture-of-dadra-and-nagar-haveli"
+      },
+      {
+        "Tradition": "Dhol Dance",
+        "Description": "Harvest dance with drums and acrobatics.",
+        "Reference Link": "https://www.dnhonline.in/guide/culture-of-dadra-and-nagar-haveli"
+      },
+      {
+        "Tradition": "Warli Painting",
+        "Description": "Tribal art depicting daily life.",
+        "Reference Link": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu"
+      },
+      {
+        "Tradition": "Portuguese Architecture",
+        "Description": "Colonial-era churches and forts.",
+        "Reference Link": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu"
+      },
+      {
+        "Tradition": "Daman and Diu Portuguese Creole",
+        "Description": "Portuguese-based creole language.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Daman_and_Diu_Portuguese_Creole"
+      },
+      {
+        "Tradition": "Mithun Worship",
+        "Description": "Ritualistic rearing of semi-domesticated bovines.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      },
+      {
+        "Tradition": "Traditional Fishing",
+        "Description": "Community fishing using traditional methods.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland#Culture"
+      }
+    ]
+  },
+  {
+    "name": "Delhi",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "Joint Family System",
+        "Description": "Extended families living together under one roof.",
+        "Reference Link": "https://www.britannica.com/place/India/Daily-life-and-social-customs"
+      },
+      {
+        "Tradition": "Arranged Marriages",
+        "Description": "Families selecting spouses for their children.",
+        "Reference Link": "https://www.britannica.com/place/India/Daily-life-and-social-customs"
+      },
+      {
+        "Tradition": "Chandni Chowk Shopping",
+        "Description": "Traditional market visits for diverse goods.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chandni_Chowk"
+      },
+      {
+        "Tradition": "Street Food Culture",
+        "Description": "Consuming local delicacies from street vendors.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chandni_Chowk"
+      },
+      {
+        "Tradition": "Havelis of Old Delhi",
+        "Description": "Living in historic mansions with courtyards.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Haveli"
+      },
+      {
+        "Tradition": "Gurdwara Visits",
+        "Description": "Sikh community prayers and services.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gurdwara_Sis_Ganj_Sahib"
+      },
+      {
+        "Tradition": "Jama Masjid Congregation",
+        "Description": "Friday prayers at the historic mosque.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jama_Masjid,_Delhi"
+      },
+      {
+        "Tradition": "Temple Offerings",
+        "Description": "Devotees presenting gifts at local temples.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gauri_Shankar_Temple,_Delhi"
+      },
+      {
+        "Tradition": "Langar at Gurudwaras",
+        "Description": "Community kitchens serving free meals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Langar_(Sikhism)"
+      },
+      {
+        "Tradition": "Mehendi Application",
+        "Description": "Henna designs applied during weddings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mehndi"
+      },
+      {
+        "Tradition": "Turban Tying",
+        "Description": "Sikh men wearing turbans as a religious practice.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dastar"
+      },
+      {
+        "Tradition": "Karva Chauth",
+        "Description": "Married women fasting for husbands' longevity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Karva_Chauth"
+      },
+      {
+        "Tradition": "Community Iftar",
+        "Description": "Breaking Ramadan fasts together in mosques.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Iftar"
+      },
+      {
+        "Tradition": "Sunday Book Market",
+        "Description": "Weekly market for rare and second-hand books.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Daryaganj"
+      },
+      {
+        "Tradition": "Kabootarbaazi",
+        "Description": "Pigeon flying competitions on rooftops.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pigeon_racing"
+      }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "Kashmiriyat",
+        "Description": "Philosophy emphasizing communal harmony and religious syncretism among Kashmiri communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kashmiriyat"
+      },
+      {
+        "Tradition": "Wazwan",
+        "Description": "Traditional Kashmiri multi-course meal showcasing rich culinary heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Wazwan"
+      },
+      {
+        "Tradition": "Kashmiri Marsiya",
+        "Description": "Elegiac poetry recited during mourning assemblies to commemorate martyrs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kashmiri_Marsiya"
+      },
+      {
+        "Tradition": "Wagoo",
+        "Description": "Traditional reed and rice straw mats used for insulation and cooling.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Wagoo"
+      },
+      {
+        "Tradition": "Kangri",
+        "Description": "Portable firepot used to keep warm during harsh winters.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kangri"
+      }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "Matrilineal Inheritance",
+        "Description": "Property and lineage traced through the mother's line.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Matrilineal_society_of_Meghalaya"
+      },
+      {
+        "Tradition": "Ka Khadduh",
+        "Description": "Youngest daughter inherits family property and responsibilities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Matrilineal_society_of_Meghalaya"
+      },
+      {
+        "Tradition": "Nokma System",
+        "Description": "Garo village head responsible for administration and land management.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meghalaya#Traditional_political_institutions"
+      },
+      {
+        "Tradition": "Dorbar Shnong",
+        "Description": "Khasi village council governing local affairs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meghalaya#Traditional_political_institutions"
+      },
+      {
+        "Tradition": "Seng Khasi Movement",
+        "Description": "Socio-cultural movement preserving Khasi traditions and religion.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seng_Khasi_Movement"
+      },
+      {
+        "Tradition": "Living Root Bridges",
+        "Description": "Bridges made by training aerial roots of rubber trees.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meghalaya#Living_root_bridges"
+      },
+      {
+        "Tradition": "Eri Silk Weaving",
+        "Description": "Traditional hand-spinning and weaving of Eri silk fabric.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khasi_people"
+      },
+      {
+        "Tradition": "Ka Niam Khasi",
+        "Description": "Indigenous Khasi religion focusing on ancestor and nature worship.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seng_Khasi_Movement"
+      },
+      {
+        "Tradition": "Ka Niamtre",
+        "Description": "Traditional Jaintia religion emphasizing close relationship with nature.",
+        "Reference Link": "https://www.researchgate.net/publication/285640565_Culture_and_ethnobotany_of_Jaintia_tribal_community_of_Meghalaya_Northeast_India_-_a_mini_review"
+      },
+      {
+        "Tradition": "Chieftainship",
+        "Description": "Hereditary local governance system among Khasi and Jaintia tribes.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meghalaya#Traditional_political_institutions"
+      },
+      {
+        "Tradition": "Ka Blei Nongthaw",
+        "Description": "Khasi belief in a supreme creator god.",
+        "Reference Link": "https://nesac.gov.in/assets/resources/2020/12/Interpretation-of-womens-Role_An-analysis-on-Khasi-tribe-of-Meghalaya.pdf"
+      },
+      {
+        "Tradition": "Phawar",
+        "Description": "Impromptu chanting integral to Khasi ceremonies.",
+        "Reference Link": "https://easternroutes.com/northeast-india/meghalaya/khasi-tribe-garo-jaintia/"
+      }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "Aranjanam",
+        "Description": "Silver or gold waist chain worn by both men and women for protection and health benefits.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Aranjanam"
+      },
+      {
+        "Tradition": "Mats and Weaving",
+        "Description": "Crafting mats and baskets from coir and screw pine leaves, reflecting the island's weaving heritage.",
+        "Reference Link": "https://www.youngintach.org/public/maps_craft_lakshadweep_island"
+      },
+      {
+        "Tradition": "Mundum",
+        "Description": "Traditional draped garment worn around the waist, similar to a sarong, prevalent in Lakshadweep.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mundu"
+      },
+      {
+        "Tradition": "Mundu with Kara",
+        "Description": "Mundu featuring a colored border (kara), often worn during special occasions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mundu"
+      },
+      {
+        "Tradition": "Mundum Neriyathum",
+        "Description": "Attire consisting of a mundu and a blouse, worn by women during formal events.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mundum_neriyathum"
+      }
+    ]
+  },
+  {
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "Auroville Community Living",
+        "Description": "International township promoting sustainable living and human unity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Auroville"
+      },
+      {
+        "Tradition": "French Colonial Architecture",
+        "Description": "Distinctive European-style buildings reflecting colonial heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Architecture_of_Puducherry"
+      },
+      {
+        "Tradition": "Tamil Language Usage",
+        "Description": "Predominant use of Tamil in daily communication.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tamil_language"
+      },
+      {
+        "Tradition": "Yoga and Meditation Practices",
+        "Description": "Widespread engagement in spiritual practices for well-being.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Yoga_in_Puducherry"
+      },
+      {
+        "Tradition": "Café Culture",
+        "Description": "Influence of French cafés serving as social hubs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Puducherry"
+      },
+      {
+        "Tradition": "Puducherry Cuisine",
+        "Description": "Fusion of French and Tamil culinary traditions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Cuisine_of_Puducherry"
+      },
+      {
+        "Tradition": "Community Service",
+        "Description": "Active participation in social welfare activities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Puducherry"
+      },
+      {
+        "Tradition": "Sustainable Living",
+        "Description": "Emphasis on eco-friendly practices and organic farming.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Auroville"
+      },
+      {
+        "Tradition": "Multilingual Education",
+        "Description": "Schools offering instruction in multiple languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Education_in_Puducherry"
+      },
+      {
+        "Tradition": "Interfaith Harmony",
+        "Description": "Coexistence of various religious communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Religion_in_Puducherry"
+      }
+    ]
+  }
+]

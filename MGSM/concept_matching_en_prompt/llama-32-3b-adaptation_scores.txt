@@ -1,0 +1,2540 @@
+{
+  "dataset_statistics": {
+    "total_sentences": 193,
+    "entries_with_replacements": 183,
+    "total_strict_matches": 29,
+    "total_singular_plural_matches": 18,
+    "average_strict_match_per_sentence": 0.15025906735751296,
+    "average_singular_plural_match_per_sentence": 0.09326424870466321
+  },
+  "detailed_scores": [
+    {
+      "adapted_text": "Ramesh's ducks lay 16 eggs a day. He eats 3 eggs for breakfast and makes muffins for his friends by giving 4 eggs a day. He sells the remaining eggs to farmers at the market at \u20b92 per egg. How much does Ramesh earn per day from selling eggs at the market?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b92",
+        "eggs",
+        "muffins"
+      ]
+    },
+    {
+      "adapted_text": "To make a dress, 2 yards of blue fabric and half of it white fabric is needed. How many yards of fabric is needed in total?",
+      "strict_matches": [
+        "dress",
+        "fabric"
+      ],
+      "singular_plural_matches": [
+        "yard"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.6666666666666666,
+      "singular_plural_score": 0.3333333333333333,
+      "replaced_words": [
+        "dress",
+        "fabric",
+        "yards"
+      ]
+    },
+    {
+      "adapted_text": "Josh decided to flip a house. He bought a house for \u20b98,300,000 and spent \u20b95,000,000 on repairs. As a result, the house's value increased by 150%. How much did he make in dollars?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b98300000",
+        "\u20b95000000"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh decided to run 3 sprints a week, each sprint covering 60 meters. How many meters will he run in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Wendi daily feeds each of her chickens three cups of chicken feed mixture so that it contains grains, millets and vegetables. She distributes the feed to the chickens thrice a day. In the morning, she gives 15 cups of feed to the chickens. In the evening, she gives another 25 cups of feed. If Wendi has 20 chickens in her flock, how many cups of feed should she give to the chickens to feed them for the day?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "cup",
+        "chicken",
+        "millet"
+      ],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.42857142857142855,
+      "replaced_words": [
+        "chickens",
+        "wendi",
+        "vegetables",
+        "millets",
+        "cups",
+        "grains",
+        "flock"
+      ]
+    },
+    {
+      "adapted_text": "Kailar went to the store to buy glass for his new apartment. The price of one glass is $5, but the price of each subsequent glass is 60% of the original price. Kailar wants to buy 16 glasses. How much money will he have to pay in dollars?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "Tulujee has twice as many vadas as Charlesston. Charlesston has four times as many vadas as Seattle. If Seattle has 20 vadas, how many vadas does Tulujee, Charlesston, and Seattle have in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "charlesston",
+        "seattle",
+        "vadas",
+        "tulujee"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh downloaded a 200 GB file. Normally he can download 2 GB per minute, but after 40% download, he had to restart to install Windows update, which takes 20 minutes. Then he has to download the file again. How much time will it take to download the file?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9"
+      ]
+    },
+    {
+      "adapted_text": "Eliza works for \u20b912 per hour for the first 40 hours of the week. She earns 1.2 times her normal rate for extra hours. If Eliza works 45 hours this week, how much will she earn this week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9830",
+        "\u20b9966"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh went to a bakery and bought different types of pastries. He bought 3 dozen donuts for \u20b968 per dozen, 2 dozen small cupcakes for \u20b980 per dozen, and 6 dozen mini cheese cakes for \u20b955 per dozen. How much did he spend in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh is planting an apple tree. The tree will cost \u20b990 to plant. Every year, there will be 7 apples, which he can sell for \u20b91.5 each. Watering and fertilizing the tree costs \u20b93 per year. How many years will it take for Ramesh to start earning money from the apple tree?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b990",
+        "ramesh",
+        "\u20b93",
+        "\u20b915"
+      ]
+    },
+    {
+      "adapted_text": "Melani is a door-to-door saleswoman. She sold one-third of her vacuum cleaners in green houses, two more in red houses, and half of the remaining in orange houses. If Melani has 5 vacuum cleaners left, how many did she start selling?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "melani"
+      ]
+    },
+    {
+      "adapted_text": "A businessman wants to choose between two purchase plans: a \u20b950,000 worth of a gas stove or an \u20b980,000 worth of an electronic gas stove. His financial advisor estimates that the market for the gas stove will increase by 2.5% this month and the market for the electronic gas stove will increase by 1.2% this month. If the businessman chooses one of the plans, what is the maximum possible profit he can make by the end of this month?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b950000",
+        "\u20b980000"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh earns \u20b920 per hour as a teacher and \u20b930 as a coach. If he works 35 hours a week as a teacher and 15 hours a week as a coach for 50 weeks in a year, what is his annual salary?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "coach"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh eats a paratha made with 3 eggs every morning. He will eat how many dozen eggs in 4 weeks?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "eggs"
+      ]
+    },
+    {
+      "adapted_text": "Mariya is walking 12 miles. In the first 4 miles, she took 1 hour and in the next 2 miles, she took another hour. If she wants her walking speed to be 4 miles per hour, then how fast should she walk to cover the remaining distance?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "mariya"
+      ]
+    },
+    {
+      "adapted_text": "I have 10 litres of orange drink which is two-thirds water and I want to mix it with 15 litres of pineapple apple drink - which is one-third water. But while pouring, I accidentally drop one litre of orange drink. How much water is left in the remaining 24 litres?",
+      "strict_matches": [
+        "one",
+        "drink",
+        "five",
+        "water"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 13,
+      "strict_match_score": 0.3076923076923077,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "one",
+        "pouring",
+        "how much",
+        "but",
+        "amount",
+        "litre",
+        "orange",
+        "drink",
+        "five",
+        "water",
+        "third",
+        "remaining",
+        "i"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh and Samantha are like siblings. Ramesh was born 6 years before Samantha. At 23 years old, Ramesh had a son. If Samantha is currently 31 years old, then how old was Ramesh's son when he was born?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "samantha"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh sold 8 DVDs on Monday. His first 3 customers bought 1 each, the next 2 bought 2 each, and the last 3 bought nothing. How many DVDs did Ramesh sell on Monday?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "people"
+      ],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.16666666666666666,
+      "replaced_words": [
+        "bought",
+        "sold",
+        "ramesh",
+        "bought nothing",
+        "person",
+        "monday"
+      ]
+    },
+    {
+      "adapted_text": "Kail bought the best-selling book of last year for \u20b919.50, which was 25% cheaper than its original price.",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b91950"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought 3 pairs of parathas, 3 pairs of pants, and 3 pairs of chappals. He spent \u20b916.50 on one pair of shorts, \u20b922.50 on one pair of pants, and \u20b942 on one pair of chappals. How much money did he spend in total on all the clothes?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "chappals",
+        "ramesh",
+        "pants",
+        "\u20b91650",
+        "\u20b92250",
+        "\u20b942",
+        "parathas"
+      ]
+    },
+    {
+      "adapted_text": "Sinthia eats one serving of ice cream every night. She buys a carton of ice cream that can be served 15 times for \u20b9 400. How much will she spend on ice cream after 60 days?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9400"
+      ]
+    },
+    {
+      "adapted_text": "Henry took a 60 mile bike trip and stopped twice. After riding 20 miles, he stopped for the first time. He stopped for the second time 15 miles before the end of his trip. How many miles did he travel between the two stops?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Glorya bought a pair of shoes that fit her budget and saw a pair of boots and a pair of high heels shoes together. But she had to choose one of the boots and one of the high heels shoes that together cost five dollars less than the boots. If one pair of high heels shoes cost $33 and the other pair cost twice as much, then how much did the boots cost in dollars?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "glorya",
+        "",
+        "\u20b983",
+        "\u20b92750"
+      ]
+    },
+    {
+      "adapted_text": "Darel and Allen's age ratio is 7:11. If their combined age is 162 years now, what will be Allen's age in 10 years from now?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "darel",
+        "allen"
+      ]
+    },
+    {
+      "adapted_text": "Gunther is trying to guess how many gulab jamuns are in the bowl. He asked his friends to estimate. One said 80 gulab jamuns were there. Another said there were 20 more than half of what the first said. The third said there were 25% more than the first. What is their estimated total?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "gulab jamun"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.5,
+      "replaced_words": [
+        "gunther",
+        "gulab jamuns"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh took care of 10 dogs. Walking and showing off their work took 0.5 hours per dog per day. How many hours did he spend taking care of dogs in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "dog care",
+        "per day",
+        "a week",
+        "hours"
+      ]
+    },
+    {
+      "adapted_text": "Greece has 110 coins. There are 30 more gold coins than silver coins. How many gold coins does Greece have?",
+      "strict_matches": [
+        "silver",
+        "gold"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "gold",
+        "coins",
+        "silver",
+        "greece"
+      ]
+    },
+    {
+      "adapted_text": "Arjun had 2 less rubies than Sevan. Arjun had 5 more rubies than half of Remmond's rubies. If Remmond had 40 rubies, then Sevan had how many rubies?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 8,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rubies",
+        "some",
+        "arjun",
+        "had",
+        "sevan",
+        "more",
+        "half",
+        "from"
+      ]
+    },
+    {
+      "adapted_text": "Mike played ping-pong for 40 minutes. In the first 20 minutes, he scored 4 points. In the next 20 minutes, he scored 25% more points than the first 20 minutes. How many points did he score in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Terry eats 2 yogurts a day. Recently, 4 yogurts are on sale for \u20b983-\u20b9130. How much money does he spend on yogurts in 30 days?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh plans to buy video games with the money he will get from selling all his toys. He has 13 Lego sets and sells each of them for \u20b915. He buys 8 video games worth \u20b920 each and has \u20b95 left. How many Lego sets does he have now?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b95",
+        "ramesh",
+        "\u20b9135",
+        "\u20b9200"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ran 60 miles in a week. He ran 3 days a week. He ran 3 hours on the first day and half of that on the other two days. How fast did he run?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Dhana can run four times faster than walking, but she can skip at half her running speed. If she can skip 3 miles per hour, then she can run one-third of the time and walk two-thirds of the time in six hours. How many miles can she cover in six hours?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "dhana",
+        "running",
+        "walking",
+        "skip"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh sat atop Mount Meru, a colossal dragon guarding a distance of 1000 feet from any object. The only intelligent weapon capable of killing the dragon is the golden javelin, which can be thrown up to 400 feet. However, the distance of the javelin is within the dragon's fiery breath's range. But when the blue sapphire is held, the distance the javelin can be thrown triples compared to the distance the sapphire is not held. If the sapphire is held, how far can Ramesh stand and throw the golden javelin to hit the dragon outside its fiery breath's range?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Thakuma Jones baked 5 apple pies for the lunch of the employees. She cut each pie into 8 pieces and left 5 pies on the buffet table for the guests to serve themselves. By the end of the evening, after the guests had finished eating their pie pieces, 14 pieces of pie were left over. How many pieces of pie did the guests take?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "guest"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.2,
+      "replaced_words": [
+        "piece",
+        "thakuma",
+        "buffet table",
+        "guests",
+        "apple pie"
+      ]
+    },
+    {
+      "adapted_text": "According to nutrition information, one serving of chips contains 250 calories. If a 300 gram bag contains 5 servings, and your daily calorie target is 2000 and you already consume 1800 calories, how many grams of chips can you eat?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Ramesh is a freelance blogger who writes about health and submits daily posts to his audience as permanent work. It takes him 4 hours to research and write about a blog post. In the last week, he wrote 5 posts on Monday and 2/5 times more posts on Tuesday than Monday. He wrote twice as many posts on Wednesday as Tuesday. How much time did he spend writing posts for three days?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh kept 80 post-it notes in his pocket before going to work. On his way to work, he stopped at the shop and bought a packet of post-it notes; at work, he put one in each of the 220 different coffee cups. If he had 23 post-it notes left, how many were in the packet he bought?",
+      "strict_matches": [
+        "different"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.14285714285714285,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "different",
+        "candies",
+        "postit notes",
+        "packet",
+        "coffee cups",
+        "work",
+        "coffee shop"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought 2 parathas for \u20b983 and gave 1 to his friend. How much money did he spend per paratha?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "parathas",
+        "ramesh",
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh lives in a 15-floor apartment building. Each floor has 8 units, and 3/4 of the building is occupied. How many unoccupied units are there in the building?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "occupied",
+        "unit",
+        "unoccupied",
+        "floor"
+      ]
+    },
+    {
+      "adapted_text": "Tom's boat can travel 10 miles per hour. He takes a boat ride from 1 pm to 4 pm. Then he returns at a speed of 6 miles per hour. How long does it take him to return?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 10,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "1 pm",
+        "takes",
+        "boat",
+        "then",
+        "per hour",
+        "how long",
+        "returns",
+        "tom",
+        "boat ride",
+        "to"
+      ]
+    },
+    {
+      "adapted_text": "Daffy's sister adopted 7 baby ducks from a local farm when they were returning home. When she called her mother, she told her that their home had two baby ducks, and that the adopted baby ducks were three times the number of the first baby duck, and the other baby duck was 12 in total. How many baby ducks are there in Daffy's family now?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 14,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "number",
+        "three times",
+        "baby ducks",
+        "at home",
+        "other baby duck",
+        "first baby duck",
+        "daffy",
+        "home",
+        "called",
+        "sister",
+        "ducks",
+        "12",
+        "local farm",
+        "are there"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh has 30 laddus. Ramesh ate 2 laddus. How many bags can Ramesh fill with the remaining laddus?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "laddus",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Peter plans to go to the movies this week. He always buys a ticket for \u20b983 and popcorn for \u20b983. If he has \u20b942 this week, how many times can he go to the movies?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "A wooden bridge can carry more than 5000 pounds. A delivery truck weighing 15 pounds can cross the bridge. The combined weight of the driver and the empty truck is 3755 pounds. How many boxes can be loaded on the truck without exceeding the bridge's weight limit?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "\u20b98375",
+        "\u20b98300",
+        "\u20b930"
+      ]
+    },
+    {
+      "adapted_text": "Stephen ordered food items online. His final bill was \u20b940.00. As it was done through a supplier retailer, they added 25% fee and a delivery fee of \u20b93.00 on his total bill. Stephen also gave a \u20b94.00 discount. What was the final price of his food items including the extra fees?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b93",
+        "\u20b940",
+        "\u20b94"
+      ]
+    },
+    {
+      "adapted_text": "In a basket, there were 25 mangoes among which 1 was rotten, 20% were unripe, 2 were ripe and the rest were good. How many good mangoes were there?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Elina subscribed to a streaming service that costs her \u20b9140 per month. If the streaming company takes her initial payment in the first half of the year and 10% less in the second half of the year, how much money did she pay in total at the end of the year?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9140",
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "Sofia is thinking of taking a road trip in her own car, and she wants to know how far she can drive on one tank of gas. Since her last tank was filled, she has driven 100 miles, and it took her 4 gallons of gas to refill the tank. According to her car's manual, the tank can hold 12 gallons of gas. How many miles can Sofia drive on one tank of gas?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "sofia"
+      ]
+    },
+    {
+      "adapted_text": "Dr. Varjog's school has twice as many boys as girls. If there are 60 girls and each teacher has 5 students, how many teachers are there?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "girl"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.25,
+      "replaced_words": [
+        "varjog",
+        "girls",
+        "boys",
+        "dr"
+      ]
+    },
+    {
+      "adapted_text": "Bailey started with a certain amount of money. Then she received a weekly salary of \u20b95 for 8 weeks. At the end of 8 weeks, if she had \u20b9100, then Bailey started with how much money?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b95",
+        "\u20b9100"
+      ]
+    },
+    {
+      "adapted_text": "Judi takes 5 dancing classes a day and 8 classes on Sundays. If there are 15 students in each class and she charges \u20b915 per student, how much does she earn in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "student"
+      ],
+      "total_replaced_words": 8,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.125,
+      "replaced_words": [
+        "a day",
+        "per student",
+        "students",
+        "\u20b915",
+        "class",
+        "sundays",
+        "judi",
+        "a week"
+      ]
+    },
+    {
+      "adapted_text": "Kalyan has two recipes from Durukka, one with 20 types of instructions and the other with twice the number of instructions of the first. How many instructions does Kalyan need to read to make two types of food?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Shila bought 5 mobile phones in a 3-month installment for \u20b9150 each. With 2% interest per phone, how much will Shila have to pay per month for 3 months?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9150"
+      ]
+    },
+    {
+      "adapted_text": "Lucas is building a sandcastle on the beach. He noticed that each floor of his sandcastle is half the area of the floor below it. If he builds a 4-floor sandcastle with the top floor measuring 16 square feet, how much will each floor be?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "sandcastle",
+        "lucas",
+        "square feet",
+        "floor"
+      ]
+    },
+    {
+      "adapted_text": "Cecilia bought a new puppy. Her veterinarian advised that for the first 180 days, the puppy should be fed 1 cup of dog food per day. From then on, the puppy should be fed 2 cups of dog food per day. If a bag contains 110 cups of dog food, how many bags will Cecilia need for the first year?",
+      "strict_matches": [
+        "cup",
+        "bag"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "cup",
+        "bag",
+        "dog food",
+        "puppy"
+      ]
+    },
+    {
+      "adapted_text": "Vincent can buy 3 parathas for \u20b983 or 2 for \u20b983. He bought 18 parathas at the better price. How much money did he save?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh adopted a dog. He took the dog to the groomer's, where the cost was \u20b983. As a new customer, the groomer gave him 30% discount. How much did he pay for grooming?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Two girls each got 1/6th of 24 litres of water, which is 4 litres each. Then a boy got 6 litres of water. How much water will be left?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "litres",
+        "boy",
+        "two girls",
+        "got",
+        "will be left"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh weighs 125 pounds. Alex weighs four times Ramesh's weight minus two pounds. How much do they weigh together?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "alex"
+      ]
+    },
+    {
+      "adapted_text": "Dhan bought 3 rose plants. Each rose plant had 25 roses. Each rose had 8 thorns. How many thorns are there in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "thorn",
+        "each",
+        "rose plant",
+        "dhan"
+      ]
+    },
+    {
+      "adapted_text": "A football team played 22 matches. They won 8 more matches than they lost. How many matches did they win in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Ramesh is sewing a t-shirt from his old savings. He has one shirt for each break he takes off. Each shirt has its own quilt block. Each row is made from a different block for each different year's break. He has been sailing for four times a year for 23 years and is still sailing at 34 years old. How many quilt blocks does he have in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh set his alarm three times a day to remind him to go to the market. Until he turned off the alarm, it kept ringing, and for the first time today, it rang four times. The second time it rang, it rang three times more than the first time. The third time, it rang for half the time of the second time. How many times did the alarm ring in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "A company pays each employee $600 per month. The company follows a policy of increasing salaries according to the length of service. Those who have been with the company for five years or more have their salaries increased by 10% every year. If Silvy completed five years of service in December, what will be her monthly salary after three more years of service?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b983000"
+      ]
+    },
+    {
+      "adapted_text": "Marlin sold 10 times more copies than Harold's copies. If they sold 88,000 copies together, how many copies did Harold sell?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "marlin",
+        "harold"
+      ]
+    },
+    {
+      "adapted_text": "Rashmi is planning to host a birthday party and needs 0.75 gift bags for each invited guest, as 1/4 of the attendees won't show up. She invited 16 friends. Each gift bag costs \u20b983. How much money will she spend per gift bag?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rashmi",
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "Ted planned to bring potatoes salad for his dinosaur picnic. He knew that a grown-up dinosaur will eat 10 pounds of potatoes salad and a child will eat half of what a grown-up eats. If there are 20 grown-up dinosaurs and 5 children at the picnic, how much potatoes salad should Ted bring to ensure each one gets enough?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "children"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.25,
+      "replaced_words": [
+        "child",
+        "ted",
+        "grownup dinosaur",
+        "potatoes salad"
+      ]
+    },
+    {
+      "adapted_text": "Jan has three times more pets than Marsi, who has two more pets than Cindy. If Cindy has four pets, how many pets does Jan and Marsi have in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "cindy",
+        "pets",
+        "marsi"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ran 400-meter hardel faster than Gerald by two seconds. However, Ramesh had changed his diet, resulting in a 10% increase in his speed. If Lee ran 400-meter hardel in 38 seconds, how many seconds would Ramesh take to run 400-meter hardel with his new diet?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "In a farm, the number of domestic ducks and geese is twelve less than the number of domestic pigeons. If for every two ducks there are two geese, and the number of ducks is sixty, how many domestic pigeons are there in the farm?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "domestic ducks",
+        "geese",
+        "domestic pigeons"
+      ]
+    },
+    {
+      "adapted_text": "Out of 200 students, 2/5 of the girls in the 5th grade are boys and 2/3 of the girls are girls. How many girls are not in the girls' scout?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Harry slept for 9 hours on the previous night. Harry slept for 9 hours, whereas his friend James slept for only 2/3 of that. How many more hours did Harry sleep than James?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "james",
+        "harry"
+      ]
+    },
+    {
+      "adapted_text": "When Ramesh made sauce with homegrown tomatoes, the quantity became half. For every 16 ounces of homegrown tomatoes he used, he had three tomatoes. Ramesh made 32 ounces of sauce with the last tomato. How many tomatoes did Ramesh use?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "tomato"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.2,
+      "replaced_words": [
+        "sauce",
+        "ramesh",
+        "homegrown tomatoes",
+        "ounces",
+        "tomatoes"
+      ]
+    },
+    {
+      "adapted_text": "Cars were parked in a line on the motorway. In the first 15 minutes, some cars passed through the traffic jam, and in the remaining 15 minutes, another 20 cars passed through. As a result, 5 cars left the line to avoid the traffic jam. If there were 30 cars at the start of the motorway, how many cars passed through the traffic jam in the first 15 minutes?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "15"
+      ]
+    },
+    {
+      "adapted_text": "Solo read 4 pages from her science textbook, 20 pages from her social studies textbook, 7 pages from her history textbook and 8 pages from her geography textbook. She read a total of 15 pages on Monday. If she completes her reading in 4 more days, how many pages will she read per day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "pages from her history textbook",
+        "pages from her social studies textbook",
+        "solo",
+        "pages from her geography textbook"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh prefers to drink one glass of water at morning, noon and evening. He also drinks one glass of water before sleeping in bed. Ramesh drinks one glass of water every day but prefers to rest and drink soda instead of water at dinner. How many glasses of water does Ramesh drink in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Amir ate three times more cookies than Kodi. If Amir ate 5 cookies, then together they ate how many cookies?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "kodi",
+        "cookies",
+        "amir"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh has 3 boxes. Each box measures 5 inches by 6 inches by 4 inches. The walls of the boxes are 1 inch thick. How much space is there in total inside 3 boxes?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "1 inch"
+      ]
+    },
+    {
+      "adapted_text": "Franky watches TV every night after completing her household chores. On Sundays and Mondays, she watches a 1-hour episode of her favorite show. On Wednesdays, she quickly finishes her household chores and watches a 1-hour episode and a 30-minute episode. On Fridays, she sleeps in late and watches two 1-hour episodes. In total, she watches 7 hours of TV. How many 30-minute episodes did she watch on Wednesdays?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "quickly finished her household chores",
+        "wednesdays",
+        "sundays and mondays",
+        "favorite show",
+        "fridays",
+        "franky"
+      ]
+    },
+    {
+      "adapted_text": "A local gas station sells one gallon of gas for \u20b983.00. If you fill up your gas from this station, they give you \u20b90.20 as cashback per gallon. After getting the cashback, how much will the total cost of the gas be if you buy 10 gallons of gas?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9020",
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "Marcel and Biyatri are competing to see who can eat the most fruit roll-ups, so they roll up as many as they can. Unfortunately, someone makes a mistake and Biyatri's roll-ups become two times as wide and 24 times as long as Marcel's roll-ups, which are 3 times as wide and 14 times as long. If they both eat their share, how many fruit roll-ups did they eat in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "marcel",
+        "biyatri"
+      ]
+    },
+    {
+      "adapted_text": "While sailing on the lake, a hole developed in Julie's boat. On her way back to the shore, water was pouring in at the rate of two liters every ten feet. It took her sixty seconds to cross the lake, which was 64 seconds away from the shore. How much water had entered the boat when Julie reached the shore?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "There is a whiteboard in a classroom where four teachers use it when they teach classes. Each teacher reads from the whiteboard twice a day and uses it twice for each chapter. If the whiteboard is rubbed 3 times for each chapter, how many times is it rubbed in a day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Ryan planted 2 flowers in his garden one day. After 15 days, if 5 more flowers did not bloom, how many flowers will be in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "day",
+        "flower"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 1.0,
+      "replaced_words": [
+        "flowers",
+        "days"
+      ]
+    },
+    {
+      "adapted_text": "Jamal's phone has 6 times more photos than Britani's phone. Britani's phone has 50 times more birds than the total number of birds in Jamal's photo of the peacock in the chicken coop. If Jamal's phone has 1800 photos, how many peacocks can be seen in the photo of the peacock in the chicken coop?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "britani",
+        "jamal"
+      ]
+    },
+    {
+      "adapted_text": "Kati made coffee by mixing 7.13 parts of sugar and water in the ratio of tea spoon to cup. If she mixes 120 parts of sugar and water in the ratio of tea spoon to cup, how many tea spoons of sugar did she use?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought 3 pairs of shoes for his 3 children, each costing \u20b960. How much money did he spend in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b960"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh calculated the customs clearance at the main port of SeaSide, where he found 2 imported containers, each containing 5 cars. The next day, more containers were brought in, and the total number of cars at the port became 30. Assuming each container can have 5 cars, calculate the number of containers brought in on the second day.",
+      "strict_matches": [
+        "day",
+        "mumbai"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 8,
+      "strict_match_score": 0.25,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "clearance",
+        "day",
+        "brought in",
+        "main port",
+        "imported",
+        "containers",
+        "cars",
+        "mumbai"
+      ]
+    },
+    {
+      "adapted_text": "Michael uses 2 packs of paper a week for his drawing. If one pack has 30 pages, how many pages does he use per month?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "michael",
+        "for his drawing"
+      ]
+    },
+    {
+      "adapted_text": "Mariyet and Kayal were asked to bring fruits. Mariyet brought 5 apples and 8 oranges, whereas Kayal brought double the number of apples Mariyet brought and half the number of oranges Mariyet brought.",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "apple"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.25,
+      "replaced_words": [
+        "kayal",
+        "oranges",
+        "apples",
+        "mariyet"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh slept 8 hours on Monday. For the next two days, he slept 2 hours less each day as he had to complete some assignments. If he slept 1 hour more each day than those two days for the rest of the week, how many hours did he sleep in total for the week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Rosi can run 3 hours at a speed of 10 miles per hour, then she runs at a speed of 5 miles per hour for 7 hours. How many miles can she run in 7 hours?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "miles",
+        "hours",
+        "rosi"
+      ]
+    },
+    {
+      "adapted_text": "Rani is helping her mother at her office. She has 60 letters to write, and one letter already has a stamp applied. She has applied a stamp to one-third of the letters, and there are 30 letters with stamps now. How many letters did Rani have when she started writing in that letter?",
+      "strict_matches": [
+        "mother"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.25,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "stamp",
+        "rani",
+        "mother",
+        "letter"
+      ]
+    },
+    {
+      "adapted_text": "After shifting to a new school, Ami had 20 more friends than Lily. If Lily had 50 friends, how many friends did Ami and Lily have together?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "lili"
+      ]
+    },
+    {
+      "adapted_text": "Nisha rented 60 temporary workers from her departmental store's Santa Village to play Alv in her role. After the kids beat them up, one-third of Alv leaves, and then the remaining 10 Alv are beaten up by the kids. How many Alv are left?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "children"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.25,
+      "replaced_words": [
+        "santa village",
+        "child",
+        "beat up",
+        "on"
+      ]
+    },
+    {
+      "adapted_text": "Pam and Fred went to a carnival. Pam rode roller coaster 2 times where Fred rode it 4 times. Then, they decided to ride Louis 2 times each. If each ride costs 6 tickets, then how many tickets did they use that day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "louis",
+        "fred",
+        "pam"
+      ]
+    },
+    {
+      "adapted_text": "Tom washed his car 4 times in a month. If it costs him $15 each time to wash the car, how much does he spend on car washes in a year?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "There are 27 unicorns left in the world. One-third of them are in Scotland. Two-thirds of the Scottish unicorns are female. How many female unicorns are in Scotland?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Rory bought 2 parathas for \u20b983, 2 chips for \u20b983 and 2 cookies for \u20b983. He also wants to pay a \u20b95 box charge. How much will his delivery order cost?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9",
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "In a candy machine, there are 22 more red gumballs than four times the number of blue gumballs. If there are 12 blue gumballs, how many red gumballs are there?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "blue gumballs",
+        "red gumballs",
+        "candy machine"
+      ]
+    },
+    {
+      "adapted_text": "Renting 20 cars available, out of which 12 are automatic, 4 are manual, and the rest are semi-automatic. What percentage of cars are semi-automatic?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "renting",
+        "automatic",
+        "manual",
+        "semiautomatic"
+      ]
+    },
+    {
+      "adapted_text": "A beehive has 700 bees. The number of worker bees is twice that of the child bees, and the number of child bees is twice that of the queen bees. How many worker bees are there?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "child bees",
+        "queen bees",
+        "worker bees"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh plays video games for 2 hours a day. He also works a part-time job where he earns \u20b983 per hour. If Ramesh spends his time playing video games instead of working, how much money can he earn in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought milk for \u20b92, eggs for \u20b93, light bulb for \u20b93, cup for \u20b93, and fishing rod for \u20b940. If there was a 10% tax on non-food items, what was the total cost of all the items together?",
+      "strict_matches": [
+        "cup",
+        "milk"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.2857142857142857,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "light bulb",
+        "10 tax",
+        "eggs",
+        "cup",
+        "milk",
+        "\u20b983",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Kim started her own housekeeping business and is calculating how much profit she will make from her customers. She already has 3 customers, but now she is talking to 5 more potential customers and is confident enough to include them in her account. Each customer will need 2 bottles of bleach and 1 packet of clothes. The price of each bottle of bleach is \u20b92 and the price of each packet of clothes is \u20b95. These are her only expenses. She has calculated that she will make a total of \u20b992 per week. The difference between her total income and total expenses is her profit. Lucas will make \u20b992 - \u20b950 = \u20b942 per week.",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b92",
+        "\u20b95",
+        "\u20b992"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh has 10 hectares of orange orchard. In each hectare, 100 oranges are grown. Ramesh harvests oranges every 3 months. How many oranges does Ramesh harvest in a year?",
+      "strict_matches": [
+        "grown",
+        "year"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.4,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "months",
+        "ramesh",
+        "grown",
+        "hectare",
+        "year"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh was playing with his Legos on the floor of his house. He had set up a 500-piece Lego box set on the floor, and another one with 3 times as many pieces, and another one with a quarter of the pieces. If Ramesh took out all the Legos, how many blocks did he take out?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Debra observed how many bees flew in and out of the hive in a day. She saw 30 bees leave the hive in the first 6 hours, then half of that number of bees return in the next 6 hours. She saw twice as many bees leave the hive in the next 6 hours as she saw in the first 6 hours. All the bees that left and didn't return came back in the last 6 hours of the day. How many bees came back in the last 6 hours of the day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 9,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "last 6 hours",
+        "came back",
+        "twice as many",
+        "debra",
+        "first 6 hours",
+        "hive",
+        "leave",
+        "bees",
+        "next 6 hours"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh and his mother went to the museum. The entry fee for adults was \u20b9830 and for children \u20b9700. Ramesh's mother paid for one child and one adult ticket. If she got \u20b98 back, then how much did she give to the cashier?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b98",
+        "\u20b9830",
+        "\u20b9700"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh and Ravi decided to find out who can reach home the fastest from school. Ramesh is farther from school than Ravi, so he is allowed to ride his bike. Ramesh is 3 miles away from school and can ride his bike at a speed of 440 feet per minute. Ravi is 2 miles away from school. If Ravi rides his skateboard at a speed of 264 feet per minute, then the loser has to wait for the winner to reach home before the competition ends. How many minutes will the loser have to wait for the winner to reach home?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "ravi"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh has decided that his neighbors' kids can use the wind service on their bicycles. He has decided that the best way to calculate the cost is to do it tyre-wise. Each tyre costs \u20b91.25. On the first day, 5 people came on bicycles and filled both tyres each. 3 people came on tricycles and filled all their tyres. Finally, one person came on a unicycle. How much money did he earn that day?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "children"
+      ],
+      "total_replaced_words": 10,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.1,
+      "replaced_words": [
+        "rupee",
+        "neighbour",
+        "tyre",
+        "ramesh",
+        "wind service",
+        "tricycle",
+        "unicycle",
+        "child",
+        "rupee 83",
+        "bicycle"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought 10 packets of parathas. Each packet contains 6 parathas. Each paratha costs \u20b90.83. If he pays with a \u20b9830 note, how much will he get back?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "parathas",
+        "ramesh",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought a big packet of French-fries and ate twelve of them before a hungry squirrel stole the packet. The squirrel ate half the amount Ramesh had eaten. Three pigeons then chased him away from the food, and each pigeon ate three French-fries. Later, a raccoon took two-thirds of the remaining French-fries. Five were left, and the last French-fry was taken by a mouse. Ramesh bought how many French-fries in the packet?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "raccoon",
+        "ramesh",
+        "frenchfries",
+        "squirrel",
+        "mouse",
+        "pigeons"
+      ]
+    },
+    {
+      "adapted_text": "College student Kimor has classes on Monday, Tuesday, and Thursday for three 1-hour classes each. She has two 2-hour classes on Friday and Saturday. A semester lasts for 16 school weeks. How many hours does Kimor spend in classes in a semester?",
+      "strict_matches": [
+        "student"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 10,
+      "strict_match_score": 0.1,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "tuesday",
+        "friday",
+        "thursday",
+        "semester",
+        "hour",
+        "monday",
+        "saturday",
+        "school week",
+        "college",
+        "student"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh daily bakes 300 parathas, 120 chocolate crosses, and 60 baguettes. Each paratha is 4 inches long, each cross is 6 inches long, and each baguette is 2 feet long. If Ramesh stacks all the baked items from first to last, how tall will they be in feet?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "chocolate crosses",
+        "feet",
+        "baguettes",
+        "inches"
+      ]
+    },
+    {
+      "adapted_text": "The caretaker of the zoo feeds all the monkeys in the zoo. He orders 3 parathas every 2 months from a local farm. If the monkeys need 200 parathas every month, the gorillas need 400 parathas and the baboons need 100 parathas, how many parathas should he order for 2 months?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "monkey",
+        "paratha",
+        "farm",
+        "zoo"
+      ]
+    },
+    {
+      "adapted_text": "Rafael bought some items from Rafayel School. He bought 4 pens costing \u20b92.25 each, 2 notebooks costing \u20b94 each, and one Remi bond paper costing \u20b920. How much money did he spend in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "\u20b94",
+        "\u20b920",
+        "\u20b9225",
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "Fin saw 11 frogs in the pond. He saw 6 of them jumping out of a lily pad and 2 of them hiding under a rock. How many frogs will he see in the pond now?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "under a rock",
+        "lily pad",
+        "fin",
+        "frogs"
+      ]
+    },
+    {
+      "adapted_text": "Anakini and Lakshin went to the beach today. Anakini caught 10 starfish, 6 Sindhu crabs, and 3 clownfish. Where Lakshin caught 5 fewer starfish, 3 fewer Sindhu crabs, and 2 more clownfish than Anakini. How many fish did they catch in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "starfish",
+        "clownfish",
+        "lakshin",
+        "anakini",
+        "sindhu crabs"
+      ]
+    },
+    {
+      "adapted_text": "If one bag of marbles costs $20 and its price increases by 20% every two months, how much can one bag of marbles cost after 36 months?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 8,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9166",
+        "\u20b9502",
+        "\u20b9659",
+        "\u20b9417",
+        "\u20b9249",
+        "\u20b983",
+        "\u20b9830",
+        "\u20b9332"
+      ]
+    },
+    {
+      "adapted_text": "Rahul is trying to decide whether he should do his own taxes or hire an accountant. If he does his own taxes, he can do less work as a freelancer for 3 hours and lose $35/hour. The accountant earns $90. How much more money will he have if he hires an accountant?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "taxes",
+        "rahul",
+        "\u20b98100",
+        "accountant",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Rahul chose a new computer as a gift on his 30th birthday, along with many other accessories. His budget was \u20b91,50,000 which his entire family had contributed to and he thought he could save some money for buying a dress. He went to a computer store and bought a machine with a screen, keyboard and mouse for \u20b91,09,000. He also bought a scanner for \u20b91,57, a CD burner for \u20b974 and a printer for \u20b91,02. How much money will he have left to buy a dress?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9102",
+        "\u20b9109000",
+        "\u20b9157",
+        "\u20b974",
+        "\u20b9150000"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh's neighbor used to give him 9 parathas of eggs every time he babysat his daughter. To make a Spanish omelette, he needed 3 eggs. If Ramesh had to make 15 Spanish omelettes for his school's festival, how many times would he have to babysit his daughter?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "spanish omelette",
+        "ramesh",
+        "parathas of eggs"
+      ]
+    },
+    {
+      "adapted_text": "Jimmy has more than $2 - double of athletics' amount. If athletics has $8, then Jimmy has \u20b983 + \u20b983 = \u20b9166",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ranji",
+        "\u20b983",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh walked 20 miles one day and 10 miles on weekends. How many miles did he walk in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "weekends"
+      ]
+    },
+    {
+      "adapted_text": "Marketing band ordered new uniforms. Each uniform comes with one hat costing \u20b983, one jacket costing three times the cost of the hat, and the total cost of the hat and jacket is equal to the cost of the pants.",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b983",
+        "\u20b9249"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh is calculating how much he needs to pay per month for all his debts. He has to pay a minimum of \u20b915,000 per month for student loans, \u20b913,600 per month for credit card dues, and \u20b935,000 per month for bonds. If Ramesh wants to pay 50% more than the minimum amount, how much will he pay in a year.",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b915000",
+        "ramesh",
+        "\u20b913600",
+        "\u20b935000"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh is not peeling and chopping potatoes for his big family reunion. It's a big event, so he needs 60 potatoes, which are all roughly the same size, so each one takes roughly the same amount of time to peel and chop. Peeling and chopping potatoes takes Ramesh almost 10 minutes, but chopping takes only 5 seconds. How much time will it take Ramesh to prepare the potatoes?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "chop",
+        "ramesh",
+        "family reunion",
+        "peel"
+      ]
+    },
+    {
+      "adapted_text": "In a 100m race competition, among 240 Asians, 80 were Japanese and the rest were Chinese. If the number of boys in the Chinese team was 60, how many girls were in the Chinese team?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Loyd earned \u20b9830 in one hour. He taught 5 hours in the first week and 8 hours in the second week. How much did he earn in the first two weeks?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "loyd",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Two students from Sarai school are contesting for the class representative position. If the winner gets 3/4 of the votes, and 80 students cast their votes, how many votes did the loser get?",
+      "strict_matches": [
+        "school",
+        "student"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "vote",
+        "class",
+        "sarai",
+        "school",
+        "loser",
+        "student"
+      ]
+    },
+    {
+      "adapted_text": "Jain is two years older than Mark. Two years ago, Mark's age was half of Jean's age plus five years. If Jean is 30 years old, how old is Jain?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "jean",
+        "mark",
+        "jain"
+      ]
+    },
+    {
+      "adapted_text": "Two track teams are competing against each other in a 4x400 meter relay race; where each team has four members who will run 400 meters, either individually or in a pack, around a standard track. One team is doing exceptionally well and each of their members will run 400 meters in 55 seconds. The other team is not doing well; their first runner will run 400 meters in 60 seconds, and the subsequent runners will run 3 seconds faster than the previous runner. Based on this information, which team will win the fastest?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Jerry is spinning a six-sided die. He is spinning two consecutive pairs of numbers and then spinning a number greater than 3. What is the probability that he will spin a number greater than 3 compared to spinning two consecutive pairs of numbers?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "number",
+        "express as a percentage",
+        "probability",
+        "jerry",
+        "consecutive pairs",
+        "sixsided"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh and his friends spent \u20b920.25 on 3 tickets to the fair. They saved \u20b94.50 on food from the ticket price. They also took 2 different rides, each costing \u20b933. If they all agreed to split the total cost equally, how much did each of them have to pay?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b92025",
+        "\u20b9450",
+        "\u20b933"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh collected 3 hours of piches. He can collect 2 piches in a minute. How many piches did he collect?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Hens need to eat 3.5 pounds of insects every week to survive. If there are ten hens in a coop, how much insects will they need per day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "per week",
+        "hens",
+        "coop",
+        "insects",
+        "ten",
+        "per day"
+      ]
+    },
+    {
+      "adapted_text": "Tom planted 10 trees in a year. He cut down 2 trees every year. He started with 50 trees. After 10 years, 30% of the trees died. How many trees are left with him now?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "tree"
+      ],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.14285714285714285,
+      "replaced_words": [
+        "how many",
+        "every year",
+        "tom",
+        "started with",
+        "a year",
+        "died",
+        "trees"
+      ]
+    },
+    {
+      "adapted_text": "So, one day, he was at a fun house. One weekend, his neighbors decided to play a prank on him. On Saturday morning, his neighbors put 18 pink plastic flamingos in front of his house. On Sunday morning, they brought back one-third of the flamingos and painted them white, and then brought the newly painted white flamingos to his house. On Sunday afternoon, they added another 18 pink plastic flamingos to their collection. How many more pink plastic flamingos were there than white plastic flamingos?",
+      "strict_matches": [
+        "white"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 11,
+      "strict_match_score": 0.09090909090909091,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "so",
+        "morning",
+        "neighbors",
+        "flamingos",
+        "white",
+        "afternoon",
+        "pink",
+        "weekend",
+        "saturday",
+        "sunday",
+        "onethird"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh wants to buy new violatas. They will cost him \u20b920 and he needs 5 of different colors. One violata costs \u20b92. How much will he get back?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b920",
+        "\u20b92000"
+      ]
+    },
+    {
+      "adapted_text": "A pen and a pencil together cost as much as a pen. A pencil costs \u20b91.20 and a pen costs \u20b90.30. How much will 8 pens cost?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "In a specific city, 200 pounds of tomatoes were distributed among 40 restaurants. Each restaurant took 2 pounds of tomatoes. How many pounds of tomatoes were not used?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "In Soda city, there are exactly 23786 residents. Among them, 8417 are men and 9092 are women. The rest are children. How many children are there in Soda city?",
+      "strict_matches": [
+        "men",
+        "women"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.6666666666666666,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "men",
+        "women",
+        "soda"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh is a copy editor. He edits an equal number of sentences for two different publishers every week, who pay him a different rate per sentence. Publisher A pays Ramesh a certain amount for each sentence, while Publisher B pays him twice that amount. Every week, Ramesh edits 1000 sentences, and Publisher A pays him 5 paise per sentence. How much money does Ramesh earn in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "1000 sentences",
+        "ramesh",
+        "10 paise",
+        "5 paise",
+        "per sentence"
+      ]
+    },
+    {
+      "adapted_text": "Baldu took water from a well. He took 5 buckets of water in the morning and 6 buckets of water in the evening. If each bucket can hold 5 liters of water, then how many liters of water does he take in a day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "baldu",
+        "bucket",
+        "liter",
+        "well"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh won a prize at work. It includes a \u20b95000 annual financial prize and a 5% salary increase. If he earns \u20b92000 per week, how much did he earn in a year, including the prize on the first day of the year and every year?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b95000",
+        "\u20b92000"
+      ]
+    },
+    {
+      "adapted_text": "Joshi has harvested 10 acres of mangoes. Every year, 5 tons of mangoes are produced per acre, and 2 barrels of wine are made from every ton of mangoes. How many barrels of wine are produced every year from his farm?",
+      "strict_matches": [
+        "made"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.14285714285714285,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "made",
+        "harvested",
+        "from his farm",
+        "from every ton of mangoes",
+        "joshi",
+        "per acre",
+        "barrels of wine"
+      ]
+    },
+    {
+      "adapted_text": "Rani had 22 green pens and 10 yellow pens initially. She bought 6 bags of blue pens and 2 bags of red pens. Each blue pen bag had 9 pens and each red pen bag had 6 pens. Now, Rani has how many pens in total?",
+      "strict_matches": [
+        "red",
+        "yellow"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.4,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "blue",
+        "yellow",
+        "green",
+        "red",
+        "rani"
+      ]
+    },
+    {
+      "adapted_text": "Jo's Halloween candy bag has 25 chocolate bars and 80 candies apples. Each chocolate bar weighs twice the weight of each candy apple. If each chocolate bar weighs 40 grams, how much will Jo's candy bag weigh in grams?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Ros went to the shop on Sunday and bought 4 cakes. On Monday, she went to another shop and bought three times the number of cakes she bought on Sunday. On Wednesday, she went to another shop and bought five times the number of cakes she bought on Monday. How many cakes did she buy in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ros",
+        "sunday",
+        "cakes",
+        "monday"
+      ]
+    },
+    {
+      "adapted_text": "Each plate costs \u20b96000, and a dozen plates cost \u20b96000 - \u20b91200 = \u20b94800. A dozen cups cost \u20b94800 - \u20b96000 = \u20b91200 less than a dozen plates. So, each cup costs \u20b96000 - \u20b91200 = \u20b94800 - \u20b91200 = \u20b93600.",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "\u20b9"
+      ]
+    },
+    {
+      "adapted_text": "A dollar store, Sloan saw that 100 customers entered the store. The next day, he saw that 50 more customers entered than the previous day. If the total number of customers by the third day was 500, then how many customers entered the store according to his calculation on the third day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Jerry has two water tanks, both of which have leaks that leak 4 gallons of water every minute. Four minutes ago, the larger tank had twice as much water as the smaller tank. Now, the larger tank has four times as much water as the smaller tank. How much water is left in the smaller tank now?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 9,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "4 gallons every minute",
+        "jerry",
+        "twice as much",
+        "four times as much",
+        "now",
+        "four minutes ago",
+        "larger tank",
+        "two water tanks",
+        "smaller tank"
+      ]
+    },
+    {
+      "adapted_text": "Lori wants to buy a pair of shoes worth \u20b932000 and a friendly belt worth \u20b93200. She earns $8.00 per hour from her part-time job. How many hours does she need to work to buy these items?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b932000",
+        "\u20b964",
+        "\u20b932"
+      ]
+    },
+    {
+      "adapted_text": "There are 4 roses in the garland. There are 4 + 7 = 11 more daisies than roses in the garland. How many flowers are there in the garland?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Four students scored a total of 251 points in a board game. Naomi scored 68 points. Yuri scored 10 more points than Naomi and Brian scored 17 more points than Naomi. How many points did Jojo score?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Karman spent 10 minutes solving a crossword puzzle and 5 minutes solving a Sudoku. On weekends, she solved 3 crosswords and 8 Sudokus. How much time did she spend playing these games?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "karman",
+        "sudoku",
+        "crossword puzzle"
+      ]
+    },
+    {
+      "adapted_text": "A water tank has 120 litres of water in it. Seline used 90 litres of water from the tank to water her small garden. Then she collected rainwater which filled the tank with twice the amount of water already in it. How much water is in the tank now?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "seline"
+      ]
+    },
+    {
+      "adapted_text": "Andy planted 90 tulips and planted 40 fewer tulips than the number of tulips he planted in Jordan. He planted a total of how many flowers?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "andy",
+        "tulips",
+        "jordan"
+      ]
+    },
+    {
+      "adapted_text": "\u098f\u0995\u099f\u09bf \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf \u09ac\u09bf\u099c\u09cd\u099e\u09be\u09aa\u09a8\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09ac\u099b\u09b0\u09c7 \u20b945,000 \u09ac\u09cd\u09af\u09af\u09bc \u0995\u09b0\u09c7, \u098f\u09ac\u0982 \u09a4\u09be\u09b0\u09aa\u09b0 \u0986\u09b0\u09c7\u0995\u099f\u09bf \u09ac\u099b\u09b0\u09c7 \u09ac\u09bf\u099c\u09cd\u099e\u09be\u09aa\u09a8\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u0990 \u0985\u09b0\u09cd\u09a5\u09c7\u09b0 \u098f\u0995-\u09a4\u09c3\u09a4\u09c0\u09df\u09be\u0982\u09b6 \u09ac\u09cd\u09af\u09af\u09bc \u0995\u09b0\u09c7\u0964 \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf\u099f\u09bf \u09ac\u09bf\u099c\u09cd\u099e\u09be\u09aa\u09a8\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09a6\u09c1\u0987 \u09ac\u099b\u09b0\u09c7 \u09ae\u09cb\u099f \u0995\u09a4 \u0985\u09b0\u09cd\u09a5 \u09ac\u09cd\u09af\u09af\u09bc \u0995\u09b0\u09c7\u099b\u09bf\u09b2?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "45000",
+        "\u20b9"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh and Benji are at the beach. Carlos is renting a dinghy boat for \u20b91,800 per hour and Benji is renting a banana boat raft for \u20b9900 per hour. If Carlos uses the boat for 3 hours and Benji uses the raft for 5 hours, how much will they spend together on rent?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9900",
+        "\u20b91800",
+        "carlos",
+        "benji"
+      ]
+    },
+    {
+      "adapted_text": "Andrew planned a road trip from New Jersey to Rochester. It takes 6 days to travel from New Jersey to Rochester by bus, and half of that time to travel from Rochester by car. If he plans to travel from New Jersey to Rochester by bus and then from Rochester back to New Jersey by car, how many days will he need to travel?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "new jersey",
+        "andrew",
+        "by car",
+        "by bus",
+        "rochester"
+      ]
+    },
+    {
+      "adapted_text": "James was calculating his Pok\u00e9mon cards. He had 30 Fire-type cards, 20 Grass-type cards, and 40 Water-type cards. If he lost 8 Water-type cards and bought 14 Grass-type cards, then what was the probability that a randomly drawn card was a Water-type card?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "firetype",
+        "watertype",
+        "james",
+        "grasstype"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ordered a build-your-own burrito for lunch. The primary burrito costs \u20b9530. He added extra meat for \u20b9200, extra cheese for \u20b9100, extra avocado for \u20b9100 and 2 salsas, each costing \u20b90.25. He also upgraded his meal with chips and drinks for an extra \u20b9300. He had a \u20b9500 gift card that he used to pay for the meal. How much money did he spend in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9300",
+        "\u20b9100",
+        "\u20b9200",
+        "\u20b9025",
+        "\u20b9530"
+      ]
+    },
+    {
+      "adapted_text": "Kalinda was playing with her mother with a 360-piece puzzle. Kalinda could usually sew 4 pieces per minute. Kalinda could sew the same number of pieces in a minute as her mother could in a minute, but her mother could only sew half of that. How many hours will it take them to complete this puzzle?",
+      "strict_matches": [
+        "mother"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.25,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "kalinda",
+        "puzzle",
+        "mother",
+        "half of that"
+      ]
+    },
+    {
+      "adapted_text": "A farm produced 120 small tomatoes. Ashlin visited the farm two months later and found that 30% of the tomatoes were ready to be picked, so she took them home. Two weeks later, she visited the farm again and found that 3/4 of the remaining tomatoes were ready to be picked, so she took them home. How many tomatoes were not ready to be picked two weeks after the second visit?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Mark bought 12 cars for \u20b94,000,000 and paid \u20b91,200,000 as tax and \u20b912,000,000 for registration. How much money did he spend in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9830",
+        "\u20b99000",
+        "\u20b94000000"
+      ]
+    },
+    {
+      "adapted_text": "Kaili and Robert preferred to go to the beach and collect crabs. On Sunday, Robert collected 20 crabs, and Kaili collected 5 more than him. On Sunday, Kaili collected how many crabs, Mangalvar she collected twice as many as Kaili.",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Dax was picking apples from their orchard and saw as many ants as he saw bees. If there were 50 bees, then how many insects were there in total in the garden?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ants",
+        "dax",
+        "bees"
+      ]
+    },
+    {
+      "adapted_text": "Stephen decided to start eating more tomatoes and also decided to produce his own cherry tomatoes. He eats twice as much as his friends. He eats 6 tomatoes a day. If one latte produces 3 tomatoes a week, how many lattes does he need?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "tomato"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.25,
+      "replaced_words": [
+        "stephen",
+        "latte",
+        "cherry tomatoes",
+        "tomatoes"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ordered some parathas for his friends to eat. He has 20 friends and wants to ensure each gets 4 pieces. The parathas are sold in 8-piece portions only. How many parathas should Ramesh order?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "parathas",
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Ram uses many pens to make a full pen by mixing soot from five empty pens. He wants to save money if he buys 25 pens and the soot decreases.",
+      "strict_matches": [
+        "five"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 11,
+      "strict_match_score": 0.09090909090909091,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "how many",
+        "wants",
+        "ram",
+        "will need",
+        "with",
+        "five",
+        "make",
+        "decreases",
+        "buys",
+        "pen",
+        "soot"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh added \u20b930 to his \u20b920 salary. He invested it, which tripled in one year. How much money did he have after one year?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9830",
+        "\u20b9930",
+        "\u20b92000"
+      ]
+    },
+    {
+      "adapted_text": "Mary is two years younger than Ramesh, who is five years older than Jessica. If Jessica is 20 years old, then how old are the three girls together?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "jessica"
+      ]
+    },
+    {
+      "adapted_text": "James had 6 more candies than Robert. John had twice as many candies as Robert. If John had 54 candies, then how many more candies did John have than James?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "rohan"
+      ]
+    },
+    {
+      "adapted_text": "Dolly had two books. Pandanar had one. If Dolly and Pandanar read each other's books as well as their own, how many books could they read together?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "dolly",
+        "pandanar"
+      ]
+    },
+    {
+      "adapted_text": "Mike had a friendship with 5 people. He stopped writing to 2 of them. They would each write 2 letters a week, which were 5 pages long. He would also respond similarly. He could write a page in 6 minutes. How many hours did he spend writing a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "pages",
+        "mike",
+        "response",
+        "friendship"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh has a monthly phone plan of 1000 minutes. He spends 15 minutes daily on calls with Basu and an additional 300 minutes on calls to other people this month. If this month has 30 days, how many minutes are left with Ramesh?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "basu"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought party items for his little sister's birthday party. He spent \u20b912 on cake ingredients, \u20b943 on a birthday gift, \u20b915 on decorations, \u20b94 on invitations, and \u20b922 on goodie bags for the guests. He shared the total cost equally with his mother and father. How much did each of them spend?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b915",
+        "\u20b94",
+        "\u20b922",
+        "\u20b912",
+        "\u20b943"
+      ]
+    },
+    {
+      "adapted_text": "A housewife bought 4 bags of potatoes weighing 50 pounds each. One pound of potatoes costs \u20b983. How much money did she spend?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "On Monday, Su ate 4 times more cookies than her sister. On Tuesday, she ate twice as many cookies as her sister. Her sister ate 5 cookies on Monday and 13 cookies on the next day. If one cookie has 200 calories, then how many more calories did Su take compared to her sister?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "tuesday",
+        "cookies",
+        "sister",
+        "monday"
+      ]
+    }
+  ]
+}

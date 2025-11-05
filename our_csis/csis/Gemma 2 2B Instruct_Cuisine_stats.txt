@@ -1,0 +1,222 @@
+Adaptation Statistics Per State:
+State: Andhra Pradesh
+  Total Concepts   : 37
+  Adapted Concepts : 1
+  Not Adapted      : 36
+  Matched Concepts : Payasam
+
+State: Arunachal Pradesh
+  Total Concepts   : 20
+  Adapted Concepts : 0
+  Not Adapted      : 20
+  Matched Concepts : None
+
+State: Assam
+  Total Concepts   : 42
+  Adapted Concepts : 0
+  Not Adapted      : 42
+  Matched Concepts : None
+
+State: Bihar
+  Total Concepts   : 35
+  Adapted Concepts : 0
+  Not Adapted      : 35
+  Matched Concepts : None
+
+State: Chhattisgarh
+  Total Concepts   : 31
+  Adapted Concepts : 0
+  Not Adapted      : 31
+  Matched Concepts : None
+
+State: Goa
+  Total Concepts   : 44
+  Adapted Concepts : 0
+  Not Adapted      : 44
+  Matched Concepts : None
+
+State: Gujarat
+  Total Concepts   : 36
+  Adapted Concepts : 1
+  Not Adapted      : 35
+  Matched Concepts : Jalebi
+
+State: Haryana
+  Total Concepts   : 41
+  Adapted Concepts : 1
+  Not Adapted      : 40
+  Matched Concepts : Lassi
+
+State: Himachal Pradesh
+  Total Concepts   : 31
+  Adapted Concepts : 0
+  Not Adapted      : 31
+  Matched Concepts : None
+
+State: Jharkhand
+  Total Concepts   : 40
+  Adapted Concepts : 0
+  Not Adapted      : 40
+  Matched Concepts : None
+
+State: Karnataka
+  Total Concepts   : 39
+  Adapted Concepts : 0
+  Not Adapted      : 39
+  Matched Concepts : None
+
+State: Kerala
+  Total Concepts   : 46
+  Adapted Concepts : 0
+  Not Adapted      : 46
+  Matched Concepts : None
+
+State: Madhya Pradesh
+  Total Concepts   : 34
+  Adapted Concepts : 2
+  Not Adapted      : 32
+  Matched Concepts : Poha, Jalebi
+
+State: Maharashtra
+  Total Concepts   : 45
+  Adapted Concepts : 2
+  Not Adapted      : 43
+  Matched Concepts : Poha, Poha
+
+State: Manipur
+  Total Concepts   : 47
+  Adapted Concepts : 0
+  Not Adapted      : 47
+  Matched Concepts : None
+
+State: Meghalaya
+  Total Concepts   : 30
+  Adapted Concepts : 1
+  Not Adapted      : 29
+  Matched Concepts : Jalebi
+
+State: Mizoram
+  Total Concepts   : 37
+  Adapted Concepts : 0
+  Not Adapted      : 37
+  Matched Concepts : None
+
+State: Nagaland
+  Total Concepts   : 30
+  Adapted Concepts : 0
+  Not Adapted      : 30
+  Matched Concepts : None
+
+State: Odisha
+  Total Concepts   : 47
+  Adapted Concepts : 0
+  Not Adapted      : 47
+  Matched Concepts : None
+
+State: Punjab
+  Total Concepts   : 50
+  Adapted Concepts : 4
+  Not Adapted      : 46
+  Matched Concepts : Chole Bhature, Lassi, Jalebi, Khichdi
+
+State: Rajasthan
+  Total Concepts   : 41
+  Adapted Concepts : 0
+  Not Adapted      : 41
+  Matched Concepts : None
+
+State: Sikkim
+  Total Concepts   : 40
+  Adapted Concepts : 0
+  Not Adapted      : 40
+  Matched Concepts : None
+
+State: Tamil Nadu
+  Total Concepts   : 86
+  Adapted Concepts : 2
+  Not Adapted      : 84
+  Matched Concepts : Idli, Payasam
+
+State: Telangana
+  Total Concepts   : 36
+  Adapted Concepts : 0
+  Not Adapted      : 36
+  Matched Concepts : None
+
+State: Tripura
+  Total Concepts   : 36
+  Adapted Concepts : 0
+  Not Adapted      : 36
+  Matched Concepts : None
+
+State: Uttarakhand
+  Total Concepts   : 36
+  Adapted Concepts : 0
+  Not Adapted      : 36
+  Matched Concepts : None
+
+State: Uttar Pradesh
+  Total Concepts   : 43
+  Adapted Concepts : 2
+  Not Adapted      : 41
+  Matched Concepts : Thandai, Chole Bhature
+
+State: West Bengal
+  Total Concepts   : 30
+  Adapted Concepts : 0
+  Not Adapted      : 30
+  Matched Concepts : None
+
+State: Andaman and Nicobar Islands
+  Total Concepts   : 30
+  Adapted Concepts : 0
+  Not Adapted      : 30
+  Matched Concepts : None
+
+State: Chandigarh
+  Total Concepts   : 50
+  Adapted Concepts : 6
+  Not Adapted      : 44
+  Matched Concepts : Chole Bhature, Lassi, Pakoras, Jalebi, Roti, Paratha
+
+State: Dadra and Nagar Haveli and Dama
+  Total Concepts   : 27
+  Adapted Concepts : 0
+  Not Adapted      : 27
+  Matched Concepts : None
+
+State: Delhi
+  Total Concepts   : 42
+  Adapted Concepts : 5
+  Not Adapted      : 37
+  Matched Concepts : Chole Bhature, Jalebi, Kulfi, Gulab Jamun, Lassi
+
+State: Jammu and Kashmir
+  Total Concepts   : 40
+  Adapted Concepts : 0
+  Not Adapted      : 40
+  Matched Concepts : None
+
+State: Ladakh
+  Total Concepts   : 45
+  Adapted Concepts : 0
+  Not Adapted      : 45
+  Matched Concepts : None
+
+State: Lakshadweep
+  Total Concepts   : 38
+  Adapted Concepts : 2
+  Not Adapted      : 36
+  Matched Concepts : Idli, Payasam
+
+State: Puducherry
+  Total Concepts   : 37
+  Adapted Concepts : 1
+  Not Adapted      : 36
+  Matched Concepts : Idli
+
+Overall Statistics:
+Total Concepts         : 1419
+Total Adapted Concepts : 30
+Total Not Adapted      : 1389
+Overall Adaptation Score: 0.02

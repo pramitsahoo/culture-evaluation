@@ -1,0 +1,222 @@
+Adaptation Statistics Per State:
+State: Andhra Pradesh
+  Total Concepts   : 36
+  Adapted Concepts : 8
+  Not Adapted      : 28
+  Matched Concepts : Ramesh, Aarav, Arjun, Gopal, Indira, Jaya, Kalyani, Rajesh
+
+State: Arunachal Pradesh
+  Total Concepts   : 11
+  Adapted Concepts : 0
+  Not Adapted      : 11
+  Matched Concepts : None
+
+State: Assam
+  Total Concepts   : 16
+  Adapted Concepts : 2
+  Not Adapted      : 14
+  Matched Concepts : Samudra, Amit
+
+State: Bihar
+  Total Concepts   : 10
+  Adapted Concepts : 2
+  Not Adapted      : 8
+  Matched Concepts : Arjun, Aarti
+
+State: Chhattisgarh
+  Total Concepts   : 17
+  Adapted Concepts : 0
+  Not Adapted      : 17
+  Matched Concepts : None
+
+State: Goa
+  Total Concepts   : 13
+  Adapted Concepts : 0
+  Not Adapted      : 13
+  Matched Concepts : None
+
+State: Gujarat
+  Total Concepts   : 19
+  Adapted Concepts : 4
+  Not Adapted      : 15
+  Matched Concepts : Kiran, Rajesh, Rakesh, Manish
+
+State: Haryana
+  Total Concepts   : 10
+  Adapted Concepts : 1
+  Not Adapted      : 9
+  Matched Concepts : Sushma
+
+State: Himachal Pradesh
+  Total Concepts   : 7
+  Adapted Concepts : 0
+  Not Adapted      : 7
+  Matched Concepts : None
+
+State: Jharkhand
+  Total Concepts   : 14
+  Adapted Concepts : 0
+  Not Adapted      : 14
+  Matched Concepts : None
+
+State: Karnataka
+  Total Concepts   : 25
+  Adapted Concepts : 5
+  Not Adapted      : 20
+  Matched Concepts : Aarav, Arjun, Ravi, Rakesh, Rohit
+
+State: Kerala
+  Total Concepts   : 28
+  Adapted Concepts : 6
+  Not Adapted      : 22
+  Matched Concepts : Kiran, Rajesh, Sanjay, Kiran, Rajesh, Sanjay
+
+State: Madhya Pradesh
+  Total Concepts   : 18
+  Adapted Concepts : 5
+  Not Adapted      : 13
+  Matched Concepts : Ramesh, Rajesh, Gita, Rekha, Dinesh
+
+State: Maharashtra
+  Total Concepts   : 27
+  Adapted Concepts : 2
+  Not Adapted      : 25
+  Matched Concepts : Anjali, Madhuri
+
+State: Manipur
+  Total Concepts   : 46
+  Adapted Concepts : 0
+  Not Adapted      : 46
+  Matched Concepts : None
+
+State: Meghalaya
+  Total Concepts   : 14
+  Adapted Concepts : 0
+  Not Adapted      : 14
+  Matched Concepts : None
+
+State: Mizoram
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Nagaland
+  Total Concepts   : 16
+  Adapted Concepts : 0
+  Not Adapted      : 16
+  Matched Concepts : None
+
+State: Odisha
+  Total Concepts   : 17
+  Adapted Concepts : 2
+  Not Adapted      : 15
+  Matched Concepts : Ravi, Rohit
+
+State: Punjab
+  Total Concepts   : 29
+  Adapted Concepts : 5
+  Not Adapted      : 24
+  Matched Concepts : Kiran, Rekha, Rohan, Jai, Taran
+
+State: Rajasthan
+  Total Concepts   : 12
+  Adapted Concepts : 1
+  Not Adapted      : 11
+  Matched Concepts : Aarti
+
+State: Sikkim
+  Total Concepts   : 15
+  Adapted Concepts : 1
+  Not Adapted      : 14
+  Matched Concepts : Dhan
+
+State: Tamil Nadu
+  Total Concepts   : 12
+  Adapted Concepts : 0
+  Not Adapted      : 12
+  Matched Concepts : None
+
+State: Telangana
+  Total Concepts   : 16
+  Adapted Concepts : 3
+  Not Adapted      : 13
+  Matched Concepts : Rakesh, Rani, Rohit
+
+State: Tripura
+  Total Concepts   : 10
+  Adapted Concepts : 1
+  Not Adapted      : 9
+  Matched Concepts : Gita
+
+State: Uttarakhand
+  Total Concepts   : 10
+  Adapted Concepts : 2
+  Not Adapted      : 8
+  Matched Concepts : Hema, Indira
+
+State: Uttar Pradesh
+  Total Concepts   : 27
+  Adapted Concepts : 11
+  Not Adapted      : 16
+  Matched Concepts : Ram, Rajesh, Gita, Rakesh, Vinod, Rekha, Ramesh, Raj, Dinesh, Sanjay, Vijay
+
+State: West Bengal
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Andaman and Nicobar Islands
+  Total Concepts   : 8
+  Adapted Concepts : 1
+  Not Adapted      : 7
+  Matched Concepts : Rajesh
+
+State: Chandigarh
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Dadra and Nagar Haveli and Dama
+  Total Concepts   : 8
+  Adapted Concepts : 2
+  Not Adapted      : 6
+  Matched Concepts : Anjali, Rohit
+
+State: Delhi
+  Total Concepts   : 20
+  Adapted Concepts : 8
+  Not Adapted      : 12
+  Matched Concepts : Ram, Raj, Rajesh, Sanjay, Amit, Vijay, Rakesh, Vinod
+
+State: Jammu and Kashmir
+  Total Concepts   : 20
+  Adapted Concepts : 0
+  Not Adapted      : 20
+  Matched Concepts : None
+
+State: Ladakh
+  Total Concepts   : 15
+  Adapted Concepts : 0
+  Not Adapted      : 15
+  Matched Concepts : None
+
+State: Lakshadweep
+  Total Concepts   : 13
+  Adapted Concepts : 0
+  Not Adapted      : 13
+  Matched Concepts : None
+
+State: Puducherry
+  Total Concepts   : 19
+  Adapted Concepts : 0
+  Not Adapted      : 19
+  Matched Concepts : None
+
+Overall Statistics:
+Total Concepts         : 608
+Total Adapted Concepts : 72
+Total Not Adapted      : 536
+Overall Adaptation Score: 0.12

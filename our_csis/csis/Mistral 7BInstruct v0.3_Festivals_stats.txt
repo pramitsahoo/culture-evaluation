@@ -1,0 +1,222 @@
+Adaptation Statistics Per State:
+State: Andhra Pradesh
+  Total Concepts   : 37
+  Adapted Concepts : 1
+  Not Adapted      : 36
+  Matched Concepts : Ganesh Chaturthi
+
+State: Arunachal Pradesh
+  Total Concepts   : 20
+  Adapted Concepts : 0
+  Not Adapted      : 20
+  Matched Concepts : None
+
+State: Assam
+  Total Concepts   : 67
+  Adapted Concepts : 2
+  Not Adapted      : 65
+  Matched Concepts : Durga Puja, Holi
+
+State: Bihar
+  Total Concepts   : 65
+  Adapted Concepts : 3
+  Not Adapted      : 62
+  Matched Concepts : Durga Puja, Diwali, Holi
+
+State: Chhattisgarh
+  Total Concepts   : 29
+  Adapted Concepts : 0
+  Not Adapted      : 29
+  Matched Concepts : None
+
+State: Goa
+  Total Concepts   : 84
+  Adapted Concepts : 4
+  Not Adapted      : 80
+  Matched Concepts : Diwali, Ganesh Chaturthi, Navratri, Holi
+
+State: Gujarat
+  Total Concepts   : 20
+  Adapted Concepts : 5
+  Not Adapted      : 15
+  Matched Concepts : Navratri, Diwali, Holi, Ganesh Chaturthi, Durga Puja
+
+State: Haryana
+  Total Concepts   : 24
+  Adapted Concepts : 2
+  Not Adapted      : 22
+  Matched Concepts : Holi, Diwali
+
+State: Himachal Pradesh
+  Total Concepts   : 20
+  Adapted Concepts : 0
+  Not Adapted      : 20
+  Matched Concepts : None
+
+State: Jharkhand
+  Total Concepts   : 23
+  Adapted Concepts : 3
+  Not Adapted      : 20
+  Matched Concepts : Rohini, Diwali, Holi
+
+State: Karnataka
+  Total Concepts   : 16
+  Adapted Concepts : 1
+  Not Adapted      : 15
+  Matched Concepts : Ganesh Chaturthi
+
+State: Kerala
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Madhya Pradesh
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Maharashtra
+  Total Concepts   : 9
+  Adapted Concepts : 3
+  Not Adapted      : 6
+  Matched Concepts : Ganesh Chaturthi, Diwali, Navratri
+
+State: Manipur
+  Total Concepts   : 31
+  Adapted Concepts : 3
+  Not Adapted      : 28
+  Matched Concepts : Diwali, Holi, Durga Puja
+
+State: Meghalaya
+  Total Concepts   : 25
+  Adapted Concepts : 2
+  Not Adapted      : 23
+  Matched Concepts : Durga Puja, Diwali
+
+State: Mizoram
+  Total Concepts   : 19
+  Adapted Concepts : 1
+  Not Adapted      : 18
+  Matched Concepts : Diwali
+
+State: Nagaland
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Odisha
+  Total Concepts   : 60
+  Adapted Concepts : 4
+  Not Adapted      : 56
+  Matched Concepts : Durga Puja, Ganesh Chaturthi, Diwali, Holi
+
+State: Punjab
+  Total Concepts   : 10
+  Adapted Concepts : 2
+  Not Adapted      : 8
+  Matched Concepts : Holi, Diwali
+
+State: Rajasthan
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Sikkim
+  Total Concepts   : 8
+  Adapted Concepts : 0
+  Not Adapted      : 8
+  Matched Concepts : None
+
+State: Tamil Nadu
+  Total Concepts   : 12
+  Adapted Concepts : 0
+  Not Adapted      : 12
+  Matched Concepts : None
+
+State: Telangana
+  Total Concepts   : 11
+  Adapted Concepts : 0
+  Not Adapted      : 11
+  Matched Concepts : None
+
+State: Tripura
+  Total Concepts   : 11
+  Adapted Concepts : 2
+  Not Adapted      : 9
+  Matched Concepts : Durga Puja, Diwali
+
+State: Uttarakhand
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Uttar Pradesh
+  Total Concepts   : 47
+  Adapted Concepts : 4
+  Not Adapted      : 43
+  Matched Concepts : Holi, Diwali, Navratri, Durga Puja
+
+State: West Bengal
+  Total Concepts   : 65
+  Adapted Concepts : 2
+  Not Adapted      : 63
+  Matched Concepts : Ganesh Chaturthi, Durga Puja
+
+State: Andaman and Nicobar Islands
+  Total Concepts   : 31
+  Adapted Concepts : 5
+  Not Adapted      : 26
+  Matched Concepts : Holi, Diwali, Durga Puja, Ganesh Chaturthi, Navratri
+
+State: Chandigarh
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Dadra and Nagar Haveli and Dama
+  Total Concepts   : 16
+  Adapted Concepts : 2
+  Not Adapted      : 14
+  Matched Concepts : Diwali, Holi
+
+State: Delhi
+  Total Concepts   : 15
+  Adapted Concepts : 4
+  Not Adapted      : 11
+  Matched Concepts : Diwali, Holi, Navratri, Durga Puja
+
+State: Jammu and Kashmir
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Ladakh
+  Total Concepts   : 12
+  Adapted Concepts : 0
+  Not Adapted      : 12
+  Matched Concepts : None
+
+State: Lakshadweep
+  Total Concepts   : 6
+  Adapted Concepts : 0
+  Not Adapted      : 6
+  Matched Concepts : None
+
+State: Puducherry
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+Overall Statistics:
+Total Concepts         : 873
+Total Adapted Concepts : 55
+Total Not Adapted      : 818
+Overall Adaptation Score: 0.06

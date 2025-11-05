@@ -1,0 +1,548 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "items": [
+      { "Drink Name": "মেথি মাজ্জিগা" },
+      { "Drink Name": "পানাকাম" },
+      { "Drink Name": "নীরা" },
+      { "Drink Name": "তাড়ি (কল্লু)" },
+      { "Drink Name": "বিলওয়া শরবত" },
+      { "Drink Name": "রাইস বিয়ার" },
+      { "Drink Name": "রাগি আম্বালি" },
+      { "Drink Name": "কলা লিক্যুর" },
+      { "Drink Name": "কাঁঠাল লিক্যুর" },
+      { "Drink Name": "গুড় লিক্যুর" }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      { "Drink Name": "আপং" },
+      { "Drink Name": "পোকা" },
+      { "Drink Name": "মাদুয়া" },
+      { "Drink Name": "জুমিন" },
+      { "Drink Name": "কিন্ডে" },
+      { "Drink Name": "কালা আপং" },
+      { "Drink Name": "ওপো" },
+      { "Drink Name": "ফালাপ" }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      { "Drink Name": "সাজ" },
+      { "Drink Name": "জুদিনা" },
+      { "Drink Name": "আপং" },
+      { "Drink Name": "লাউ পানি" },
+      { "Drink Name": "হর আলাংক" },
+      { "Drink Name": "জৌ" },
+      { "Drink Name": "অসম চা" },
+      { "Drink Name": "চুলাই" },
+      { "Drink Name": "খারডুই" }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      { "Drink Name": "সত্তু কা শরবত" },
+      { "Drink Name": "হান্ডিয়া" },
+      { "Drink Name": "মহুয়া" },
+      { "Drink Name": "মত্তা" },
+      { "Drink Name": "টাডি (পাম তাড়ি)" },
+      { "Drink Name": "আম পান্না" },
+      { "Drink Name": "বেল শরবত" }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      { "Drink Name": "মহুয়া" },
+      { "Drink Name": "সলফি" },
+      { "Drink Name": "হান্ডিয়া" },
+      { "Drink Name": "লান্ডা" },
+      { "Drink Name": "ছিন্ড" },
+      { "Drink Name": "বোরে বাসি" }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      { "Drink Name": "ফেনি" },
+      { "Drink Name": "উরাক" },
+      { "Drink Name": "নীরো" },
+      { "Drink Name": "কোকুম জুস" },
+      { "Drink Name": "সোল কাদির" },
+      { "Drink Name": "পোর্ট ওয়াইন" },
+      { "Drink Name": "কিংস বিয়ার" },
+      { "Drink Name": "লাইম সোডা" },
+      { "Drink Name": "আখের রস" },
+      { "Drink Name": "নারকেল জল" },
+      { "Drink Name": "জিন-ভিত্তিক ককটেল" }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      { "Drink Name": "ছাস" },
+      { "Drink Name": "পিয়ুষ" },
+      { "Drink Name": "কোমল" },
+      { "Drink Name": "আম পান্না" },
+      { "Drink Name": "বাফলো" },
+      { "Drink Name": "ভারিয়ালি শরবত" },
+      { "Drink Name": "সোসিও" },
+      { "Drink Name": "মহুয়া" },
+      { "Drink Name": "তাড়ি" },
+      { "Drink Name": "সকর-লবঙ্গ পানি" }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      { "Drink Name": "লস্যি" },
+      { "Drink Name": "ছাছ (ছাস)" },
+      { "Drink Name": "কাঁচা লস্যি" },
+      { "Drink Name": "ঠান্ডাই" },
+      { "Drink Name": "নিম্বু পানি" },
+      { "Drink Name": "শরবত" },
+      { "Drink Name": "আখের রস" },
+      { "Drink Name": "বাদাম দুধ" },
+      { "Drink Name": "ফালুদা" },
+      { "Drink Name": "কেসর কস্তুরি" }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      { "Drink Name": "লুগদি" },
+      { "Drink Name": "চুল্লি" },
+      { "Drink Name": "কাংরা চা" },
+      { "Drink Name": "বুরांश জুস" },
+      { "Drink Name": "কাসাউলি ব্রিউয়ারির লায়ন বিয়ার" },
+      { "Drink Name": "সোলান নং. ১ হুইস্কি" },
+      { "Drink Name": "সীবাকথর্ন জুস" }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      { "Drink Name": "হান্ডিয়া" },
+      { "Drink Name": "মহুয়া দারু" },
+      { "Drink Name": "দিয়াং" },
+      { "Drink Name": "টাডি" },
+      { "Drink Name": "লান্ডা" }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      { "Drink Name": "ফিল্টার কফি" },
+      { "Drink Name": "রাগি দুধ" },
+      { "Drink Name": "পানাকা" },
+      { "Drink Name": "নীর মর" },
+      { "Drink Name": "সোলকাদির" },
+      { "Drink Name": "তাড়ি" },
+      { "Drink Name": "কশায়া" },
+      { "Drink Name": "নান্নারি শরবত" },
+      { "Drink Name": "আম্বলি" },
+      { "Drink Name": "বাজরা মাল্ট" }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      { "Drink Name": "কল্লু (তাড়ি)" },
+      { "Drink Name": "নীরা" },
+      { "Drink Name": "কুলুক্কি সারবাত" },
+      { "Drink Name": "সাম্ভারাম" },
+      { "Drink Name": "নান্নারি শরবত" },
+      { "Drink Name": "ফুল জার সোডা" },
+      { "Drink Name": "আভিল মিল্ক" },
+      { "Drink Name": "পাঠিমুঘাম জল" },
+      { "Drink Name": "চুক্কু কাপি" },
+      { "Drink Name": "সোল কাদির" }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      { "Drink Name": "মহুয়া" },
+      { "Drink Name": "হান্ডিয়া" },
+      { "Drink Name": "তাড়ি" },
+      { "Drink Name": "সুলফি" },
+      { "Drink Name": "পেনধা" },
+      { "Drink Name": "শিকাঞ্জি" },
+      { "Drink Name": "লস্যি" },
+      { "Drink Name": "আখের রস" },
+      { "Drink Name": "আম পান্না" },
+      { "Drink Name": "বেল শরবত" }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      { "Drink Name": "সোলকাদির" },
+      { "Drink Name": "পিয়ুষ" },
+      { "Drink Name": "তাক" },
+      { "Drink Name": "আম পান্না" },
+      { "Drink Name": "কোকুম শরবত" },
+      { "Drink Name": "মহুয়া" },
+      { "Drink Name": "আম্বিল" },
+      { "Drink Name": "কালা খাট্টা" },
+      { "Drink Name": "মসালা চা" },
+      { "Drink Name": "নিম্বু পানি" }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      { "Drink Name": "ইউ" },
+      { "Drink Name": "সেকমাই ইউ" },
+      { "Drink Name": "আতিংবা ইউ" },
+      { "Drink Name": "খোর" },
+      { "Drink Name": "হামেই" },
+      { "Drink Name": "জৌ" },
+      { "Drink Name": "ফেইজৌ" },
+      { "Drink Name": "ঙ্গারি" },
+      { "Drink Name": "হেনতাক" },
+      { "Drink Name": "সোইবুম" }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      { "Drink Name": "কিয়াত" },
+      { "Drink Name": "কিয়াদ" },
+      { "Drink Name": "চুবিচি" },
+      { "Drink Name": "রোজেল চা (শা জাজেউ)" },
+      { "Drink Name": "মিনিল বিচি" },
+      { "Drink Name": "কোয়াই" },
+      { "Drink Name": "ফল ওয়াইন" },
+      { "Drink Name": "কিয়াদ উম" },
+      { "Drink Name": "কিয়াদ হিয়ার" },
+      { "Drink Name": "ছু" }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "items": [
+      { "Drink Name": "জু" },
+      { "Drink Name": "জুপুই" },
+      { "Drink Name": "জুফাং" },
+      { "Drink Name": "রাকজু" },
+      { "Drink Name": "খাউমা" },
+      { "Drink Name": "হমর্ছা রাওট" },
+      { "Drink Name": "খাওয়া যায় এমন ফার্নের জুস" }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "items": [
+      { "Drink Name": "জুথো" },
+      { "Drink Name": "থুথসে" },
+      { "Drink Name": "সেকমাই ইউ" },
+      { "Drink Name": "কিয়াদ উম" },
+      { "Drink Name": "কোয়াই" }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "items": [
+      { "Drink Name": "টাঙ্কা তোরানি" },
+      { "Drink Name": "বেলা পানা" },
+      { "Drink Name": "হান্ডিয়া" },
+      { "Drink Name": "মহুলি" },
+      { "Drink Name": "মান্ডিয়া পেজ" },
+      { "Drink Name": "পাখালা ভাত" },
+      { "Drink Name": "ছেনা পানা" },
+      { "Drink Name": "মহুয়া রাসা" },
+      { "Drink Name": "আম্বা পানা" },
+      { "Drink Name": "পালুয়া শরবত" }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "items": [
+      { "Drink Name": "লস্যি" },
+      { "Drink Name": "ছাস (বাটারমিল্ক)" },
+      { "Drink Name": "জলজিরা" },
+      { "Drink Name": "ঠান্ডাই" },
+      { "Drink Name": "দুধ সোডা" },
+      { "Drink Name": "সত্তু ড্রিঙ্ক" },
+      { "Drink Name": "কেসর দুধ" },
+      { "Drink Name": "বাদাম দুধ" },
+      { "Drink Name": "কাহওয়া" },
+      { "Drink Name": "শিকাঞ্জি" }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "items": [
+      { "Drink Name": "আমলানা" },
+      { "Drink Name": "বাজরা রাব" },
+      { "Drink Name": "বেল পান্না" },
+      { "Drink Name": "কাইরি পান্না" },
+      { "Drink Name": "কাঞ্জি" },
+      { "Drink Name": "ঠান্ডাই" },
+      { "Drink Name": "আখের রস" },
+      { "Drink Name": "হলদি দুধ" },
+      { "Drink Name": "নিম্বু পানি" },
+      { "Drink Name": "মসালা লস্যি" },
+      { "Drink Name": "ছাস" },
+      { "Drink Name": "মত্তা" },
+      { "Drink Name": "রাবড়ি ছাস" },
+      { "Drink Name": "কেসর লস্যি" },
+      { "Drink Name": "ইমলি রা আমলানা" },
+      { "Drink Name": "রয়াল সওনফ" },
+      { "Drink Name": "রয়াল মাওয়ালিন" },
+      { "Drink Name": "রয়াল এলাইচি" },
+      { "Drink Name": "রয়াল অ্যাপল অরেঞ্জ" },
+      { "Drink Name": "ভাঙ লস্যি" }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      { "Drink Name": "টংবা" },
+      { "Drink Name": "ছাং" },
+      { "Drink Name": "রাকসি" },
+      { "Drink Name": "এলাচ লিক্যুর" },
+      { "Drink Name": "আলফনসো আম লিক্যুর" },
+      { "Drink Name": "সাইনে রিও রেড ওয়াইন" }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      { "Drink Name": "ফিল্টার কফি" },
+      { "Drink Name": "নীর মর" },
+      { "Drink Name": "জিগারথান্ডা" },
+      { "Drink Name": "কাম্বু কূঝ" },
+      { "Drink Name": "পানাকাম" },
+      { "Drink Name": "নান্নারি শরবত" },
+      { "Drink Name": "সুক্কু কাপি" },
+      { "Drink Name": "এলানীর পায়াসম" },
+      { "Drink Name": "থেঙ্গাই পাল" },
+      { "Drink Name": "পাঠনীর" }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      { "Drink Name": "নীরা" },
+      { "Drink Name": "তাড়ি (কল্লু)" },
+      { "Drink Name": "ছাস (বাটারমিল্ক)" },
+      { "Drink Name": "লস্যি" },
+      { "Drink Name": "ফালুদা" },
+      { "Drink Name": "গোলি সোডা" },
+      { "Drink Name": "শরবত" },
+      { "Drink Name": "নান্নারি শরবত" },
+      { "Drink Name": "আম পান্না" },
+      { "Drink Name": "পানাকাম" }
+    ]
+  },
+    {
+      "name": "Tripura",
+      "type": "State",
+      "items": [
+        { "Drink Name": "চুয়ারাক" },
+        { "Drink Name": "চুয়াক বুটুক" },
+        { "Drink Name": "লাঙ্গি" },
+        { "Drink Name": "ফাব" },
+        { "Drink Name": "মামি নি চুয়াক" },
+        { "Drink Name": "চুয়াক" },
+        { "Drink Name": "গোরা" },
+        { "Drink Name": "বুটুক" },
+        { "Drink Name": "ডাপা" },
+        { "Drink Name": "মত্তা" },
+        { "Drink Name": "মিষ্টি দই" },
+        { "Drink Name": "ছাস" }
+      ]
+    },
+    {
+      "name": "Uttarakhand",
+      "type": "State",
+      "items": [
+        { "Drink Name": "বুরাংশ জুস" },
+        { "Drink Name": "কাফাল জুস" },
+        { "Drink Name": "মাল্টা জুস" },
+        { "Drink Name": "আমলা জুস" },
+        { "Drink Name": "সী বাকথর্ন জুস" },
+        { "Drink Name": "জান" },
+        { "Drink Name": "সুর" },
+        { "Drink Name": "পাখোই" },
+        { "Drink Name": "ছাস" },
+        { "Drink Name": "রাবড়ি" },
+        { "Drink Name": "খাদি" },
+        { "Drink Name": "ভাঙ চাটনি" },
+        { "Drink Name": "বেরিনাগ চা" }
+      ]
+    },
+    {
+      "name": "Uttar Pradesh",
+      "type": "State",
+      "items": [
+        { "Drink Name": "ঠান্ডাই" },
+        { "Drink Name": "লস্যি" },
+        { "Drink Name": "আম পান্না" },
+        { "Drink Name": "সত্তু শরবত" },
+        { "Drink Name": "মত্তা" },
+        { "Drink Name": "কাছাউলি (আখের রস)" },
+        { "Drink Name": "ভাঙ ঠান্ডাই" },
+        { "Drink Name": "জলজিরা" },
+        { "Drink Name": "বেল শরবত" },
+        { "Drink Name": "কাঞ্জি" },
+        { "Drink Name": "থাররা" },
+        { "Drink Name": "মহুয়া" }
+      ]
+    },
+    {
+      "name": "West Bengal",
+      "type": "State",
+      "items": [
+        { "Drink Name": "আম পোড়া শরবত" },
+        { "Drink Name": "বেলের শরবত" },
+        { "Drink Name": "ঘোল" },
+        { "Drink Name": "ডাবের শরবত" },
+        { "Drink Name": "হান্ডিয়া" },
+        { "Drink Name": "চোলাই" },
+        { "Drink Name": "হারিয়া" },
+        { "Drink Name": "মত্তা" },
+        { "Drink Name": "মিষ্টি দই" },
+        { "Drink Name": "বোরহানি" }
+      ]
+    },
+    {
+      "name": "Andaman and Nicobar Islands",
+      "type": "Union Territory",
+      "items": [
+        { "Drink Name": "পাম ওয়াইন" },
+        { "Drink Name": "তাড়ি" },
+        { "Drink Name": "হান্ডিয়া" },
+        { "Drink Name": "জঙ্গলী" },
+        { "Drink Name": "আন্দামান কুলার" },
+        { "Drink Name": "তাজা নারকেল জল" }
+      ]
+    },
+    {
+      "name": "Chandigarh",
+      "type": "Union Territory",
+      "items": [
+        { "Drink Name": "লস্যি" },
+        { "Drink Name": "ছাস" },
+        { "Drink Name": "ঠান্ডাই" },
+        { "Drink Name": "শর্দাই" },
+        { "Drink Name": "জল-জিরা" },
+        { "Drink Name": "শিকাঞ্জি" },
+        { "Drink Name": "দুধ সোডা" }
+      ]
+    },
+    {
+      "name": "Dadra and Nagar Haveli and Dama",
+      "type": "Union Territory",
+      "items": [
+        { "Drink Name": "মোহা-চি-দারু" },
+        { "Drink Name": "তাড়ি" },
+        { "Drink Name": "গিনা জিরা" },
+        { "Drink Name": "গিনা লেমন ফ্লেভারড" },
+        { "Drink Name": "গিনা অরেঞ্জ ফ্লেভারড" },
+        { "Drink Name": "গিনা স্ক্রিম" },
+        { "Drink Name": "গিনা জাজিরা" },
+        { "Drink Name": "রয়্যাল ক্লাব সোডা" },
+        { "Drink Name": "ম্যাঙ্গোজি" },
+        { "Drink Name": "টি২" },
+        { "Drink Name": "বিলওয়া শরবত" }
+      ]
+    },
+    {
+      "name": "Delhi",
+      "type": "Union Territory",
+      "items": [
+        { "Drink Name": "শিকাঞ্জি" },
+        { "Drink Name": "বন্তা" },
+        { "Drink Name": "রুহ আফজা" },
+        { "Drink Name": "লস্যি" },
+        { "Drink Name": "ছাস" },
+        { "Drink Name": "ঠান্ডাই" },
+        { "Drink Name": "জল-জিরা" },
+        { "Drink Name": "মোহাব্বত কা শরবত" },
+        { "Drink Name": "মসালা চা" },
+        { "Drink Name": "কাঞ্জি" }
+      ]
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "type": "Union Territory",
+      "items": [
+        { "Drink Name": "কাহওয়া" },
+        { "Drink Name": "নুন চা" },
+        { "Drink Name": "ছাং" },
+        { "Drink Name": "আরাক" },
+        { "Drink Name": "লাদাখি বাটার টি" },
+        { "Drink Name": "বাবরিবিয়োল শরবত" },
+        { "Drink Name": "লয়েস" },
+        { "Drink Name": "সাদর-এ-কাএঞ্জ" },
+        { "Drink Name": "শাহী শীরা" }
+      ]
+    },
+    {
+      "name": "Ladakh",
+      "type": "Union Territory",
+      "items": [
+        { "Drink Name": "ছাং" },
+        { "Drink Name": "গুর গুর চাই" },
+        { "Drink Name": "চুলি ছু" },
+        { "Drink Name": "কাহওয়া" },
+        { "Drink Name": "আরাক" },
+        { "Drink Name": "নুন চাই" }
+      ]
+    },
+    {
+      "name": "Lakshadweep",
+      "type": "Union Territory",
+      "items": [
+        { "Drink Name": "নীরা" },
+        { "Drink Name": "তাড়ি" },
+        { "Drink Name": "কুলুক্কি সারবাত" },
+        { "Drink Name": "থেঙ্গিন কল্লু" },
+        { "Drink Name": "আসারু" },
+        { "Drink Name": "নারিয়াল পানি" }
+      ]
+    },
+    {
+      "name": "Puducherry",
+      "type": "Union Territory",
+      "items": [
+        { "Drink Name": "ফিল্টার কফি" },
+        { "Drink Name": "পন্ডিচেরি ফ্লিং" },
+        { "Drink Name": "পাম তাড়ি" },
+        { "Drink Name": "সাউথ ইন্ডিয়ান ফিল্টার কফি" },
+        { "Drink Name": "ক্রিওল কফি" }
+      ]
+    }
+  
+  ]
+  

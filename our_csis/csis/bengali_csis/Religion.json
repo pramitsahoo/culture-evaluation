@@ -1,0 +1,935 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "ডনই-পলো"
+      },
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "তিব্বতি বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "থেরাভাদা বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "র্যাংফ্রাহ"
+      }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "অ্যানিমিজম"
+      }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "শতনামি সম্প্রদায়"
+      },
+      {
+        "Religion Name": "কবিরপন্থ"
+      },
+      {
+        "Religion Name": "রামনামি সমাজ"
+      }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "জোরোয়াস্ত্রিয়ানিজম (পারসি)"
+      },
+      {
+        "Religion Name": "ইহুদী ধর্ম"
+      },
+      {
+        "Religion Name": "বাহাই ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "অন্যান্য ধর্ম ও বিশ্বাস"
+      }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "লিঙ্গায়ত ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "ইহুদী ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "জোরোয়াস্ত্রিয়ানিজম"
+      }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "আদিবাসী ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "জোরোয়াস্ত্রিয়ানিজম"
+      },
+      {
+        "Religion Name": "ইহুদী ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "সানামাহিজম"
+      },
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "টিংকাও রাগ্বাং চাপরিয়াক"
+      }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "নিয়াম খাসি"
+      },
+      {
+        "Religion Name": "সঙসারেক"
+      },
+      {
+        "Religion Name": "নিয়ামত্রে"
+      }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "ইহুদী ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "সাখুয়া"
+      }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "আদিবাসী অ্যানিমিজম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "সারনা ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "ঐতিহ্যবাহী ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "অ্যানিমিজম"
+      }
+    ]
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "বাহাই ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "অন্যান্য"
+      }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Dama",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Delhi",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "জোরোয়াস্ত্রিয়ানিজম"
+      },
+      {
+        "Religion Name": "বাহাই ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "বন"
+      }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      }
+    ]
+  },
+  {
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Religion Name": "হিন্দু ধর্ম"
+      },
+      {
+        "Religion Name": "খ্রিস্টধর্ম"
+      },
+      {
+        "Religion Name": "ইসলাম"
+      },
+      {
+        "Religion Name": "শিখ ধর্ম"
+      },
+      {
+        "Religion Name": "বৌদ্ধ ধর্ম"
+      },
+      {
+        "Religion Name": "জৈন ধর্ম"
+      }
+    ]
+  }
+]

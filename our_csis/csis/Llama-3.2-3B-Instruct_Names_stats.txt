@@ -1,0 +1,222 @@
+Adaptation Statistics Per State:
+State: Andhra Pradesh
+  Total Concepts   : 36
+  Adapted Concepts : 5
+  Not Adapted      : 31
+  Matched Concepts : Lakshmi, Ramesh, Aarav, Kalyani, Rajesh
+
+State: Arunachal Pradesh
+  Total Concepts   : 11
+  Adapted Concepts : 0
+  Not Adapted      : 11
+  Matched Concepts : None
+
+State: Assam
+  Total Concepts   : 16
+  Adapted Concepts : 0
+  Not Adapted      : 16
+  Matched Concepts : None
+
+State: Bihar
+  Total Concepts   : 10
+  Adapted Concepts : 2
+  Not Adapted      : 8
+  Matched Concepts : Keshav, Aarti
+
+State: Chhattisgarh
+  Total Concepts   : 17
+  Adapted Concepts : 1
+  Not Adapted      : 16
+  Matched Concepts : Nahar
+
+State: Goa
+  Total Concepts   : 13
+  Adapted Concepts : 1
+  Not Adapted      : 12
+  Matched Concepts : Laxmi
+
+State: Gujarat
+  Total Concepts   : 19
+  Adapted Concepts : 2
+  Not Adapted      : 17
+  Matched Concepts : Neha, Rajesh
+
+State: Haryana
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Himachal Pradesh
+  Total Concepts   : 7
+  Adapted Concepts : 0
+  Not Adapted      : 7
+  Matched Concepts : None
+
+State: Jharkhand
+  Total Concepts   : 14
+  Adapted Concepts : 1
+  Not Adapted      : 13
+  Matched Concepts : Aditya
+
+State: Karnataka
+  Total Concepts   : 25
+  Adapted Concepts : 2
+  Not Adapted      : 23
+  Matched Concepts : Aarav, Ravi
+
+State: Kerala
+  Total Concepts   : 28
+  Adapted Concepts : 4
+  Not Adapted      : 24
+  Matched Concepts : Neha, Rajesh, Neha, Rajesh
+
+State: Madhya Pradesh
+  Total Concepts   : 18
+  Adapted Concepts : 3
+  Not Adapted      : 15
+  Matched Concepts : Ramesh, Rajesh, Dinesh
+
+State: Maharashtra
+  Total Concepts   : 27
+  Adapted Concepts : 3
+  Not Adapted      : 24
+  Matched Concepts : Anjali, Keshav, Laxmi
+
+State: Manipur
+  Total Concepts   : 46
+  Adapted Concepts : 0
+  Not Adapted      : 46
+  Matched Concepts : None
+
+State: Meghalaya
+  Total Concepts   : 14
+  Adapted Concepts : 0
+  Not Adapted      : 14
+  Matched Concepts : None
+
+State: Mizoram
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Nagaland
+  Total Concepts   : 16
+  Adapted Concepts : 0
+  Not Adapted      : 16
+  Matched Concepts : None
+
+State: Odisha
+  Total Concepts   : 17
+  Adapted Concepts : 1
+  Not Adapted      : 16
+  Matched Concepts : Ravi
+
+State: Punjab
+  Total Concepts   : 29
+  Adapted Concepts : 1
+  Not Adapted      : 28
+  Matched Concepts : Rohan
+
+State: Rajasthan
+  Total Concepts   : 12
+  Adapted Concepts : 2
+  Not Adapted      : 10
+  Matched Concepts : Aarti, Karan
+
+State: Sikkim
+  Total Concepts   : 15
+  Adapted Concepts : 0
+  Not Adapted      : 15
+  Matched Concepts : None
+
+State: Tamil Nadu
+  Total Concepts   : 12
+  Adapted Concepts : 0
+  Not Adapted      : 12
+  Matched Concepts : None
+
+State: Telangana
+  Total Concepts   : 16
+  Adapted Concepts : 1
+  Not Adapted      : 15
+  Matched Concepts : Rani
+
+State: Tripura
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Uttarakhand
+  Total Concepts   : 10
+  Adapted Concepts : 2
+  Not Adapted      : 8
+  Matched Concepts : Nandan, Kesar
+
+State: Uttar Pradesh
+  Total Concepts   : 27
+  Adapted Concepts : 4
+  Not Adapted      : 23
+  Matched Concepts : Rajesh, Ramesh, Raj, Dinesh
+
+State: West Bengal
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Andaman and Nicobar Islands
+  Total Concepts   : 8
+  Adapted Concepts : 1
+  Not Adapted      : 7
+  Matched Concepts : Rajesh
+
+State: Chandigarh
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Dadra and Nagar Haveli and Dama
+  Total Concepts   : 8
+  Adapted Concepts : 1
+  Not Adapted      : 7
+  Matched Concepts : Anjali
+
+State: Delhi
+  Total Concepts   : 20
+  Adapted Concepts : 2
+  Not Adapted      : 18
+  Matched Concepts : Raj, Rajesh
+
+State: Jammu and Kashmir
+  Total Concepts   : 20
+  Adapted Concepts : 0
+  Not Adapted      : 20
+  Matched Concepts : None
+
+State: Ladakh
+  Total Concepts   : 15
+  Adapted Concepts : 0
+  Not Adapted      : 15
+  Matched Concepts : None
+
+State: Lakshadweep
+  Total Concepts   : 13
+  Adapted Concepts : 0
+  Not Adapted      : 13
+  Matched Concepts : None
+
+State: Puducherry
+  Total Concepts   : 19
+  Adapted Concepts : 1
+  Not Adapted      : 18
+  Matched Concepts : Lakshmi
+
+Overall Statistics:
+Total Concepts         : 608
+Total Adapted Concepts : 40
+Total Not Adapted      : 568
+Overall Adaptation Score: 0.07

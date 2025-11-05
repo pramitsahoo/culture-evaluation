@@ -1,0 +1,3487 @@
+{
+  "dataset_statistics": {
+    "total_sentences": 230,
+    "entries_with_replacements": 211,
+    "total_strict_matches": 9,
+    "total_singular_plural_matches": 0,
+    "total_fuzzy_matches": 55,
+    "average_strict_match_per_sentence": 0.0391304347826087,
+    "average_singular_plural_match_per_sentence": 0.0,
+    "average_fuzzy_match_per_sentence": 0.2391304347826087
+  },
+  "detailed_scores": [
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "2",
+        "ডিম",
+        "16",
+        "জেনেট"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "2",
+        "২",
+        "সুতো",
+        "দুটি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জো"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "ডলার",
+        "৩ লক্ষ টাকা",
+        "বাড়ি",
+        "৫ লক্ষ টাকা",
+        "জোশ"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জেম"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "60 মিটার",
+        "স্প্রিন্ট",
+        "জেমস"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "কাঁচা",
+        "কালা"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "কাইলার",
+        "৫০০ টাকা",
+        "কাঁচ",
+        "16"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "চার্লস্টন",
+        "টুলুজ",
+        "সিয়াটল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জান"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "4 ঘণ্টা",
+        "গাড়ি",
+        "৩ ঘণ্টা",
+        "জন"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [
+        "পরোটা"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.25,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "এলিজা",
+        "৳100",
+        "45",
+        "পরোটা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "55",
+        "80",
+        "68",
+        "টুলা",
+        "পেস্ট্রি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "লেবু",
+        "কার্লোস",
+        "৯০ টাকা",
+        "৭",
+        "৳১৫",
+        "৳৩"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "মানি"
+      ],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.16666666666666666,
+      "replaced_words": [
+        "অরেঞ্জ হাউস",
+        "ডোরটুডোর সেলসওম্যান",
+        "মেলানি",
+        "গ্রিন হাউস",
+        "রেড হাউস",
+        "ভ্যাকিউম ক্লিনার"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৫ হাজার টাকা",
+        "৮ হাজার টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "উত্তর",
+        "সান রাফায়েল",
+        "পশ্চিম"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "₹2000"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ডজন",
+        "সপ্তাহ",
+        "ক্লেয়ার",
+        "প্রতিদিন",
+        "ডিম"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "মারা"
+      ],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.16666666666666666,
+      "replaced_words": [
+        "মারিসা",
+        "ঘণ্টা",
+        "2 কিলোমিটার",
+        "কিলোমিটার",
+        "1 ঘণ্টা",
+        "4 কিলোমিটার"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "বলি"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "8",
+        "৳830",
+        "বিলি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জ্বল",
+        "2 সেন্টিমিটার",
+        "মোমবাতি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "বাই"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "₹1950",
+        "25",
+        "বই",
+        "কাইল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "মারিং"
+      ],
+      "total_replaced_words": 12,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.08333333333333333,
+      "replaced_words": [
+        "প্যাকেট",
+        "বাক্স",
+        "৪",
+        "৮৫০",
+        "৩",
+        "১২",
+        "মারি",
+        "আপেল",
+        "চিকেন মিল",
+        "৫",
+        "১৫০",
+        "দুধ"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৪00 টাকা",
+        "আইসক্রিম",
+        "সিন্থিয়া",
+        "15"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "60 মাইল",
+        "হেনরি",
+        "15 মাইল",
+        "20 মাইল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "33 ডলার"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "অ্যাবেন"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "ড্যারেল",
+        "অ্যালেন"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "80",
+        "গুন্টার",
+        "জেলি বিন্স"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জান"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "কুকুর",
+        "জন",
+        "০৫ ঘণ্টা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "110টি মুদ্রা",
+        "30টি বেশি স্বর্ণ মুদ্রা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পয়েন্ট",
+        "4 পয়েন্ট",
+        "40 মিনিট",
+        "25 বেশি পয়েন্ট",
+        "মাইক"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৫ টাকা",
+        "টেরি",
+        "ডলার",
+        "ইয়োগার্ট"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জান"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "20 টাকা",
+        "50 টাকা",
+        "150 টাকা",
+        "জন",
+        "লেগো সেট"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ঘণ্টা",
+        "মাইল",
+        "দিন"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "দৌড়াতে",
+        "হাঁটতে",
+        "ঘণ্টা",
+        "ডানা",
+        "মাইল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "বেনের iphone",
+        "বেনের iphoneএর"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "নীলকান্ত মণি",
+        "400 ফুট",
+        "মন্ট ফার্বো",
+        "বিশালাকার ড্রাগন",
+        "স্বর্ণ জ্যাভলিন"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ঠাকুমা জোন্স",
+        "830 টাকা",
+        "আপেল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "দৈনিক ক্যালোরির লক্ষ্যমাত্রা",
+        "ক্যালোরি",
+        "গ্রাম",
+        "সার্ভিং",
+        "ব্যাগ"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "চারি"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "টেপারড",
+        "পাউন্ড",
+        "1000 টাকা",
+        "চার্লি",
+        "200 টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 12,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ব্লগ",
+        "শনিবার",
+        "মঙ্গলবার",
+        "সপ্তাহ",
+        "ঘণ্টা",
+        "বুধবার",
+        "গ্রাহক",
+        "ফ্রিল্যান্স ব্লগার",
+        "বৃহস্পতিবার",
+        "প্রতিদিন",
+        "রবিবার",
+        "শুক্রবার"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পোস্টইট নোট",
+        "220",
+        "তিনি",
+        "23",
+        "৳80"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জান"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "40",
+        "200",
+        "টাই",
+        "জন"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "34 অংশ অধিকৃত",
+        "8টি করে ইউনিট আছে",
+        "15তম পর্দা",
+        "বিল্ডিং",
+        "মোট অধিকৃত নয় এমন ইউনিটের সংখ্যা কত",
+        "রিচার্ড"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "সপ্তাহ",
+        "2",
+        "লয়েড",
+        "ডিম",
+        "এগ ফার্ম"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ঘণ্টা",
+        "6 মাইল",
+        "4টে",
+        "টম",
+        "ফিরে আস",
+        "দুপুর",
+        "মাইল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [
+        "রমেশ",
+        "পরোটা"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "₹2000",
+        "রমেশ",
+        "₹3000",
+        "পরোটা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৳",
+        "বিড়ালছানা",
+        "ডাউটফায়ার বোনেরা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "২টি",
+        "ললিপপ",
+        "2টি",
+        "জিন"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "পিটলা"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "৭০ টাকা",
+        "পিটার",
+        "৪২ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "15 টাকা",
+        "৩৭৫৫ টাকা",
+        "৫০০০ টাকা",
+        "ডেলিভারি ট্রাক"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "চোকার"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "থোকার",
+        "67",
+        "রাস্পবেরি",
+        "20"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১০",
+        "৫০০ টাকা",
+        "ব্রোচ",
+        "জেনেট"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "মার্গি"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "20 বছর",
+        "মার্সি",
+        "৳50000বছর",
+        "কোম্পানি",
+        "30 বছর"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৳1400",
+        "বছরের প্রথমার্ধ",
+        "প্রতি মাসে সাবস্ক্রাইব",
+        "বছরের পরের অর্ধ",
+        "স্ট্রিমিং পরিষেবা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "100 মাইল",
+        "সোফিয়া",
+        "12 গ্যালন",
+        "ট্যাঙ্ক গ্যাস"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "তারপর",
+        "3 বার",
+        "2 ঘণ্টা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৫টি",
+        "বিদ্যালয়",
+        "5টি",
+        "খেলোয়াড়"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "শিক্ষার্থী",
+        "ছেলে",
+        "মেয়ে",
+        "ডক্টর ওয়ার্টজের বিদ্যালয়ে",
+        "শিক্ষক"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৫০০ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "15",
+        "জুডি",
+        "1500",
+        "নাচের ক্লাস"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "20",
+        "দুরকম",
+        "কেলিয়ান"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৩ টাকা",
+        "৪ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "5 সেল ফোন",
+        "3 মাস",
+        "150 টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "ফুলি"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "17",
+        "৳212",
+        "আর্টি",
+        "ফুল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "180",
+        "1 কাপ",
+        "সিসিলিয়া",
+        "কুকুরছানা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পাউন্ড",
+        "রেমন্ড",
+        "ডেভিড"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "1",
+        "ভিনসেন্ট"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "একজন ব্যক্তি",
+        "কুকুর",
+        "৳100"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "দুজন মেয়ের",
+        "6 লিটার জল",
+        "জল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "চারি",
+        "বন"
+      ],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "জন্মদিন",
+        "গ্রিটিং কার্ড",
+        "মলের দোকান",
+        "স্টিকার",
+        "বোন",
+        "চার্লি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "2",
+        "পাউন্ড",
+        "125",
+        "4",
+        "গ্রেস"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গোলাপ গাছ",
+        "8টি",
+        "25টি",
+        "ড্যান"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "8 খেলা",
+        "22 খেলা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "23",
+        "একটি করে শার্ট",
+        "জিন",
+        "টিশার্ট"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৳",
+        "গ্রেগ",
+        "অ্যালার্ম"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [
+        "পরোটা"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৳50000",
+        "সিলভি",
+        "পরোটা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ম্যারিলিন",
+        "হ্যারল্ড"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "2",
+        "গিফট ব্যাগ",
+        "16",
+        "ক্রিস্টিনা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 8,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "টেড",
+        "অর্ধেক",
+        "10 পাউন্ড",
+        "5টি বাচ্চা",
+        "পিকনিক",
+        "20টি প্রাপ্তবয়স্ক",
+        "প্রাপ্তবয়স্ক ডাইনোসর",
+        "টিরেক্স"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "চারি"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "চারটি",
+        "পোষ্য",
+        "জ্যান"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "অ্যামি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "400 মিটার হার্ডেল দৌড়",
+        "জেরাল্ড",
+        "ঘন্টা",
+        "400 মিটার",
+        "মিনিট",
+        "লী",
+        "সেকেন্ড"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "60টি",
+        "বিড়াল",
+        "কুকুর"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জেম"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "9 ঘণ্টা",
+        "হ্যারি",
+        "জেমস"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "16 আউন্স",
+        "ফ্রেডা",
+        "টমেটো",
+        "32 আউন্স"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গাড়ি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "বাইগানী"
+      ],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.16666666666666666,
+      "replaced_words": [
+        "বন্ধু",
+        "নার্সারি",
+        "চারাগাছ",
+        "বাগানী",
+        "মেরি",
+        "পরিবার"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জেম"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "বন্ধু",
+        "জেরম",
+        "ডোরবেল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "42 মাইল",
+        "মহাসাগর",
+        "10 মিনিট",
+        "3 মাইল",
+        "শহর"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "1000 টুকরো",
+        "পপি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "আমির",
+        "কুকিজ",
+        "৫টি কুকিজ"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ইঞ্চি",
+        "বাক্স"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৳118",
+        "কুকিজ",
+        "হেনরি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "₹300",
+        "গ্যাস স্টেশন",
+        "গ্যাস",
+        "গ্যাস কোম্পানি",
+        "ক্যাশব্যাক"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "24 রোলআপ",
+        "14 রোলআপ",
+        "বিয়াট্রিজ",
+        "ফ্রুট রোলআপ",
+        "মার্সেল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "দূরত্ব",
+        "লিটার",
+        "জুলিয়া",
+        "সেকেন্ড",
+        "লেক"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "হোয়াইটবোর্ড",
+        "শ্রেণীকক্ষ",
+        "শিক্ষক"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রায়ান"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "আমির ফোন",
+        "আমির"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [
+        "কাপ"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "চাই"
+      ],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.14285714285714285,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.14285714285714285,
+      "replaced_words": [
+        "কাপ",
+        "চামচ চিনি",
+        "713 অনুপাতে",
+        "জল",
+        "কফি",
+        "পরিমাণ",
+        "চা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জান"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "জুতো",
+        "৫০০ টাকা",
+        "জন"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 8,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মোট",
+        "কন্টেনার",
+        "কাস্টম অফিসার",
+        "সৈকত",
+        "দিন",
+        "সংখ্যা",
+        "ক্লিয়ারেন্স",
+        "গাড়ি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "বেন"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "বেতন",
+        "৪০০০০ টাকা",
+        "অ্যাড্রিয়ন",
+        "40 বেশি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কাগজের প্যাড",
+        "মিগুয়েল",
+        "পৃষ্ঠা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "অ্যাসাইনমেন্ট",
+        "8 ঘণ্টা",
+        "সোমবার",
+        "2 ঘণ্টা",
+        "দুইদিন"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রোজি",
+        "ঘণ্টা",
+        "মাইল বেগ"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "চিঠি",
+        "স্ট্যাম্প",
+        "কার্যালয়ে"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৳",
+        "জুলিয়া",
+        "চামচ"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ডিলান",
+        "সসেজ",
+        "৳"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "লিলি",
+        "অ্যামির"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ওয়েলের মা",
+        "৫",
+        "10",
+        "তরমুজ"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৳200",
+        "৳150"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "সান্তা ভিলেজ",
+        "কর্মস্থল",
+        "10 জন",
+        "অস্থায়ী কর্মী",
+        "এক তৃতীয়াংশ"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জোসে"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "৫০০ টাকা",
+        "জোসেফ",
+        "৬০ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "টিকলি",
+        "রাই"
+      ],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "ফ্রেড",
+        "রোলার কোস্টার",
+        "টিকিট",
+        "রাইড",
+        "কার্নিভ্যাল",
+        "প্যাম"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "সোমবার",
+        "বুধবার",
+        "মঙ্গলবার"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "টম",
+        "গাড়ি ধুয়ে",
+        "৫০ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "বীবি"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "ববি",
+        "ব্রায়ান",
+        "ভিডিওগেম"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "27",
+        "ইউনিকর্ন"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "100",
+        "750",
+        "150",
+        "রোরি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মার্ক"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গোলাপি গামবল",
+        "22ট"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "20টি",
+        "ম্যানুয়াল",
+        "অটোমেটিক",
+        "সেমিঅটোমেটিক"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রানী মৌমাছি",
+        "কর্মী মৌমাছি",
+        "মৌমাছি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "গেম",
+        "জর্ডন",
+        "৳100"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জান"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "টাকা",
+        "10 কর",
+        "জন"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "কাপ"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "₹10",
+        "কিম",
+        "কাপড়"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "আনারসা"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "জীবন",
+        "3",
+        "আনারস",
+        "১০"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জনি",
+        "লেগো"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ব্রিটানি",
+        "ডলার",
+        "ইংল্যান্ড",
+        "120"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জেম",
+        "চারি"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "facebook বন্ধু",
+        "চার্লি",
+        "ডরোথি",
+        "জেমস"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "টিম",
+        "স্টিভ",
+        "মিনিট",
+        "বিদ্যালয়",
+        "ফুট",
+        "মাইল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "হাওয়া ভর",
+        "25 টাকা",
+        "শোন্দা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "₹100",
+        "কার্ল",
+        "প্যাকেট",
+        "কুকিজ"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৳১২৩ টাকা",
+        "ডেভ",
+        "ফ্রেঞ্চফ্রাই"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "সেমিস্টার",
+        "মঙ্গলবার",
+        "কিমোর",
+        "বুধবার",
+        "ঘণ্টা",
+        "কলেজ",
+        "শুক্রবার"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ইঞ্চি",
+        "বিল",
+        "চকলেট ক্রসা",
+        "ব্যগুয়েট",
+        "ফুট",
+        "রোল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "চিড়িয়াখানা",
+        "স্থানীয় খামার",
+        "400টি",
+        "বানর প্রজাতির প্রাণীদের",
+        "200টি",
+        "100টি",
+        "2 মাস"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 8,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "34 বার করলেন",
+        "ফুটবল মাঠ",
+        "15 বার দৌড়ে গিয়ে ফিরে আসেন",
+        "40 গজের লাইনে দৌড়ে যেতে এবং ফিরে আসতে শুরু করলেন",
+        "15 মিনিট",
+        "ব্লেক",
+        "100 গজ",
+        "কেলি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "২০",
+        "৪",
+        "বিদ্যালয়",
+        "১৫",
+        "৫০ টাকা",
+        "রাফায়েল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "11",
+        "ব্যাঙাচি",
+        "ফিন",
+        "6"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৳20"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "5টি",
+        "1টি",
+        "5টি লাল গাড়ি",
+        "400 টাকা",
+        "1টি পুতুল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "₹",
+        "জ্যাকি",
+        "₹600",
+        "₹250ঘণ্টা",
+        "3 ঘণ্টা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "3টি ডিমের প্রয়োজন",
+        "মেয়ে",
+        "9টি ডিমের একটি ঝুড়ি",
+        "স্যান্ড্রার প্রতিবেশী",
+        "স্প্যানিশ ফ্ল্যান",
+        "বিদ্যালয়",
+        "15টি স্প্যানিশ ফ্ল্যান"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "28 বছর",
+        "সেথ ব্রুক",
+        "2 বছরে"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জিমির",
+        "এথেল",
+        "2"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "পাঞ্চি"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "পাঞ্চো",
+        "মাইল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মার্চিং ব্যান্ড",
+        "250 টাকা",
+        "ইউনিফর্ম"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "80",
+        "মাকড়সা",
+        "জেক"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "8",
+        "পাখি",
+        "বছর",
+        "স্যালি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ক্রেডিট কার্ড বাবদ",
+        "স্টুডেন্ট ঋণ",
+        "বন্ধক বাবদ",
+        "জেসিকা",
+        "200 টাকা",
+        "৩০০ টাকা",
+        "500 টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "বলি"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "আলু",
+        "৳",
+        "বিলি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কার্লোস",
+        "গ্লাস",
+        "৩ টাকা",
+        "গ্যালন",
+        "জুয়ান",
+        "২ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ভাড়া",
+        "20000 রুপি",
+        "জেড",
+        "70000 রুপি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৫০০ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [
+        "রমেশ",
+        "পরোটা"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.6666666666666666,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রমেশ",
+        "৮৩০ টাকা",
+        "পরোটা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জিন"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "3",
+        "4 বাই 400 মিটার রিলে",
+        "দুটি ট্র্যাক টিম",
+        "400 মিটার"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "শতাংশে",
+        "দুটি জোড় সংখ্যা",
+        "ছয়টিদিক যুক্ত একটি গুটি",
+        "3",
+        "জেরি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "আপেল",
+        "জেনা",
+        "20টি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পোষ্যদের দোকান",
+        "৳১১৮",
+        "রডেন্ট",
+        "রাসেল",
+        "হ্যামস্টার",
+        "ইঁদুর"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ম্যান্ডি বেনেডিক্ট",
+        "3 মাস",
+        "10000 টাকা",
+        "2 মাসিক সুদ"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৫",
+        "গম",
+        "একজন ব্যবসায়ী",
+        "৫০ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জান"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "পিচ",
+        "৳",
+        "জন"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "তম",
+        "বছর",
+        "গাছ"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ভায়োলেটা",
+        "ক্রেয়ন",
+        "2000 টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পেন",
+        "৳50",
+        "৳100",
+        "পেন্সিল"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পাউন্ড",
+        "শহর"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "23786"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "২০টি",
+        "পোকেমন কার্ড",
+        "এলেন",
+        "30টি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৫ টাকা",
+        "মার্ক",
+        "বাক্য"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "বলতি"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "কুয়া",
+        "বালতি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জান"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "5 হারে বেতন বৃদ্ধি",
+        "পুরষ্কার",
+        "১ কালীন আর্থিক পুরষ্কার",
+        "জন"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "নীলা"
+      ],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.16666666666666666,
+      "replaced_words": [
+        "হলুদ",
+        "নীল",
+        "জ্যানেট",
+        "লাল",
+        "ব্যাগ",
+        "সবুজ"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "সেক্কোর"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "স্কোর",
+        "সেমিস্টার",
+        "ছাত্রছাত্রীদের",
+        "অঙ্কের ক্লাস",
+        "মিঃ বার্ট"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "বাই"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "বাইক",
+        "60 কিলোমিটার",
+        "মাইকেল",
+        "২৫ কিলোমিটার"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৬০০০ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "বেসারা"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.25,
+      "replaced_words": [
+        "30",
+        "4",
+        "সারা",
+        "জ্যাকেট"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মুরগি",
+        "জেরি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মাইল",
+        "3 মাইল প্রতি ঘণ্টা",
+        "পার্ক"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "১০০ টাকা",
+        "স্লোয়েন",
+        "গ্রাহক"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জেরির",
+        "গ্যালন",
+        "মিনিট"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "₹3200",
+        "₹32000",
+        "₹800"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "165 টাকা",
+        "12",
+        "জেনিথ",
+        "2000 টাকা",
+        "টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [
+        "গোলাপ"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.25,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "47",
+        "4",
+        "গোলাপ",
+        "7"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "জ্যাক",
+        "হ্যারিয়েট",
+        "অ্যাড্রিয়ান"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "নাওবি"
+      ],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.14285714285714285,
+      "replaced_words": [
+        "জোজো",
+        "শিক্ষার্থী",
+        "নাওমি",
+        "পয়েন্ট",
+        "বোর্ড খেলা",
+        "ইউরি নাওমির",
+        "ব্রায়ানা নাওমির"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "10 মিনিট",
+        "8টি সুদোকু ধাঁধা",
+        "3টি শব্দছক",
+        "5 মিনিট"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "90টি",
+        "অ্যান্ডি",
+        "জেরানিয়াম",
+        "40টি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "৫ লক্ষ টাকা",
+        "কোম্পানি",
+        "একতৃতীয়াংশ"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "নৌকা",
+        "র্যাফট",
+        "৩০ টাকা",
+        "১৮ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রচেস্টার"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জেম"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.2,
+      "replaced_words": [
+        "পোকেমন কার্ড",
+        "ফায়ার টাইপ",
+        "গ্রাস টাইপ",
+        "ওয়াটার টাইপ",
+        "জেমস"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "চ্যাং"
+      ],
+      "total_replaced_words": 8,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.125,
+      "replaced_words": [
+        "বুরিটো",
+        "₹475",
+        "₹200",
+        "চ্যাড",
+        "₹300",
+        "₹500",
+        "₹100",
+        "₹050"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মার্ক",
+        "1000 টাকা",
+        "20000 টাকা",
+        "গাড়ি",
+        "কোম্পানি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "কীলি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "সাগ"
+      ],
+      "total_replaced_words": 8,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.125,
+      "replaced_words": [
+        "সাগর",
+        "গুহার",
+        "36টি পেঙ্গুইন",
+        "খাবার",
+        "সাঁতার কাটতে",
+        "সূর্যস্নান",
+        "একতৃতীয়াংশ",
+        "রাত"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "জান"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "৳",
+        "জন",
+        "পিৎজা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [
+        "রাম"
+      ],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "কলমি"
+      ],
+      "total_replaced_words": 8,
+      "strict_match_score": 0.125,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.125,
+      "replaced_words": [
+        "খালি কলম",
+        "পাঁচটি খালি কলম",
+        "নতুন কলম",
+        "পয়সা বাঁচাতে",
+        "রাম",
+        "ভর্তি কলম তৈরি করার মাধ্যমে",
+        "কলম",
+        "25টি কলম"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "অতিরিক্ত টাকা",
+        "জনি",
+        "তিনগুণ",
+        "টাকা",
+        "ভাতার সাথে অতিরিক্ত টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ম্যারি",
+        "জেসার",
+        "বছর"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "শিক্ষা প্রতিষ্ঠান",
+        "হলঘর",
+        "শিক্ষার্থী",
+        "প্রবেশ দ্বার"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "রিচার্ড",
+        "রবার্ট",
+        "ক্যান্ডি"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "পাত্রা"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.3333333333333333,
+      "replaced_words": [
+        "পড়ে",
+        "আমার",
+        "পত্র"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মাইক",
+        "পৃষ্ঠা",
+        "ঘণ্টা",
+        "চিঠি",
+        "সপ্তাহে",
+        "মিনিট"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "15 মিনিট",
+        "1000 মিনিট",
+        "300 মিনিট"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "বলি"
+      ],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.14285714285714285,
+      "replaced_words": [
+        "ফ্রেঞ্চ ফ্রাই",
+        "কাইলের ফ্রাই",
+        "জিনজার",
+        "বিলি",
+        "গ্রিফিনের ফ্রাই",
+        "কাইল",
+        "গ্রিফিন"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "দ্বিগুণ",
+        "4 শামুক",
+        "32 শামুক",
+        "অ্যাকোরিয়াম"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "মেকআপ",
+        "5",
+        "জিন",
+        "৳250"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "ইসাবেল",
+        "কেক",
+        "৳22",
+        "৳12"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.0,
+      "replaced_words": [
+        "পেঁয়াজ",
+        "রাঁধুনি",
+        "৫০ টাকা"
+      ]
+    },
+    {
+      "adapted_text": "",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "fuzzy_matches": [
+        "বন"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "fuzzy_match_score": 0.5,
+      "replaced_words": [
+        "সোমবার",
+        "বোন"
+      ]
+    }
+  ]
+}

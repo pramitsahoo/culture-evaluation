@@ -1,0 +1,1440 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "দাগুডু মূতালু"
+      },
+      {
+        "Game Name": "টক্কুদু বিল্লা"
+      },
+      {
+        "Game Name": "এদু পেনকুলাটা"
+      },
+      {
+        "Game Name": "ভামনগুনতালু"
+      },
+      {
+        "Game Name": "চাদরঙ্গম"
+      },
+      {
+        "Game Name": "পুলি জুডাম"
+      },
+      {
+        "Game Name": "অষ্ট চাম্মা"
+      },
+      {
+        "Game Name": "ভাইকুন্তাপালি"
+      },
+      {
+        "Game Name": "নালুগু স্তম্ভলাটা"
+      },
+      {
+        "Game Name": "নালুগু রল্লু আটা"
+      },
+      {
+        "Game Name": "কারা বিল্লা"
+      },
+      {
+        "Game Name": "ভেরি ভেরি গুম্মাদি পাণ্ডু"
+      },
+      {
+        "Game Name": "চেইন"
+      },
+      {
+        "Game Name": "ডোঙ্গা পুলিশ"
+      },
+      {
+        "Game Name": "কাঁচা"
+      },
+      {
+        "Game Name": "পোশাম পোশ"
+      },
+      {
+        "Game Name": "লাট্টু"
+      },
+      {
+        "Game Name": "ল্যাঙ্গডি ট্যাং"
+      },
+      {
+        "Game Name": "কাবাড্ডি"
+      },
+      {
+        "Game Name": "খো খো"
+      }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "হোল তাসো দুকানারাম"
+      },
+      {
+        "Game Name": "হিনাম টার্নাম"
+      },
+      {
+        "Game Name": "পরক-পামিন সাইনাম"
+      },
+      {
+        "Game Name": "মাজং"
+      },
+      {
+        "Game Name": "দাপো নিয়ারকা সুনাম"
+      },
+      {
+        "Game Name": "ডাক-দাল ডাকাসুনাম"
+      },
+      {
+        "Game Name": "উপুক আপকা সুনাম"
+      },
+      {
+        "Game Name": "সিনে চাকসুনাম"
+      },
+      {
+        "Game Name": "দাপো"
+      },
+      {
+        "Game Name": "সিকপি (বাঁশের যুদ্ধে)"
+      }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "ধোপখেল"
+      },
+      {
+        "Game Name": "হাই গুদু/কোপোতি খেল"
+      },
+      {
+        "Game Name": "মুঠি খেল (ফিস্টের খেলা)"
+      },
+      {
+        "Game Name": "খুতি খেল (পোস্টের খেলা)"
+      },
+      {
+        "Game Name": "ডুব খেল (সিঙ্কের খেলা)"
+      },
+      {
+        "Game Name": "দোড়া কোইনা খেল (বর-কনের খেলা)"
+      },
+      {
+        "Game Name": "লুকা-বাকু খেল (লুকোচুরি)"
+      },
+      {
+        "Game Name": "রজা রানী খেল (রাজা-রানীর খেলা)"
+      },
+      {
+        "Game Name": "কচু গুটি খেল (কচু গুটির খেলা)"
+      },
+      {
+        "Game Name": "ঘিলা খেল (ঘিলার খেলা)"
+      },
+      {
+        "Game Name": "কনি-জুজ (ডিমের যুদ্ধ)"
+      },
+      {
+        "Game Name": "মহ-জুজ (মহিষ যুদ্ধ)"
+      },
+      {
+        "Game Name": "নৌকা রেসিং"
+      },
+      {
+        "Game Name": "কানামাচি"
+      },
+      {
+        "Game Name": "বুলবুলি সরাই জুজ (নাইটিংগেল যুদ্ধ)"
+      },
+      {
+        "Game Name": "টেকেলি ভঙা (মাটির হাঁড়ি ভাঙা)"
+      },
+      {
+        "Game Name": "রসী তোনা (টাগ অফ ওয়ার)"
+      },
+      {
+        "Game Name": "আলং দালং"
+      },
+      {
+        "Game Name": "খোমলাই নাই"
+      },
+      {
+        "Game Name": "তারুয়াল খেল (ফেন্সিং)"
+      }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "পচিসি"
+      },
+      {
+        "Game Name": "পাঞ্চি"
+      },
+      {
+        "Game Name": "প্রেত্বা"
+      },
+      {
+        "Game Name": "কাঁচা (মার্বেলস)"
+      },
+      {
+        "Game Name": "গিল্লি দাণ্ডা"
+      },
+      {
+        "Game Name": "কাবাড্ডি"
+      },
+      {
+        "Game Name": "ঘুড়ি উড়ানো"
+      },
+      {
+        "Game Name": "চৌপর"
+      },
+      {
+        "Game Name": "অন্তাক্ষরি"
+      },
+      {
+        "Game Name": "রাসা কাশি (টাগ অফ ওয়ার)"
+      }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "গিল্লি দাণ্ডা"
+      },
+      {
+        "Game Name": "পিঠুল"
+      },
+      {
+        "Game Name": "সাঁখালি (চেইন খেলা)"
+      },
+      {
+        "Game Name": "ল্যাঙ্গডি দৌড়"
+      },
+      {
+        "Game Name": "খুদ্বা (কাবাড্ডি)"
+      },
+      {
+        "Game Name": "খো খো"
+      },
+      {
+        "Game Name": "বান্টি (কাঁচা/মার্বেলস)"
+      },
+      {
+        "Game Name": "গেদি দৌড় (স্টিল্ট রেসিং)"
+      },
+      {
+        "Game Name": "ভাউরা (স্পিনিং টপ)"
+      },
+      {
+        "Game Name": "ফুগডি"
+      },
+      {
+        "Game Name": "বিল্লাস"
+      },
+      {
+        "Game Name": "বাটি (মার্বেলস)"
+      }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "লোগোরিও"
+      },
+      {
+        "Game Name": "গড্ডিয়ানি"
+      },
+      {
+        "Game Name": "কোইন্ড্যা বল"
+      },
+      {
+        "Game Name": "বড্ডিযানি"
+      },
+      {
+        "Game Name": "টাবুল ফালে"
+      },
+      {
+        "Game Name": "ফাট্রাআনি"
+      },
+      {
+        "Game Name": "ভিরাআনি"
+      },
+      {
+        "Game Name": "টিকটেম"
+      },
+      {
+        "Game Name": "ট্যাবলম"
+      },
+      {
+        "Game Name": "চিকল কালো"
+      }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "সাতোদিযু"
+      },
+      {
+        "Game Name": "আদকো দাদকো"
+      },
+      {
+        "Game Name": "কোডিয়ো"
+      },
+      {
+        "Game Name": "কুকা/গুট্টে"
+      },
+      {
+        "Game Name": "লাট্তু"
+      },
+      {
+        "Game Name": "সৌকথা-বাসি"
+      },
+      {
+        "Game Name": "কথাদা ডুড (ব্যাগ রেস)"
+      },
+      {
+        "Game Name": "খো খো"
+      },
+      {
+        "Game Name": "গিল্লি দাণ্ডা"
+      },
+      {
+        "Game Name": "কাঁচা"
+      },
+      {
+        "Game Name": "পতঙ্গ বাজি (ঘুড়ি উড়ানো)"
+      }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "কাবাড্ডি"
+      },
+      {
+        "Game Name": "কুস্তি (রেসলিং)"
+      },
+      {
+        "Game Name": "গিল্লি দাণ্ডা"
+      },
+      {
+        "Game Name": "কাবাড্ডি (ঘোড়া কাবাড্ডি)"
+      },
+      {
+        "Game Name": "পেহলওয়ানি"
+      },
+      {
+        "Game Name": "পিউয়ানি"
+      },
+      {
+        "Game Name": "স্তাপু (হপস্কচ)"
+      },
+      {
+        "Game Name": "পোসাম্পা"
+      },
+      {
+        "Game Name": "পিঠু (সাত পাথর)"
+      },
+      {
+        "Game Name": "আঁখ মিচোলি (ব্লাইন্ড ম্যান'স বাফ)"
+      },
+      {
+        "Game Name": "কাঁচা গলি (মার্বেলস)"
+      },
+      {
+        "Game Name": "উঁচ-নীচ কা পাপাদা"
+      },
+      {
+        "Game Name": "কোকলা চুপকি"
+      },
+      {
+        "Game Name": "রাসা কাশি (টাগ অফ ওয়ার)"
+      },
+      {
+        "Game Name": "চৌপর"
+      },
+      {
+        "Game Name": "রাসা রাসি"
+      },
+      {
+        "Game Name": "ল্যাঙ্গডি ট্যাং"
+      },
+      {
+        "Game Name": "খো খো"
+      },
+      {
+        "Game Name": "রাসা কাশি"
+      },
+      {
+        "Game Name": "পোষাম্পা"
+      }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "থোডা"
+      },
+      {
+        "Game Name": "চৌগান"
+      },
+      {
+        "Game Name": "কান কুটনি"
+      },
+      {
+        "Game Name": "রাই রাই রতন তালাই"
+      },
+      {
+        "Game Name": "ডিউন স্লাইডিং"
+      },
+      {
+        "Game Name": "টিগো"
+      },
+      {
+        "Game Name": "চিড়িয়া উদ, তোতা উদ, ভৈংস উদ"
+      },
+      {
+        "Game Name": "মার দাড়ি"
+      },
+      {
+        "Game Name": "লুনিয়া খাটি"
+      },
+      {
+        "Game Name": "সাতোলিও"
+      },
+      {
+        "Game Name": "এট্টি ডাণ্ড"
+      },
+      {
+        "Game Name": "খুটা গেদিয়া"
+      },
+      {
+        "Game Name": "ধোলিয়ো ভাটো"
+      },
+      {
+        "Game Name": "ঘুড়ি উড়ানো (কিরণী)"
+      },
+      {
+        "Game Name": "গোলা"
+      },
+      {
+        "Game Name": "গাদা"
+      },
+      {
+        "Game Name": "কাবাড্ডি"
+      },
+      {
+        "Game Name": "ঘোল (রেসলিং)"
+      },
+      {
+        "Game Name": "মালা উঠানা"
+      },
+      {
+        "Game Name": "হাদবালি"
+      }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "কাটি"
+      },
+      {
+        "Game Name": "সেক্কোর"
+      },
+      {
+        "Game Name": "ফিরকাল"
+      },
+      {
+        "Game Name": "সাতখাপ্রি"
+      },
+      {
+        "Game Name": "কিট-কিট"
+      },
+      {
+        "Game Name": "ছাও নৃত্য"
+      },
+      {
+        "Game Name": "হাদবাদি"
+      },
+      {
+        "Game Name": "ছুর"
+      },
+      {
+        "Game Name": "ঝুমার"
+      },
+      {
+        "Game Name": "ফাগুয়া"
+      }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "ছিন্নি দাণ্ডু"
+      },
+      {
+        "Game Name": "বুগুরি"
+      },
+      {
+        "Game Name": "গোটি"
+      },
+      {
+        "Game Name": "কাল্লু গুণ্ডু এট্টুভুদু"
+      },
+      {
+        "Game Name": "চৌকা বার"
+      },
+      {
+        "Game Name": "আলি গুলি মেনে"
+      },
+      {
+        "Game Name": "কাম্বালা"
+      },
+      {
+        "Game Name": "হোরি হাব্বা"
+      },
+      {
+        "Game Name": "কুন্তে বিল্লে"
+      },
+      {
+        "Game Name": "হুলি গট্টা"
+      },
+      {
+        "Game Name": "পাগড়ে"
+      },
+      {
+        "Game Name": "ছিন্নি কল"
+      },
+      {
+        "Game Name": "চৌকা ভারা"
+      },
+      {
+        "Game Name": "পল্লাঙ্গুজি"
+      },
+      {
+        "Game Name": "ছিন্নি দাণ্ডু"
+      }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "কুট্টিয়ুম কলুম"
+      },
+      {
+        "Game Name": "পল্লঙ্কুজি"
+      },
+      {
+        "Game Name": "কিলিম কাল্যানম"
+      },
+      {
+        "Game Name": "থালাপন্থুকালি"
+      },
+      {
+        "Game Name": "অনাথালু"
+      },
+      {
+        "Game Name": "কিলিথাত্তু"
+      },
+      {
+        "Game Name": "পুলিকালি"
+      },
+      {
+        "Game Name": "কুম্মাটিকালি"
+      },
+      {
+        "Game Name": "তিরুভথিরাকালি"
+      },
+      {
+        "Game Name": "বাদামভালি (টাগ অফ ওয়ার)"
+      },
+      {
+        "Game Name": "চতুরঙ্গম"
+      }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "সিটোলিয়া (পিট্টু)"
+      },
+      {
+        "Game Name": "গিল্লি দাণ্ডা"
+      },
+      {
+        "Game Name": "খো খো"
+      },
+      {
+        "Game Name": "কাঁচা (মার্বেলস)"
+      },
+      {
+        "Game Name": "ল্যাঙ্গডি"
+      },
+      {
+        "Game Name": "চৌপদ"
+      },
+      {
+        "Game Name": "অন্তাক্ষরি"
+      },
+      {
+        "Game Name": "রম্মি"
+      },
+      {
+        "Game Name": "মল্লাখাম্বা"
+      },
+      {
+        "Game Name": "কাবাড্ডি"
+      },
+      {
+        "Game Name": "সাতোলিয়া"
+      }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "ভিতি দাণ্ডু"
+      },
+      {
+        "Game Name": "খো খো"
+      },
+      {
+        "Game Name": "ল্যাঙ্গডি"
+      },
+      {
+        "Game Name": "আট্যা-পাট্যা"
+      },
+      {
+        "Game Name": "সাত পাথর (লাগরি)"
+      },
+      {
+        "Game Name": "সাতোলিয়া"
+      },
+      {
+        "Game Name": "ভেন্দ্যা"
+      },
+      {
+        "Game Name": "কাঁচা"
+      },
+      {
+        "Game Name": "চোর পুলিশ"
+      },
+      {
+        "Game Name": "সাখলী"
+      },
+      {
+        "Game Name": "সুর্পারাম্ব্য"
+      },
+      {
+        "Game Name": "ভাভরা"
+      },
+      {
+        "Game Name": "জিম্মা"
+      },
+      {
+        "Game Name": "ফুগাদি"
+      },
+      {
+        "Game Name": "এক্কা-ডক্কা"
+      },
+      {
+        "Game Name": "ডাগাড্যা-ভর্যাল্যা"
+      },
+      {
+        "Game Name": "গোট্যা"
+      },
+      {
+        "Game Name": "পতঙ্গ ঘুমাবান"
+      },
+      {
+        "Game Name": "ভেন্দ্যা-ভেন্দি"
+      },
+      {
+        "Game Name": "ভাঘ-বকরি"
+      }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "সাগল কঙ্গজেই (মণিপুরি পোলো)"
+      },
+      {
+        "Game Name": "ইউবি লাকপি (মণিপুরি রাগবি)"
+      },
+      {
+        "Game Name": "থাং তা ও সারিত সারক (মণিপুরি মার্শাল আর্টস)"
+      },
+      {
+        "Game Name": "খঙ কঙ্গজেই (মণিপুরি হকি)"
+      },
+      {
+        "Game Name": "মুকনা (মণিপুরি রেসলিং)"
+      },
+      {
+        "Game Name": "ক্যাং"
+      },
+      {
+        "Game Name": "হিয়াং তানাবা (নৌকা রেস)"
+      },
+      {
+        "Game Name": "উলাবি"
+      },
+      {
+        "Game Name": "আরম্বাই হুনবা"
+      },
+      {
+        "Game Name": "ফিবুল থোম্বা"
+      }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "রাহ মুখরাহ"
+      },
+      {
+        "Game Name": "মাওপয়িন"
+      },
+      {
+        "Game Name": "ও’পং সিকা"
+      },
+      {
+        "Game Name": "অ্যানডিং ওকা"
+      },
+      {
+        "Game Name": "দাদ-লাওকোর"
+      },
+      {
+        "Game Name": "তীরন্দাজি"
+      }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "ইনসুকনাওর"
+      },
+      {
+        "Game Name": "ইনবুয়ান রেসলিং"
+      },
+      {
+        "Game Name": "খাঞ্চুয়াক আটাঙ্গা ইনভুয়াক থ্লাক"
+      },
+      {
+        "Game Name": "ইনসাইহ্রুইপাওহ"
+      },
+      {
+        "Game Name": "ছাঁওঘনাওহ"
+      },
+      {
+        "Game Name": "চাই"
+      },
+      {
+        "Game Name": "ছেহিহলাম"
+      },
+      {
+        "Game Name": "খুয়ালাম"
+      },
+      {
+        "Game Name": "সারলামকাই"
+      },
+      {
+        "Game Name": "চেরাও নৃত্য"
+      }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "কেনে (নাগা রেসলিং)"
+      },
+      {
+        "Game Name": "আকি কিটি (সুমি কিক ফাইটিং)"
+      },
+      {
+        "Game Name": "তেরহুচু"
+      },
+      {
+        "Game Name": "পচেদা"
+      },
+      {
+        "Game Name": "লুদা"
+      },
+      {
+        "Game Name": "থুলো"
+      },
+      {
+        "Game Name": "টপ স্পিন (শুং খামা চিহ কিন)"
+      },
+      {
+        "Game Name": "গ্রিজ বাঁশ আরোহন"
+      },
+      {
+        "Game Name": "মুরগি যুদ্ধে"
+      }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "গাঞ্জাপা"
+      },
+      {
+        "Game Name": "থিয়া পুচি"
+      },
+      {
+        "Game Name": "বাঘা-ছেলি"
+      },
+      {
+        "Game Name": "কিথ কিথ"
+      },
+      {
+        "Game Name": "গুটি"
+      },
+      {
+        "Game Name": "ডাঙ্গা পানী"
+      },
+      {
+        "Game Name": "বহু চোরি"
+      },
+      {
+        "Game Name": "রাজা ডলি"
+      },
+      {
+        "Game Name": "গুচি তাণ্ডু"
+      },
+      {
+        "Game Name": "রমাল চোরি"
+      },
+      {
+        "Game Name": "কানামাচি"
+      },
+      {
+        "Game Name": "পেন আনবা"
+      },
+      {
+        "Game Name": "মহুলবেটা"
+      },
+      {
+        "Game Name": "কাঠজিবা"
+      },
+      {
+        "Game Name": "রাজা মন্ত্রী চোর সৈন্য"
+      },
+      {
+        "Game Name": "অন্ধা পুতুলী"
+      },
+      {
+        "Game Name": "রাশি তানা"
+      },
+      {
+        "Game Name": "নাদিয়া ফিঙ্গা"
+      },
+      {
+        "Game Name": "কেলিবাদি"
+      },
+      {
+        "Game Name": "গুদু"
+      }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "কাবাড্ডি"
+      },
+      {
+        "Game Name": "গিল্লি দাণ্ডা"
+      },
+      {
+        "Game Name": "কোকলা ছাপাকি"
+      },
+      {
+        "Game Name": "লুকান মিটি (লুকোচুরি)"
+      },
+      {
+        "Game Name": "পিঠু গরম (সাত পাথর)"
+      },
+      {
+        "Game Name": "কিকলি"
+      },
+      {
+        "Game Name": "কিডি কাদা (স্টাপু)"
+      },
+      {
+        "Game Name": "রাসা কাশি (টাগ অফ ওয়ার)"
+      },
+      {
+        "Game Name": "খিদু"
+      },
+      {
+        "Game Name": "ঘীতা পাথর"
+      },
+      {
+        "Game Name": "চিচো চিচ গানেরিয়ান"
+      },
+      {
+        "Game Name": "বন্দর কিলা"
+      },
+      {
+        "Game Name": "খুদ্দো খুন্দি"
+      },
+      {
+        "Game Name": "রব্ব দি খুতি"
+      },
+      {
+        "Game Name": "কাবাড্ডি"
+      },
+      {
+        "Game Name": "অখারা"
+      },
+      {
+        "Game Name": "মার্শাল আর্টস (গাটকা)"
+      },
+      {
+        "Game Name": "ঘুড়ি উড়ানো (পতঙ্গ বাজি)"
+      },
+      {
+        "Game Name": "লাট্তু (ইউ-ইউ)"
+      },
+      {
+        "Game Name": "বান্টে (মার্বেলস)"
+      }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "রমাল ঝাপট্টা"
+      },
+      {
+        "Game Name": "সাতোলিয়া"
+      },
+      {
+        "Game Name": "চৌপর"
+      },
+      {
+        "Game Name": "গিল্লি দাণ্ডা"
+      },
+      {
+        "Game Name": "কাবাড্ডি"
+      },
+      {
+        "Game Name": "খো খো"
+      },
+      {
+        "Game Name": "পিঠু"
+      },
+      {
+        "Game Name": "কাঁচা"
+      },
+      {
+        "Game Name": "তীর আঁদাজি"
+      },
+      {
+        "Game Name": "উট পোলো"
+      }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "তীরন্দাজি"
+      },
+      {
+        "Game Name": "শো"
+      },
+      {
+        "Game Name": "কাভাদি"
+      },
+      {
+        "Game Name": "কপ খেল"
+      },
+      {
+        "Game Name": "পিপো"
+      }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "সিলম্বম"
+      },
+      {
+        "Game Name": "পল্লাঙ্গুজি"
+      },
+      {
+        "Game Name": "আডু পুলি আটা"
+      },
+      {
+        "Game Name": "জল্লিকাট্টু"
+      },
+      {
+        "Game Name": "উড়িয়াদি"
+      },
+      {
+        "Game Name": "দায়কট্টাই"
+      },
+      {
+        "Game Name": "নন্দি"
+      },
+      {
+        "Game Name": "থঞ্জবুর কাট্টাম"
+      },
+      {
+        "Game Name": "সেবাল সন্দাই"
+      },
+      {
+        "Game Name": "রিকলা"
+      },
+      {
+        "Game Name": "কিলিথাটো"
+      },
+      {
+        "Game Name": "বাম্বরম"
+      },
+      {
+        "Game Name": "গিল্লি দাণ্ডা"
+      },
+      {
+        "Game Name": "পরমাপদম"
+      },
+      {
+        "Game Name": "খো-খো"
+      },
+      {
+        "Game Name": "কাবাড্ডি"
+      },
+      {
+        "Game Name": "পাঁচ পাথর"
+      },
+      {
+        "Game Name": "স্কিপিং"
+      },
+      {
+        "Game Name": "চতুরঙ্গম"
+      }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "অষ্ট চাম্মা"
+      },
+      {
+        "Game Name": "দাদি"
+      },
+      {
+        "Game Name": "পুলি মেকা (আডু পুলি আটা)"
+      },
+      {
+        "Game Name": "ভামন গুনতালু"
+      },
+      {
+        "Game Name": "লিঙ্গোরচা"
+      },
+      {
+        "Game Name": "নালুগু স্তম্ভলাটা"
+      },
+      {
+        "Game Name": "এডু পেনকুলাটা (লাগরি)"
+      },
+      {
+        "Game Name": "চদরঙ্গম"
+      },
+      {
+        "Game Name": "টক্কুদু বিল্লা"
+      },
+      {
+        "Game Name": "কারা বিল্লা"
+      }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "অচুগুই ফান সোহলায়মুং"
+      },
+      {
+        "Game Name": "টেঙ্গডাং"
+      },
+      {
+        "Game Name": "কালডং (কাডং)"
+      },
+      {
+        "Game Name": "লংগই চকমুং"
+      },
+      {
+        "Game Name": "মুফুক সাগ্বনাং"
+      },
+      {
+        "Game Name": "ফান সোহলায়মুং"
+      },
+      {
+        "Game Name": "মুস্তা সেকলাইও"
+      },
+      {
+        "Game Name": "সোহলায়মুং"
+      },
+      {
+        "Game Name": "কানামাচি"
+      },
+      {
+        "Game Name": "গেলা-চুট"
+      },
+      {
+        "Game Name": "থ্বংমুং"
+      },
+      {
+        "Game Name": "ওয়াসুচামো"
+      },
+      {
+        "Game Name": "বংব্রাই বির্মা"
+      },
+      {
+        "Game Name": "মাথাম"
+      },
+      {
+        "Game Name": "বাদুল-খুং কোকমানি"
+      }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "বাঘ বাকরী (বাঘ ও ছাগল)"
+      },
+      {
+        "Game Name": "থাপ"
+      },
+      {
+        "Game Name": "গাল্যা বানান"
+      },
+      {
+        "Game Name": "ছুর্পি"
+      },
+      {
+        "Game Name": "রাসা (টাগ অফ ওয়ার)"
+      },
+      {
+        "Game Name": "ল্যাঙ্গডি"
+      },
+      {
+        "Game Name": "ছোলিয়া নৃত্য"
+      },
+      {
+        "Game Name": "পাণ্ডব নৃত্য"
+      },
+      {
+        "Game Name": "ঝাকি"
+      },
+      {
+        "Game Name": "চির্পি"
+      }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "চতুরঙ্গ"
+      },
+      {
+        "Game Name": "গিল্লি দাণ্ডা"
+      },
+      {
+        "Game Name": "কাবাড্ডি"
+      },
+      {
+        "Game Name": "কুস্তি (মল্লা-যুদ্ধ)"
+      },
+      {
+        "Game Name": "খো খো"
+      },
+      {
+        "Game Name": "সাত পাথর (পিঠু)"
+      },
+      {
+        "Game Name": "অষ্টপদ"
+      },
+      {
+        "Game Name": "কাঁচা (মার্বেলস)"
+      },
+      {
+        "Game Name": "লাট্তু (স্পিনিং টপ)"
+      },
+      {
+        "Game Name": "ঘুড়ি উড়ানো (পতঙ্গ বাজি)"
+      }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "হা-দু-দু (কাবাড্ডি)"
+      },
+      {
+        "Game Name": "লাঠি খেলা"
+      },
+      {
+        "Game Name": "নৌকা বৈচ"
+      },
+      {
+        "Game Name": "চুংগাখেলা"
+      },
+      {
+        "Game Name": "গোল্লাচুট"
+      },
+      {
+        "Game Name": "কিট-কিট (হপস্কচ)"
+      },
+      {
+        "Game Name": "লুকো-চুরি"
+      },
+      {
+        "Game Name": "গলি (মার্বেলস)"
+      },
+      {
+        "Game Name": "লাট্টু (স্পিনিং টপ)"
+      },
+      {
+        "Game Name": "ঘুড়ি উড়ানো (ঘুড়ি)"
+      },
+      {
+        "Game Name": "রমাল চুরি"
+      },
+      {
+        "Game Name": "পিঠু (সাত পাথর)"
+      },
+      {
+        "Game Name": "কানামাচি"
+      },
+      {
+        "Game Name": "দশাবতার তাস"
+      }
+    ]
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Game Name": "আসোল আপ"
+      },
+      {
+        "Game Name": "কে ন্যাং হাউন"
+      },
+      {
+        "Game Name": "কিরিপ"
+      },
+      {
+        "Game Name": "আসোল-তালে আপ"
+      }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Game Name": "রামলীলা প্রদর্শনী"
+      },
+      {
+        "Game Name": "ন্যাশনাল কালচারাল পিথিয়ান গেমস"
+      }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Dama",
+    "type": "Union Territory",
+    "items": []
+  },
+  {
+    "name": "Delhi",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Game Name": "গিল্লি দাণ্ডা"
+      },
+      {
+        "Game Name": "কাঁচা (মার্বেলস)"
+      },
+      {
+        "Game Name": "পিঠু (সাত পাথর)"
+      },
+      {
+        "Game Name": "খো খো"
+      },
+      {
+        "Game Name": "কাবাড্ডি"
+      },
+      {
+        "Game Name": "চৌপর"
+      },
+      {
+        "Game Name": "অন্তাক্ষরি"
+      },
+      {
+        "Game Name": "রামলীলা প্রদর্শনী"
+      },
+      {
+        "Game Name": "রাস্তার তাস খেলা"
+      },
+      {
+        "Game Name": "ঘুড়ি উড়ানো"
+      }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Game Name": "সাজ লৌং (হপস্কচ)"
+      },
+      {
+        "Game Name": "গরম (সান্টুলি)"
+      },
+      {
+        "Game Name": "টাঙ্গা (বান্টে জ়ার)"
+      },
+      {
+        "Game Name": "রেইন্টি গৌট্‌টে"
+      },
+      {
+        "Game Name": "দাজ্জি বল"
+      },
+      {
+        "Game Name": "জৌটা"
+      },
+      {
+        "Game Name": "কাঙ্গরি রেসলিং"
+      },
+      {
+        "Game Name": "ফেরান খায়নার"
+      },
+      {
+        "Game Name": "স্নো পলো"
+      },
+      {
+        "Game Name": "ভাড্ডে বিদায় (টাগ অফ ওয়ার)"
+      },
+      {
+        "Game Name": "নম্বাল"
+      }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Game Name": "আর্কারি"
+      },
+      {
+        "Game Name": "পোলো"
+      },
+      {
+        "Game Name": "ইয়াক রেসিং"
+      },
+      {
+        "Game Name": "আইস হকি"
+      },
+      {
+        "Game Name": "দোসমচে উৎসবের খেলা"
+      }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "items": []
+  },
+  {
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Game Name": "পেটাঙ্ক"
+      },
+      {
+        "Game Name": "সিলম্বম"
+      },
+      {
+        "Game Name": "খো-খো"
+      },
+      {
+        "Game Name": "কাবাড্ডি"
+      },
+      {
+        "Game Name": "কারাম"
+      },
+      {
+        "Game Name": "মার্বেলস (গলি)"
+      },
+      {
+        "Game Name": "লাট্তু (স্পিনিং টপ)"
+      },
+      {
+        "Game Name": "সাত পাথর (লাগরি)"
+      }
+    ]
+  }
+]

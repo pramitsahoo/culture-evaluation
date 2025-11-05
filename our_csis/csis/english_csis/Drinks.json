@@ -1,0 +1,1858 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Menthi Majjiga",
+        "Description": "Buttermilk flavored with fenugreek, chilies, and ginger.",
+        "Reference Link": "https://www.thenewsminute.com/features/traditional-south-indian-drinks-help-you-survive-summers-42088"
+      },
+      {
+        "Drink Name": "Panakam",
+        "Description": "Jaggery-based drink with lemon, a summer coolant.",
+        "Reference Link": "https://www.tripoto.com/india/trips/popular-summer-drinks-to-taste-in-south-india-5ce98f13eddcf"
+      },
+      {
+        "Drink Name": "Neera",
+        "Description": "Non-alcoholic sap extracted from palm trees.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Palm_wine"
+      },
+      {
+        "Drink Name": "Toddy (Kallu)",
+        "Description": "Fermented palm sap, mildly alcoholic beverage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Palm_wine"
+      },
+      {
+        "Drink Name": "Bilwa Sharbat",
+        "Description": "Health drink made from bael fruit extract.",
+        "Reference Link": "https://www.tribesindia.com/shop/tribes-vandhan-naturals/tea-coffee-beverages/tribes-india-bilwa-sharbat-health-drink-750ml/"
+      },
+      {
+        "Drink Name": "Rice Beer",
+        "Description": "Traditional fermented beverage made from rice.",
+        "Reference Link": "https://www.researchgate.net/publication/360007647_Some_interesting_indigenous_beverages_among_the_Primitive_Tribal_groups_of_Visakhapatnam_district_Andhra_Pradesh"
+      },
+      {
+        "Drink Name": "Ragi Ambali",
+        "Description": "Fermented drink made from finger millet (ragi).",
+        "Reference Link": "https://www.researchgate.net/publication/360007647_Some_interesting_indigenous_beverages_among_the_Primitive_Tribal_groups_of_Visakhapatnam_district_Andhra_Pradesh"
+      },
+      {
+        "Drink Name": "Banana Liquor",
+        "Description": "Alcoholic beverage fermented from ripe bananas.",
+        "Reference Link": "https://www.researchgate.net/publication/360007647_Some_interesting_indigenous_beverages_among_the_Primitive_Tribal_groups_of_Visakhapatnam_district_Andhra_Pradesh"
+      },
+      {
+        "Drink Name": "Jackfruit Liquor",
+        "Description": "Fermented drink made from jackfruit pulp.",
+        "Reference Link": "https://www.researchgate.net/publication/360007647_Some_interesting_indigenous_beverages_among_the_Primitive_Tribal_groups_of_Visakhapatnam_district_Andhra_Pradesh"
+      },
+      {
+        "Drink Name": "Jaggery Liquor",
+        "Description": "Alcoholic beverage made from fermented jaggery.",
+        "Reference Link": "https://www.researchgate.net/publication/360007647_Some_interesting_indigenous_beverages_among_the_Primitive_Tribal_groups_of_Visakhapatnam_district_Andhra_Pradesh"
+      }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Apong",
+        "Description": "Traditional rice beer fermented from rice or millet.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Apo_(drink)"
+      },
+      {
+        "Drink Name": "Poka",
+        "Description": "Local rice beer served during festivals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mopin"
+      },
+      {
+        "Drink Name": "Madua",
+        "Description": "Fermented millet drink with a sweet aroma.",
+        "Reference Link": "https://chalohoppo.com/the-diversity-and-uniqueness-of-locally-fermented-beverages-2/"
+      },
+      {
+        "Drink Name": "Jumin",
+        "Description": "Fermented beverage with sweet-salty-sour taste.",
+        "Reference Link": "https://link.springer.com/article/10.1007/s10722-017-0594-1"
+      },
+      {
+        "Drink Name": "Keendey",
+        "Description": "Ancient cocktail made from fermented rice and herbs.",
+        "Reference Link": "https://www.instagram.com/mr.bartrender/reel/DCPKreFt-zP/"
+      },
+      {
+        "Drink Name": "Kala Apong",
+        "Description": "Special rice beer made by the Galo tribe.",
+        "Reference Link": "https://www.facebook.com/shivatells/posts/kala-apong-a-secret-drink-made-only-by-women-from-the-galo-tribe-of-arunachal-pr/1076298114503555/"
+      },
+      {
+        "Drink Name": "Opo",
+        "Description": "Local brew made from millet, popular among Hill Miri people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hill_Miri_people"
+      },
+      {
+        "Drink Name": "Phalap",
+        "Description": "Smoked tea traditionally consumed by Tangsa community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tangsa_Naga"
+      }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Xaj",
+        "Description": "Traditional rice beer of the Ahom tribe.",
+        "Reference Link": "https://nenow.in/web-stories/here-are-six-beverages-you-can-try-while-visiting-assam"
+      },
+      {
+        "Drink Name": "Judima",
+        "Description": "Rice wine made by the Dimasa community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Judima"
+      },
+      {
+        "Drink Name": "Apong",
+        "Description": "Rice beer brewed by the Mising tribe.",
+        "Reference Link": "https://diversityassam.com/culture/apong-a-traditional-rice-beer-of-assam/"
+      },
+      {
+        "Drink Name": "Lau Pani",
+        "Description": "Fermented bottle gourd beverage by the Ahom tribe.",
+        "Reference Link": "https://nenow.in/web-stories/here-are-six-beverages-you-can-try-while-visiting-assam"
+      },
+      {
+        "Drink Name": "Hor Alank",
+        "Description": "Rice beer of the Karbi tribe.",
+        "Reference Link": "https://nenow.in/web-stories/here-are-six-beverages-you-can-try-while-visiting-assam"
+      },
+      {
+        "Drink Name": "Jou",
+        "Description": "Rice beer prepared by the Boro tribe.",
+        "Reference Link": "https://www.semanticscholar.org/paper/Jou%3A-the-traditional-drink-of-the-Boro-tribe-of-and-Basumatary-Terangpi/7b2b899cd7ec34faf1c182d2a09b1a58d4c68374"
+      },
+      {
+        "Drink Name": "Assam Tea",
+        "Description": "Robust black tea known globally.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Assam_tea"
+      },
+      {
+        "Drink Name": "Chulai",
+        "Description": "Locally distilled spirit from fermented molasses.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sulai"
+      },
+      {
+        "Drink Name": "Khardwi",
+        "Description": "Alkaline drink made from plant ash filtrate.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khardwi"
+      }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Sattu Ka Sharbat",
+        "Description": "Cooling drink made from roasted gram flour.",
+        "Reference Link": "https://tourism.bihar.gov.in/en/experiences/food/main-course/sattu-sharbat"
+      },
+      {
+        "Drink Name": "Handia",
+        "Description": "Traditional rice beer popular among tribal communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Handia_(drink)"
+      },
+      {
+        "Drink Name": "Mahua",
+        "Description": "Alcoholic beverage made from fermented mahua flowers.",
+        "Reference Link": "https://theworld.org/stories/2025/01/28/the-drink-of-indias-indigenous-people-gets-a-modern-twist"
+      },
+      {
+        "Drink Name": "Mattha",
+        "Description": "Spiced buttermilk aiding digestion.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mattha"
+      },
+      {
+        "Drink Name": "Taadi (Palm Toddy)",
+        "Description": "Fermented sap from palm trees, mildly alcoholic.",
+        "Reference Link": "https://www.todaystraveller.net/12-great-traditional-indian-beverages/"
+      },
+      {
+        "Drink Name": "Aam Panna",
+        "Description": "Mango-based summer drink with tangy flavor.",
+        "Reference Link": "https://www.todaystraveller.net/12-great-traditional-indian-beverages/"
+      },
+      {
+        "Drink Name": "Bel Sherbet",
+        "Description": "Refreshing drink made from bael fruit pulp.",
+        "Reference Link": "https://www.todaystraveller.net/12-great-traditional-indian-beverages/"
+      }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Mahua",
+        "Description": "Traditional liquor from fermented mahua flowers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Madhuca_longifolia"
+      },
+      {
+        "Drink Name": "Salfi",
+        "Description": "Sap-based drink extracted from the salfi tree.",
+        "Reference Link": "https://theindiantribal.com/2023/10/25/chhattisgarh-tribal-culture-salfi-the-ubiquitous-sap-drink-of-bastar/"
+      },
+      {
+        "Drink Name": "Handia",
+        "Description": "Rice beer fermented with herbal starter culture.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Handia_(drink)"
+      },
+      {
+        "Drink Name": "Landa",
+        "Description": "Fermented rice beer popular among tribal communities.",
+        "Reference Link": "https://www.outlooktraveller.com/explore/food-and-drink/tribal-beats-and-fantastic-feasts"
+      },
+      {
+        "Drink Name": "Chhind",
+        "Description": "Traditional alcoholic beverage made from date palm sap.",
+        "Reference Link": "https://www.outlooktraveller.com/explore/food-and-drink/tribal-beats-and-fantastic-feasts"
+      },
+      {
+        "Drink Name": "Bore Baasi",
+        "Description": "Fermented rice water consumed for breakfast.",
+        "Reference Link": "https://www.newsbytesapp.com/news/lifestyle/exploring-chhattisgarhs-tribal-street-food/story"
+      }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Feni",
+        "Description": "Distilled liquor from cashew apples or coconut sap.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Feni_(liquor)"
+      },
+      {
+        "Drink Name": "Urrak",
+        "Description": "Seasonal single-distilled cashew apple liquor.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Urrak"
+      },
+      {
+        "Drink Name": "Niro",
+        "Description": "Fresh, unfermented cashew apple juice.",
+        "Reference Link": "https://goa-tourism.com/food/goan-drinks/"
+      },
+      {
+        "Drink Name": "Kokum Juice",
+        "Description": "Refreshing drink from kokum fruit, aids digestion.",
+        "Reference Link": "https://www.goaexperience.co.uk/blog/top-12-things-to-drink-in-goa"
+      },
+      {
+        "Drink Name": "Sol Kadi",
+        "Description": "Kokum and coconut milk beverage, cooling effect.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Solkadhi"
+      },
+      {
+        "Drink Name": "Port Wine",
+        "Description": "Sweet red wine introduced by Portuguese.",
+        "Reference Link": "https://timesofindia.indiatimes.com/life-style/food-news/delicious-local-drinks-from-goa-you-must-not-miss/photostory/80480058.cms"
+      },
+      {
+        "Drink Name": "King's Beer",
+        "Description": "Locally brewed pale lager, popular among locals.",
+        "Reference Link": "https://www.goaexperience.co.uk/blog/top-12-things-to-drink-in-goa"
+      },
+      {
+        "Drink Name": "Lime Soda",
+        "Description": "Refreshing drink with lime juice, sugar, salt.",
+        "Reference Link": "https://www.goaexperience.co.uk/blog/top-12-things-to-drink-in-goa"
+      },
+      {
+        "Drink Name": "Sugarcane Juice",
+        "Description": "Extracted from fresh sugarcane stalks.",
+        "Reference Link": "https://www.goaexperience.co.uk/blog/top-12-things-to-drink-in-goa"
+      },
+      {
+        "Drink Name": "Coconut Water",
+        "Description": "Natural beverage from young green coconuts.",
+        "Reference Link": "https://www.goaexperience.co.uk/blog/top-12-things-to-drink-in-goa"
+      },
+      {
+        "Drink Name": "Gin-based Cocktails",
+        "Description": "Modern cocktails featuring locally distilled gin.",
+        "Reference Link": "https://www.foodandwine.com/indian-gins-local-botanicals-8687823"
+      }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Chaas",
+        "Description": "Refreshing buttermilk seasoned with spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chaas"
+      },
+      {
+        "Drink Name": "Piyush",
+        "Description": "Sweetened blend of shrikhand and buttermilk.",
+        "Reference Link": "https://www.tarladalal.com/recipes-for-gujarati-drinks-570"
+      },
+      {
+        "Drink Name": "Komal",
+        "Description": "Spiced buttermilk with coconut milk.",
+        "Reference Link": "https://www.tarladalal.com/recipes-for-gujarati-drinks-570"
+      },
+      {
+        "Drink Name": "Aam Panna",
+        "Description": "Mango-based drink with spices.",
+        "Reference Link": "https://www.tarladalal.com/recipes-for-gujarati-drinks-570"
+      },
+      {
+        "Drink Name": "Baflo",
+        "Description": "Roasted raw mango drink with spices.",
+        "Reference Link": "https://www.theroute2roots.com/baflo-gujarati-roasted-raw-mango-drink/"
+      },
+      {
+        "Drink Name": "Variyali Sharbat",
+        "Description": "Fennel-based drink sweetened with rock candy.",
+        "Reference Link": "https://www.slurrp.com/article/variyali-sherbet-beat-the-heat-with-this-drink-from-gujarat-1678966364388"
+      },
+      {
+        "Drink Name": "Sosyo",
+        "Description": "Carbonated drink with grape and apple flavors.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sosyo"
+      },
+      {
+        "Drink Name": "Mahua",
+        "Description": "Traditional liquor from fermented mahua flowers.",
+        "Reference Link": "https://www.cntraveller.in/story/this-new-mahua-liquor-comes-from-the-indigenous-tribes-of-madhya-pradesh/"
+      },
+      {
+        "Drink Name": "Taadi",
+        "Description": "Fermented palm sap, mildly alcoholic.",
+        "Reference Link": "https://www.goya.in/blog/taadi-the-intoxicating-allure-of-madhya-pradeshs-tribal-elixir"
+      },
+      {
+        "Drink Name": "Sakar-loung Pani",
+        "Description": "Clove-infused sweet beverage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Lassi",
+        "Description": "Yogurt-based drink, sweet or salted, staple in Haryana.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Cuisine_of_Haryana"
+      },
+      {
+        "Drink Name": "Chaach (Chaas)",
+        "Description": "Light buttermilk seasoned with spices, a cooling summer beverage.",
+        "Reference Link": "https://www.holidify.com/pages/drinks-of-india-1686.html"
+      },
+      {
+        "Drink Name": "Kachhi Lassi",
+        "Description": "Thinner version of lassi, mildly sweet and refreshing.",
+        "Reference Link": "https://www.holidaylandmark.com/blog/most-popular-drinks-of-india-statewise/"
+      },
+      {
+        "Drink Name": "Thandai",
+        "Description": "Sweet milk-based drink flavored with nuts and spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indian_cuisine"
+      },
+      {
+        "Drink Name": "Nimbu Pani",
+        "Description": "Refreshing lemonade, often spiced with cumin.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indian_cuisine"
+      },
+      {
+        "Drink Name": "Sharbat",
+        "Description": "Sweet drink made from fruits or flower petals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indian_cuisine"
+      },
+      {
+        "Drink Name": "Ganne Ka Ras",
+        "Description": "Fresh sugarcane juice, popular roadside refreshment.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indian_cuisine"
+      },
+      {
+        "Drink Name": "Badam Milk",
+        "Description": "Sweetened milk flavored with almonds and cardamom.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indian_cuisine"
+      },
+      {
+        "Drink Name": "Falooda",
+        "Description": "Sweet beverage with vermicelli, basil seeds, and ice cream.",
+        "Reference Link": "https://savoyrestauranthouston.com/2022/10/26/10-popular-drinks-and-beverages-of-india/"
+      },
+      {
+        "Drink Name": "Kesar Kasturi",
+        "Description": "Traditional spiced liquor with saffron, consumed during festivals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indian_cuisine"
+      }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Lugdi",
+        "Description": "Traditional rice or barley-based alcoholic beverage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lugdi"
+      },
+      {
+        "Drink Name": "Chulli",
+        "Description": "Apricot or apple-based distilled alcoholic drink.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chulli"
+      },
+      {
+        "Drink Name": "Kangra Tea",
+        "Description": "Distinctive tea with unique flavor from Kangra Valley.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kangra_tea"
+      },
+      {
+        "Drink Name": "Buransh Juice",
+        "Description": "Non-alcoholic drink made from rhododendron flowers.",
+        "Reference Link": "https://www.reddit.com/r/HimachalPradesh/comments/14moshn/what_are_hps_traditional_nutritiousnonnutritious/"
+      },
+      {
+        "Drink Name": "Kasauli Brewery's Lion Beer",
+        "Description": "Asia's first beer brand, established in the 1820s.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kasauli_Brewery_and_Distillery"
+      },
+      {
+        "Drink Name": "Solan No.1 Whisky",
+        "Description": "One of India's oldest whiskies, produced since the 1820s.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kasauli_Brewery_and_Distillery"
+      },
+      {
+        "Drink Name": "Seabuckthorn Juice",
+        "Description": "Vitamin-rich juice from seabuckthorn berries.",
+        "Reference Link": "https://www.idiva.com/lifestyle/food/7-local-himalayan-beverages-to-try-whenever-you-get-to-travel-to-the-mountains-next/18021999"
+      }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Handia",
+        "Description": "Traditional rice beer fermented with herbal starter culture.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Handia_(drink)"
+      },
+      {
+        "Drink Name": "Mahua Daru",
+        "Description": "Alcoholic beverage made from fermented mahua flowers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mahuli_(wine)"
+      },
+      {
+        "Drink Name": "Diang",
+        "Description": "Fermented drink made from rice, popular among tribal communities.",
+        "Reference Link": "https://www.slurrp.com/article/indigenous-fermented-drinks-of-jharkhand-tribes-you-must-try-1722422657297"
+      },
+      {
+        "Drink Name": "Tadi",
+        "Description": "Palm sap fermented into a mildly alcoholic beverage.",
+        "Reference Link": "https://www.slurrp.com/article/indigenous-fermented-drinks-of-jharkhand-tribes-you-must-try-1722422657297"
+      },
+      {
+        "Drink Name": "Landa",
+        "Description": "Traditional rice beer with a sour taste, consumed by local tribes.",
+        "Reference Link": "https://www.slurrp.com/article/indigenous-fermented-drinks-of-jharkhand-tribes-you-must-try-1722422657297"
+      }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Filter Coffee",
+        "Description": "Strong coffee decoction mixed with hot milk.",
+        "Reference Link": "https://thebetterindia.com/297294/history-origin-of-south-india-iconic-drinks-filter-coffee-jigarthanda-tamil-nadu-kerala/"
+      },
+      {
+        "Drink Name": "Ragi Milk",
+        "Description": "Nutritious drink made from finger millet.",
+        "Reference Link": "https://www.slurrp.com/article/ragi-milk-a-forgotten-traditional-drink-of-karnataka-1684838016920"
+      },
+      {
+        "Drink Name": "Panaka",
+        "Description": "Jaggery and lemon juice beverage.",
+        "Reference Link": "https://thebetterindia.com/297294/history-origin-of-south-india-iconic-drinks-filter-coffee-jigarthanda-tamil-nadu-kerala/"
+      },
+      {
+        "Drink Name": "Neer Mor",
+        "Description": "Spiced buttermilk with herbs.",
+        "Reference Link": "https://thebetterindia.com/297294/history-origin-of-south-india-iconic-drinks-filter-coffee-jigarthanda-tamil-nadu-kerala/"
+      },
+      {
+        "Drink Name": "Solkadhi",
+        "Description": "Kokum and coconut milk drink.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Solkadhi"
+      },
+      {
+        "Drink Name": "Toddy",
+        "Description": "Fermented palm sap alcoholic beverage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      },
+      {
+        "Drink Name": "Kashaya",
+        "Description": "Herbal decoction with medicinal spices.",
+        "Reference Link": "https://vegrecipesofkarnataka.com/juice-kashaya-recipes.php"
+      },
+      {
+        "Drink Name": "Nannari Sharbat",
+        "Description": "Sarsaparilla root syrup mixed with water.",
+        "Reference Link": "https://thebetterindia.com/297294/history-origin-of-south-india-iconic-drinks-filter-coffee-jigarthanda-tamil-nadu-kerala/"
+      },
+      {
+        "Drink Name": "Ambli",
+        "Description": "Fermented ragi drink, slightly sour.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      },
+      {
+        "Drink Name": "Bajra Malt",
+        "Description": "Pearl millet porridge-like beverage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Kallu (Toddy)",
+        "Description": "Fermented sap from coconut palms, mildly alcoholic.",
+        "Reference Link": "https://www.lonelyplanet.com/articles/palm-wine-kerala-toddy-shops"
+      },
+      {
+        "Drink Name": "Neera",
+        "Description": "Unfermented sap from palm trees, sweet and non-alcoholic.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Neera"
+      },
+      {
+        "Drink Name": "Kulukki Sarbath",
+        "Description": "Shaken lemonade with basil seeds and green chili.",
+        "Reference Link": "https://mydigitalverandah.com/kulukki-sarbath-gin-and-tonic-a-classic-with-a-hint-of-kerala/"
+      },
+      {
+        "Drink Name": "Sambharam",
+        "Description": "Spiced buttermilk with ginger, green chili, and curry leaves.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      },
+      {
+        "Drink Name": "Nannari Sherbet",
+        "Description": "Refreshing drink made from Indian sarsaparilla root syrup.",
+        "Reference Link": "https://www.reddit.com/r/Kerala/comments/1g7tv36/chef_looking_for_advice_on_beverages_on/"
+      },
+      {
+        "Drink Name": "Full Jar Soda",
+        "Description": "Carbonated drink with mint, ginger, chili, and lemon.",
+        "Reference Link": "https://www.nirapara.com/blog/Blog/five-amazing-drinks-to-try-out-in-kerala"
+      },
+      {
+        "Drink Name": "Avil Milk",
+        "Description": "Milkshake with flattened rice, bananas, and nuts.",
+        "Reference Link": "https://thebetterindia.com/297294/history-origin-of-south-india-iconic-drinks-filter-coffee-jigarthanda-tamil-nadu-kerala/"
+      },
+      {
+        "Drink Name": "Pathimugham Water",
+        "Description": "Herbal pink-colored water infused with sappanwood.",
+        "Reference Link": "https://www.reddit.com/r/Kerala/comments/1g7tv36/chef_looking_for_advice_on_beverages_on/"
+      },
+      {
+        "Drink Name": "Chukku Kaapi",
+        "Description": "Herbal coffee made with dry ginger and spices.",
+        "Reference Link": "https://malayali.me/drinks-list"
+      },
+      {
+        "Drink Name": "Sol Kadhi",
+        "Description": "Digestive drink made from coconut milk and kokum.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Mahua",
+        "Description": "Traditional liquor from fermented mahua flowers.",
+        "Reference Link": "https://theworld.org/stories/2025/01/28/the-drink-of-indias-indigenous-people-gets-a-modern-twist"
+      },
+      {
+        "Drink Name": "Handia",
+        "Description": "Rice beer made by indigenous communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Handia_(drink)"
+      },
+      {
+        "Drink Name": "Taadi",
+        "Description": "Fermented palm sap, popular among Bhil tribes.",
+        "Reference Link": "https://www.goya.in/blog/taadi-the-intoxicating-allure-of-madhya-pradeshs-tribal-elixir"
+      },
+      {
+        "Drink Name": "Sulfi",
+        "Description": "Sap extracted from sulfi tree, consumed fresh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indian_cuisine"
+      },
+      {
+        "Drink Name": "Pendhā",
+        "Description": "Intoxicating beverage made from fermented sorghum.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pendh%C4%81"
+      },
+      {
+        "Drink Name": "Shikanji",
+        "Description": "Spiced lemonade offering a tangy refreshment.",
+        "Reference Link": "https://gokuloottupura.in/food-tradition-in-india-explore-madhya-pradesh-culinary-heritage/"
+      },
+      {
+        "Drink Name": "Lassi",
+        "Description": "Yogurt-based drink, sweet or salted, cooling effect.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indian_cuisine"
+      },
+      {
+        "Drink Name": "Ganne Ka Ras",
+        "Description": "Fresh sugarcane juice, natural sweetener.",
+        "Reference Link": "https://indoretalk.com/top-5-indori-drinks-that-people-are-crazy-for/"
+      },
+      {
+        "Drink Name": "Aam Panna",
+        "Description": "Mango-based drink, tangy and spiced.",
+        "Reference Link": "https://www.holidify.com/pages/drinks-of-india-1686.html"
+      },
+      {
+        "Drink Name": "Bel Sharbat",
+        "Description": "Beverage made from bael fruit pulp.",
+        "Reference Link": "https://www.holidify.com/pages/drinks-of-india-1686.html"
+      }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Solkadhi",
+        "Description": "Kokum and coconut milk drink aiding digestion.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Solkadhi"
+      },
+      {
+        "Drink Name": "Piyush",
+        "Description": "Creamy blend of shrikhand and buttermilk.",
+        "Reference Link": "https://food.ndtv.com/food-drinks/from-taak-to-piyush-5-refreshing-maharashtrian-drinks-you-must-try-this-summer-5503498"
+      },
+      {
+        "Drink Name": "Taak",
+        "Description": "Spiced buttermilk, a cooling summer beverage.",
+        "Reference Link": "https://food.ndtv.com/food-drinks/from-taak-to-piyush-5-refreshing-maharashtrian-drinks-you-must-try-this-summer-5503498"
+      },
+      {
+        "Drink Name": "Aam Panna",
+        "Description": "Raw mango drink with spices, prevents heatstroke.",
+        "Reference Link": "https://www.holidify.com/pages/drinks-of-india-1686.html"
+      },
+      {
+        "Drink Name": "Kokum Sherbet",
+        "Description": "Sweet-sour drink from kokum fruit, cools the body.",
+        "Reference Link": "https://www.holidify.com/pages/drinks-of-india-1686.html"
+      },
+      {
+        "Drink Name": "Mahua",
+        "Description": "Traditional tribal spirit from fermented mahua flowers.",
+        "Reference Link": "https://theworld.org/stories/2025/01/28/the-drink-of-indias-indigenous-people-gets-a-modern-twist"
+      },
+      {
+        "Drink Name": "Ambil",
+        "Description": "Fermented ragi drink, staple among rural communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      },
+      {
+        "Drink Name": "Kala Khatta",
+        "Description": "Jamun-based tangy drink, popular in Mumbai.",
+        "Reference Link": "https://www.idiva.com/ampstories/lifestyle/food/refreshing-drinks-of-maharashtra-like-aamras-piyush-kala-khatta-to-beat-the-summer-heat/18056143"
+      },
+      {
+        "Drink Name": "Masala Chai",
+        "Description": "Spiced tea with milk, ubiquitous across Maharashtra.",
+        "Reference Link": "https://www.tripoto.com/maharashtra/trips/traditional-drinks-from-india-that-i-have-ever-tried-9432"
+      },
+      {
+        "Drink Name": "Nimbu Pani",
+        "Description": "Lemonade with spices, a common refresher.",
+        "Reference Link": "https://www.tripoto.com/maharashtra/trips/traditional-drinks-from-india-that-i-have-ever-tried-9432"
+      }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Yu",
+        "Description": "Distilled rice liquor integral to Meitei culture.",
+        "Reference Link": "https://www.researchgate.net/publication/228485950_Traditional_alcoholic_beverage_Yu_of_Meitei_communities_of_Manipur"
+      },
+      {
+        "Drink Name": "Sekmai Yu",
+        "Description": "Traditional rice beer from Sekmai village.",
+        "Reference Link": "https://www.foodandnutritionjournal.org/volume11number2/biochemical-indices-and-consumption-pattern-of-traditional-alcoholic-beverages-by-tribal-communities-of-north-east-india-a-review/"
+      },
+      {
+        "Drink Name": "Atingba Yu",
+        "Description": "Grape-based alcoholic beverage.",
+        "Reference Link": "https://www.foodandnutritionjournal.org/volume11number2/biochemical-indices-and-consumption-pattern-of-traditional-alcoholic-beverages-by-tribal-communities-of-north-east-india-a-review/"
+      },
+      {
+        "Drink Name": "Khor",
+        "Description": "Rice beer of the Tangkhul community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/National_List_for_Intangible_Cultural_Heritage"
+      },
+      {
+        "Drink Name": "Hamei",
+        "Description": "Fermentation starter using Albizia myriophylla bark.",
+        "Reference Link": "https://www.worldwidejournals.com/international-journal-of-scientific-research-%28IJSR%29/recent_issues_pdf/2020/March/legacy-of-traditional-beverages-with-the-chakpa-community-of-manipur-northeast-india_March_2020_1582982553_1433957.pdf"
+      },
+      {
+        "Drink Name": "Zou",
+        "Description": "Traditional rice beer of the Zou tribe.",
+        "Reference Link": "https://www.researchgate.net/publication/299279888_Diversity_of_Indigenous_Fermented_Foods_and_Beverages_of_North_East_India"
+      },
+      {
+        "Drink Name": "Pheijou",
+        "Description": "Traditional rice beer consumed during festivals.",
+        "Reference Link": "https://www.researchgate.net/publication/299279888_Diversity_of_Indigenous_Fermented_Foods_and_Beverages_of_North_East_India"
+      },
+      {
+        "Drink Name": "Ngari",
+        "Description": "Fermented fish product used in various dishes.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ngari_(fish)"
+      },
+      {
+        "Drink Name": "Hentak",
+        "Description": "Fermented fish paste with aroid plant petioles.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hentak"
+      },
+      {
+        "Drink Name": "Soibum",
+        "Description": "Fermented bamboo shoot beverage.",
+        "Reference Link": "https://hero.epa.gov/hero/index.cfm/reference/details/reference_id/7325385"
+      }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Kyat",
+        "Description": "Traditional rice beer of the Khasi community.",
+        "Reference Link": "https://www.holidayscrowd.com/blogs/famous-food-of-meghalaya"
+      },
+      {
+        "Drink Name": "Kiad",
+        "Description": "Fermented rice beverage of the Pnar tribe.",
+        "Reference Link": "https://preo.u-bourgogne.fr/territoiresduvin/index.php?id=2270"
+      },
+      {
+        "Drink Name": "Chubitchi",
+        "Description": "Alcoholic drink made from rice by the Garo tribe.",
+        "Reference Link": "https://journalofethnicfoods.biomedcentral.com/articles/10.1186/s42779-021-00102-7"
+      },
+      {
+        "Drink Name": "Roselle Tea (Sha Jajew)",
+        "Description": "Herbal tea made from hibiscus flowers.",
+        "Reference Link": "https://www.zizira.com/blogs/plants/lesser-known-traditional-teas-of-meghalaya"
+      },
+      {
+        "Drink Name": "Minil Bichi",
+        "Description": "Traditional rice beer of the Garo people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Garo_people"
+      },
+      {
+        "Drink Name": "Kwai",
+        "Description": "Betel nut chew with stimulating properties.",
+        "Reference Link": "https://www.tripoto.com/india/trips/cheers-to-the-exotic-sips-exploring-the-quirky-beverages-of-northeast-india-3be59fea7da096220"
+      },
+      {
+        "Drink Name": "Fruit Wines",
+        "Description": "Locally produced wines from indigenous fruits.",
+        "Reference Link": "https://preo.u-bourgogne.fr/territoiresduvin/index.php?id=2270"
+      },
+      {
+        "Drink Name": "Kiad Um",
+        "Description": "Rice beer made from local red sticky rice.",
+        "Reference Link": "https://www.adanione.com/blog/khasi-tea-rice-beer-and-more-a-brewing-journey-through-meghalaya"
+      },
+      {
+        "Drink Name": "Kiad Hiar",
+        "Description": "Millet-based traditional beer of the Pnar people.",
+        "Reference Link": "https://www.adanione.com/blog/khasi-tea-rice-beer-and-more-a-brewing-journey-through-meghalaya"
+      },
+      {
+        "Drink Name": "Chu",
+        "Description": "Sacred rice beer consumed during Garo rituals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Garo_people"
+      }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Zu",
+        "Description": "Traditional rice beer integral to Mizo culture.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Zu_(beverage)"
+      },
+      {
+        "Drink Name": "Zupui",
+        "Description": "High-alcohol rice beer, pale white or yellow.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Zu_(beverage)"
+      },
+      {
+        "Drink Name": "Zufâng",
+        "Description": "Low-alcohol sweet beverage made from glutinous rice.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Zu_(beverage)"
+      },
+      {
+        "Drink Name": "Rakzu",
+        "Description": "Distilled rice liquor, clear and strong.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Zu_(beverage)"
+      },
+      {
+        "Drink Name": "Khauma",
+        "Description": "Mizo tea brewed with added spices and herbs.",
+        "Reference Link": "https://www.tiffinsearch.com/blog/cuisines-2/explore-the-unique-flavours-of-mizoram-cuisine-116"
+      },
+      {
+        "Drink Name": "Hmarcha Rawt",
+        "Description": "Spicy summer drink made with fresh chili peppers.",
+        "Reference Link": "https://www.tiffinsearch.com/blog/cuisines-2/explore-the-unique-flavours-of-mizoram-cuisine-116"
+      },
+      {
+        "Drink Name": "Edible Fern Juice",
+        "Description": "Nutrient-rich drink made from locally foraged ferns.",
+        "Reference Link": "https://www.tiffinsearch.com/blog/cuisines-2/explore-the-unique-flavours-of-mizoram-cuisine-116"
+      }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Zutho",
+        "Description": "Fermented rice beer with a fruity aroma.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Zutho"
+      },
+      {
+        "Drink Name": "Thuthse",
+        "Description": "Thicker, stronger rice beer variant.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thuthse"
+      },
+      {
+        "Drink Name": "Sekmai Yu",
+        "Description": "Traditional rice beer from Manipur.",
+        "Reference Link": "https://www.tripoto.com/india/trips/cheers-to-the-exotic-sips-exploring-the-quirky-beverages-of-northeast-india-3be59fea7da096220"
+      },
+      {
+        "Drink Name": "Kiad Um",
+        "Description": "Fermented beverage made from red rice.",
+        "Reference Link": "https://www.tripoto.com/india/trips/cheers-to-the-exotic-sips-exploring-the-quirky-beverages-of-northeast-india-3be59fea7da096220"
+      },
+      {
+        "Drink Name": "Kwai",
+        "Description": "Betel nut-based drink with digestive properties.",
+        "Reference Link": "https://www.tripoto.com/india/trips/cheers-to-the-exotic-sips-exploring-the-quirky-beverages-of-northeast-india-3be59fea7da096220"
+      }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Tanka Torani",
+        "Description": "Fermented rice water drink, cooling and refreshing.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tanka_torani"
+      },
+      {
+        "Drink Name": "Bela Pana",
+        "Description": "Bael fruit drink, consumed during Pana Sankranti.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bela_Pana"
+      },
+      {
+        "Drink Name": "Handia",
+        "Description": "Traditional rice beer, popular among tribal communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Handia_(drink)"
+      },
+      {
+        "Drink Name": "Mahuli",
+        "Description": "Alcoholic beverage made from fermented mahua flowers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mahuli_(wine)"
+      },
+      {
+        "Drink Name": "Mandia Pej",
+        "Description": "Ragi-based porridge drink, staple among tribes.",
+        "Reference Link": "https://www.hindustantimes.com/lifestyle/recipe/taste-the-essence-of-odisha-7-popular-drinks-and-beverages-in-odisha-that-will-leave-you-wanting-more-101685016339459.html"
+      },
+      {
+        "Drink Name": "Pakhala Bhata",
+        "Description": "Fermented rice water, consumed with rice.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Cuisine_of_Odisha"
+      },
+      {
+        "Drink Name": "Chhena Pana",
+        "Description": "Sweet drink made from cottage cheese and milk.",
+        "Reference Link": "https://odishaheritage.com/culture/6-legendary-odia-beverages-you-must-try-in-your-next-visit/"
+      },
+      {
+        "Drink Name": "Mahua Rasa",
+        "Description": "Fermented mahua flower drink, traditional tribal beverage.",
+        "Reference Link": "https://www.slurrp.com/web-stories/the-taste-of-odisha-5-local-beverages-to-try/"
+      },
+      {
+        "Drink Name": "Amba Pana",
+        "Description": "Raw mango drink with jaggery and spices.",
+        "Reference Link": "https://www.slurrp.com/web-stories/the-taste-of-odisha-5-local-beverages-to-try/"
+      },
+      {
+        "Drink Name": "Palua Sharbat",
+        "Description": "Arrowroot-based sweet drink, cooling in nature.",
+        "Reference Link": "https://sambadenglish.com/beat-the-heat-in-odisha-with-these-traditional-summer-drinks/"
+      }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Lassi",
+        "Description": "Yogurt-based drink, sweet or salted, often flavored.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lassi"
+      },
+      {
+        "Drink Name": "Chaas (Buttermilk)",
+        "Description": "Spiced yogurt drink aiding digestion.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chaas"
+      },
+      {
+        "Drink Name": "Jaljeera",
+        "Description": "Refreshing cumin-flavored lemonade.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jal-jeera"
+      },
+      {
+        "Drink Name": "Thandai",
+        "Description": "Cold milk drink with nuts and spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thandai"
+      },
+      {
+        "Drink Name": "Doodh Soda",
+        "Description": "Blend of milk and carbonated water.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      },
+      {
+        "Drink Name": "Sattu Drink",
+        "Description": "Roasted gram flour mixed with water.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sattu"
+      },
+      {
+        "Drink Name": "Kesar Milk",
+        "Description": "Saffron-infused warm milk.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      },
+      {
+        "Drink Name": "Badam Milk",
+        "Description": "Almond-flavored sweet milk.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      },
+      {
+        "Drink Name": "Kahwa",
+        "Description": "Traditional green tea with spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kahwa"
+      },
+      {
+        "Drink Name": "Shikanji",
+        "Description": "Spiced lemonade with black salt.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Shikanjvi"
+      }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Amlana",
+        "Description": "Tamarind-based drink with spices like pepper and cardamom.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+      },
+      {
+        "Drink Name": "Bajra Raab",
+        "Description": "Warm porridge-like drink made from pearl millet.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+      },
+      {
+        "Drink Name": "Bael Panna",
+        "Description": "Cooling beverage made from bael (wood apple) fruit.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+      },
+      {
+        "Drink Name": "Kairi Panna",
+        "Description": "Raw mango drink seasoned with spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+      },
+      {
+        "Drink Name": "Kaanji",
+        "Description": "Fermented drink made from carrots or beetroot.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+      },
+      {
+        "Drink Name": "Thandai",
+        "Description": "Sweet milk-based drink with nuts and spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+      },
+      {
+        "Drink Name": "Ganna Ras",
+        "Description": "Fresh sugarcane juice, often flavored with lemon.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+      },
+      {
+        "Drink Name": "Haldi Doodh",
+        "Description": "Warm milk infused with turmeric.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+      },
+      {
+        "Drink Name": "Nimbu Paani",
+        "Description": "Lemonade flavored with spices like cumin.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+      },
+      {
+        "Drink Name": "Masala Lassi",
+        "Description": "Spiced buttermilk with herbs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+      },
+      {
+        "Drink Name": "Chaas",
+        "Description": "Refreshing yogurt-based drink, also known as buttermilk.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chaas"
+      },
+      {
+        "Drink Name": "Mattha",
+        "Description": "Spiced version of buttermilk, similar to chaas.",
+        "Reference Link": "https://blog.dialmenow.in/2023/10/quenching-thirst-for-tradition.html"
+      },
+      {
+        "Drink Name": "Rabri Chaas",
+        "Description": "Fusion of sweet rabri and savory chaas.",
+        "Reference Link": "https://blog.dialmenow.in/2023/10/quenching-thirst-for-tradition.html"
+      },
+      {
+        "Drink Name": "Kesar Lassi",
+        "Description": "Sweet yogurt drink flavored with saffron.",
+        "Reference Link": "https://chennaiexpressbistro.com/exploring-rajasthani-traditional-drinks/"
+      },
+      {
+        "Drink Name": "Imli ra Amlana",
+        "Description": "Tamarind drink variant from Marwar region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+      },
+      {
+        "Drink Name": "Royal Saunf",
+        "Description": "Herbal liquor turning milky when mixed with water.",
+        "Reference Link": "https://www.travelrajputana.com/blogs/sip-local-liquor-rajasthan-royal-rajput-feel/"
+      },
+      {
+        "Drink Name": "Royal Mawalin",
+        "Description": "Spiced herbal liquor with dates, bitter in taste.",
+        "Reference Link": "https://www.travelrajputana.com/blogs/sip-local-liquor-rajasthan-royal-rajput-feel/"
+      },
+      {
+        "Drink Name": "Royal Elaichi",
+        "Description": "Cardamom-flavored liquor with saffron notes.",
+        "Reference Link": "https://www.travelrajputana.com/blogs/sip-local-liquor-rajasthan-royal-rajput-feel/"
+      },
+      {
+        "Drink Name": "Royal Apple Orange",
+        "Description": "Fruit-infused herbal liquor with apple and orange flavors.",
+        "Reference Link": "https://www.travelrajputana.com/blogs/sip-local-liquor-rajasthan-royal-rajput-feel/"
+      },
+      {
+        "Drink Name": "Bhang Lassi",
+        "Description": "Cannabis-infused yogurt drink consumed during festivals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhang"
+      }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Tongba",
+        "Description": "Fermented millet-based alcoholic beverage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tongba"
+      },
+      {
+        "Drink Name": "Chhaang",
+        "Description": "Traditional drink made from fermented barley or millet.",
+        "Reference Link": "https://www.villagesquare.in/sikkim-chhaang-traditional-brew-decline/"
+      },
+      {
+        "Drink Name": "Raksi",
+        "Description": "Distilled alcoholic beverage from millet or rice.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Raksi"
+      },
+      {
+        "Drink Name": "Cardamom Liqueur",
+        "Description": "Liqueur flavored with locally grown cardamom.",
+        "Reference Link": "https://summerfruitcup.wordpress.com/2012/07/16/cardamomliqueur/"
+      },
+      {
+        "Drink Name": "Alphonso Mango Liqueur",
+        "Description": "Liqueur made from Alphonso mango pulp.",
+        "Reference Link": "https://www.facebook.com/sikkimliquors/"
+      },
+      {
+        "Drink Name": "Saino Rio Red Wine",
+        "Description": "Red wine produced in the Himalayan region.",
+        "Reference Link": "https://www.slurrp.com/article/7-local-drinks-from-the-himalayan-region-you-must-try-1725376361931"
+      }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Filter Coffee",
+        "Description": "Strong, aromatic coffee brewed using a metal filter.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tamil_cuisine"
+      },
+      {
+        "Drink Name": "Neer Mor",
+        "Description": "Spiced buttermilk, a cooling summer beverage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tamil_cuisine"
+      },
+      {
+        "Drink Name": "Jigarthanda",
+        "Description": "Cold drink with milk, almond gum, and ice cream.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jigarthanda_(drink)"
+      },
+      {
+        "Drink Name": "Kambu Koozh",
+        "Description": "Fermented pearl millet porridge, nutritious and cooling.",
+        "Reference Link": "https://thebetterindia.com/297294/history-origin-of-south-india-iconic-drinks-filter-coffee-jigarthanda-tamil-nadu-kerala/"
+      },
+      {
+        "Drink Name": "Paanakam",
+        "Description": "Jaggery and ginger drink, traditionally served during festivals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tamil_cuisine"
+      },
+      {
+        "Drink Name": "Nannari Sherbet",
+        "Description": "Refreshing drink made from Indian sarsaparilla root syrup.",
+        "Reference Link": "https://www.holidify.com/pages/drinks-of-india-1686.html"
+      },
+      {
+        "Drink Name": "Sukku Kaapi",
+        "Description": "Herbal tea made with dry ginger and spices.",
+        "Reference Link": "https://www.thehindu.com/life-and-style/food/sukku-kaapi-the-herbal-coffee/article30509160.ece"
+      },
+      {
+        "Drink Name": "Elaneer Payasam",
+        "Description": "Dessert drink made from tender coconut water and pulp.",
+        "Reference Link": "https://www.archanaskitchen.com/elaneer-payasam-recipe-tender-coconut-kheer"
+      },
+      {
+        "Drink Name": "Thengai Paal",
+        "Description": "Sweetened coconut milk, often flavored with cardamom.",
+        "Reference Link": "https://www.subbuskitchen.com/thengai-paal-recipe-sweetened-coconut-milk/"
+      },
+      {
+        "Drink Name": "Pathaneer",
+        "Description": "Fresh sap extracted from palm trees, consumed before fermentation.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Neera"
+      }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Neera",
+        "Description": "Naturally sweet palm nectar, consumed fresh.",
+        "Reference Link": "https://www.indianeagle.com/traveldiary/famous-food-of-telangana/"
+      },
+      {
+        "Drink Name": "Toddy (Kallu)",
+        "Description": "Fermented palm sap, mildly alcoholic traditional drink.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Palm_wine"
+      },
+      {
+        "Drink Name": "Buttermilk (Chaas)",
+        "Description": "Spiced yogurt-based drink, cooling and refreshing.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chaas"
+      },
+      {
+        "Drink Name": "Lassi",
+        "Description": "Sweet or salted yogurt-based beverage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      },
+      {
+        "Drink Name": "Falooda",
+        "Description": "Sweet beverage with vermicelli, basil seeds, and ice cream.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      },
+      {
+        "Drink Name": "Goli Soda",
+        "Description": "Carbonated lemon or orange-flavored drink.",
+        "Reference Link": "https://hydkhabar.com/2019/03/top-10-famous-summer-street-drinks-of-hyderabad/"
+      },
+      {
+        "Drink Name": "Sharbat",
+        "Description": "Sweet drink made from fruits or flower petals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      },
+      {
+        "Drink Name": "Nannari Sherbet",
+        "Description": "Herbal drink made from sarsaparilla roots.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      },
+      {
+        "Drink Name": "Aam Panna",
+        "Description": "Mango-based summer drink with tangy flavor.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      },
+      {
+        "Drink Name": "Panakam",
+        "Description": "Jaggery and spice-infused water, traditional cooler.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Chuwarak",
+        "Description": "Distilled liquor made from rice, jackfruit, and pineapple.",
+        "Reference Link": "https://www.slurrp.com/article/chuwarak-the-indigenous-champagne-of-tripura-1669645958262"
+      },
+      {
+        "Drink Name": "Chuwak Bwtwk",
+        "Description": "Fermented rice beer prepared by Tripuri women.",
+        "Reference Link": "https://www.tripura.org.in/brews.htm"
+      },
+      {
+        "Drink Name": "Langi",
+        "Description": "Herbal rice beer brewed by tribal communities.",
+        "Reference Link": "https://tripurainfoway.com/column-details/131/lsquo-langi-rsquo-the-magnificient-herbal-rice-beer-of-tripura.html"
+      },
+      {
+        "Drink Name": "Phab",
+        "Description": "Traditional drink made by fermenting rice and yogurt.",
+        "Reference Link": "https://www.tripoto.com/india/trips/cheers-to-the-exotic-sips-exploring-the-quirky-beverages-of-northeast-india-3be59fea7da096220"
+      },
+      {
+        "Drink Name": "Mami ni Chuwak",
+        "Description": "Premium traditional liquor offered to deities.",
+        "Reference Link": "https://www.downtoearth.org.in/food/traditional-beverages-of-northeast-indian-states-share-recipes-ingredients-that-benefit-health-89870"
+      },
+      {
+        "Drink Name": "Chuak",
+        "Description": "Traditional rice beer consumed during ceremonies.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chuak"
+      },
+      {
+        "Drink Name": "Gora",
+        "Description": "Alcoholic drink made from cooked rice.",
+        "Reference Link": "https://aipublications.com/uploads/issue_files/6IJLLC-NOV20242-Indigenous.pdf"
+      },
+      {
+        "Drink Name": "Bwtwk",
+        "Description": "Alcoholic beverage served in earthen pots with chuwan.",
+        "Reference Link": "https://aipublications.com/uploads/issue_files/6IJLLC-NOV20242-Indigenous.pdf"
+      },
+      {
+        "Drink Name": "Dapa",
+        "Description": "Beverage consumed using bamboo containers.",
+        "Reference Link": "https://aipublications.com/uploads/issue_files/6IJLLC-NOV20242-Indigenous.pdf"
+      },
+      {
+        "Drink Name": "Mattha",
+        "Description": "Buttermilk mixed with spices and sugar.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mattha"
+      },
+      {
+        "Drink Name": "Mishti Doi",
+        "Description": "Fermented sweet yogurt made with milk and sugar.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mishti_doi"
+      },
+      {
+        "Drink Name": "Chaas",
+        "Description": "Curd-based drink seasoned with spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chaas"
+      }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Buransh Juice",
+        "Description": "Juice made from rhododendron flowers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      },
+      {
+        "Drink Name": "Kaphal Juice",
+        "Description": "Juice derived from wild Himalayan berries.",
+        "Reference Link": "https://www.anubhavtravel.com/traditional-cuisine-of-uttarakhand-a-culinary-journey/"
+      },
+      {
+        "Drink Name": "Malta Juice",
+        "Description": "Citrus drink from local malta oranges.",
+        "Reference Link": "https://enrouteindianhistory.com/drinks-of-uttarakhand-a-refreshing-journey-through-indigenous-himalayan-beverages/"
+      },
+      {
+        "Drink Name": "Amla Juice",
+        "Description": "Juice from Indian gooseberry, rich in vitamin C.",
+        "Reference Link": "https://enrouteindianhistory.com/drinks-of-uttarakhand-a-refreshing-journey-through-indigenous-himalayan-beverages/"
+      },
+      {
+        "Drink Name": "Sea Buckthorn Juice",
+        "Description": "Tangy juice from Himalayan sea buckthorn berries.",
+        "Reference Link": "https://enrouteindianhistory.com/drinks-of-uttarakhand-a-refreshing-journey-through-indigenous-himalayan-beverages/"
+      },
+      {
+        "Drink Name": "Jaan",
+        "Description": "Rice-based alcoholic beverage by Bhotiya tribe.",
+        "Reference Link": "https://www.researchgate.net/figure/List-of-traditional-beverages-of-Jammu-Kashmir-Himachal-Pradesh-and-Uttarakhand_tbl1_369546272"
+      },
+      {
+        "Drink Name": "Soor",
+        "Description": "Traditional rice beer by Jaunsari tribe.",
+        "Reference Link": "https://www.researchgate.net/figure/List-of-traditional-beverages-of-Jammu-Kashmir-Himachal-Pradesh-and-Uttarakhand_tbl1_369546272"
+      },
+      {
+        "Drink Name": "Pakhoi",
+        "Description": "Fermented rice drink by Jaunsari tribe.",
+        "Reference Link": "https://www.researchgate.net/figure/List-of-traditional-beverages-of-Jammu-Kashmir-Himachal-Pradesh-and-Uttarakhand_tbl1_369546272"
+      },
+      {
+        "Drink Name": "Chaas",
+        "Description": "Buttermilk seasoned with local spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chaas"
+      },
+      {
+        "Drink Name": "Rabri",
+        "Description": "Fermented drink made from millet and buttermilk.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Uttarakhandi_cuisine"
+      },
+      {
+        "Drink Name": "Khadi",
+        "Description": "Curd-based beverage seasoned with spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Uttarakhandi_cuisine"
+      },
+      {
+        "Drink Name": "Bhang Chutney",
+        "Description": "Condiment made from cannabis seeds and spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhang"
+      },
+      {
+        "Drink Name": "Berinag Tea",
+        "Description": "Traditional tea from Berinag region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Berinag_tea"
+      }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Thandai",
+        "Description": "Sweet milk drink with nuts and spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Uttar_Pradesh_cuisine"
+      },
+      {
+        "Drink Name": "Lassi",
+        "Description": "Sweet or salted yogurt-based drink.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Uttar_Pradesh_cuisine"
+      },
+      {
+        "Drink Name": "Aam Panna",
+        "Description": "Tangy drink from raw mangoes and spices.",
+        "Reference Link": "https://www.tourmyindia.com/blog/local-beverages-of-india/"
+      },
+      {
+        "Drink Name": "Sattu Sharbat",
+        "Description": "Drink made from roasted gram flour.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sattu"
+      },
+      {
+        "Drink Name": "Mattha",
+        "Description": "Spiced buttermilk aiding digestion.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mattha"
+      },
+      {
+        "Drink Name": "Kachauli (Sugarcane Juice)",
+        "Description": "Fresh sugarcane juice with lemon and ginger.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhojpuri_cuisine"
+      },
+      {
+        "Drink Name": "Bhang Thandai",
+        "Description": "Thandai infused with cannabis during Holi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/List_of_Indian_drinks"
+      },
+      {
+        "Drink Name": "Jaljeera",
+        "Description": "Spiced cumin-flavored lemonade.",
+        "Reference Link": "https://timesofindia.indiatimes.com/life-style/food-news/traditional-indian-drinks-to-beat-summer-heat/articleshow/110230409.cms"
+      },
+      {
+        "Drink Name": "Bel Sharbat",
+        "Description": "Cooling drink made from wood apple pulp.",
+        "Reference Link": "https://www.tourmyindia.com/blog/local-beverages-of-india/"
+      },
+      {
+        "Drink Name": "Kanji",
+        "Description": "Fermented black carrot drink.",
+        "Reference Link": "https://www.tourmyindia.com/blog/local-beverages-of-india/"
+      },
+      {
+        "Drink Name": "Tharra",
+        "Description": "Locally brewed alcoholic beverage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tharra"
+      },
+      {
+        "Drink Name": "Mahua",
+        "Description": "Traditional spirit from mahua flowers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mahura_/_Mahua_Spirit"
+      }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "items": [
+      {
+        "Drink Name": "Aam Pora Shorbot",
+        "Description": "Roasted green mango drink with spices.",
+        "Reference Link": "https://www.telegraphindia.com/my-kolkata/lifestyle/traditional-bengali-summer-drinks-aam-pora-aam-panna-beler-sherbet-nimbu-paani-ghol-lassi-watermelon-juice-daaber-sherbet-coconut-water-to-beat-the-kolkata-heat-in/cid/1857199"
+      },
+      {
+        "Drink Name": "Beler Sherbet",
+        "Description": "Wood apple juice mixed with spices.",
+        "Reference Link": "https://www.telegraphindia.com/my-kolkata/lifestyle/traditional-bengali-summer-drinks-aam-pora-aam-panna-beler-sherbet-nimbu-paani-ghol-lassi-watermelon-juice-daaber-sherbet-coconut-water-to-beat-the-kolkata-heat-in/cid/1857199"
+      },
+      {
+        "Drink Name": "Ghol",
+        "Description": "Diluted yogurt drink with salt and spices.",
+        "Reference Link": "https://www.telegraphindia.com/my-kolkata/lifestyle/traditional-bengali-summer-drinks-aam-pora-aam-panna-beler-sherbet-nimbu-paani-ghol-lassi-watermelon-juice-daaber-sherbet-coconut-water-to-beat-the-kolkata-heat-in/cid/1857199"
+      },
+      {
+        "Drink Name": "Daab'er Shorbot",
+        "Description": "Coconut water-based drink with lemon.",
+        "Reference Link": "https://www.telegraphindia.com/my-kolkata/lifestyle/traditional-bengali-summer-drinks-aam-pora-aam-panna-beler-sherbet-nimbu-paani-ghol-lassi-watermelon-juice-daaber-sherbet-coconut-water-to-beat-the-kolkata-heat-in/cid/1857199"
+      },
+      {
+        "Drink Name": "Handia",
+        "Description": "Rice beer fermented with herbal starter.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Handia_(drink)"
+      },
+      {
+        "Drink Name": "Cholai",
+        "Description": "Alcoholic beverage from fermented rice.",
+        "Reference Link": "https://www.holidify.com/pages/drinks-of-india-1686.html"
+      },
+      {
+        "Drink Name": "Hariya",
+        "Description": "Traditional rice beer by tribal communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hariya"
+      },
+      {
+        "Drink Name": "Mattha",
+        "Description": "Spiced buttermilk with herbs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mattha"
+      },
+      {
+        "Drink Name": "Mishti Doi",
+        "Description": "Sweetened fermented yogurt dessert.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mishti_doi"
+      },
+      {
+        "Drink Name": "Borhani",
+        "Description": "Spiced yogurt drink popular in Bangladesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mattha"
+      }
+    ]
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Drink Name": "Palm Wine",
+        "Description": "Fermented sap from palm trees.",
+        "Reference Link": "https://travelsetu.com/apps/blog/a-taste-of-andaman-sampling-the-local-brews-and-spirits"
+      },
+      {
+        "Drink Name": "Toddy",
+        "Description": "Mildly alcoholic drink from coconut palm sap.",
+        "Reference Link": "https://www.andamanworldtravels.com/ultimate-foodie-guide-to-andaman-nicobar-islands-cuisine.php"
+      },
+      {
+        "Drink Name": "Handia",
+        "Description": "Traditional rice-based fermented drink.",
+        "Reference Link": "https://journals.lww.com/ijph/fulltext/2017/61020/alcohol_consumption%2C_hazardous_drinking%2C_and.8.aspx"
+      },
+      {
+        "Drink Name": "Jungli",
+        "Description": "Local alcoholic beverage.",
+        "Reference Link": "https://journals.lww.com/ijph/fulltext/2017/61020/alcohol_consumption%2C_hazardous_drinking%2C_and.8.aspx"
+      },
+      {
+        "Drink Name": "Andaman Cooler",
+        "Description": "Coconut water with lime and mint.",
+        "Reference Link": "https://vocal.media/journal/andaman-and-nicobar-cuisine-a-hidden-gem-of-the-indian-ocean"
+      },
+      {
+        "Drink Name": "Fresh Coconut Water",
+        "Description": "Natural drink from young coconuts.",
+        "Reference Link": "https://www.awesomecuisine.com/recipes/37145/cuisine-of-andaman-and-nicobar-islands-discover-the-best/"
+      }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Drink Name": "Lassi",
+        "Description": "Traditional yogurt-based drink, sweet or salted.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lassi"
+      },
+      {
+        "Drink Name": "Chaas",
+        "Description": "Spiced buttermilk drink.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chaas"
+      },
+      {
+        "Drink Name": "Thandai",
+        "Description": "Sweet milk-based drink with spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thandai"
+      },
+      {
+        "Drink Name": "Shardai",
+        "Description": "Almond-flavored milk beverage.",
+        "Reference Link": "https://www.instagram.com/chandigarhwithsam_/reel/C7i43z-Prr3/"
+      },
+      {
+        "Drink Name": "Jal-jeera",
+        "Description": "Cumin-flavored lemonade.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jal-jeera"
+      },
+      {
+        "Drink Name": "Shikanji",
+        "Description": "Lemon-based drink with spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Shikanji"
+      },
+      {
+        "Drink Name": "Doodh Soda",
+        "Description": "Milk mixed with carbonated water.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+      }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Dama",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Drink Name": "Moha-chi-Daru",
+        "Description": "Traditional liquor from Mahua flowers.",
+        "Reference Link": "https://www.sahapedia.org/conversation-shiraz-bulsara-prabhu-politics-mahua-and-warlis-search-new-source-livelihood"
+      },
+      {
+        "Drink Name": "Toddy",
+        "Description": "Fermented sap from palm trees.",
+        "Reference Link": "https://www.damanonline.in/guide/cuisines-of-daman"
+      },
+      {
+        "Drink Name": "Gina Jeera",
+        "Description": "Jeera-flavored carbonated drink.",
+        "Reference Link": "https://silvassabottling.com/products/"
+      },
+      {
+        "Drink Name": "Gina Lemon Flavoured",
+        "Description": "Lemon-flavored carbonated beverage.",
+        "Reference Link": "https://silvassabottling.com/products/"
+      },
+      {
+        "Drink Name": "Gina Orange Flavoured",
+        "Description": "Orange-flavored carbonated drink.",
+        "Reference Link": "https://silvassabottling.com/products/"
+      },
+      {
+        "Drink Name": "Gina Scream",
+        "Description": "Popular local soft drink.",
+        "Reference Link": "https://silvassabottling.com/products/"
+      },
+      {
+        "Drink Name": "Gina Jazira",
+        "Description": "Local carbonated beverage.",
+        "Reference Link": "https://silvassabottling.com/products/"
+      },
+      {
+        "Drink Name": "Royal Club Soda",
+        "Description": "Carbonated soda water.",
+        "Reference Link": "https://silvassabottling.com/products/"
+      },
+      {
+        "Drink Name": "Mangoji",
+        "Description": "Mango-flavored soft drink.",
+        "Reference Link": "https://silvassabottling.com/products/"
+      },
+      {
+        "Drink Name": "T2",
+        "Description": "Popular local beverage.",
+        "Reference Link": "https://silvassabottling.com/products/"
+      },
+      {
+        "Drink Name": "Bilwa Sharbat",
+        "Description": "Sweet drink made from Bael fruit.",
+        "Reference Link": "https://www.tribesindia.com/shop/tribes-vandhan-naturals/tea-coffee-beverages/tribes-india-bilwa-sharbat-health-drink-750ml/"
+      }
+    ]
+  },
+  {
+    "name": "Delhi",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Drink Name": "Shikanji",
+        "Description": "Lemon-based drink with spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Shikanji"
+      },
+      {
+        "Drink Name": "Banta",
+        "Description": "Carbonated lemon drink in Codd-neck bottle.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Banta"
+      },
+      {
+        "Drink Name": "Rooh Afza",
+        "Description": "Herbal concentrate mixed with water or milk.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rooh_Afza"
+      },
+      {
+        "Drink Name": "Lassi",
+        "Description": "Sweet or salted yogurt-based drink.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lassi"
+      },
+      {
+        "Drink Name": "Chaas",
+        "Description": "Spiced buttermilk beverage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chaas"
+      },
+      {
+        "Drink Name": "Thandai",
+        "Description": "Sweet milk drink with nuts and spices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thandai"
+      },
+      {
+        "Drink Name": "Jal-jeera",
+        "Description": "Cumin-flavored lemonade.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jal-jeera"
+      },
+      {
+        "Drink Name": "Mohabbat Ka Sharbat",
+        "Description": "Milk drink with watermelon and rose syrup.",
+        "Reference Link": "https://www.npr.org/2023/07/23/1189659952/in-india-a-deep-red-drink-is-at-the-heart-of-summer"
+      },
+      {
+        "Drink Name": "Masala Chai",
+        "Description": "Spiced tea with milk and sugar.",
+        "Reference Link": "https://www.cntraveler.com/story/best-chai-in-india-according-to-locals"
+      },
+      {
+        "Drink Name": "Kanji",
+        "Description": "Fermented drink made from black carrots.",
+        "Reference Link": "https://www.vice.com/en/article/everything-delhi-locals-drink-to-keep-cool-during-summer/"
+      }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Drink Name": "Kahwa",
+        "Description": "Green tea with saffron, cardamom, and almonds.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kahwah"
+      },
+      {
+        "Drink Name": "Noon Chai",
+        "Description": "Pinkish salted tea with milk and baking soda.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Noon_chai"
+      },
+      {
+        "Drink Name": "Chhaang",
+        "Description": "Fermented barley or millet alcoholic beverage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhaang"
+      },
+      {
+        "Drink Name": "Arak",
+        "Description": "Distilled liquor made from fermented barley.",
+        "Reference Link": "https://www.gurgl.in/getting-high-in-the-himalayas-with-arak/"
+      },
+      {
+        "Drink Name": "Ladakhi Butter Tea",
+        "Description": "Tea made with butter and salt.",
+        "Reference Link": "https://www.slow-coach.com/post/food-and-beverages-to-try-while-visiting-ladakh"
+      },
+      {
+        "Drink Name": "Babribyol Sharbat",
+        "Description": "Sweetened milk with basil seeds and rose water.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kashmiri_cuisine"
+      },
+      {
+        "Drink Name": "Lyaess",
+        "Description": "Salty drink made from churned yogurt.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kashmiri_cuisine"
+      },
+      {
+        "Drink Name": "Sadr-e-kaenz",
+        "Description": "Fermented rice water drink.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kashmiri_cuisine"
+      },
+      {
+        "Drink Name": "Shahi Sheera",
+        "Description": "Juice extracted from various berries.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kashmiri_cuisine"
+      }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Drink Name": "Chhang",
+        "Description": "Fermented barley-based alcoholic beverage.",
+        "Reference Link": "https://www.researchgate.net/publication/232289774_Chhang_-_A_barley_based_alcoholic_beverage_of_Ladakh_India"
+      },
+      {
+        "Drink Name": "Gur Gur Chai",
+        "Description": "Butter tea made with tea leaves, butter, and salt.",
+        "Reference Link": "https://www.slow-coach.com/post/food-and-beverages-to-try-while-visiting-ladakh"
+      },
+      {
+        "Drink Name": "Chuli Chhu",
+        "Description": "Juice made from Ladakhi apricots.",
+        "Reference Link": "https://www.slurrp.com/article/gur-gur-cha-to-chuli-chhu-7-comforting-drinks-from-ladakhi-cuisine-1692857177143"
+      },
+      {
+        "Drink Name": "Qahwa",
+        "Description": "Green tea brewed with saffron, cardamom, and cinnamon.",
+        "Reference Link": "https://www.slurrp.com/article/chhang-and-butter-tea-6-famous-drinks-of-ladakh-1712240411113"
+      },
+      {
+        "Drink Name": "Arak",
+        "Description": "Distilled liquor made from fermented chhang.",
+        "Reference Link": "https://lifeontheplanetladakh.com/blog/high-altitude-fermentation-ladakhis-chang-beer"
+      },
+      {
+        "Drink Name": "Noon Chai",
+        "Description": "Salted pink tea made with green tea leaves and baking soda.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Noon_chai"
+      }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Drink Name": "Neera",
+        "Description": "Unfermented sap from coconut palms.",
+        "Reference Link": "https://www.facebook.com/IndiaToday/videos/neera-a-common-drink-in-lakshadweep/242622648859011/"
+      },
+      {
+        "Drink Name": "Toddy",
+        "Description": "Fermented coconut palm sap.",
+        "Reference Link": "https://www.facebook.com/IndiaToday/videos/neera-a-common-drink-in-lakshadweep/242622648859011/"
+      },
+      {
+        "Drink Name": "Kulukki Sarbath",
+        "Description": "Refreshing lemon-based drink with basil seeds.",
+        "Reference Link": "https://www.clubmahindra.com/blog/food/famous-food-of-lakshadweep"
+      },
+      {
+        "Drink Name": "Thengin Kallu",
+        "Description": "Coconut water, a natural coolant.",
+        "Reference Link": "https://brainly.com/question/42190429"
+      },
+      {
+        "Drink Name": "Assaru",
+        "Description": "Traditional beverage, details unspecified.",
+        "Reference Link": "https://brainly.com/question/42190429"
+      },
+      {
+        "Drink Name": "Nariyal Pani",
+        "Description": "Fresh coconut water.",
+        "Reference Link": "https://brainly.com/question/42190429"
+      }
+    ]
+  },
+  {
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Drink Name": "Filter Coffee",
+        "Description": "Strong coffee brewed with chicory, served with milk and sugar.",
+        "Reference Link": "https://www.youtube.com/watch?v=zNCDItbIGsw"
+      },
+      {
+        "Drink Name": "Pondicherry Fling",
+        "Description": "Cocktail with gin and hibiscus syrup.",
+        "Reference Link": "https://www.paticheri.com/2016/09/11/the-pondicherry-fling-cocktail/"
+      },
+      {
+        "Drink Name": "Palm Toddy",
+        "Description": "Fermented sap from palm trees, mildly alcoholic.",
+        "Reference Link": "https://bukit.travel/experience/detail/42"
+      },
+      {
+        "Drink Name": "South Indian Filter Coffee",
+        "Description": "Traditional coffee prepared using a metal filter.",
+        "Reference Link": "https://www.youtube.com/watch?v=zNCDItbIGsw"
+      },
+      {
+        "Drink Name": "Creole Coffee",
+        "Description": "Coffee infused with local spices, reflecting Creole influence.",
+        "Reference Link": "https://www.travelandleisureasia.com/in/dining/food-and-drink/famous-food-in-pondicherry-what-to-eat/"
+      }
+    ]
+  }
+]

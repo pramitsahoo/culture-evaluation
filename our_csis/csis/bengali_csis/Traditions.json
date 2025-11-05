@@ -1,0 +1,1415 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "মঙ্গল স্নান"
+      },
+      {
+        "Tradition": "গৌরি পূজা"
+      },
+      {
+        "Tradition": "কন্যাদান"
+      },
+      {
+        "Tradition": "জিলাকারা-বেল্লাম"
+      },
+      {
+        "Tradition": "মঙ্গলসূত্র ধারণ"
+      },
+      {
+        "Tradition": "সপ্তপদী"
+      },
+      {
+        "Tradition": "গৃহপ্রবেশ"
+      },
+      {
+        "Tradition": "সত্যনারায়ণ ব্রত"
+      },
+      {
+        "Tradition": "অপ্পাগিন্তালু"
+      },
+      {
+        "Tradition": "অরুণধাতি নক্ষত্র"
+      },
+      {
+        "Tradition": "পেল্লিকুতুরু অনুষ্ঠান"
+      },
+      {
+        "Tradition": "স্নাথকম"
+      },
+      {
+        "Tradition": "কন্দপল্লি খেলনা"
+      },
+      {
+        "Tradition": "এতিকোপ্পাকা খেলনা"
+      },
+      {
+        "Tradition": "কলমকারি শিল্প"
+      },
+      {
+        "Tradition": "দুর্গি পাথর কারুশিল্প"
+      },
+      {
+        "Tradition": "লেপাক্ষি হস্তশিল্প"
+      },
+      {
+        "Tradition": "অবকায়া"
+      },
+      {
+        "Tradition": "গঙ্গুরা পাচাদি"
+      },
+      {
+        "Tradition": "পুলিহোরা"
+      },
+      {
+        "Tradition": "পাপ্পু চারু"
+      },
+      {
+        "Tradition": "পূথরেকুলু"
+      },
+      {
+        "Tradition": "চেক্কা ভাজনা"
+      },
+      {
+        "Tradition": "থোলু বোম্মালাটা"
+      },
+      {
+        "Tradition": "ওগ্গু কথা"
+      },
+      {
+        "Tradition": "পুলি ভেষম"
+      },
+      {
+        "Tradition": "পাঁচ পাথর"
+      }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "শামানিস্টিক অনুশীলন"
+      },
+      {
+        "Tradition": "ইডু মিশমির শবযাত্রা আচরণ"
+      },
+      {
+        "Tradition": "বুল্যাঁ"
+      },
+      {
+        "Tradition": "নাইবু"
+      },
+      {
+        "Tradition": "প্রাণী বলিদান"
+      },
+      {
+        "Tradition": "গায়ে ট্যাটু করা"
+      },
+      {
+        "Tradition": "কাঠের খোদাই"
+      },
+      {
+        "Tradition": "বাঁশ ও চারা কারুশিল্প"
+      },
+      {
+        "Tradition": "আপং প্রস্তুতি"
+      },
+      {
+        "Tradition": "টেরেস খামার"
+      },
+      {
+        "Tradition": "গোম্পা পূজা"
+      },
+      {
+        "Tradition": "বিয়ে রীতি"
+      },
+      {
+        "Tradition": "প্রচলিত চিকিৎসা"
+      },
+      {
+        "Tradition": "মৌখিক গল্পকথন"
+      },
+      {
+        "Tradition": "কৃষি আচার"
+      }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "তামুল পান"
+      },
+      {
+        "Tradition": "সোড়াই"
+      },
+      {
+        "Tradition": "গামোসা"
+      },
+      {
+        "Tradition": "আই সোবা"
+      },
+      {
+        "Tradition": "অ্যাপেস্বরী সোবা"
+      },
+      {
+        "Tradition": "মৃত্তকক দিয়া"
+      },
+      {
+        "Tradition": "জাখ-জাখিনী পূজা"
+      },
+      {
+        "Tradition": "গা ডাঙ্গোরিয়া পূজা"
+      },
+      {
+        "Tradition": "ভিতর সোকাম"
+      },
+      {
+        "Tradition": "সানি ঘরার সাওল"
+      },
+      {
+        "Tradition": "জল দেবতা পূজা"
+      },
+      {
+        "Tradition": "লক্ষ্মী সল"
+      },
+      {
+        "Tradition": "টুপুলা বাঁধা"
+      },
+      {
+        "Tradition": "পীর দিয়া"
+      },
+      {
+        "Tradition": "জুন বিল মেলা"
+      },
+      {
+        "Tradition": "পচোতি"
+      },
+      {
+        "Tradition": "দীপোর বিল লোককথা"
+      }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "ছাঠ পূজা আচরণ"
+      },
+      {
+        "Tradition": "হালদি কুটাই অনুষ্ঠান"
+      },
+      {
+        "Tradition": "তিলক অনুষ্ঠান"
+      },
+      {
+        "Tradition": "মন্ডপচাদন"
+      },
+      {
+        "Tradition": "সিলপোহা"
+      },
+      {
+        "Tradition": "ইমলি ঘুটাই"
+      },
+      {
+        "Tradition": "পিতৃ পক্ষ মেলা"
+      },
+      {
+        "Tradition": "সোনেপুর মেলা"
+      },
+      {
+        "Tradition": "শ্রাবণী মেলা"
+      },
+      {
+        "Tradition": "জিতিয়া"
+      },
+      {
+        "Tradition": "মনসা পূজা"
+      },
+      {
+        "Tradition": "পাগ হেডগিয়ার রীতি"
+      },
+      {
+        "Tradition": "মধুবনী চিত্রাঙ্কন"
+      },
+      {
+        "Tradition": "মঞ্জুষা শিল্প"
+      }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "চুড়ি পরা"
+      },
+      {
+        "Tradition": "ডাইনী অভিযোগ"
+      },
+      {
+        "Tradition": "কান বেধি"
+      },
+      {
+        "Tradition": "গোষ্ঠী বহিরাগত বিবাহ"
+      },
+      {
+        "Tradition": "মাসনা দাফন"
+      },
+      {
+        "Tradition": "বর মূল্য"
+      }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "শিওলিম জগর"
+      },
+      {
+        "Tradition": "কন্সাঞ্চ ফেস্ট"
+      },
+      {
+        "Tradition": "চোরুৎসব"
+      },
+      {
+        "Tradition": "শেনি উজ্জো"
+      },
+      {
+        "Tradition": "হোমকুন্ড"
+      },
+      {
+        "Tradition": "ঘুমাট আরতি"
+      },
+      {
+        "Tradition": "জোটি"
+      },
+      {
+        "Tradition": "সিস্তা"
+      },
+      {
+        "Tradition": "সুসেগাদ"
+      },
+      {
+        "Tradition": "মাটোভ"
+      },
+      {
+        "Tradition": "বেবিঙ্কা প্রস্তুতি"
+      },
+      {
+        "Tradition": "ফেনি বিশুদ্ধিকরণ"
+      },
+      {
+        "Tradition": "টডি ট্যাপিং"
+      },
+      {
+        "Tradition": "কুনবি বোনা"
+      },
+      {
+        "Tradition": "কোঙ্কানি ভাষা"
+      },
+      {
+        "Tradition": "শিওলিম জগর"
+      },
+      {
+        "Tradition": "কন্সাঞ্চ ফেস্ট"
+      },
+      {
+        "Tradition": "চোরুৎসব"
+      },
+      {
+        "Tradition": "শেনি উজ্জো"
+      },
+      {
+        "Tradition": "হোমকুন্ড"
+      },
+      {
+        "Tradition": "ঘুমাট আরতি"
+      },
+      {
+        "Tradition": "জোটি"
+      }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "গোল ধানা"
+      },
+      {
+        "Tradition": "চান্দলো মাতলি"
+      },
+      {
+        "Tradition": "পান চিবানো"
+      },
+      {
+        "Tradition": "ভাভাই থিয়েটার"
+      },
+      {
+        "Tradition": "বাঁধনী"
+      },
+      {
+        "Tradition": "পাটোলা বোনা"
+      },
+      {
+        "Tradition": "টাঙ্গালিয়া বোনা"
+      },
+      {
+        "Tradition": "জৈন খাদ্য আচরণ"
+      },
+      {
+        "Tradition": "স্বামীনারায়ণ রীতি"
+      },
+      {
+        "Tradition": "পিথি অনুষ্ঠান"
+      },
+      {
+        "Tradition": "উত্তরায়নে ঘুড়ি উড়ানো"
+      },
+      {
+        "Tradition": "মঙ্গল ফেরা"
+      },
+      {
+        "Tradition": "একি বেকি"
+      },
+      {
+        "Tradition": "চুনরি অনুষ্ঠান"
+      },
+      {
+        "Tradition": "নামকরণ"
+      }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "ধ্যান ও যোগ"
+      },
+      {
+        "Tradition": "বৈদিক মন্ত্রের জপ"
+      },
+      {
+        "Tradition": "সাগাই অনুষ্ঠান"
+      },
+      {
+        "Tradition": "বরাত মিছিল"
+      },
+      {
+        "Tradition": "মিলিনী রীতি"
+      },
+      {
+        "Tradition": "সলোনো অনুষ্ঠান"
+      },
+      {
+        "Tradition": "সঞ্জি উৎসব"
+      },
+      {
+        "Tradition": "ভাই দূজ"
+      },
+      {
+        "Tradition": "হারিয়ালি তীজ"
+      },
+      {
+        "Tradition": "সিন্ধারা"
+      },
+      {
+        "Tradition": "জঙ্গম গান"
+      },
+      {
+        "Tradition": "অলিবাক্ষী খায়াল"
+      },
+      {
+        "Tradition": "পান্ডুয়ান কা কাদা"
+      }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "কারিয়ালা"
+      },
+      {
+        "Tradition": "রিভার্স বারাত"
+      },
+      {
+        "Tradition": "সাতী প্রদা মেলা"
+      },
+      {
+        "Tradition": "মাঘ রা সাজা"
+      },
+      {
+        "Tradition": "শিশু জন্মের আচরণ"
+      },
+      {
+        "Tradition": "মন্দির-কেন্দ্রিক গ্রাম্য জীবন"
+      },
+      {
+        "Tradition": "দেবতা পূজা"
+      },
+      {
+        "Tradition": "সুকেট মেলা"
+      }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "পাথলগারি"
+      },
+      {
+        "Tradition": "বর মূল্য"
+      },
+      {
+        "Tradition": "গোষ্ঠী বহিরাগত বিবাহ"
+      },
+      {
+        "Tradition": "কান বেধি"
+      },
+      {
+        "Tradition": "মাসনা দাফন"
+      },
+      {
+        "Tradition": "জিতিয়া"
+      }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "হাসে চিত্র"
+      },
+      {
+        "Tradition": "গোরাভারা কুণিতা"
+      },
+      {
+        "Tradition": "তোগালু গোম্বেয়াটা"
+      },
+      {
+        "Tradition": "বীরগাসে"
+      },
+      {
+        "Tradition": "জুডু হালিগি"
+      },
+      {
+        "Tradition": "গাড়ুড়ি গম্বে"
+      },
+      {
+        "Tradition": "কাশি যাত্রা"
+      },
+      {
+        "Tradition": "নন্দী পূজা"
+      },
+      {
+        "Tradition": "মন্ডপ পূজা"
+      },
+      {
+        "Tradition": "বর পূজা"
+      },
+      {
+        "Tradition": "হাগালু ভেশগারারু"
+      },
+      {
+        "Tradition": "করাগা"
+      },
+      {
+        "Tradition": "আয়ুধা পূজা"
+      }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "আয়ুর্বেদিক অনুশীলন"
+      },
+      {
+        "Tradition": "যোগ"
+      },
+      {
+        "Tradition": "কলরিপায়াত্তু"
+      },
+      {
+        "Tradition": "নায়ার সার্ভিস সোসাইটি"
+      },
+      {
+        "Tradition": "মারুমাকথায়াম"
+      },
+      {
+        "Tradition": "সাম্বন্ধম"
+      },
+      {
+        "Tradition": "পুলিকালি"
+      },
+      {
+        "Tradition": "ভল্লম কালি"
+      },
+      {
+        "Tradition": "সাদ্য"
+      },
+      {
+        "Tradition": "মাপ্পিলা পাআত্তু"
+      },
+      {
+        "Tradition": "তিরুভথিরা"
+      },
+      {
+        "Tradition": "অঞ্জিলি থারাম"
+      },
+      {
+        "Tradition": "নালুকেটু"
+      },
+      {
+        "Tradition": "চুন্দন ভল্লম"
+      },
+      {
+        "Tradition": "কেট্টুকাজ্চা"
+      },
+      {
+        "Tradition": "চেন্দা মেলাম"
+      },
+      {
+        "Tradition": "মুট্টারুক্কাল"
+      },
+      {
+        "Tradition": "থুলাভরাম"
+      },
+      {
+        "Tradition": "বিদ্যারম্ভ"
+      },
+      {
+        "Tradition": "ভাজিপাদু"
+      }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "নার্মদা পরিক্রমা"
+      },
+      {
+        "Tradition": "ভাগোরিয়া বিবাহ রীতি"
+      },
+      {
+        "Tradition": "বাইগা মহিলাদের ট্যাটু"
+      },
+      {
+        "Tradition": "ঘোটুল ব্যবস্থা"
+      },
+      {
+        "Tradition": "চুলা পূজা"
+      },
+      {
+        "Tradition": "সমবায় পরিবার ব্যবস্থা"
+      },
+      {
+        "Tradition": "গটমার মেলা"
+      },
+      {
+        "Tradition": "সতী পূজা"
+      },
+      {
+        "Tradition": "চার বায়ত"
+      }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "দিব্যাঙ্কী অমাবস্যা"
+      },
+      {
+        "Tradition": "নাগ পঞ্চমী"
+      },
+      {
+        "Tradition": "নারায়ণ নাগবালি"
+      },
+      {
+        "Tradition": "মহারাষ্ট্রীয় বিবাহ রীতি"
+      },
+      {
+        "Tradition": "পৈথানী সাড়ি বোনা"
+      },
+      {
+        "Tradition": "ওয়ারলি চিত্রাঙ্কন"
+      },
+      {
+        "Tradition": "লাভনী নৃত্য"
+      },
+      {
+        "Tradition": "মকর সংক্রান্তি"
+      },
+      {
+        "Tradition": "গণেশ চতুর্থী"
+      },
+      {
+        "Tradition": "মহারাষ্ট্রীয় রান্না"
+      }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "ইয়ুম সেনগবা"
+      },
+      {
+        "Tradition": "চাকুম্বা"
+      },
+      {
+        "Tradition": "নাহুৎপা"
+      },
+      {
+        "Tradition": "পাটলই"
+      },
+      {
+        "Tradition": "নাট সাংকীর্তন"
+      },
+      {
+        "Tradition": "ফৌ কৌবা"
+      },
+      {
+        "Tradition": "চিং কাবা"
+      },
+      {
+        "Tradition": "শিকাপ্লোন"
+      },
+      {
+        "Tradition": "ইয়েনফা খৌসা"
+      },
+      {
+        "Tradition": "গোষ্ঠী বহিরাগত বিবাহ"
+      }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "মাতৃসুলভ উত্তরাধিকার"
+      },
+      {
+        "Tradition": "কা খাদ্দুহ"
+      },
+      {
+        "Tradition": "নোকমা পদ্ধতি"
+      },
+      {
+        "Tradition": "ডরবার শনং"
+      },
+      {
+        "Tradition": "সেঙ্গ খাসি আন্দোলন"
+      },
+      {
+        "Tradition": "জীবন্ত মূল সেতু"
+      },
+      {
+        "Tradition": "এরি সিল্ক বোনা"
+      },
+      {
+        "Tradition": "কা নিয়াম খাসি"
+      },
+      {
+        "Tradition": "কা নিয়ামত্রে"
+      },
+      {
+        "Tradition": "শীর্ষ নেতৃত্ব"
+      },
+      {
+        "Tradition": "কা ব্লেই নংথাও"
+      },
+      {
+        "Tradition": "ফাওয়ার"
+      }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "মুন ধর্ম"
+      },
+      {
+        "Tradition": "কিরাত মুণ্ডহুম"
+      },
+      {
+        "Tradition": "ঝিতসে আচার"
+      },
+      {
+        "Tradition": "চাসোক টাংনাম"
+      },
+      {
+        "Tradition": "জুমসা পদ্ধতি"
+      },
+      {
+        "Tradition": "এনগ্যাতশাপ"
+      },
+      {
+        "Tradition": "বঙথিং"
+      },
+      {
+        "Tradition": "খ্যোম"
+      },
+      {
+        "Tradition": "চকসি"
+      },
+      {
+        "Tradition": "লেপচা অন্ত্যেষ্টি আচার"
+      }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "কলম"
+      },
+      {
+        "Tradition": "সিলম্বত্তম"
+      },
+      {
+        "Tradition": "গৃহপ্রবেশ"
+      },
+      {
+        "Tradition": "কানের ছিদ্র আচার"
+      },
+      {
+        "Tradition": "নামকরণ আচার"
+      },
+      {
+        "Tradition": "মেহেন্দি লাগানো"
+      },
+      {
+        "Tradition": "আয়ুধা পূজা"
+      },
+      {
+        "Tradition": "কাভাদি আত্তম"
+      },
+      {
+        "Tradition": "মুন্দন আচার"
+      },
+      {
+        "Tradition": "সীমান্তম"
+      },
+      {
+        "Tradition": "থালি বাঁধা"
+      },
+      {
+        "Tradition": "সাপিন্দিকরণ"
+      },
+      {
+        "Tradition": "মাটির দীপপ্রদীপ প্রজ্জ্বলন"
+      },
+      {
+        "Tradition": "বয়স্কদের প্রতি নমস্কার"
+      },
+      {
+        "Tradition": "কাকদের খাদ্য প্রদান"
+      }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "বঞ্জারা সুই কারুশিল্প"
+      },
+      {
+        "Tradition": "নির্মল চিত্রাঙ্কন"
+      },
+      {
+        "Tradition": "গোলকন্ডা চিত্রশৈলী"
+      },
+      {
+        "Tradition": "হায়দরাবাদ চিত্রশৈলী"
+      },
+      {
+        "Tradition": "পোছাম্পল্লি ইকাট বোনা"
+      },
+      {
+        "Tradition": "ক্রস-কাজিন বিবাহ"
+      },
+      {
+        "Tradition": "বিবাহে শুভ গান গাওয়া"
+      },
+      {
+        "Tradition": "দ্বিতীয় পায়ের আঙুলে রিং পরা"
+      }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "হামজ্বক তুবুই ক্যাইমানি"
+      },
+      {
+        "Tradition": "কোকসুর্মা"
+      },
+      {
+        "Tradition": "কোকস্হংমুং"
+      },
+      {
+        "Tradition": "খুম ফুনুকমুং"
+      },
+      {
+        "Tradition": "মৈত্বরং বেরাইমানি"
+      },
+      {
+        "Tradition": "অবুল সুহমানি"
+      },
+      {
+        "Tradition": "মুঙ্গ ফার্মা"
+      },
+      {
+        "Tradition": "কাকলাইমানি"
+      },
+      {
+        "Tradition": "মাসনা দাফন"
+      },
+      {
+        "Tradition": "মৈত্বরং বেরাইমানি"
+      }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "আইপান শিল্প"
+      },
+      {
+        "Tradition": "লিখাই"
+      },
+      {
+        "Tradition": "নৌলাস"
+      },
+      {
+        "Tradition": "জাখ্যা মসলা"
+      },
+      {
+        "Tradition": "ভোটিয়া বোনা"
+      },
+      {
+        "Tradition": "রিংগাল কারুশিল্প"
+      },
+      {
+        "Tradition": "চুলা চোকা"
+      },
+      {
+        "Tradition": "দেবপ্রয়াগ আচার"
+      },
+      {
+        "Tradition": "পাণ্ডব লীলা"
+      },
+      {
+        "Tradition": "কুমাওনি বিবাহ রীতি"
+      },
+      {
+        "Tradition": "গড়হওয়ালি নামকরণ আচার"
+      },
+      {
+        "Tradition": "ভোটিয়া বহুপতি বিধি"
+      },
+      {
+        "Tradition": "ধৌলি-কালী পূজা"
+      },
+      {
+        "Tradition": "হরেলা গাছ রোপণ"
+      },
+      {
+        "Tradition": "বাগওয়াল পাথর ছুড়া"
+      },
+      {
+        "Tradition": "কেদারখণ্ড তীর্থযাত্রা"
+      },
+      {
+        "Tradition": "নন্দা দেবী রাজ জাত"
+      },
+      {
+        "Tradition": "ছিপলা জাত"
+      },
+      {
+        "Tradition": "ডোলা-ডোলি মিছিল"
+      },
+      {
+        "Tradition": "ঘারাত জলচক্র"
+      }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "চিকানকারি এম্ব্রয়ডারি"
+      },
+      {
+        "Tradition": "জার্দোজি এম্ব্রয়ডারি"
+      },
+      {
+        "Tradition": "বানারসি সিল্ক বোনা"
+      },
+      {
+        "Tradition": "খুরজা মাটির কাজ"
+      },
+      {
+        "Tradition": "পিতলের কারুশিল্প"
+      },
+      {
+        "Tradition": "সানঝি শিল্প"
+      },
+      {
+        "Tradition": "রামায়ণ পাঠ"
+      },
+      {
+        "Tradition": "গঙ্গা আরতি"
+      },
+      {
+        "Tradition": "পান চিবানো"
+      },
+      {
+        "Tradition": "ইতার তৈরি"
+      },
+      {
+        "Tradition": "পর্দা ব্যবস্থা"
+      },
+      {
+        "Tradition": "সমবায় পরিবার ব্যবস্থা"
+      },
+      {
+        "Tradition": "খত্রি বোনা"
+      },
+      {
+        "Tradition": "পঞ্চায়েত রাজ"
+      },
+      {
+        "Tradition": "লঙ্গর"
+      },
+      {
+        "Tradition": "কুম্ভ মেলা"
+      },
+      {
+        "Tradition": "ঘাজাল গান"
+      },
+      {
+        "Tradition": "কাওয়ালী"
+      },
+      {
+        "Tradition": "রামলীলা পরিবেশন"
+      },
+      {
+        "Tradition": "নাটক থিয়েটার"
+      },
+      {
+        "Tradition": "কাঠের পুতুল নাটক"
+      },
+      {
+        "Tradition": "ঘুড়ি উড়ানো"
+      },
+      {
+        "Tradition": "মেহেন্দি লাগানো"
+      },
+      {
+        "Tradition": "সূর্য নমস্কার"
+      },
+      {
+        "Tradition": "তিলক আচার"
+      },
+      {
+        "Tradition": "নমস্তে অভিবাদন"
+      },
+      {
+        "Tradition": "পায়ে স্পর্শ"
+      },
+      {
+        "Tradition": "জলেবি প্রস্তুতি"
+      },
+      {
+        "Tradition": "লাসি পান"
+      },
+      {
+        "Tradition": "ঠান্ডাই খাওয়া"
+      },
+      {
+        "Tradition": "পুরি ও কচোরি তৈরি"
+      },
+      {
+        "Tradition": "আরতি আচার"
+      },
+      {
+        "Tradition": "প্রসাদ বিতরণ"
+      },
+      {
+        "Tradition": "তুলসী বিবাহ"
+      },
+      {
+        "Tradition": "কার্ভা চৌথ"
+      },
+      {
+        "Tradition": "ভুমি পূজা"
+      },
+      {
+        "Tradition": "হলি আগুন"
+      },
+      {
+        "Tradition": "দিয়া প্রজ্জ্বলন"
+      },
+      {
+        "Tradition": "রঙোলি তৈরি"
+      },
+      {
+        "Tradition": "চুলা রান্না"
+      },
+      {
+        "Tradition": "চারপাই ব্যবহার"
+      },
+      {
+        "Tradition": "হুকা ধূমপান"
+      },
+      {
+        "Tradition": "বিন্দি লাগানো"
+      },
+      {
+        "Tradition": "সিন্দূর প্রয়োগ"
+      },
+      {
+        "Tradition": "হালদি অনুষ্ঠান"
+      },
+      {
+        "Tradition": "জুতার লুকানো"
+      },
+      {
+        "Tradition": "দস্তারখওয়ান"
+      },
+      {
+        "Tradition": "পাখা তৈরি"
+      }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "items": [
+      {
+        "Tradition": "যাত্রা"
+      },
+      {
+        "Tradition": "গায়ে হলুদ"
+      },
+      {
+        "Tradition": "বাউল ঐতিহ্য"
+      },
+      {
+        "Tradition": "লাঠি খেলা"
+      },
+      {
+        "Tradition": "ভর্তা প্রস্তুতি"
+      },
+      {
+        "Tradition": "সমন্বিত লোকচর্চা"
+      },
+      {
+        "Tradition": "বিধবা খাদ্য প্রথা"
+      },
+      {
+        "Tradition": "চাল ও মাছ প্রধান খাদ্য"
+      },
+      {
+        "Tradition": "শোলাপিথ কারুশিল্প"
+      },
+      {
+        "Tradition": "সমন্বিত ধর্মীয় আচরণ"
+      },
+      {
+        "Tradition": "নৌকা রেসিং"
+      },
+      {
+        "Tradition": "পান্তা ভাত খাওয়া"
+      },
+      {
+        "Tradition": "প্রচলিত বোনা"
+      },
+      {
+        "Tradition": "কুমারী পূজা"
+      },
+      {
+        "Tradition": "বাংলা আতিথেয়তা"
+      }
+    ]
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "মাতৃসুলভ সমাজ"
+      },
+      {
+        "Tradition": "প্রাণবৈচিত্র্যময় বিশ্বাস"
+      },
+      {
+        "Tradition": "শিকারী-সংগ্রাহক জীবনধারা"
+      },
+      {
+        "Tradition": "কেনু তৈরি"
+      },
+      {
+        "Tradition": "কাঠ, চারা ও বাঁশের কারুশিল্প"
+      },
+      {
+        "Tradition": "প্রচলিত ওষুধ"
+      },
+      {
+        "Tradition": "সামুদায়িক জীবন"
+      },
+      {
+        "Tradition": "মৌখিক গল্পকথন"
+      },
+      {
+        "Tradition": "শরীরচিত্র ও অলংকরণ"
+      },
+      {
+        "Tradition": "মাছ ধরার পদ্ধতি"
+      }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "সামুদায়িক ভোজন"
+      },
+      {
+        "Tradition": "শিল্পী হস্তশিল্প"
+      }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Dama",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "তর্পা নৃত্য"
+      },
+      {
+        "Tradition": "ঢোল নৃত্য"
+      },
+      {
+        "Tradition": "ওয়ারলি চিত্রাঙ্কন"
+      },
+      {
+        "Tradition": "পর্তুগিজ স্থাপত্য"
+      },
+      {
+        "Tradition": "দামান ও দিও পর্তুগিজ ক্রিওল"
+      },
+      {
+        "Tradition": "মিথুন পূজা"
+      },
+      {
+        "Tradition": "প্রচলিত মাছ ধরা"
+      }
+    ]
+  },
+  {
+    "name": "Delhi",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "সমবায় পরিবার ব্যবস্থা"
+      },
+      {
+        "Tradition": "ব্যবস্থাপ্রণীত বিবাহ"
+      },
+      {
+        "Tradition": "চান্দনী চৌক কেনাকাটা"
+      },
+      {
+        "Tradition": "রাস্তার খাদ্য সংস্কৃতি"
+      },
+      {
+        "Tradition": "পুরাতন দিল্লির হাওয়েলি"
+      },
+      {
+        "Tradition": "গুরদ্বারা পরিদর্শন"
+      },
+      {
+        "Tradition": "জামা মসজিদ সমাবেশ"
+      },
+      {
+        "Tradition": "মন্দিরে ত্যাগ"
+      },
+      {
+        "Tradition": "গুরদ্বার লঙ্গর"
+      },
+      {
+        "Tradition": "মেহেন্দি লাগানো"
+      },
+      {
+        "Tradition": "তুরবান বাঁধা"
+      },
+      {
+        "Tradition": "কার্ভা চৌথ"
+      },
+      {
+        "Tradition": "সামাজিক ইফতার"
+      },
+      {
+        "Tradition": "রবিবার বই বাজার"
+      },
+      {
+        "Tradition": "কবুতরবাজি"
+      }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "কাশ্মীরিয়ত"
+      },
+      {
+        "Tradition": "ওয়াজওয়ান"
+      },
+      {
+        "Tradition": "কাশ্মীরি মারসিয়া"
+      },
+      {
+        "Tradition": "ওয়াগু"
+      },
+      {
+        "Tradition": "কাঙ্গরি"
+      }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "মাতৃসুলভ উত্তরাধিকার"
+      },
+      {
+        "Tradition": "কা খাদ্দুহ"
+      },
+      {
+        "Tradition": "নোকমা পদ্ধতি"
+      },
+      {
+        "Tradition": "ডরবার শনং"
+      },
+      {
+        "Tradition": "সেঙ্গ খাসি আন্দোলন"
+      },
+      {
+        "Tradition": "জীবন্ত মূল সেতু"
+      },
+      {
+        "Tradition": "এরি সিল্ক বোনা"
+      },
+      {
+        "Tradition": "কা নিয়াম খাসি"
+      },
+      {
+        "Tradition": "কা নিয়ামত্রে"
+      },
+      {
+        "Tradition": "শীর্ষ নেতৃত্ব"
+      },
+      {
+        "Tradition": "কা ব্লেই নংথাও"
+      },
+      {
+        "Tradition": "ফাওয়ার"
+      }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "আরঞ্জনাম"
+      },
+      {
+        "Tradition": "ম্যাটস ও বোনা"
+      },
+      {
+        "Tradition": "মুন্ডু"
+      },
+      {
+        "Tradition": "কারা সহ মুন্ডু"
+      },
+      {
+        "Tradition": "মুন্ডুম নেরিয়াথুম"
+      }
+    ]
+  },
+  {
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Tradition": "অরোভিল কমিউনিটি জীবন"
+      },
+      {
+        "Tradition": "ফরাসি ঔপনিবেশিক স্থাপত্য"
+      },
+      {
+        "Tradition": "তামিল ভাষার ব্যবহার"
+      },
+      {
+        "Tradition": "যোগ ও ধ্যান অনুশীলন"
+      },
+      {
+        "Tradition": "ক্যাফে সংস্কৃতি"
+      },
+      {
+        "Tradition": "পুদুচেরি রান্না"
+      },
+      {
+        "Tradition": "সামাজিক সেবা"
+      },
+      {
+        "Tradition": "টেকসই জীবনধারা"
+      },
+      {
+        "Tradition": "বহুভাষিক শিক্ষা"
+      },
+      {
+        "Tradition": "ধর্মনিরপেক্ষ সাদৃশ্য"
+      }
+    ]
+  }
+]

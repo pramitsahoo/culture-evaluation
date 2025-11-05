@@ -1,0 +1,2276 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Dagudu Mootalu",
+        "Description": "Hide and seek game; one player seeks while others hide.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_Andhra_Pradesh"
+      },
+      {
+        "Game Name": "Tokkudu Billa",
+        "Description": "Hopscotch variant; players hop across drawn boxes.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Paandi"
+      },
+      {
+        "Game Name": "Yedu Penkulata",
+        "Description": "Seven stones game; involves knocking down a pile of stones.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_Andhra_Pradesh"
+      },
+      {
+        "Game Name": "Vamanaguntalu",
+        "Description": "Board game using pits and seeds; similar to mancala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pallanguzhi"
+      },
+      {
+        "Game Name": "Chadarangam",
+        "Description": "Ancient strategy board game; precursor to modern chess.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chaturanga"
+      },
+      {
+        "Game Name": "Puli Joodam",
+        "Description": "Tiger and goat game; strategic board game.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_Andhra_Pradesh"
+      },
+      {
+        "Game Name": "Ashta Chamma",
+        "Description": "Board game played with cowry shells; similar to Ludo.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ashta_Chamma"
+      },
+      {
+        "Game Name": "Vaikuntapali",
+        "Description": "Snakes and ladders; board game with moral lessons.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Snakes_and_ladders"
+      },
+      {
+        "Game Name": "Nalugu Stambhalata",
+        "Description": "Four pillars game; involves players moving between pillars.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nalugu_Stambhalata_(game)"
+      },
+      {
+        "Game Name": "Nalugu Rallu Aata",
+        "Description": "Four stones game; players collect stones avoiding a denner.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nalugu_Rallu_Aata"
+      },
+      {
+        "Game Name": "Karra Billa",
+        "Description": "Game involving hitting a small stick with a larger stick.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_Andhra_Pradesh"
+      },
+      {
+        "Game Name": "Veeri Veeri Gummadi Pandu",
+        "Description": "Circle game with singing; involves guessing players.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_Andhra_Pradesh"
+      },
+      {
+        "Game Name": "Chain",
+        "Description": "Tag variant; caught players form a chain to catch others.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_Andhra_Pradesh"
+      },
+      {
+        "Game Name": "Donga Police",
+        "Description": "Cops and robbers game; one team chases the other.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_Andhra_Pradesh"
+      },
+      {
+        "Game Name": "Kancha",
+        "Description": "Marble game; players hit target marbles with their own.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_Andhra_Pradesh"
+      },
+      {
+        "Game Name": "Posham Posh",
+        "Description": "Singing game; players pass under raised hands.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_Andhra_Pradesh"
+      },
+      {
+        "Game Name": "Lattu",
+        "Description": "Spinning top game; players spin tops made of wood.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_Andhra_Pradesh"
+      },
+      {
+        "Game Name": "Langdi Tang",
+        "Description": "Hopping game; players hop on one leg to catch others.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_Andhra_Pradesh"
+      },
+      {
+        "Game Name": "Kabaddi",
+        "Description": "Team sport; players tag opponents while holding breath.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kabaddi"
+      },
+      {
+        "Game Name": "Kho Kho",
+        "Description": "Team game; chasers try to tag runners within a time limit.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kho_kho"
+      }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Hole Taso Dukanaram",
+        "Description": "A game that mimics the movements of the Hole Taso animal, resembling a cat. Players alternate between beating their chests with front paws and holding a third leg in the air while scampering. The game tests overall balance, strength, and coordination.",
+        "Reference Link": "https://www.arunachalonline.in/guide/sports-in-arunachal-pradesh"
+      },
+      {
+        "Game Name": "Hinam Turnam",
+        "Description": "Also known as the 'struggle of life and death,' this game portrays a hunter chasing its prey. If the hunter misses, they must catch the prey by the third leg. The game represents traditional hunting skills.",
+        "Reference Link": "https://www.arunachalonline.in/guide/sports-in-arunachal-pradesh"
+      },
+      {
+        "Game Name": "Porok-Pamin Sinam",
+        "Description": "Commonly referred to as cock-fighting, players hold one leg in hand and hop on the other. They attempt to push their opponent out of a marked circle. A player loses if they fall, step out, or release their leg.",
+        "Reference Link": "https://www.arunachalonline.in/guide/sports-in-arunachal-pradesh"
+      },
+      {
+        "Game Name": "Majong",
+        "Description": "A board game played by four individuals using small tiles. Players take turns picking and discarding tiles to form a winning combination.",
+        "Reference Link": "https://www.arunachalonline.in/guide/sports-in-arunachal-pradesh"
+      },
+      {
+        "Game Name": "Dapo Nyarka Sunam",
+        "Description": "A wrestling-style game of the Nyishi tribe where two players hold a bamboo stick and try to push each other backward until one falls. Strength and technique determine the winner.",
+        "Reference Link": "https://www.dpcct.org/cultural-centre"
+      },
+      {
+        "Game Name": "Dak-Dal Dakasunam",
+        "Description": "A balance-based game played with a 3-meter-long bamboo or wooden stick. Players balance themselves on a small log at the bottom and attempt to navigate a course without falling.",
+        "Reference Link": "https://www.dpcct.org/cultural-centre"
+      },
+      {
+        "Game Name": "Upuk Apka Sunam",
+        "Description": "A traditional archery competition among the Nyishi community. Bows and arrows were historically used for hunting and combat but are now part of recreational and cultural events.",
+        "Reference Link": "https://www.dpcct.org/cultural-centre"
+      },
+      {
+        "Game Name": "Seene Chaksunam",
+        "Description": "A competitive climbing game where participants climb polished bamboo poles. The highest climber is declared the winner.",
+        "Reference Link": "https://thecriticalscript.com/article-details/traditional-sports-of-arunachal-pradesh"
+      },
+      {
+        "Game Name": "Dapo",
+        "Description": "A wrestling form practiced by the Mishmi tribe, often performed during festivals. Participants grapple using traditional techniques to establish dominance.",
+        "Reference Link": "https://bkm.nehhdc.com/indigenous-sports-of-north-east-india--a-cultural-legacy"
+      },
+      {
+        "Game Name": "Sikpi (Bamboo Fighting)",
+        "Description": "An indigenous martial art where fighters use bamboo poles as weapons in mock combat. The game is part of tribal rituals and tests agility and combat skills.",
+        "Reference Link": "https://bkm.nehhdc.com/indigenous-sports-of-north-east-india--a-cultural-legacy"
+      }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Dhopkhel",
+        "Description": "A traditional ball game played between two teams of 11 players each on a field measuring 125m x 80m. Players aim to throw the ball at opponents to knock them out while avoiding being tagged themselves. It tests speed, stamina, and acrobatic skills.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dhopkhel"
+      },
+      {
+        "Game Name": "Hai Gudu/Kopoti Khel",
+        "Description": "A popular game among Assamese farmers, especially after harvesting rice. Two teams stand on either side of a line; players attempt to tag opponents while chanting 'Hai gudu gudu' in one breath and return to their side without breaking the chant.",
+        "Reference Link": "https://www.ijhssi.org/papers/vol8(6)/Series-3/B0806031012.pdf"
+      },
+      {
+        "Game Name": "Muthi Khel (Game of Fist)",
+        "Description": "A game played between two players where one hides a small stone in one fist behind their back and then presents both fists forward. The opponent guesses which fist contains the stone, often accompanied by a traditional rhyme.",
+        "Reference Link": "https://www.ijhssi.org/papers/vol8(6)/Series-3/B0806031012.pdf"
+      },
+      {
+        "Game Name": "Khuti Khel (Game of Post)",
+        "Description": "Players position themselves around posts. One player, without a post, sings a traditional song and attempts to tag others while they move between posts. The tagged player then takes over the role.",
+        "Reference Link": "https://www.ijhssi.org/papers/vol8(6)/Series-3/B0806031012.pdf"
+      },
+      {
+        "Game Name": "Doob Khel (Game of Sink)",
+        "Description": "Played in water bodies like ponds, players take turns producing specific sounds by knocking on the water's surface. Those who fail must dive and attempt to tag others underwater.",
+        "Reference Link": "https://www.ijhssi.org/papers/vol8(6)/Series-3/B0806031012.pdf"
+      },
+      {
+        "Game Name": "Dora Koina Khel (Game of Bride and Groom)",
+        "Description": "An imaginative game where children create mock weddings using household items, assigning roles like bride, groom, and guests, and performing traditional marriage songs.",
+        "Reference Link": "https://www.ijhssi.org/papers/vol8(6)/Series-3/B0806031012.pdf"
+      },
+      {
+        "Game Name": "Luka-Baku Khel (Hide and Seek)",
+        "Description": "A traditional hide and seek game where one player, blindfolded, searches for others who respond with sounds to guide or mislead. The seeker chants, 'Hol ne nou maniki mou,' to which hiders reply, 'kuk.'",
+        "Reference Link": "https://www.ijhssi.org/papers/vol8(6)/Series-3/B0806031012.pdf"
+      },
+      {
+        "Game Name": "Raja Rani Khel (Game of King and Queen)",
+        "Description": "Two teams participate, with one player designated as the king holding a post. The king's soldiers attempt to tag opponents while singing a traditional song. The game emphasizes strategy and teamwork.",
+        "Reference Link": "https://www.ijhssi.org/papers/vol8(6)/Series-3/B0806031012.pdf"
+      },
+      {
+        "Game Name": "Kochu Guti Khel (Game of Kochu Guti)",
+        "Description": "Involves two teams searching for a small wooden piece hidden in a field. The team that finds it first must place it in a designated hole while the opposing team tries to prevent them.",
+        "Reference Link": "https://www.ijhssi.org/papers/vol8(6)/Series-3/B0806031012.pdf"
+      },
+      {
+        "Game Name": "Ghila Khel (Game of Ghila)",
+        "Description": "An ancient game where players toss a small stone ('Ghila') into drawn squares on the ground. They then slide the stone out using one foot while hopping on the other, avoiding lines.",
+        "Reference Link": "https://www.ijhssi.org/papers/vol8(6)/Series-3/B0806031012.pdf"
+      },
+      {
+        "Game Name": "Koni-juj (Egg Fight)",
+        "Description": "A festive game played during Bihu festivals where participants engage in egg tapping battles. Each player holds an egg and taps it against their opponent's egg; the one whose egg remains intact wins.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Koni-juj"
+      },
+      {
+        "Game Name": "Buffalo Fighting (Moh-Juj)",
+        "Description": "Traditionally organized during Magh Bihu, trained buffaloes are pitted against each other in a contest of strength. This event has deep cultural significance but has faced modern scrutiny due to animal welfare concerns.",
+        "Reference Link": "https://assamtribune.com/assam/what-are-the-traditional-games-played-during-magh-bihu-1348581"
+      },
+      {
+        "Game Name": "Boat Racing",
+        "Description": "Leveraging Assam's extensive river networks, communities organize competitive boat races, especially during festivals like Bihu and Ali Ai Ligang. These races foster community spirit and teamwork.",
+        "Reference Link": "https://bkm.nehhdc.com/indigenous-sports-of-north-east-india--a-cultural-legacy"
+      },
+      {
+        "Game Name": "Kanamachi",
+        "Description": "A traditional game similar to 'Blind Man's Buff,' popular in Assam and neighboring regions. One player is blindfolded and attempts to catch others, who try to avoid being caught while occasionally teasing the seeker.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kanamachi"
+      },
+      {
+        "Game Name": "Bulbuli Soraai Juj (Nightingale Fight)",
+        "Description": "Historically part of Magh Bihu celebrations, this game involved nightingales in competitive displays. Due to ethical considerations, such practices have been discontinued in modern times.",
+        "Reference Link": "https://assamtribune.com/assam/what-are-the-traditional-games-played-during-magh-bihu-1348581"
+      },
+      {
+        "Game Name": "Tekeli Bhonga (Pot Breaking)",
+        "Description": "A traditional game where participants, blindfolded, attempt to break a clay pot ('tekeli') hung at a certain height, using a stick. It's a test of coordination and sense of direction.",
+        "Reference Link": "https://assamtribune.com/assam/what-are-the-traditional-games-played-during-magh-bihu-1348581"
+      },
+      {
+        "Game Name": "Rosi Tona (Tug of War)",
+        "Description": "A popular game during Bihu festivities where two teams pull on opposite ends of a rope, each trying to drag the other across a designated line.",
+        "Reference Link": "https://assamtribune.com/assam/what-are-the-traditional-games-played-during-magh-bihu-1348581"
+      },
+      {
+        "Game Name": "Alang Dalang",
+        "Description": "A traditional game documented in Assam, though specific details about its gameplay are limited.",
+        "Reference Link": "https://nagalandpost.com/index.php/2023/05/29/museum-documenting-traditional-sports-of-assam/"
+      },
+      {
+        "Game Name": "Khomlainai",
+        "Description": "A traditional wrestling sport practiced by indigenous communities in Assam, emphasizing strength and technique.",
+        "Reference Link": "https://nagalandpost.com/index.php/2023/05/29/museum-documenting-traditional-sports-of-assam/"
+      },
+      {
+        "Game Name": "Tarual Khel (Fencing)",
+        "Description": "A traditional form of fencing practiced in Assam, showcasing skills in swordsmanship and defense.",
+        "Reference Link": "https://ekbharat.gov.in/images/InstituteActivities/Documents//assamese%20local%20games%20name.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Pachisi",
+        "Description": "A cross and circle board game for two or four players, each with four pieces. Players race their pieces around the board based on dice rolls, aiming to be the first to move all pieces home. The game is popular in Bihar and has ancient origins.",
+        "Reference Link": "https://www.folklore.ee/folklore/vol54/sahay.pdf"
+      },
+      {
+        "Game Name": "Panchi",
+        "Description": "A traditional single-track race game played in southern India, including Bihar. Players race their pieces along a track, with the objective of reaching the end before their opponent. The game emphasizes strategy and planning.",
+        "Reference Link": "https://indianshades.org/traditional-games-2/"
+      },
+      {
+        "Game Name": "Pretwa",
+        "Description": "A two-player abstract strategy game from Bihar. The name derives from 'Pret', meaning spirit. Players aim to capture the opponent's pieces by jumping over them, similar to checkers. The game enhances strategic thinking and planning skills.",
+        "Reference Link": "https://indianshades.org/traditional-games-2/"
+      },
+      {
+        "Game Name": "Kancha (Marbles)",
+        "Description": "A traditional game where players use small glass marbles, aiming to hit a target marble or knock opponents' marbles out of a designated area. It requires precision and strategic planning and is commonly played by children in Bihar.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Gilli Danda",
+        "Description": "A game resembling cricket and baseball, played with two sticks: a 'gilli' (small stick) and a 'danda' (longer stick). The player strikes the gilli with the danda, flipping it into the air, and then hits it again to cover maximum distance. Popular in rural Bihar.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Kabaddi",
+        "Description": "A contact team sport where players take turns to raid the opposing team's half, aiming to tag opponents and return to their half without being tackled. It requires strength, strategy, and agility and is widely played in Bihar.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Kite Flying",
+        "Description": "A popular activity during festivals like Makar Sankranti, where individuals and groups fly kites from rooftops and open grounds, engaging in friendly competitions. It reflects the cultural traditions of Bihar.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Chaupar",
+        "Description": "An ancient board game believed to be a precursor to modern-day Ludo. Played on a cross-shaped board with dice and pawns, players race to move all their pieces to the center of the board, navigating based on dice rolls. Historically played in Bihar's households.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Antakshari",
+        "Description": "A spoken parlor game where participants or teams sing the first verse of a song that begins with the Hindustani consonant on which the previous contestant's song selection ended. A popular pastime in Bihar's gatherings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Rassa Kashi (Tug of War)",
+        "Description": "A traditional game where two teams pull on opposite ends of a rope, each trying to drag the other team across a central line. It is commonly played during festivals and community gatherings in Bihar, emphasizing teamwork and strength.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Gilli Danda",
+        "Description": "A traditional game similar to cricket and baseball, played with two sticks: a longer one called 'danda' and a shorter one called 'gilli'. The player uses the danda to strike the gilli, flipping it into the air, and then hits it again to send it as far as possible. It's a popular rural sport in Chhattisgarh.",
+        "Reference Link": "https://www.newindianexpress.com/sport/other/2022/Oct/03/chhattisgarhia-olympicsattempt-to-revive-traditional-games-through-series-of-contests-2504492.html"
+      },
+      {
+        "Game Name": "Pitthul",
+        "Description": "Also known as 'Seven Stones', this game involves stacking seven flat stones and attempting to knock them over by throwing a ball. Players then try to rebuild the stack while the opposing team tries to prevent them by hitting them with the ball. It is a common game among children in Chhattisgarh.",
+        "Reference Link": "https://www.scribd.com/document/682313914/Sports-of-chhattisgarh-ayush"
+      },
+      {
+        "Game Name": "Sankhali (Chain Game)",
+        "Description": "A traditional game where players form a chain by holding hands and attempt to catch other players who are not in the chain. Once caught, the new player joins the chain, and the game continues until all players are part of the chain.",
+        "Reference Link": "https://www.newindianexpress.com/sport/other/2022/Oct/03/chhattisgarhia-olympicsattempt-to-revive-traditional-games-through-series-of-contests-2504492.html"
+      },
+      {
+        "Game Name": "Langdi Daud",
+        "Description": "A game of hopping tag where the 'denner' hops on one leg and tries to catch the other players. It tests balance, agility, and stamina and is traditionally played in open fields.",
+        "Reference Link": "https://www.newindianexpress.com/sport/other/2022/Oct/03/chhattisgarhia-olympicsattempt-to-revive-traditional-games-through-series-of-contests-2504492.html"
+      },
+      {
+        "Game Name": "Khudwa (Kabaddi)",
+        "Description": "A contact team sport where two teams take turns sending a 'raider' into the opposing team's half to tag as many defenders as possible and return to their own half without being tackled. It emphasizes strength, strategy, and breath control.",
+        "Reference Link": "https://www.zupee.com/blog/chhattisgarh-games/"
+      },
+      {
+        "Game Name": "Kho-Kho",
+        "Description": "A traditional tag game where two teams compete; one team sits or kneels in the middle of the field, and the other team sends runners who try to avoid being touched by the seated team's players. It requires speed, agility, and strategic planning.",
+        "Reference Link": "https://www.newindianexpress.com/sport/other/2022/Oct/03/chhattisgarhia-olympicsattempt-to-revive-traditional-games-through-series-of-contests-2504492.html"
+      },
+      {
+        "Game Name": "Banti (Kancha/Marbles)",
+        "Description": "A game played with small glass or stone marbles, where players aim to hit the target marble or shoot marbles into a hole. It requires precision and strategic planning and is a favorite pastime among children.",
+        "Reference Link": "https://www.newindianexpress.com/sport/other/2022/Oct/03/chhattisgarhia-olympicsattempt-to-revive-traditional-games-through-series-of-contests-2504492.html"
+      },
+      {
+        "Game Name": "Gedi Daud (Stilt Racing)",
+        "Description": "Participants race while balancing on bamboo stilts, testing their balance and coordination. This game is especially popular during local festivals and community gatherings.",
+        "Reference Link": "https://www.newindianexpress.com/sport/other/2022/Oct/03/chhattisgarhia-olympicsattempt-to-revive-traditional-games-through-series-of-contests-2504492.html"
+      },
+      {
+        "Game Name": "Bhaura (Spinning Top)",
+        "Description": "A traditional game where players spin a wooden or metal top using a string. The objective is to keep the top spinning for as long as possible, and sometimes to knock over other players' tops in competitive versions.",
+        "Reference Link": "https://www.dailypioneer.com/2022/state-editions/chhattisgarhia-olympics-revives-traditional-games.html"
+      },
+      {
+        "Game Name": "Fugdi",
+        "Description": "A folk dance game primarily performed by women, where participants form circles or rows and spin around while singing traditional songs. It is often played during festivals and special occasions.",
+        "Reference Link": "https://www.newindianexpress.com/sport/other/2022/Oct/03/chhattisgarhia-olympicsattempt-to-revive-traditional-games-through-series-of-contests-2504492.html"
+      },
+      {
+        "Game Name": "Billas",
+        "Description": "A traditional game similar to hopscotch, where players draw a grid on the ground and toss a small object into the numbered spaces. They then hop through the grid to retrieve the object without stepping on the lines.",
+        "Reference Link": "https://www.dailypioneer.com/2022/state-editions/chhattisgarhia-olympics-revives-traditional-games.html"
+      },
+      {
+        "Game Name": "Baati (Marbles)",
+        "Description": "Another variation of the marbles game, where players aim to hit a target marble or shoot marbles into a designated area. It is a popular game among children in rural areas.",
+        "Reference Link": "https://www.dailypioneer.com/2022/state-editions/chhattisgarhia-olympics-revives-traditional-games.html"
+      }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Logoriyo",
+        "Description": "Seven stones game; knock over and rebuild a stack of seven coconut shells.",
+        "Reference Link": "https://itsgoa.com/these-games-of-goa-were-almost-forgotten-until-now"
+      },
+      {
+        "Game Name": "Goddyani",
+        "Description": "Marble game; players flick marbles to hit targets or knock opponents' marbles out of a zone.",
+        "Reference Link": "https://itsgoa.com/these-games-of-goa-were-almost-forgotten-until-now"
+      },
+      {
+        "Game Name": "Koindya Baal",
+        "Description": "Goan version of Gilli Danda; hit a small stick (gilli) with a larger stick (danda).",
+        "Reference Link": "https://itsgoa.com/these-games-of-goa-were-almost-forgotten-until-now"
+      },
+      {
+        "Game Name": "Bodyaani",
+        "Description": "Similar to hopscotch; players hop through a series of squares drawn on the ground.",
+        "Reference Link": "https://itsgoa.com/these-games-of-goa-were-almost-forgotten-until-now"
+      },
+      {
+        "Game Name": "Tabul Phale",
+        "Description": "Traditional board game with 12x4 squares; involves strategic movement of pieces.",
+        "Reference Link": "https://www.theheritagelab.in/tabul-phale-boardgame-goa/"
+      },
+      {
+        "Game Name": "Faatraani",
+        "Description": "Indoor game using stones; players toss and catch stones in various sequences.",
+        "Reference Link": "https://www.soultravelling.in/blog/goa-games/"
+      },
+      {
+        "Game Name": "Vhiraani",
+        "Description": "Traditional Goan game; specific rules and gameplay details are limited.",
+        "Reference Link": "https://www.soultravelling.in/games-of-goa"
+      },
+      {
+        "Game Name": "Ticktem",
+        "Description": "Traditional Goan game; specific rules and gameplay details are limited.",
+        "Reference Link": "https://www.soultravelling.in/games-of-goa"
+      },
+      {
+        "Game Name": "Tablam",
+        "Description": "Traditional Goan game; specific rules and gameplay details are limited.",
+        "Reference Link": "https://www.soultravelling.in/games-of-goa"
+      },
+      {
+        "Game Name": "Chikhal Kalo",
+        "Description": "Mud festival celebrating Lord Krishna's childhood; participants play in mud.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chikhal_Kalo"
+      }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Satodiyu",
+        "Description": "Also known as Seven Stones, this game involves stacking seven flat stones and attempting to knock them over by throwing a ball. Once the pile is knocked over, the team must try to restore the stack while the opposing team throws the ball to hit the players.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seven_stones"
+      },
+      {
+        "Game Name": "Adko Dadko",
+        "Description": "A traditional game where players hop on one foot and try to tag others. The player who is 'it' must hop and attempt to tag another player, while the others avoid being tagged without placing their second foot on the ground.",
+        "Reference Link": "https://www.zupee.com/blog/gujarat-games/"
+      },
+      {
+        "Game Name": "Kodiyo",
+        "Description": "A traditional indoor game played with small seashells. Players toss the shells and score points based on how they land, similar to dice games.",
+        "Reference Link": "https://yourmagictouch.wordpress.com/2019/07/16/forgotten-games-of-gujarat/"
+      },
+      {
+        "Game Name": "Kuka/Gutte",
+        "Description": "Also known as Five Stones, this game involves juggling five small stones in various sequences, testing hand-eye coordination and dexterity.",
+        "Reference Link": "https://yourmagictouch.wordpress.com/2019/07/16/forgotten-games-of-gujarat/"
+      },
+      {
+        "Game Name": "Lattoo",
+        "Description": "A game involving spinning tops, where players use a string to spin a wooden top and try to keep it spinning for as long as possible. Competitions may involve knocking over other tops or performing tricks.",
+        "Reference Link": "https://yourmagictouch.wordpress.com/2019/07/16/forgotten-games-of-gujarat/"
+      },
+      {
+        "Game Name": "Sauktha-bazi",
+        "Description": "A board game similar to Ludo, traditionally played with cowrie shells and a cloth board. Players race their pieces around the board based on the throw of the shells.",
+        "Reference Link": "https://yourmagictouch.wordpress.com/2019/07/16/forgotten-games-of-gujarat/"
+      },
+      {
+        "Game Name": "Kothada Dood (Sack Race)",
+        "Description": "An outdoor game where participants place both legs inside a sack and hop forward from a starting point towards a finish line. The first to cross the finish line without falling wins.",
+        "Reference Link": "https://yourmagictouch.wordpress.com/2019/07/16/forgotten-games-of-gujarat/"
+      },
+      {
+        "Game Name": "Kho-Kho",
+        "Description": "A traditional tag game where two teams compete; one team sits or kneels in the middle of the field, and the other team runs around them. The objective is to tag the runners in the shortest time possible.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Gilli-Danda",
+        "Description": "A game played with two sticks: a small one called 'gilli' and a larger one called 'danda'. The player uses the danda to strike the gilli, flipping it into the air, and then hits it again to send it flying. The objective is to hit the gilli as far as possible.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Kancha",
+        "Description": "A game played with marbles, where players aim to hit a target marble or shoot marbles into a hole. It requires precision and strategy.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sport_in_India"
+      },
+      {
+        "Game Name": "Patang Baazi (Kite Flying)",
+        "Description": "A popular activity, especially during the festival of Uttarayan (Makar Sankranti), where participants fly kites and engage in friendly battles to cut each other's kite strings.",
+        "Reference Link": "https://www.reuters.com/world/india/kite-making-picks-up-indias-gujarat-harvest-festival-nears-2024-12-19/"
+      }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Kabaddi",
+        "Description": "A contact team sport where players take turns to raid the opposing team's half, aiming to tag opponents and return to their half without being tackled. It requires strength, strategy, and agility. Kabaddi is deeply rooted in Haryana's culture and is widely played across the state.",
+        "Reference Link": "https://www.zupee.com/blog/haryana-games/"
+      },
+      {
+        "Game Name": "Wrestling (Kushti)",
+        "Description": "A traditional sport in Haryana where two individuals grapple in a physical contest, aiming to pin the opponent to the ground. Practiced in 'akhadas' (wrestling arenas), it emphasizes strength, technique, and discipline. Haryana has produced numerous renowned wrestlers.",
+        "Reference Link": "https://www.haryana21.com/sports-in-haryana.php"
+      },
+      {
+        "Game Name": "Gilli Danda",
+        "Description": "A game resembling cricket and baseball, played with two sticks: a 'gilli' (small stick) and a 'danda' (longer stick). The player strikes the gilli with the danda, flipping it into the air, and then hits it again to cover maximum distance. It's a popular rural pastime in Haryana.",
+        "Reference Link": "https://www.tribuneindia.com/news/haryana/traditional-games-in-sports-activities-at-karnal-college-399950/"
+      },
+      {
+        "Game Name": "Kabaddi (Ghoda Kabaddi)",
+        "Description": "A variation of kabaddi played in Haryana, where players mimic horse movements during the game. This version adds a unique cultural twist to the traditional kabaddi, reflecting the state's equestrian heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ginadi"
+      },
+      {
+        "Game Name": "Pehlwani",
+        "Description": "A form of traditional wrestling in Haryana, where wrestlers, known as 'pehlwans', engage in bouts to showcase strength and technique. Matches are often held during local fairs and festivals, drawing large crowds.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ginadi"
+      },
+      {
+        "Game Name": "Peewani",
+        "Description": "A traditional game similar to field hockey, played especially during festive occasions like Holi and Diwali. Players use sticks to maneuver a ball towards the opponent's goal, emphasizing teamwork and agility.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ginadi"
+      },
+      {
+        "Game Name": "Stapu (Hopscotch)",
+        "Description": "A hopping game where players draw a grid on the ground and take turns hopping through the numbered spaces to retrieve a marker. It enhances balance and coordination and is commonly played by children in Haryana.",
+        "Reference Link": "https://www.tribuneindia.com/news/haryana/traditional-games-in-sports-activities-at-karnal-college-399950/"
+      },
+      {
+        "Game Name": "Posampa",
+        "Description": "A traditional game involving a group of children forming a circle and singing songs while performing coordinated movements. It fosters a sense of rhythm and community among participants.",
+        "Reference Link": "https://www.tribuneindia.com/news/haryana/traditional-games-in-sports-activities-at-karnal-college-399950/"
+      },
+      {
+        "Game Name": "Pitthu (Seven Stones)",
+        "Description": "Also known as 'Lagori', this game involves stacking seven flat stones and attempting to knock them over with a ball. Players then try to restore the pile while the opposing team throws the ball to hit them. It's a test of aim and agility.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seven_stones"
+      },
+      {
+        "Game Name": "Aankh Micholi (Blind Man's Buff)",
+        "Description": "A game where one player is blindfolded and attempts to catch others, who try to avoid being caught while occasionally teasing the seeker. It encourages sensory awareness and agility.",
+        "Reference Link": "https://www.tribuneindia.com/news/haryana/traditional-games-in-sports-activities-at-karnal-college-399950/"
+      },
+      {
+        "Game Name": "Kancha Goli (Marbles)",
+        "Description": "A game played with small glass marbles, where players aim to hit a target marble or knock opponents' marbles out of a designated area. It requires precision and strategic planning.",
+        "Reference Link": "https://www.tribuneindia.com/news/haryana/traditional-games-in-sports-activities-at-karnal-college-399950/"
+      },
+      {
+        "Game Name": "Unch-Neech Ka Papada",
+        "Description": "A traditional game where one player, designated as 'denner', tries to catch others who can only move when the denner calls out 'Unch' (high) or 'Neech' (low), indicating whether they should be on elevated surfaces or the ground. It enhances quick thinking and agility.",
+        "Reference Link": "https://www.tribuneindia.com/news/haryana/traditional-games-in-sports-activities-at-karnal-college-399950/"
+      },
+      {
+        "Game Name": "Kokla Chupki",
+        "Description": "A game where children sit in a circle while one player walks around them holding a cloth. The walker drops the cloth behind one of the seated players, who must then pick it up and chase the walker around the circle, trying to tag them before they occupy the vacated spot. It promotes alertness and speed.",
+        "Reference Link": "https://www.tribuneindia.com/news/haryana/traditional-games-in-sports-activities-at-karnal-college-399950/"
+      },
+      {
+        "Game Name": "Rassa Kashi (Tug of War)",
+        "Description": "A test of strength where two teams pull on opposite ends of a rope, each trying to drag the other team across a central line. It's commonly played during festivals and community gatherings in Haryana.",
+        "Reference Link": "https://www.zupee.com/blog/haryana-games/"
+      },
+      {
+        "Game Name": "Chaupar",
+        "Description": "An ancient board game that is the precursor to modern-day Ludo. Played on a cross-shaped board with dice and pawns, players race to move all their pieces to the center of the board, navigating based on dice rolls. It involves strategy and luck.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gyan_chauper"
+      },
+      {
+        "Game Name": "Rassa Rassi",
+        "Description": "A traditional game similar to tug of war, where two teams pull on opposite ends of a rope, aiming to bring the opposing team across a designated line. It tests strength and teamwork.",
+        "Reference Link": "https://www.zupee.com/blog/haryana-games/"
+      },
+      {
+        "Game Name": "Langdi Tang",
+        "Description": "A game where players hop on one leg and try to tag others. It enhances balance, agility, and coordination.",
+        "Reference Link": "https://www.zupee.com/blog/haryana-games/"
+      },
+      {
+        "Game Name": "Kho-Kho",
+        "Description": "A traditional tag game where two teams compete; one team sits or kneels in a row, and the opposing team's runners try to avoid being touched by members of the sitting team. It emphasizes speed, strategy, and teamwork.",
+        "Reference Link": "https://www.zupee.com/blog/haryana-games/"
+      },
+      {
+        "Game Name": "Rassa Kashi",
+        "Description": "A traditional game of tug of war, where two teams pull on opposite ends of a rope, each trying to drag the other team across a central line. It tests strength and teamwork.",
+        "Reference Link": "https://www.zupee.com/blog/haryana-games/"
+      },
+      {
+        "Game Name": "Poshampa",
+        "Description": "A traditional game where two players form an arch with their hands, and others pass under it in a line. At a certain point, the arch is lowered to capture a player, who is then out. It is accompanied by a song and is popular among children.",
+        "Reference Link": "https://www.tribuneindia.com/news/haryana/traditional-games-in-sports-activities-at-karnal-college-399950/"
+      }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Thoda",
+        "Description": "A traditional martial art form combining archery, dance, and music. Participants are divided into two teams, Saathi and Pashi, believed to be descendants of the Pandavas and Kauravas. The objective is to hit the opponent's leg below the knee with blunt arrows, showcasing agility and precision.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thoda_(archery)"
+      },
+      {
+        "Game Name": "Chaugan",
+        "Description": "A traditional game similar to polo, played with a ball, horses, and sticks. The term 'Chaugan' also refers to plains in Himachal Pradesh, notably in Chamba district, Sujanpur, and Jaisinghpur.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chaugan"
+      },
+      {
+        "Game Name": "Kaan Kutni",
+        "Description": "A lively game where one player climbs a tree while another throws a piece of footwear. The climber aims to reach the top quickly, while the thrower tries to hit the climber with the footwear before they descend. This game requires agility and speed.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Rai Rai Ratan Talai",
+        "Description": "In this energetic game, a circle is drawn on the ground with all participants except one inside. The outsider responds to chants and tries to pull participants out of the circle, while those inside defend their position by kicking at the outsider.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Dune Sliding",
+        "Description": "Children use polyethylene sheets to slide down sand dunes, especially after rain when the soil is wet and smooth. This activity requires balance and speed, providing thrilling entertainment.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Teego",
+        "Description": "Players place stones in a specific sequence, starting with three stones arranged in a straight line. The challenge is to add different types of stones one by one, following a set pattern, testing precision and strategic thinking.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Chidiya Ud, Tota Ud, Bhains Ud",
+        "Description": "A game where players follow instructions to 'fly' or stay grounded based on the leader’s command, encouraging coordination and quick reactions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Maar Dari",
+        "Description": "In this game, a cloth ball ('dari') is hit toward others who try to catch or avoid it. The objective is to avoid being hit by the ball while trying to control it.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Luniya Khati",
+        "Description": "Players draw figures on the ground and one player runs behind, trying to cross the drawn lines without being touched by the opposing player, testing speed and agility.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Satoliyo",
+        "Description": "Also known as Seven Stones, this game involves tossing one stone in the air, picking up remaining stones one by one, and catching the tossed stone before it falls, requiring coordination and skill.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Etti Daand",
+        "Description": "Played with two sticks—a larger one called the 'Daand' and a smaller one called the 'Etti.' The objective is to strike the Etti with the Daand, sending it into the air, and then hitting it as it lands, similar to cricket but with simpler equipment.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Khuta Gediya",
+        "Description": "Played during the Holi festival, a player stands inside a circle ('Khuta') and uses a strong wooden stick ('Gediya') to hit a cloth ball, aiming to knock it off a stick placed across two stones.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Dholiyo Bhato",
+        "Description": "A nighttime game where a white stone is thrown to the ground, and players search for it in the dark, adding an element of thrill and fun.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Kite Flying (Kiraṇī)",
+        "Description": "Popular during Akha Teez or Akshay Tritiya, villagers fly colorful kites and compete to cut others' strings, creating a lively and joyful atmosphere.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Gola",
+        "Description": "A traditional game played with marbles, where players aim to hit a target marble by flicking their own, requiring precision and accuracy.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Gadda",
+        "Description": "Also known as Five Small Stones, players throw five small stones in the air and catch them in various sequences, testing coordination and skill.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Kabaddi",
+        "Description": "A team sport where players take turns to enter the opposing team’s side, tag opponents, and return without being tackled, requiring strength, strategy, and endurance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Wrestling (Ghoḷ)",
+        "Description": "A traditional sport where two opponents try to pin each other to the ground using strength and technique, often taking place near the Holi festival.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Mala Uthana",
+        "Description": "A strength-based game played during the Holi festival, where participants lift a heavy stone with one hand to a certain height, showcasing physical power.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      },
+      {
+        "Game Name": "Hadbali",
+        "Description": "Played during the Holi festival, a cloth ball is thrown at a large stick ('Bali') placed across two stones, with the goal to knock the Bali off the stones by hitting it with the ball.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar"
+      }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Kati",
+        "Description": "A traditional game played by the Santhal tribe after harvests. Each player uses a semi-circular disc made of tamarind wood (kati) and a six-foot bamboo stick (tarhi). The objective is to hit the opponent's kati using the tarhi propelled by the feet.",
+        "Reference Link": "https://theindiantribal.com/2022/02/08/a-corporate-bid/"
+      },
+      {
+        "Game Name": "Sekkor",
+        "Description": "Played by the Ho tribe, Sekkor involves a large oval-shaped wooden top attached to a string. Teams aim to hit the opponent's sekkor out of a marked circle within a set time.",
+        "Reference Link": "https://www.tatasteel.com/initiatives/samvaad/samvaad-2017-tribal-sports.html"
+      },
+      {
+        "Game Name": "Firkal",
+        "Description": "A martial art folk dance of the Bhumij tribe, utilizing swords, arrows, bows, and shields. It portrays hunting scenes and self-defense techniques.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Firkal"
+      },
+      {
+        "Game Name": "Satkhapri",
+        "Description": "Also known as Seven Stones, this game involves knocking over a pile of seven stones with a ball and attempting to rebuild the pile before the opposing team can hit the players with the ball.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seven_stones"
+      },
+      {
+        "Game Name": "Kit-Kit",
+        "Description": "A hopping game similar to hopscotch, where players toss a piece of stone into numbered rectangles drawn on the ground and hop through them to retrieve the stone.",
+        "Reference Link": "https://www.alamy.com/children-playing-kit-kit-a-traditional-game-played-in-villages-kurmi-image67886993.html"
+      },
+      {
+        "Game Name": "Chhau Dance",
+        "Description": "A traditional dance form that combines martial arts, mock combat, and storytelling, performed during festivals and reflecting the cultural heritage of Jharkhand.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhau_dance"
+      },
+      {
+        "Game Name": "Hadbadi",
+        "Description": "A traditional game where players form two teams and try to capture each other's territory by crossing a line drawn on the ground, emphasizing strategy and agility.",
+        "Reference Link": "https://www.tatasteel.com/initiatives/samvaad/samvaad-2017-tribal-sports.html"
+      },
+      {
+        "Game Name": "Chhur",
+        "Description": "A traditional archery game where participants use bows and arrows to hit a target, reflecting the hunting practices of tribal communities.",
+        "Reference Link": "https://theindiantribal.com/2022/02/08/a-corporate-bid/"
+      },
+      {
+        "Game Name": "Jhumar",
+        "Description": "A traditional dance game performed during harvest festivals, involving rhythmic movements and singing, reflecting the agrarian culture of Jharkhand.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jhumair"
+      },
+      {
+        "Game Name": "Phagua",
+        "Description": "A traditional game played during the Holi festival, involving singing, dancing, and playful throwing of colors, reflecting the vibrant cultural celebrations of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Holi"
+      }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Chinni Dandu",
+        "Description": "Known as Gilli Danda; involves hitting a small stick with a larger stick.",
+        "Reference Link": "https://www.karnataka.com/profile/traditional-games/"
+      },
+      {
+        "Game Name": "Buguri",
+        "Description": "Spinning top game; players spin wooden tops using a string.",
+        "Reference Link": "https://www.karnataka.com/profile/traditional-games/"
+      },
+      {
+        "Game Name": "Goti",
+        "Description": "Marble game; players aim to hit target marbles with their own.",
+        "Reference Link": "https://www.karnataka.com/profile/traditional-games/"
+      },
+      {
+        "Game Name": "Kallu Gundu Ettuvudu",
+        "Description": "Stone lifting game; participants lift heavy stone balls.",
+        "Reference Link": "https://www.karnataka.com/profile/traditional-games/"
+      },
+      {
+        "Game Name": "Chowka Bara",
+        "Description": "Traditional board game; involves strategic movement of pawns on a square board.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chowka_bhara"
+      },
+      {
+        "Game Name": "Ali Guli Mane",
+        "Description": "Mancala game; played with seeds and a wooden board with cups.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pallanguzhi"
+      },
+      {
+        "Game Name": "Kambala",
+        "Description": "Annual buffalo race held in water-filled paddy fields.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kambala"
+      },
+      {
+        "Game Name": "Hori Habba",
+        "Description": "Festival involving bull chasing; participants try to catch bulls to retrieve prizes.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hori_Habba"
+      },
+      {
+        "Game Name": "Kunte Bille",
+        "Description": "Hopscotch game; players hop through numbered squares drawn on the ground.",
+        "Reference Link": "https://www.zupee.com/blog/karnataka-games/"
+      },
+      {
+        "Game Name": "Huli Gatta",
+        "Description": "Tigers and goats game; strategic board game involving tigers hunting goats.",
+        "Reference Link": "https://www.asiainch.org/craft/traditional-board-games-of-karnataka/"
+      },
+      {
+        "Game Name": "Pagade",
+        "Description": "Traditional dice game; similar to Ludo; played on a cross-shaped board.",
+        "Reference Link": "https://www.asiainch.org/craft/traditional-board-games-of-karnataka/"
+      },
+      {
+        "Game Name": "Chinni Kol",
+        "Description": "Game involving hitting a small stick (gilli) with a larger stick (danda).",
+        "Reference Link": "https://online.fliphtml5.com/yqrjs/nojo/"
+      },
+      {
+        "Game Name": "Chowka Bhara",
+        "Description": "Board game with strategic movement; played with cowry shells.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chowka_bhara"
+      },
+      {
+        "Game Name": "Pallanguzhi",
+        "Description": "Traditional mancala game; played with seeds and a wooden board with cups.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pallanguzhi"
+      },
+      {
+        "Game Name": "Chinni Dandu",
+        "Description": "Popular outdoor game; involves hitting a small stick with a larger stick.",
+        "Reference Link": "https://online.fliphtml5.com/yqrjs/nojo/"
+      }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Kuttiyum Kolum",
+        "Description": "A traditional game similar to cricket and baseball, played with a short stick ('kutti') and a longer stick ('kol'). The player uses the 'kol' to strike the 'kutti' and send it flying, aiming to cover maximum distance.",
+        "Reference Link": "https://www.keralatourism.org/onam/onam-games/kuttiyum-kolum"
+      },
+      {
+        "Game Name": "Pallankuzhi",
+        "Description": "A traditional mancala game played on a wooden board with 14 pits. Players distribute seeds or shells across the pits, aiming to capture as many as possible. It enhances mathematical skills and strategic thinking.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pallanguzhi"
+      },
+      {
+        "Game Name": "Kilim Kalyanam",
+        "Description": "A traditional game played during the Onam festival, where participants mimic the wedding of a parrot ('kilim'). It involves role-playing and singing traditional songs, reflecting cultural narratives.",
+        "Reference Link": "https://www.keralatourism.org/onam/onam-games"
+      },
+      {
+        "Game Name": "Thalappanthukali",
+        "Description": "A traditional ball game played during the Onam festival, involving teams aiming to hit a ball over a net using only their heads. It requires agility and coordination.",
+        "Reference Link": "https://www.keralatourism.org/onam/onam-games"
+      },
+      {
+        "Game Name": "Onathallu",
+        "Description": "A traditional martial art form performed during Onam, where participants engage in friendly combat, showcasing strength and skill. It reflects the warrior traditions of Kerala.",
+        "Reference Link": "https://www.keralatourism.org/onam/onam-games"
+      },
+      {
+        "Game Name": "Uriyadi",
+        "Description": "A traditional game where a pot filled with goodies is hung high, and blindfolded participants attempt to break it using a stick. It is a test of coordination and is popular during festivals.",
+        "Reference Link": "https://www.keralatourism.org/onam/onam-games"
+      },
+      {
+        "Game Name": "Kilithattu",
+        "Description": "A traditional game that originated as military training for the common man in ancient Kerala. It has close resemblance to the martial art form of Kalaripayattu and involves physical challenges.",
+        "Reference Link": "https://dsya.kerala.gov.in/native_sports"
+      },
+      {
+        "Game Name": "Pulikali",
+        "Description": "A traditional folk art where performers paint themselves like tigers and dance to the beats of instruments. It is performed during festivals like Onam, reflecting the hunting traditions of Kerala.",
+        "Reference Link": "https://www.keralatourism.org/onam/onam-games"
+      },
+      {
+        "Game Name": "Kummattikali",
+        "Description": "A traditional masked dance performed during Onam, where participants wear colorful wooden masks and dance to traditional songs. It reflects the rich cultural heritage of Kerala.",
+        "Reference Link": "https://www.keralatourism.org/onam/onam-games"
+      },
+      {
+        "Game Name": "Thiruvathirakali",
+        "Description": "A traditional dance performed by women during the Thiruvathira festival, involving graceful movements in a circle around a lamp. It reflects the cultural traditions of Kerala.",
+        "Reference Link": "https://www.keralatourism.org/onam/onam-games"
+      },
+      {
+        "Game Name": "Vadamvali (Tug of War)",
+        "Description": "A traditional sport where two teams pull on opposite ends of a rope, each trying to pull the other team across a central line. It is a test of strength and teamwork.",
+        "Reference Link": "https://www.keralatourism.org/onam/onam-games"
+      },
+      {
+        "Game Name": "Chathurangam",
+        "Description": "An ancient board game believed to be the precursor to modern chess, played on an 8x8 grid with pieces representing different military units. It reflects strategic thinking and planning.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chaturanga"
+      }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Sitoliya (Pittu)",
+        "Description": "Also known as 'Seven Stones,' this game involves stacking seven flat stones and attempting to knock them over with a ball. Players then try to restore the pile while the opposing team throws the ball to hit them. It's a test of aim and agility.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seven_stones"
+      },
+      {
+        "Game Name": "Gilli Danda",
+        "Description": "A game resembling cricket and baseball, played with two sticks: a 'gilli' (small stick) and a 'danda' (longer stick). The player strikes the gilli with the danda, flipping it into the air, and then hits it again to cover maximum distance. It's a popular rural pastime in Madhya Pradesh.",
+        "Reference Link": "https://www.mponline.in/guide/sports-in-madhya-pradesh"
+      },
+      {
+        "Game Name": "Kho-Kho",
+        "Description": "A traditional tag game where two teams compete; one team sits or kneels in a row, and the opposing team's runners try to avoid being touched by members of the sitting team. It emphasizes speed, strategy, and teamwork.",
+        "Reference Link": "https://www.mponline.in/guide/sports-in-madhya-pradesh"
+      },
+      {
+        "Game Name": "Kancha (Marbles)",
+        "Description": "A game played with small glass marbles, where players aim to hit a target marble or knock opponents' marbles out of a designated area. It requires precision and strategic planning.",
+        "Reference Link": "https://www.mponline.in/guide/sports-in-madhya-pradesh"
+      },
+      {
+        "Game Name": "Langdi",
+        "Description": "A traditional game where players hop on one leg and try to tag others. It enhances balance, agility, and coordination.",
+        "Reference Link": "https://www.mponline.in/guide/sports-in-madhya-pradesh"
+      },
+      {
+        "Game Name": "Chaupad",
+        "Description": "An ancient board game that is the precursor to modern-day Ludo. Played on a cross-shaped board with dice and pawns, players race to move all their pieces to the center of the board, navigating based on dice rolls. It involves strategy and luck.",
+        "Reference Link": "https://www.zupee.com/blog/madhya-pradesh-games/"
+      },
+      {
+        "Game Name": "Antakshari",
+        "Description": "A spoken parlor game played in India, in which each contestant sings the first verse of a song that begins with the Hindustani consonant on which the previous contestant's song selection ended.",
+        "Reference Link": "https://www.zupee.com/blog/madhya-pradesh-games/"
+      },
+      {
+        "Game Name": "Rummy",
+        "Description": "A group of matching-card games notable for similar gameplay based on matching cards of the same rank or sequence and same suit.",
+        "Reference Link": "https://www.zupee.com/blog/madhya-pradesh-games/"
+      },
+      {
+        "Game Name": "Mallakhamba",
+        "Description": "A traditional sport in which gymnasts perform aerial yoga and gymnastic postures using wrestling grips in concert with a stationary vertical pole. It requires strength, flexibility, and agility.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mallakhamba"
+      },
+      {
+        "Game Name": "Kabaddi",
+        "Description": "A contact team sport where players take turns to raid the opposing team's half, aiming to tag opponents and return to their half without being tackled. It requires strength, strategy, and agility.",
+        "Reference Link": "https://www.incredibleindiadestinations.com/traditional-games-from-india/"
+      },
+      {
+        "Game Name": "Satoliya",
+        "Description": "A game similar to Sitoliya, involving a ball and seven stacked stones, which a striker team has to knock over and then rebuild while the opposing team tries to prevent this.",
+        "Reference Link": "https://www.zupee.com/blog/madhya-pradesh-games/"
+      }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Viti Dandu",
+        "Description": "Also known as Gilli Danda, this game involves a small stick (gilli) and a larger stick (danda). The player uses the danda to strike the gilli, flipping it into the air, and then hits it again to send it as far as possible. It's a traditional game popular in rural areas.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gilli-danda"
+      },
+      {
+        "Game Name": "Kho-Kho",
+        "Description": "A traditional tag game where two teams compete; one team sits or kneels in the middle of the field, while the other team sends runners. The objective is to tag the runners as quickly as possible, emphasizing speed and strategy.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kho_kho"
+      },
+      {
+        "Game Name": "Langdi",
+        "Description": "A traditional field sport combining elements of tag and hopscotch. Players hop on one foot and attempt to tag opponents within a defined area. It is described by Marathis as a sport with a Marathi ethos.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Langdi_(sport)"
+      },
+      {
+        "Game Name": "Atya-Patya",
+        "Description": "A traditional Indian tag sport played by two teams of nine players each. The playing area consists of multiple trenches, and the objective is for attackers to cross these trenches without being tagged by defenders. It is more commonly played in Maharashtra.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Atya_patya"
+      },
+      {
+        "Game Name": "Seven Stones (Lagori)",
+        "Description": "Known locally as Lagori, this game involves a ball and a pile of flat stones. One team tries to knock over the pile with the ball and then rebuild it while the opposing team attempts to prevent this by throwing the ball at the players.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seven_stones"
+      },
+      {
+        "Game Name": "Satoliya",
+        "Description": "Also known as Seven Stones, this game involves stacking seven flat stones and attempting to knock them over with a ball. Players then try to rebuild the stack while avoiding being hit by the opposing team's throws.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seven_stones"
+      },
+      {
+        "Game Name": "Bhendya",
+        "Description": "A traditional game where players use a stick to hit a small object, aiming to send it as far as possible. It is similar to Gilli Danda but has regional variations unique to Maharashtra.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gilli-danda"
+      },
+      {
+        "Game Name": "Kancha",
+        "Description": "A game played with marbles, where players aim to hit a target marble by flicking their own. It requires precision and is popular among children in rural areas.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kancha_(game)"
+      },
+      {
+        "Game Name": "Chor Police",
+        "Description": "A game of tag where players are divided into two groups: thieves (chor) and police. The police chase and try to catch the thieves within a designated area.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chor_Police_(game)"
+      },
+      {
+        "Game Name": "Saakhli",
+        "Description": "A traditional chain-tag game where once a player is tagged, they join hands with the tagger to form a chain. The chain grows longer as more players are tagged, making it challenging to avoid being caught.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Saakhli"
+      },
+      {
+        "Game Name": "Surparambya",
+        "Description": "A traditional game involving a rope tied between two poles. Players take turns swinging and performing acrobatic moves, showcasing strength and agility.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Surparambya"
+      },
+      {
+        "Game Name": "Bhavra",
+        "Description": "A game involving spinning tops, where players compete to keep their tops spinning the longest or to knock over others' tops. It requires skill and precision.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhavra_(game)"
+      },
+      {
+        "Game Name": "Zimma",
+        "Description": "A traditional singing game played by girls, involving clapping hands in a rhythmic pattern while singing folk songs. It promotes coordination and cultural expression.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Zimma_(game)"
+      },
+      {
+        "Game Name": "Fugadi",
+        "Description": "A traditional dance game where participants form a circle, hold hands, and spin around while singing folk songs. It is commonly played during festivals and celebrations.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Fugadi"
+      },
+      {
+        "Game Name": "Ekka-Dokka",
+        "Description": "A hopping game similar to hopscotch, where players draw a grid on the ground and take turns hopping on one foot to reach the end without stepping on the lines.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ekka-Dokka"
+      },
+      {
+        "Game Name": "Dagadya-Bharyalya",
+        "Description": "A traditional game where one player acts as a 'stone' (dagadya) and others try to provoke or tease without getting caught. If caught, the roles are switched.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dagadya-Bharyalya"
+      },
+      {
+        "Game Name": "Gotya",
+        "Description": "A marble game where players aim to hit a target marble or shoot marbles into a hole, requiring accuracy and strategy.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gotya_(game)"
+      },
+      {
+        "Game Name": "Patang Ghumavane",
+        "Description": "Kite flying, especially popular during festivals like Makar Sankranti. Participants fly kites and engage in friendly battles to cut each other's kite strings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Patang_Ghumavane"
+      },
+      {
+        "Game Name": "Bhendya-Bhendi",
+        "Description": "A traditional hide-and-seek game where one player searches for others who are hiding within a designated area. It promotes stealth and observation skills.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhendya-Bhendi"
+      },
+      {
+        "Game Name": "Vagh-Bakri",
+        "Description": "A game resembling tag, where one player acts as a tiger (vagh) and others as goats (bakri). The tiger chases and tries to catch the goats within a defined area.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Vagh-Bakri"
+      }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Sagol Kangjei (Manipuri Polo)",
+        "Description": "Considered the origin of modern polo, Sagol Kangjei is played with seven players on each side, mounted on ponies approximately 4-5 feet in height. Players use a cane stick to hit a ball made of bamboo root into the opponent's goal.",
+        "Reference Link": "https://manipurtourism.gov.in/indigenous-game-of-manipur/"
+      },
+      {
+        "Game Name": "Yubi Lakpi (Manipuri Rugby)",
+        "Description": "Yubi Lakpi, meaning 'coconut snatching,' is a traditional full-contact game played with a greased coconut. Each team has seven players, and the objective is to carry the coconut and cross the goal line, while the opposing team attempts to stop them.",
+        "Reference Link": "https://manipurtourism.gov.in/indigenous-game-of-manipur/"
+      },
+      {
+        "Game Name": "Thang Ta & Sarit Sarak (Manipuri Martial Arts)",
+        "Description": "Thang Ta is a traditional martial art form involving the use of swords and spears, showcasing skillful and energetic combat techniques. Sarit Sarak focuses on unarmed combat, emphasizing agility and precision.",
+        "Reference Link": "https://www.manipuronline.in/guide/sports-in-manipur"
+      },
+      {
+        "Game Name": "Khong Kangjei (Manipuri Hockey)",
+        "Description": "Khong Kangjei combines elements of hockey and wrestling. Played with seven players on each side, participants use a bamboo stick to hit a ball made of seasoned bamboo roots, aiming to score by crossing the goal line.",
+        "Reference Link": "https://www.manipuronline.in/guide/sports-in-manipur"
+      },
+      {
+        "Game Name": "Mukna (Manipuri Wrestling)",
+        "Description": "Mukna is a traditional form of wrestling where two male competitors engage in a physical contest of strength and skill, aiming to pin the opponent to the ground. It has been a prestigious game with royal patronage.",
+        "Reference Link": "https://www.manipuronline.in/guide/sports-in-manipur"
+      },
+      {
+        "Game Name": "Kang",
+        "Description": "Played mainly during the 'Cheiraoba' and 'Rath Yatra' festivals, Kang involves hitting fixed targets on a mud floor with a 'Kang.' Each team consists of seven male players. It is believed that playing beyond the given time may invite evil spirits.",
+        "Reference Link": "https://www.manipuronline.in/guide/sports-in-manipur"
+      },
+      {
+        "Game Name": "Hiyang Tannaba (Boat Race)",
+        "Description": "Held in November at Loktak Lake and Thangapat, this traditional boat race features boats called Hiyang Hiren, believed to possess spiritual powers. The Meitei people consider the boats sacred and play the game during times of natural calamity.",
+        "Reference Link": "https://www.manipuronline.in/guide/sports-in-manipur"
+      },
+      {
+        "Game Name": "Oolaobi",
+        "Description": "An outdoor game primarily played by females, Oolaobi involves rules similar to Kabaddi. According to mythology, this game was played by deities, adding a spiritual significance to its practice.",
+        "Reference Link": "https://www.manipuronline.in/guide/sports-in-manipur"
+      },
+      {
+        "Game Name": "Arambai Hunba",
+        "Description": "A traditional game where participants throw arambai (dart-like weapons) while riding horses, showcasing martial skills and agility. It reflects the historical warfare techniques of Manipur.",
+        "Reference Link": "https://www.geocities.ws/robinsonsorokhaibam/features/Indigenious_game_of_manipur.htm"
+      },
+      {
+        "Game Name": "Phibul Thomba",
+        "Description": "A traditional children's game involving strategic placement and movement of small objects, enhancing cognitive skills and reflecting cultural storytelling.",
+        "Reference Link": "https://www.historyjournal.net/article/283/6-1-47-829.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Rah Mukhrah",
+        "Description": "Jaintia game; competitors carry heavy rounded rocks to a finish line.",
+        "Reference Link": "https://hubnetwork.in/5th-meghalaya-games-tradition-meets-modernity-traditional-games-become-huge-hit-strengthen-inter-tribal-bonds/"
+      },
+      {
+        "Game Name": "Mawpoin",
+        "Description": "Khasi game; teams build stone pyramids while opponents aim to dismantle them.",
+        "Reference Link": "https://hubnetwork.in/5th-meghalaya-games-tradition-meets-modernity-traditional-games-become-huge-hit-strengthen-inter-tribal-bonds/"
+      },
+      {
+        "Game Name": "Wa’Pong Sika",
+        "Description": "Garo game; two teams push a bamboo pole towards the opponent's goal.",
+        "Reference Link": "https://hubnetwork.in/5th-meghalaya-games-tradition-meets-modernity-traditional-games-become-huge-hit-strengthen-inter-tribal-bonds/"
+      },
+      {
+        "Game Name": "An·ding Oka",
+        "Description": "Garo game; participants pull a bamboo stick towards themselves in a test of strength.",
+        "Reference Link": "https://www.sportskeeda.com/indian-sports/news-meghalaya-games-2025-everything-need-know-3-unique-traditional-sports-6th-edition"
+      },
+      {
+        "Game Name": "Dad-lawakor",
+        "Description": "Jaintia game; a football-like game played with a wooden ball during Behdienkhlam festival.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Behdienkhlam"
+      },
+      {
+        "Game Name": "Iatan-Bhang",
+        "Description": "Jaintia game; a tug-of-war over a large wooden log during Behdienkhlam festival.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Behdienkhlam"
+      },
+      {
+        "Game Name": "Gando Makhal Pala",
+        "Description": "Garo traditional wrestling; unique rules differing from mainstream wrestling.",
+        "Reference Link": "https://www.internationaljournalcorner.com/index.php/ijird_ojs/article/download/133285/92492/323375"
+      },
+      {
+        "Game Name": "Archery",
+        "Description": "Traditional sport among Khasi tribe; involves betting and is culturally significant.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sport_in_Meghalaya"
+      }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Insuknawr",
+        "Description": "Known as the 'rod-pushing' sport, Insuknawr is an indigenous game of Mizoram played exclusively by men. Participants use an 8-foot-long wooden rod and attempt to push their opponent out of a circle with a diameter of 16 to 18 feet. The game tests strength and stamina and has been declared the 'Mizo National Game' by the Mizoram State Sports Council.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Insuknawr"
+      },
+      {
+        "Game Name": "Inbuan Wrestling",
+        "Description": "A traditional combat-wrestling game played within a circle of about 16 feet in diameter on carpet grass. Participants aim to lift their opponent off the ground using strength, skill, and rapid movements of arms and legs. Kicking, stepping outside the ring, and bending knees are prohibited.",
+        "Reference Link": "https://sports.indiapress.org/inbuan.php"
+      },
+      {
+        "Game Name": "Khanchhuak Atanga Invuak Thlak",
+        "Description": "In this game, two individuals sit on a pole and balance themselves while attempting to strike each other with padded clubs. The objective is to maintain balance while displacing the opponent.",
+        "Reference Link": "https://www.eastmojo.com/news/2019/09/21/5-mizo-indigenous-games-that-you-probably-didnt-know-about/"
+      },
+      {
+        "Game Name": "Insaihruipawh",
+        "Description": "A traditional tug-of-war game where two teams pull on opposite ends of a rope, each trying to drag the other team across a central line. It emphasizes strength and teamwork.",
+        "Reference Link": "https://www.facebook.com/FitIndiaOff/videos/mizoram-traditional-games/2315034425269233/"
+      },
+      {
+        "Game Name": "Chhawnghnawh",
+        "Description": "A pre-Christian custom revived during the Chapchar Kut festival, where participants stuff boiled eggs into each other's mouths. It is a playful activity reflecting traditional Mizo hospitality.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chapchar_Kut"
+      },
+      {
+        "Game Name": "Chai",
+        "Description": "Performed during the Chapchar Kut festival, this dance involves boys and girls standing in a circle alternately with their hands on each other's shoulders. Musicians stand inside the circle, playing rhythms to which participants dance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Game Name": "Chheihlam",
+        "Description": "A dance performed by a single person of either gender, accompanied by a group sitting in a circle clapping and musicians playing drums. The dancer performs until tired, then tags another to continue. The accompanying song, 'Chheih hla,' recounts heroic deeds and escapades.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Game Name": "Khuallam",
+        "Description": "Known as the 'guest dance,' traditionally performed by men. It was performed by honored invitees while entering the arena of a feast called 'khuangchawi.' Dancers move in the village streets wearing 'puandum' (traditional shawls).",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Game Name": "Sarlamkai",
+        "Description": "Originating from the Pawi and Lakher communities, this dance was associated with war. After a raid or battle, a ceremony was performed to deride the vanquished. The dance relies solely on rhythm from gongs, cymbals, and drums, with participants standing in a circle.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_culture"
+      },
+      {
+        "Game Name": "Cheraw Dance",
+        "Description": "Also known as the bamboo dance, it involves male performers holding pairs of bamboo staves on the ground. Female dancers step in and out between the beating bamboo staves in intricate steps. It is one of the most famous dances among Mizo communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Cheraw_(dance)"
+      }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Kene (Naga Wrestling)",
+        "Description": "A traditional folk wrestling style and a significant sport among the Naga tribes. Wrestlers aim to throw their opponents to the ground, showcasing strength, technique, and balance. It is a prominent feature during festivals and cultural events.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagaland"
+      },
+      {
+        "Game Name": "Aki Kiti (Sümi Kick Fighting)",
+        "Description": "A semi-contact combat sport originating from the Sümi Naga tribe. Characterized by participants using only the soles of their feet to kick and block, the objective is to make the opponent fall or step out of the designated ring. It was traditionally used to settle disputes without resorting to violence.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Aki_Kiti"
+      },
+      {
+        "Game Name": "Terhüchü",
+        "Description": "A two-player abstract strategy board game played by the Angami Naga tribe. Similar to Alquerque, players aim to capture all of the opponent's pieces by hopping over them. The game emphasizes strategic planning and foresight.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Terh%C3%BCch%C3%BC"
+      },
+      {
+        "Game Name": "Pcheda",
+        "Description": "A traditional game played in Viswema village, where participants throw thin bamboo sticks called 'Opche' from a set distance. The team that throws the stick the farthest wins. An open competition is held annually in January.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pcheda"
+      },
+      {
+        "Game Name": "Luda",
+        "Description": "An indigenous game of the Southern Angami villages, played solely by men. It involves physical activity and is performed during cultural festivals to promote brotherhood and develop physical strength.",
+        "Reference Link": "https://morungexpress.com/angami-nagas-perform-indigenous-games"
+      },
+      {
+        "Game Name": "Thulo",
+        "Description": "Another traditional game of the Southern Angami, details of which are limited, but it is performed during cultural events and festivals.",
+        "Reference Link": "https://morungexpress.com/angami-nagas-perform-indigenous-games"
+      },
+      {
+        "Game Name": "Top Spin (Shung Khama Chih Khi)",
+        "Description": "Played by the Yimkhiungru tribe during the winter season after harvest. Men spin their tops, and opponents attempt to hit the spinning top with their own, showcasing precision and timing.",
+        "Reference Link": "https://yimkhiungrutruk.org/2017/10/01/the-indigenous-games-sports-of-yimkhiungru-tribe/"
+      },
+      {
+        "Game Name": "Grease Bamboo Climbing",
+        "Description": "A traditional game where participants attempt to climb a vertically erected bamboo pole that has been greased with mustard oil or animal fat. The challenge tests strength, agility, and technique.",
+        "Reference Link": "https://www.dsource.in/resource/resonances-nagaland/games-nagaland"
+      },
+      {
+        "Game Name": "Cock Fighting",
+        "Description": "A traditional sport among certain Naga tribes, where trained cocks are pitted against each other in a controlled environment. It requires skill in training the birds and is often accompanied by cultural rituals.",
+        "Reference Link": "https://sports.indiapress.org/nagaland_arunachal_games.php"
+      }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Ganjapa",
+        "Description": "A traditional card game from Odisha, played with circular Pattachitra-painted cards. Originating in the 16th century, it involves various suits and is popular in regions like Puri and Ganjam.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ganjapa"
+      },
+      {
+        "Game Name": "Thia Puchi",
+        "Description": "A traditional game where participants squat and shift their weight from one leg to another in quick succession. It is commonly played by girls during festivals like Raja and Kumar Purnima.",
+        "Reference Link": "https://www.orissapost.com/childhoods-traditional-games-fading-into-oblivion/"
+      },
+      {
+        "Game Name": "Bagha-Chheli",
+        "Description": "A strategic board game representing a tiger and goats, where one player controls the tiger and the other controls multiple goats. The objective is for the goats to block the tiger's movements.",
+        "Reference Link": "https://enewsinsight.com/revisit-childhood-memories-with-these-traditional-games-in-odisha/"
+      },
+      {
+        "Game Name": "Kith Kith",
+        "Description": "Also known as hopscotch, players draw a grid on the ground and take turns hopping on one foot to reach the end without stepping on the lines. It is a popular game among children.",
+        "Reference Link": "https://enewsinsight.com/revisit-childhood-memories-with-these-traditional-games-in-odisha/"
+      },
+      {
+        "Game Name": "Guti",
+        "Description": "A traditional board game played with small stones or seeds, involving strategic movement and capturing of the opponent's pieces.",
+        "Reference Link": "https://enewsinsight.com/revisit-childhood-memories-with-these-traditional-games-in-odisha/"
+      },
+      {
+        "Game Name": "Danga Pani",
+        "Description": "A game that simulates daily activities, where children mimic fetching water from a pond or river and preparing traditional food items symbolically.",
+        "Reference Link": "https://kddf.wordpress.com/wp-content/uploads/2011/11/758-3179-1-pb.pdf"
+      },
+      {
+        "Game Name": "Bohu Chori",
+        "Description": "A traditional game where one player acts as a bride, and others attempt to 'steal' her without being caught by the 'groom' or 'family' members.",
+        "Reference Link": "https://enewsinsight.com/revisit-childhood-memories-with-these-traditional-games-in-odisha/"
+      },
+      {
+        "Game Name": "Raja Doli",
+        "Description": "Played during the Raja festival, this game involves swinging on makeshift swings, often tied to trees, celebrating womanhood and the onset of monsoon.",
+        "Reference Link": "https://enewsinsight.com/revisit-childhood-memories-with-these-traditional-games-in-odisha/"
+      },
+      {
+        "Game Name": "Guchi Tandu",
+        "Description": "Similar to Gilli Danda, this game involves a small stick (guchi) and a larger stick (tandu). The player uses the tandu to strike the guchi, flipping it into the air, and then hits it again to send it as far as possible.",
+        "Reference Link": "https://enewsinsight.com/revisit-childhood-memories-with-these-traditional-games-in-odisha/"
+      },
+      {
+        "Game Name": "Rumal Chori",
+        "Description": "A game where a handkerchief is placed in the center, and teams compete to retrieve it without being tagged by the opposing team.",
+        "Reference Link": "https://enewsinsight.com/revisit-childhood-memories-with-these-traditional-games-in-odisha/"
+      },
+      {
+        "Game Name": "Kanamachi",
+        "Description": "A traditional game similar to blind man's buff, where one player is blindfolded and tries to catch the other players.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kanamachi"
+      },
+      {
+        "Game Name": "Paen Anba",
+        "Description": "A game depicting daily activities, where children mimic fetching water and preparing traditional food items symbolically.",
+        "Reference Link": "https://kddf.wordpress.com/wp-content/uploads/2011/11/758-3179-1-pb.pdf"
+      },
+      {
+        "Game Name": "Mahulbeta",
+        "Description": "A game representing the collection of Mahua flowers, reflecting the day-to-day work of forest-dwelling tribal people in Western Odisha.",
+        "Reference Link": "https://kddf.wordpress.com/wp-content/uploads/2011/11/758-3179-1-pb.pdf"
+      },
+      {
+        "Game Name": "Kathjiba",
+        "Description": "A game that simulates collecting firewood, depicting the daily activities of tribal communities in Western Odisha.",
+        "Reference Link": "https://kddf.wordpress.com/wp-content/uploads/2011/11/758-3179-1-pb.pdf"
+      },
+      {
+        "Game Name": "Raja Mantri Chor Sipahi",
+        "Description": "A role-playing game involving four players assigned roles of king, minister, thief, and police; the king tries to identify the thief based on the minister's hint.",
+        "Reference Link": "https://www.mycitylinks.in/classic-odia-games-that-will-make-you-nostalgic"
+      },
+      {
+        "Game Name": "Andha Putuli",
+        "Description": "A game where one player is blindfolded and tries to catch the other players. Once caught, the next player is blindfolded.",
+        "Reference Link": "https://www.mycitylinks.in/classic-odia-games-that-will-make-you-nostalgic"
+      },
+      {
+        "Game Name": "Rasi Tana",
+        "Description": "Also known as tug-of-war, this game involves two teams pulling on opposite ends of a rope, with the goal to bring the rope a certain distance in one direction against the force of the opposing team's pull.",
+        "Reference Link": "https://www.odishaonline.in/guide/sports-in-odisha"
+      },
+      {
+        "Game Name": "Nadia Phinga",
+        "Description": "A traditional game involving the throwing of coconuts, testing strength and accuracy.",
+        "Reference Link": "https://www.odishaonline.in/guide/sports-in-odisha"
+      },
+      {
+        "Game Name": "Kelibadi",
+        "Description": "A traditional game played in Odisha, details of which are limited but known to be part of the region's cultural heritage.",
+        "Reference Link": "https://www.odishaonline.in/guide/sports-in-odisha"
+      },
+      {
+        "Game Name": "Gudu",
+        "Description": "A traditional game played in Odisha, details of which are limited but known to be part of the region's cultural heritage.",
+        "Reference Link": "https://www.odishaonline.in/guide/sports-in-odisha"
+      }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Kabaddi",
+        "Description": "A contact team sport where players take turns to raid the opposing team's half, aiming to tag as many defenders as possible and return to their half without being tackled. It is a popular traditional sport in Punjab.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Punjab,_India"
+      },
+      {
+        "Game Name": "Gilli Danda",
+        "Description": "An amateur sport played with a long stick (danda) and a small, oval-shaped piece of wood (gilli). The player strikes the gilli with the danda, flipping it into the air, and then hits it again to send it as far as possible. It is similar to cricket and is popular among rural youth in Punjab.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Punjab,_India"
+      },
+      {
+        "Game Name": "Kokla Chhapaki",
+        "Description": "A traditional game where children sit in a circle, and one child walks around the circle holding a cloth, singing a rhyme. The child secretly drops the cloth behind another child, who must then pick it up and chase the first child, attempting to tag them before they can sit in the vacated spot.",
+        "Reference Link": "https://www.dsource.in/resource/indian-games/outdoor-games/kokla-chappaki"
+      },
+      {
+        "Game Name": "Lukan Miti (Hide and Seek)",
+        "Description": "A classic children's game where one player closes their eyes and counts while the others hide. After counting, the seeker tries to find the hidden players. It is a popular game among both boys and girls in Punjab.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Punjab,_India"
+      },
+      {
+        "Game Name": "Pithoo Garam (Seven Stones)",
+        "Description": "A game involving two teams. One team stacks seven flat stones and tries to knock them over with a ball. After knocking them over, the team attempts to rebuild the stack while the opposing team tries to hit them with the ball to prevent them from succeeding.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Punjab,_India"
+      },
+      {
+        "Game Name": "Kikli",
+        "Description": "A game primarily played by girls, where two players clasp hands and spin in circles, singing traditional songs. It is a form of recreational activity and dance, reflecting the cultural heritage of Punjab.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Qila_Raipur_Sports_Festival"
+      },
+      {
+        "Game Name": "Kidi Kada (Stapoo)",
+        "Description": "Also known as hopscotch, this game involves drawing a grid on the ground and numbering the sections. Players throw a small object into the numbered sections and hop through the grid to retrieve it, following specific rules.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Punjab,_India"
+      },
+      {
+        "Game Name": "Rassa Kashi (Tug of War)",
+        "Description": "A traditional game where two teams pull on opposite ends of a rope, each trying to drag the other team across a central line. It tests strength and teamwork and is popular during festivals and fairs in Punjab.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Punjab,_India"
+      },
+      {
+        "Game Name": "Khidu",
+        "Description": "A game involving a ball, where girls sing rhymes while playing. It is suitable for children and involves various rounds, each with its own song and actions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Qila_Raipur_Sports_Festival"
+      },
+      {
+        "Game Name": "Gheeta Pathar",
+        "Description": "A game played with pebbles or broken pieces of earthenware. Players sit on the floor and engage in activities involving these small objects, following specific rules. It is a traditional game that does not involve running or jumping.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Qila_Raipur_Sports_Festival"
+      },
+      {
+        "Game Name": "Chicho Chich Ganerian",
+        "Description": "A game for both boys and girls, generally played by two teams. It involves drawing as many vertical lines as possible, following specific rules and strategies.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Qila_Raipur_Sports_Festival"
+      },
+      {
+        "Game Name": "Bandar Keela",
+        "Description": "A game played by boys, involving digging a pole into the ground and attaching a four-foot rope. Players place their shoes near the pole, and one player (the key player) tries to prevent others from retrieving their shoes by touching them.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Punjab,_India"
+      },
+      {
+        "Game Name": "Khuddo Khoondi",
+        "Description": "Similar to field hockey, this game involves using a ball made of rags and a stick with a natural curve at one end. It is a traditional sport reflecting the rural culture of Punjab.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Punjab,_India"
+      },
+      {
+        "Game Name": "Rabb Di Khuti",
+        "Description": "A game played by multiple players who dig holes in the ground, each representing a 'khuti' (peg). A larger central hole represents 'Rabb di Khuti' (God's peg). Players throw a ball into the air and engage in activities involving these holes, following specific rules.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Punjab,_India"
+      },
+      {
+        "Game Name": "Kabbadi",
+        "Description": "A contact team sport where players take turns to raid the opposing team's half, aiming to tag as many defenders as possible and return to their half without being tackled. It is a popular traditional sport in Punjab.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Qila_Raipur_Sports_Festival"
+      },
+      {
+        "Game Name": "Akharas",
+        "Description": "Traditional wrestling arenas where boys learn wrestling from a Guru or Pehlwan (wrestler). These were popular in villages and often located near wells or temples.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Qila_Raipur_Sports_Festival"
+      },
+      {
+        "Game Name": "Martial Arts (Gatka)",
+        "Description": "A traditional form of martial arts practiced in Punjab, involving the use of weapons like sticks, swords, and shields. It is performed during religious and cultural festivals, showcasing skill and agility.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Qila_Raipur_Sports_Festival"
+      },
+      {
+        "Game Name": "Kite Flying (Patang Bazi)",
+        "Description": "A popular activity in both urban and rural areas of Punjab, involving flying kites made of paper and bamboo. It is especially prominent during festivals like Basant Panchami.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Qila_Raipur_Sports_Festival"
+      },
+      {
+        "Game Name": "Lattoo (Yo-Yo)",
+        "Description": "A game played mostly by boys, involving spinning a wooden top (lattoo) using a string. The objective is to keep the top spinning for as long as possible.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Punjab,_India"
+      },
+      {
+        "Game Name": "Bantey (Marbles)",
+        "Description": "A game involving small glass or stone marbles, where players aim to hit a target marble out of a designated area. It is popular among children in Punjab.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Punjab,_India"
+      }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Rumal Jhapatta",
+        "Description": "Also known as 'Dog and the Bone,' this traditional game involves two teams. A handkerchief (rumal) is placed in the center, and one player from each team attempts to grab it and return to their side without being tagged by the opponent. It emphasizes agility and strategy.",
+        "Reference Link": "https://udaipurtimes.com/sports/Rumaal-Jhapatta-Traditional-Games-Rajasthan/cid8497723.htm"
+      },
+      {
+        "Game Name": "Satoliya",
+        "Description": "Known elsewhere as 'Lagori' or 'Seven Stones,' this game involves stacking seven flat stones and attempting to knock them over by throwing a ball. Players then try to rebuild the stack while the opposing team tries to prevent them by hitting them with the ball. It is popular in rural Rajasthan.",
+        "Reference Link": "https://www.traditionalgamesindia.com/games-list/satoliya-the-seven-stone/"
+      },
+      {
+        "Game Name": "Chaupar",
+        "Description": "An ancient board game believed to have originated in India, Chaupar is played on a cross-shaped board with four arms. Each player has four pieces that they move based on the roll of cowrie shells. The objective is to move all pieces around the board and reach the center. It was popular among royalty in Rajasthan.",
+        "Reference Link": "https://www.incredibleindiadestinations.com/traditional-games-from-india/"
+      },
+      {
+        "Game Name": "Gillidanda",
+        "Description": "A traditional sport played with two sticks: a small one called 'gilli' and a larger one called 'danda.' The player uses the danda to strike the gilli, flipping it into the air, and then hits it again to send it flying. The aim is to hit the gilli as far as possible. It is reminiscent of cricket and is popular in rural Rajasthan.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Kabaddi",
+        "Description": "A contact team sport where two teams take turns sending a 'raider' into the opposing team's half to tag as many defenders as possible and return to their own half without being tackled. The raider must chant 'kabaddi' continuously during the attempt. It is widely played in Rajasthan and has deep cultural roots.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Kho Kho",
+        "Description": "A traditional tag game where two teams compete; one team sits or kneels in the middle of the field, and the other team runs around them. The objective is to tag the runners in the shortest time possible. It is a popular game in Rajasthan, especially in rural areas.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Pithoo",
+        "Description": "Similar to Satoliya, Pithoo involves stacking flat stones and attempting to knock them over with a ball. Players then try to rebuild the stack while avoiding being hit by the ball thrown by the opposing team. It is a common game among children in Rajasthan.",
+        "Reference Link": "https://www.traditionalgamesindia.com/games-list/satoliya-the-seven-stone/"
+      },
+      {
+        "Game Name": "Kancha",
+        "Description": "A game played with marbles, where players aim to hit a target marble or shoot marbles into a hole. It requires precision and strategy and is popular among children in Rajasthan.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Teer Andazi",
+        "Description": "Traditional archery practiced in Rajasthan, reflecting the martial heritage of the region. Archery competitions are held during festivals and fairs, showcasing skill and precision.",
+        "Reference Link": "https://abhipedia.abhimanu.com/Article/State/NTczMDgEEQQVV/Popular-Sports-in-Rajasthan-Rajasthan"
+      },
+      {
+        "Game Name": "Camel Polo",
+        "Description": "A unique variation of polo played on camel-back, reflecting Rajasthan's desert culture. It was once a favorite sport of the Raja-Maharajas and is still showcased during cultural festivals.",
+        "Reference Link": "https://abhipedia.abhimanu.com/Article/State/NTczMDgEEQQVV/Popular-Sports-in-Rajasthan-Rajasthan"
+      }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Archery",
+        "Description": "Archery is deeply rooted in Sikkimese tradition and is especially popular among the Lepcha tribe. Competitions are often held during festivals like Losar (Tibetan New Year), and archery remains a beloved sport that requires precision and skill.",
+        "Reference Link": "https://bkm.nehhdc.com/indigenous-sports-of-north-east-india--a-cultural-legacy"
+      },
+      {
+        "Game Name": "Sho",
+        "Description": "Sho is a traditional race game in Sikkim, originating from Tibet. The name 'Sho' means 'dice' in Tibetan. It is traditionally played for money by men, with two to four players, three being the most common. With four players, the usual variant is to play as two teams of two, with the partners sitting opposite each other.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sho_(board_game)"
+      },
+      {
+        "Game Name": "Kavadi",
+        "Description": "Kavadi is a traditional toy resembling a catapult, made from bamboo. It consists of a curved bamboo strip with a rubber band tied at one end. Children place small stones or other lightweight objects on the curved strip, pull the rubber band, and release it to send the objects flying. It is a popular toy among children in Sikkim.",
+        "Reference Link": "https://travelsetu.com/apps/blog/traditional-toys-and-games-children-play-in-gangtok"
+      },
+      {
+        "Game Name": "Cop Khel",
+        "Description": "Cop Khel is a traditional game played using a board with carved squares and stones as game pieces. The objective is to capture the opponent's stones by strategically moving one's own pieces. This game enhances cognitive skills, problem-solving, and critical thinking abilities.",
+        "Reference Link": "https://travelsetu.com/apps/blog/traditional-toys-and-games-children-play-in-gangtok"
+      },
+      {
+        "Game Name": "Pipo",
+        "Description": "Pipo is a traditional game that requires skill and agility. It involves bouncing a small rubber ball with a curved wooden bat. The objective is to keep the ball in the air for as long as possible by hitting it with the bat, improving hand-eye coordination, concentration, and reflexes.",
+        "Reference Link": "https://travelsetu.com/apps/blog/traditional-toys-and-games-children-play-in-gangtok"
+      }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Silambam",
+        "Description": "A traditional martial art involving the use of a bamboo staff, focusing on self-defense techniques, agility, and flexibility. It has been practiced since the Sangam period and remains integral to Tamil culture.",
+        "Reference Link": "https://www.tamilnadutourism.com/traditions/games/index.php"
+      },
+      {
+        "Game Name": "Pallanguzhi",
+        "Description": "A traditional mancala board game played with a wooden board featuring fourteen pits and 146 shells. It is popular among women and children, enhancing mathematical skills and strategic thinking.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pallanguzhi"
+      },
+      {
+        "Game Name": "Aadu Puli Aatam",
+        "Description": "Also known as 'Lambs and Tigers,' this strategic board game involves two teams: one controlling three tigers and the other controlling up to fifteen lambs. The objective is for the tigers to hunt the lambs while the lambs aim to block the tigers' movements.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lambs_and_tigers"
+      },
+      {
+        "Game Name": "Jallikattu",
+        "Description": "A traditional bull-taming sport practiced during the Pongal festival, where participants attempt to embrace and hold onto a bull's hump as it tries to escape. It has been a part of Tamil culture since the Sangam period.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Tamil_Nadu"
+      },
+      {
+        "Game Name": "Uriyadi",
+        "Description": "A festive game where participants, often blindfolded, attempt to break a suspended earthen pot using a stick. It is commonly played during Krishna Janmashtami celebrations.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Tamil_Nadu"
+      },
+      {
+        "Game Name": "Dayakattai",
+        "Description": "A traditional dice game played with long cuboid dice and coins. Players roll the dice to move their coins around a cross-shaped board, aiming to bring all their coins to the center before their opponents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dayakattai"
+      },
+      {
+        "Game Name": "Nondi",
+        "Description": "A hopping game where players draw a grid on the ground and hop on one leg to complete the course without stepping on the lines. It enhances balance and coordination.",
+        "Reference Link": "https://www.parentcircle.com/9-indian-traditional-games-for-children/article"
+      },
+      {
+        "Game Name": "Thanjavur Kattam",
+        "Description": "An indoor board game played by 2-4 players, where each aims to bring all six of their coins home before the opponents. Players use cowries as dice to move their coins along the board, with opportunities to cut each other's coins to race ahead.",
+        "Reference Link": "https://socialscienceresearch.org/index.php/GJHSS/article/view/102028/3-Tribute-to-Traditional-Children_html"
+      },
+      {
+        "Game Name": "Seval Sandai",
+        "Description": "Also known as cockfighting, this traditional rural sport involves roosters with blades attached to their feet fighting each other. It has historical significance in Tamil culture but has faced modern scrutiny due to animal welfare concerns.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Tamil_Nadu"
+      },
+      {
+        "Game Name": "Rekla",
+        "Description": "A traditional bullock cart racing sport where participants race their decorated carts, typically during festivals. It showcases the agricultural heritage and competitive spirit of rural Tamil Nadu.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Tamil_Nadu"
+      },
+      {
+        "Game Name": "Killithattu",
+        "Description": "A traditional game requiring quick reflexes and team effort. One player, called the 'kili' (parrot), stands in the center, while others move horizontally. The objective is to capture the 'kili' by coordinating movements.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Tamil_Nadu"
+      },
+      {
+        "Game Name": "Ilavatta Kal",
+        "Description": "A traditional sport where participants lift huge spherical rocks, testing their strength and endurance. It is often showcased during village festivals and gatherings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Tamil_Nadu"
+      },
+      {
+        "Game Name": "Bambaram",
+        "Description": "A game involving spinning tops, where players launch their tops using a string and attempt to keep them spinning the longest or knock other tops out of a designated area. It enhances hand-eye coordination.",
+        "Reference Link": "https://www.shikaracosmo.com/2022/09/outdoor-traditional-games-of-tamil-nadu.html"
+      },
+      {
+        "Game Name": "Gilli Danda",
+        "Description": "A game resembling cricket and baseball, played with two sticks: a 'gilli' (small stick) and a 'danda' (longer stick). The player strikes the gilli with the danda, flipping it into the air, and then hits it again to cover maximum distance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Tamil_Nadu"
+      },
+      {
+        "Game Name": "Paramapadam",
+        "Description": "The traditional version of Snakes and Ladders, this board game teaches moral lessons, with ladders representing virtues and snakes representing vices. It is played with dice and counters.",
+        "Reference Link": "https://www.zupee.com/blog/tamil-nadu-games/"
+      },
+      {
+        "Game Name": "Kho-Kho",
+        "Description": "A traditional tag sport where teams take turns chasing and evading, with players sitting in a row and active chasers running around them. It emphasizes speed, strategy, and teamwork.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Tamil_Nadu"
+      },
+      {
+        "Game Name": "Kabaddi",
+        "Description": "A contact team sport where players take turns to raid the opposing team's half, aiming to tag opponents and return to their half without being tackled. It requires strength, strategy, and agility.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Tamil_Nadu"
+      },
+      {
+        "Game Name": "Five Stones",
+        "Description": "Known as 'Kallangal' or 'Anchangal' in Tamil Nadu, this game involves tossing and catching five small stones in various sequences. It enhances hand-eye coordination and concentration.",
+        "Reference Link": "https://www.parentcircle.com/9-indian-traditional-games-for-children/article"
+      },
+      {
+        "Game Name": "Skipping",
+        "Description": "A game where players jump over a swinging rope, either individually or in groups, often accompanied by songs or rhymes. It improves cardiovascular fitness and rhythm.",
+        "Reference Link": "https://socialscienceresearch.org/index.php/GJHSS/article/view/102028/3-Tribute-to-Traditional-Children_html"
+      },
+      {
+        "Game Name": "Chathurangam",
+        "Description": "An ancient board game believed to be the precursor to modern chess, involving strategic movement of pieces representing different military units on an 8x8 grid.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sports_in_Tamil_Nadu"
+      }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Ashta Chamma",
+        "Description": "A traditional board game similar to Ludo, played with cowrie shells and a board divided into a cross pattern. Players race their four pieces from start to finish based on the count of the cowrie shells thrown. It is popular in Telugu-speaking regions, including Telangana.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ashta_Chamma"
+      },
+      {
+        "Game Name": "Daadi",
+        "Description": "Also known as Nine Men's Morris, this strategic board game involves two players who aim to form 'mills'—three of their pieces in a row—allowing them to remove an opponent's piece. The game continues until a player is reduced to two pieces. It has historical significance in Telangana.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nine_men%27s_morris"
+      },
+      {
+        "Game Name": "Puli Meka (Adu Puli Attam)",
+        "Description": "Translating to 'Tiger and Goat Game,' this is a strategic two-player (or two-team) game where one side controls three tigers and the other controls up to 15 goats. The tigers attempt to 'hunt' the goats, while the goats aim to block the tigers' moves. It reflects the predator-prey dynamics and is popular in rural Telangana.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Adu_Puli_Attam"
+      },
+      {
+        "Game Name": "Vamana Guntalu",
+        "Description": "Also known as Pallanghuzi, this traditional mancala game is played on a wooden board with 14 pits. Players distribute seeds, shells, or stones across the pits, aiming to capture more than the opponent. It enhances mathematical skills and strategic thinking and is enjoyed in various parts of Telangana.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pallanghuzi"
+      },
+      {
+        "Game Name": "Lingorcha (Seven Stones)",
+        "Description": "Known locally as Lingorcha, this game involves stacking seven flat stones and attempting to knock them over by throwing a ball. Once the pile is knocked over, the team must try to restore the stack while the opposing team throws the ball to hit the players. It tests agility and teamwork.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seven_stones"
+      },
+      {
+        "Game Name": "Nalugu Stambhalata",
+        "Description": "Translating to 'Game of Four Pillars,' this traditional game involves four players, each occupying one of four pillars. A fifth player stands in the center, attempting to tag the others as they dash between pillars. It was commonly played in traditional homes with central courtyards in Telangana.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nalugu_Stambhalata_(game)"
+      },
+      {
+        "Game Name": "Yedu Penkulata (Lagori)",
+        "Description": "Also known as Lagori, this game involves stacking seven stones and attempting to knock them over with a ball. Players then try to rebuild the stack while the opposing team tries to prevent them by hitting them with the ball. It is a popular game among children in Telangana.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lagori"
+      },
+      {
+        "Game Name": "Chadarangam",
+        "Description": "An ancient Indian strategy board game believed to be a precursor to modern chess. Played on an 8x8 grid, it involves two armies with various pieces, each having specific movements. The objective is to capture the opponent's king. It has historical roots in the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chaturanga"
+      },
+      {
+        "Game Name": "Tokkudu Billa",
+        "Description": "A traditional hopscotch game where players draw a grid on the ground and toss a marker into numbered sections. They hop through the grid on one foot to retrieve the marker, avoiding lines and specific sections. It promotes balance and coordination and is popular among children in Telangana.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hopscotch"
+      },
+      {
+        "Game Name": "Karra Billa",
+        "Description": "A traditional game involving a small stick ('karra') and a flat stone ('billa'). Players use the stick to strike the stone, flipping it into the air, and then hit it again to send it flying. The objective is to cover maximum distance. It is similar to Gilli Danda and is played in rural Telangana.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gilli_Danda"
+      }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Achugwi Phan Sohlaimung",
+        "Description": "A traditional wrestling game played between two young men to test their strength. Players sit facing each other with legs spread and a bamboo pole placed between them. They hold a horizontal bamboo piece and attempt to pull it towards their side.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tripuri_games_and_sports"
+      },
+      {
+        "Game Name": "Tengdang",
+        "Description": "Similar to the game of gilli-danda, Tengdang is played with two tools: a stick called 'dang' and a smaller stick called 'goti'. Both are made from branches of trees. The objective is to strike the goti with the dang to send it as far as possible.",
+        "Reference Link": "https://www.adivasilivesmatter.com/post/here-s-how-tripura-s-tribal-communities-play-tengdang-a-popular-traditional-game"
+      },
+      {
+        "Game Name": "Kaldong (Kadong)",
+        "Description": "In this game, a small footstep is tied on two pieces of bamboo about two feet above ground level. The player walks on this footstep, competing to run faster or remain on the kaldong longer without falling.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tripuri_games_and_sports"
+      },
+      {
+        "Game Name": "Longoi Chokmung",
+        "Description": "A swinging game played by Tripuri children. Two long ropes or strong vines are tied to a tree branch, with a wooden platform as a seat. Children take turns swinging while others push and sing traditional songs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tripuri_games_and_sports"
+      },
+      {
+        "Game Name": "Muphuk Sagwnang",
+        "Description": "A strength-testing game where a child clings to a man's chest, whose waist is tied with one end of a rope. Another man holds the other end and tries to pull the first man back, while the first man attempts to move forward.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tripuri_games_and_sports"
+      },
+      {
+        "Game Name": "Phan Sohlaimung",
+        "Description": "Players stand at a specific distance with a mark between them. Holding a bamboo pole under their right armpits, they grasp it firmly and try to push each other over the mark.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tripuri_games_and_sports"
+      },
+      {
+        "Game Name": "Musta Seklaio",
+        "Description": "A game to test grip strength. A cylindrical bamboo section is held firmly on the ground by one person, while another grips it above and tries to snatch it by rotating.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tripuri_games_and_sports"
+      },
+      {
+        "Game Name": "Sohlaimung",
+        "Description": "A form of free-hand wrestling with specific rules, traditionally refereed by a senior spectator.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tripuri_games_and_sports"
+      },
+      {
+        "Game Name": "Kanamachi",
+        "Description": "A traditional game similar to blind man's buff, popular in Tripura. One player is blindfolded and tries to catch others, who attempt to avoid being caught.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kanamachi"
+      },
+      {
+        "Game Name": "Gella-Chutt",
+        "Description": "A traditional game where one team has a 'king' stationed in a 'prison' at a distance from the 'home' area. The goal is for the king to reach home with the help of teammates without being tagged by opponents.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gella-Chutt"
+      },
+      {
+        "Game Name": "Thwngmung",
+        "Description": "A traditional wrestling game of Tripura played between two players to test their stamina. It is known as Thwngmung in the Tripuri language (Kokborok).",
+        "Reference Link": "https://mountainecho.in/web-stories/8-traditional-indigenous-games-of-the-northeast-india/"
+      },
+      {
+        "Game Name": "WaSuchamo",
+        "Description": "An indigenous sport played among the Reang, Tripuri, and other tribes in Tripura. Specific details about the game's rules and play are limited.",
+        "Reference Link": "https://www.viirj.org/vol12issue2/76.pdf"
+      },
+      {
+        "Game Name": "Bongbrai Birma",
+        "Description": "A traditional game played by the Reang and Tripuri communities. Detailed descriptions of the game's mechanics are scarce.",
+        "Reference Link": "https://www.viirj.org/vol12issue2/76.pdf"
+      },
+      {
+        "Game Name": "Matham",
+        "Description": "An indigenous sport popular among all tribal and non-tribal communities of Tripura. Specific details about the game's rules and play are limited.",
+        "Reference Link": "https://www.viirj.org/vol12issue2/76.pdf"
+      },
+      {
+        "Game Name": "Badul-Khung Kokmani",
+        "Description": "A traditional game played by the Tripuri and other tribal communities of Tripura. Detailed descriptions of the game's mechanics are scarce.",
+        "Reference Link": "https://www.viirj.org/vol12issue2/76.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Bagh Bakri (Tiger and Goat)",
+        "Description": "A strategic board game where one player controls three tigers and the other controls up to fifteen goats. The objective for the tigers is to 'capture' the goats, while the goats aim to block the tigers' movements. This game reflects the pastoral lifestyle of Uttarakhand and is popular in both Garhwal and Kumaon regions.",
+        "Reference Link": "https://uttarakhandhaat.com/product/bagh-bakri-traditional-board-game/"
+      },
+      {
+        "Game Name": "Thap",
+        "Description": "A traditional game played in the interiors of Kumaon and Garhwal. Specific details about its gameplay are limited, but it holds cultural significance in these regions.",
+        "Reference Link": "https://timesofindia.indiatimes.com/city/dehradun/uttarakhand-to-revive-traditional-pahadi-games/articleshow/49600461.cms"
+      },
+      {
+        "Game Name": "Galya Banan",
+        "Description": "A humorous game integrated into marriage rituals in Garhwal and Kumaon. During the 'saat phere' (seven circumambulations), either the bride or groom pretends to be reluctant to proceed, prompting the father-in-law to offer gifts to encourage them. This playful act symbolizes familial bonding and the importance of generosity.",
+        "Reference Link": "https://e-magazineofuttarakhand.blogspot.com/2014/06/galya-banan-hilarious-game-from-garhwal.html"
+      },
+      {
+        "Game Name": "Chhurpi",
+        "Description": "A traditional game played in the hilly regions of Uttarakhand, where participants use small wooden sticks to hit a piece of hardened cheese ('chhurpi') into a designated area. It requires precision and skill, reflecting the pastoral lifestyle of the region.",
+        "Reference Link": "https://www.uttarakhandonline.in/guide/sports-in-uttarakhand"
+      },
+      {
+        "Game Name": "Rasa (Tug of War)",
+        "Description": "A traditional game where two teams pull on opposite ends of a rope, each trying to drag the other team across a central line. It is commonly played during festivals and community gatherings in Uttarakhand, emphasizing teamwork and strength.",
+        "Reference Link": "https://www.uttarakhandonline.in/guide/sports-in-uttarakhand"
+      },
+      {
+        "Game Name": "Langdi",
+        "Description": "A traditional game where players hop on one leg and try to tag others. It enhances balance, agility, and coordination, and is popular among children in Uttarakhand.",
+        "Reference Link": "https://www.uttarakhandonline.in/guide/sports-in-uttarakhand"
+      },
+      {
+        "Game Name": "Chholiya Dance",
+        "Description": "A traditional sword dance of the Kumaon region, performed during weddings and other auspicious occasions. While primarily a dance form, it involves coordinated movements and mock swordplay, reflecting martial traditions.",
+        "Reference Link": "https://www.anubhavtravel.com/understanding-the-garhwali-and-kumaoni-cultures/"
+      },
+      {
+        "Game Name": "Pandav Nritya",
+        "Description": "A traditional dance-drama form depicting episodes from the Mahabharata, performed in the Garhwal region. It combines storytelling with rhythmic movements and is an integral part of local festivals.",
+        "Reference Link": "https://www.anubhavtravel.com/understanding-the-garhwali-and-kumaoni-cultures/"
+      },
+      {
+        "Game Name": "Jhaki",
+        "Description": "A traditional game where participants form a human pyramid to reach and break a pot suspended at a height. It is commonly played during festivals and symbolizes unity and teamwork.",
+        "Reference Link": "https://www.uttarakhandonline.in/guide/sports-in-uttarakhand"
+      },
+      {
+        "Game Name": "Chirpi",
+        "Description": "A traditional game where participants use small wooden sticks to hit a piece of hardened cheese ('chirpi') into a designated area. It requires precision and skill, reflecting the pastoral lifestyle of the region.",
+        "Reference Link": "https://www.uttarakhandonline.in/guide/sports-in-uttarakhand"
+      }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Chaturanga",
+        "Description": "An ancient board game believed to be the precursor to modern chess, Chaturanga originated in India and was traditionally played in regions including present-day Uttar Pradesh. The game involves strategic movement of pieces representing different military units, aiming to checkmate the opponent's king.",
+        "Reference Link": "https://www.hcindiabrunei.gov.in/docs/161156499413.pdf"
+      },
+      {
+        "Game Name": "Gilli Danda",
+        "Description": "A traditional sport resembling cricket and baseball, Gilli Danda is played with two sticks: a small one called 'gilli' and a larger one called 'danda.' The player uses the danda to strike the gilli, flipping it into the air, and then hits it again to send it flying. It is popular in rural areas of Uttar Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Kabaddi",
+        "Description": "A contact team sport where two teams alternate between raiding and defending. The raider enters the opposing team's half to tag as many defenders as possible and return to their own half without being tackled, all in a single breath. Kabaddi has deep cultural roots in Uttar Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kabaddi"
+      },
+      {
+        "Game Name": "Kushti (Malla-yuddha)",
+        "Description": "An ancient form of wrestling practiced in India, Kushti, also known as Malla-yuddha, has been a traditional sport in Uttar Pradesh. Wrestlers, known as pehlwans, train in akharas (wrestling arenas) and follow strict dietary and training regimens.",
+        "Reference Link": "https://www.traditionalgamesindia.com/games-list/kushti/"
+      },
+      {
+        "Game Name": "Kho Kho",
+        "Description": "A traditional tag game where two teams compete; one team sits or kneels in the middle of the field, and the other team runs around them. The objective is to tag the runners in the shortest time possible. It is widely played in Uttar Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Seven Stones (Pithu)",
+        "Description": "Known locally as Pithu, this game involves stacking seven flat stones and attempting to knock them over by throwing a ball. Players then try to rebuild the stack while the opposing team tries to prevent them by hitting them with the ball. It is a common game among children in Uttar Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Seven_stones"
+      },
+      {
+        "Game Name": "Ashtapada",
+        "Description": "An ancient Indian board game played on an 8x8 grid, Ashtapada is believed to be a precursor to chess and other strategy games. It involves moving pieces based on dice rolls, aiming to reach a specific position on the board. It has historical significance in Uttar Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ashtapada"
+      },
+      {
+        "Game Name": "Kancha (Marbles)",
+        "Description": "A traditional game played with glass marbles, where players aim to hit a target marble or shoot marbles into a hole. It requires precision and strategy and is popular among children in Uttar Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Lattoo (Spinning Top)",
+        "Description": "A game involving spinning a wooden top (lattoo) using a string. Players compete to see whose top spins the longest or can knock over other tops. It is a popular pastime in various parts of Uttar Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Patang Baazi (Kite Flying)",
+        "Description": "A traditional activity especially popular during festivals like Makar Sankranti, where participants fly kites and engage in kite battles, attempting to cut each other's kite strings. It is a vibrant part of Uttar Pradesh's cultural heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "items": [
+      {
+        "Game Name": "Ha-du-du (Kabaddi)",
+        "Description": "A traditional contact sport where two teams compete; a 'raider' from one team enters the opposing team's half to tag as many defenders as possible and return to their own half without being tackled, all in a single breath. Known as 'Ha-du-du' in rural Bengal, it emphasizes agility and strategy.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bengali_traditional_games"
+      },
+      {
+        "Game Name": "Lathi Khela",
+        "Description": "A traditional martial art involving the use of sticks ('lathi') for combat and self-defense. Historically, it was practiced for both sport and protection, reflecting the martial heritage of Bengal.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bengali_traditional_games"
+      },
+      {
+        "Game Name": "Nouka Baich",
+        "Description": "A traditional boat racing event held during festivals and celebrations, especially in the monsoon season. Long, narrow boats are rowed by teams in a competitive race, showcasing teamwork and rowing skills.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bengali_traditional_games"
+      },
+      {
+        "Game Name": "Chungakhela",
+        "Description": "A traditional game involving the throwing of wooden or bamboo sticks at a target. Players take turns aiming at a specific object, testing their precision and accuracy.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bengali_traditional_games"
+      },
+      {
+        "Game Name": "Gollachut",
+        "Description": "A traditional tag game where one team tries to run past the other without being caught. It involves strategy, speed, and teamwork, and is popular among children in rural areas.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bengali_traditional_games"
+      },
+      {
+        "Game Name": "Kit-Kit (Hopscotch)",
+        "Description": "Known locally as 'Kit-Kit,' this game involves drawing a grid on the ground and hopping on one foot to navigate through the numbered spaces, retrieving a marker without stepping on the lines. It enhances balance and coordination.",
+        "Reference Link": "https://www.dsource.in/resource/indian-games/outdoor-games/stapoo"
+      },
+      {
+        "Game Name": "Luko-Churi (Hide and Seek)",
+        "Description": "A popular children's game where one player closes their eyes and counts while the others hide. The seeker then attempts to find the hidden players. It encourages exploration and stealth.",
+        "Reference Link": "https://www.journalofsports.com/archives/2023/vol8/issue1/8-1-11"
+      },
+      {
+        "Game Name": "Goli (Marbles)",
+        "Description": "A game played with small glass or clay marbles, where players aim to hit a target marble or shoot marbles into a hole. It requires precision and strategic planning.",
+        "Reference Link": "https://www.journalofsports.com/archives/2023/vol8/issue1/8-1-11"
+      },
+      {
+        "Game Name": "Lattu (Spinning Top)",
+        "Description": "A traditional game involving spinning a wooden top ('lattu') using a string. Players compete to see whose top spins the longest or can knock over other tops. It is a test of skill and control.",
+        "Reference Link": "https://www.journalofsports.com/archives/2023/vol8/issue1/8-1-11"
+      },
+      {
+        "Game Name": "Ghuri Urao (Kite Flying)",
+        "Description": "A popular activity, especially during festivals, where participants fly kites and engage in friendly battles to cut each other's kite strings. It reflects the cultural vibrancy of Bengal.",
+        "Reference Link": "https://www.journalofsports.com/archives/2023/vol8/issue1/8-1-11"
+      },
+      {
+        "Game Name": "Rumal Churi (Hanky Thief)",
+        "Description": "A game where players sit in a circle while one player walks around the outside holding a handkerchief. The walker secretly drops the hanky behind another player, who must then pick it up and chase the walker around the circle. It emphasizes alertness and speed.",
+        "Reference Link": "https://www.journalofsports.com/archives/2023/vol8/issue1/8-1-11"
+      },
+      {
+        "Game Name": "Pittu (Seven Stones)",
+        "Description": "Also known as 'Satoliya,' this game involves stacking seven flat stones and attempting to knock them over by throwing a ball. Players then try to rebuild the stack while the opposing team tries to prevent them by hitting them with the ball.",
+        "Reference Link": "https://www.journalofsports.com/archives/2023/vol8/issue1/8-1-11"
+      },
+      {
+        "Game Name": "Kanamachi",
+        "Description": "A traditional game similar to 'Blind Man's Buff,' where one player is blindfolded and attempts to catch the others, who try to avoid being caught while occasionally teasing the seeker. It is popular among children in Bengal.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kanamachi"
+      },
+      {
+        "Game Name": "Dashabatar Taas",
+        "Description": "A traditional card game from Bishnupur, featuring cards that depict the ten avatars of Vishnu. The game is both a form of entertainment and a reflection of Bengal's rich artistic heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dashabatar_Cards"
+      }
+    ]
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Game Name": "Asol Aap",
+        "Description": "A traditional canoe race of the Nicobarese tribe, where participants race long canoes, some up to 100 feet in length, in the sea surrounding the islands. This event is a significant part of their cultural festivities.",
+        "Reference Link": "https://www.traditionalsports.org/traditional-sports/asia/asol-aap-india.html"
+      },
+      {
+        "Game Name": "Ke Nang Haun",
+        "Description": "A traditional game among the Nicobarese tribe involving pig fighting. Male participants tie one leg of a pig with a long rope, release it from a bamboo cage, and attempt to control its movements. This game is typically part of various festivals.",
+        "Reference Link": "https://www.indianetzone.com/ke_nang_haun_indian_traditional_sports"
+      },
+      {
+        "Game Name": "Kirip",
+        "Description": "An indigenous form of wrestling popular among the Nicobarese tribe. Wrestlers grip each other from behind, maintaining the hold throughout the bout, and use various techniques to force the opponent to the ground. The match consists of three to five rounds.",
+        "Reference Link": "https://sports.indiapress.org/kirip.php"
+      },
+      {
+        "Game Name": "Asol-Tale Aap",
+        "Description": "Another traditional canoe race of the Nicobarese, similar to Asol Aap, emphasizing the community's deep connection to the sea and their maritime skills.",
+        "Reference Link": "https://www.traditionalsports.org/traditional-sports/asia/asol-aap-india.html"
+      }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Game Name": "Ramlila Performances",
+        "Description": "Dramatic folk re-enactments of the life of Lord Rama, held at nearly 60 venues in Chandigarh during the festival of Dussehra. These performances are integral to the city's cultural fabric.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ramlila_in_Chandigarh"
+      },
+      {
+        "Game Name": "National Cultural Pythian Games",
+        "Description": "An event hosted in Chandigarh that celebrates traditional sports and cultural activities, including indigenous games like Tug of War, Yoga, and Mallakhamb, reflecting the city's commitment to preserving and promoting cultural heritage.",
+        "Reference Link": "https://timesofindia.indiatimes.com/city/chandigarh/historic-pythian-games-launch-in-panchkula-a-celebration-of-arts-and-sports/articleshow/116022877.cms"
+      }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Dama",
+    "type": "Union Territory",
+    "items": []
+  },
+  {
+    "name": "Delhi",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Game Name": "Gilli Danda",
+        "Description": "A traditional game resembling cricket and baseball, played with two sticks: a 'gilli' (small stick) and a 'danda' (longer stick). The player strikes the gilli with the danda, flipping it into the air, and then hits it again to cover maximum distance. Popular in the streets of Old Delhi.",
+        "Reference Link": "https://www.mykhel.com/more-sports/traditional-games-played-in-india-kabaddi-kho-kho-gilli-danda-pitthu-chess-lagori-pachisi-128307.html"
+      },
+      {
+        "Game Name": "Kancha (Marbles)",
+        "Description": "A game played with small glass marbles, where players aim to hit a target marble or knock opponents' marbles out of a designated area. It requires precision and strategic planning. Commonly seen in Delhi's neighborhoods.",
+        "Reference Link": "https://www.mykhel.com/more-sports/traditional-games-played-in-india-kabaddi-kho-kho-gilli-danda-pitthu-chess-lagori-pachisi-128307.html"
+      },
+      {
+        "Game Name": "Pitthu (Seven Stones)",
+        "Description": "Also known as 'Lagori', this game involves stacking seven flat stones and attempting to knock them over with a ball. Players then try to restore the pile while the opposing team throws the ball to hit them. A favorite among Delhi's youth.",
+        "Reference Link": "https://www.mykhel.com/more-sports/traditional-games-played-in-india-kabaddi-kho-kho-gilli-danda-pitthu-chess-lagori-pachisi-128307.html"
+      },
+      {
+        "Game Name": "Kho-Kho",
+        "Description": "A traditional tag game where two teams compete; one team sits or kneels in a row, and the opposing team's runners try to avoid being touched by members of the sitting team. It emphasizes speed, strategy, and teamwork. Played in Delhi's schools and communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Kabaddi",
+        "Description": "A contact team sport where players take turns to raid the opposing team's half, aiming to tag opponents and return to their half without being tackled. It requires strength, strategy, and agility. Popular in various parts of Delhi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Chaupar",
+        "Description": "An ancient board game believed to be a precursor to modern-day Ludo. Played on a cross-shaped board with dice and pawns, players race to move all their pieces to the center of the board, navigating based on dice rolls. Historically played in Delhi's households.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Antakshari",
+        "Description": "A spoken parlor game where participants or teams sing the first verse of a song that begins with the Hindustani consonant on which the previous contestant's song selection ended. A popular pastime in Delhi's gatherings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      },
+      {
+        "Game Name": "Ramlila Performances",
+        "Description": "Dramatic folk re-enactments of the life of Lord Rama, held at numerous venues in Delhi during the festival of Dussehra. These performances are integral to the city's cultural fabric and involve community participation.",
+        "Reference Link": "https://apnews.com/article/1571d00214a0bb7c6027f674ec646c92"
+      },
+      {
+        "Game Name": "Street Card Games",
+        "Description": "In the lanes of Old Delhi, it's common to see groups of men gathered for a quiet game of cards, reflecting the leisurely pace and community bonds of the area.",
+        "Reference Link": "https://www.nationalarchives.gov.uk/education/outreach/resources/colouring-for-relaxation/a-quiet-game-of-cards-in-a-street-in-old-delhi/"
+      },
+      {
+        "Game Name": "Kite Flying",
+        "Description": "A popular activity, especially during festivals like Makar Sankranti and Independence Day, where individuals and groups fly kites from rooftops and open grounds, engaging in friendly competitions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Traditional_games_of_India"
+      }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Game Name": "Saz Loung (Hopscotch)",
+        "Description": "Known locally as Saz Loung, this traditional game involves drawing a large rectangular box on the ground, subdivided into six smaller boxes named Awal, Doum, Soum, Jaanat, Samandar, and Jehnum. Players hop through these boxes on one foot, aiming to retrieve a marker without stepping on the lines. It is popular among both boys and girls.",
+        "Reference Link": "https://penandfreedom.wordpress.com/2012/01/26/traditional-games-of-kashmir/"
+      },
+      {
+        "Game Name": "Garam (Santooli)",
+        "Description": "Also known as Santooli, this game involves stacking seven flat stones and attempting to knock them over by throwing a ball. Players then try to rebuild the stack while the opposing team tries to prevent them by hitting them with the ball. It is a common game among children in Kashmir.",
+        "Reference Link": "https://www.facebook.com/Model.in.Mountains/posts/traditional-games-of-kashmir-1-hopscotch-or-saz-loung2-garam-or-santooli3-tanga-/1304657616590998/"
+      },
+      {
+        "Game Name": "Tanga (Bante Zaar)",
+        "Description": "Popularly known as Bante Zaar, this game involves playing with glass marbles. Players aim to hit a target marble or shoot marbles into a hole, requiring precision and strategic planning. It is a favorite pastime among Kashmiri children.",
+        "Reference Link": "https://kashmirlife.net/kashmirs-fading-games-vol-16-issue-06-352558/"
+      },
+      {
+        "Game Name": "Reanti Goutte",
+        "Description": "A traditional game played in Kashmir, though specific details about its gameplay are limited. It is one of the many games that were played with enthusiasm and had great cultural value.",
+        "Reference Link": "https://www.facebook.com/Model.in.Mountains/posts/traditional-games-of-kashmir-1-hopscotch-or-saz-loung2-garam-or-santooli3-tanga-/1304657616590998/"
+      },
+      {
+        "Game Name": "Dajji Ball",
+        "Description": "A game similar to football, mostly played by boys in Kashmir. The ball used in this game is made out of old cloth or rug, reflecting the resourcefulness of the players.",
+        "Reference Link": "https://kashmirlife.net/kashmirs-fading-games-vol-16-issue-06-352558/"
+      },
+      {
+        "Game Name": "Jouta",
+        "Description": "In this game, one player is blindfolded using a piece of cloth, and the other players tease him or her by pushing, pulling clothes, and running around. The blindfolded player attempts to catch the others, adding an element of fun and excitement.",
+        "Reference Link": "https://kashmirlife.net/kashmirs-fading-games-vol-16-issue-06-352558/"
+      },
+      {
+        "Game Name": "Kangri Wrestling",
+        "Description": "A traditional sport in Srinagar, where participants engage in wrestling matches, showcasing strength and skill. It is a significant part of local festivals and gatherings.",
+        "Reference Link": "https://travelsetu.com/apps/blog/traditional-sports-and-games-of-srinagar"
+      },
+      {
+        "Game Name": "Pheran Khaener",
+        "Description": "A traditional archery game played during festivals and special occasions in Srinagar. Archers, dressed in traditional attire called pheran, use bows and arrows made of bamboo and wood to shoot at targets, preserving the archery skills practiced in the region for centuries.",
+        "Reference Link": "https://travelsetu.com/apps/blog/traditional-sports-and-games-of-srinagar"
+      },
+      {
+        "Game Name": "Snow Polo",
+        "Description": "A unique sport played on the frozen lakes of Srinagar during winter months. Players ride on horseback and try to score goals by hitting a small ball with a mallet, reflecting the adaptation of traditional polo to snowy conditions.",
+        "Reference Link": "https://travelsetu.com/apps/blog/traditional-sports-and-games-of-srinagar"
+      },
+      {
+        "Game Name": "Vaadde Vidae (Tug of War)",
+        "Description": "Also known as Tug of War, this traditional game involves two teams pulling on opposite ends of a rope, each trying to drag the other across a designated line. It promotes teamwork and strength.",
+        "Reference Link": "https://travelsetu.com/apps/blog/traditional-sports-and-games-of-srinagar"
+      },
+      {
+        "Game Name": "Nombal",
+        "Description": "A traditional board game popular among locals in Srinagar. Played on a wooden board with pits and seeds or stones, the objective is to capture the opponent's pieces by strategically moving them around the board.",
+        "Reference Link": "https://travelsetu.com/apps/blog/traditional-sports-and-games-of-srinagar"
+      }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Game Name": "Archery",
+        "Description": "A traditional sport deeply ingrained in Ladakhi culture, often played during summer festivals. Villages host archery competitions accompanied by traditional music, dancing, and festivities. Participants aim at targets with bows and arrows, showcasing their precision and skill.",
+        "Reference Link": "https://www.thomascook.in/places-to-visit/archery-in-ladakh-4977"
+      },
+      {
+        "Game Name": "Polo",
+        "Description": "Introduced in the mid-17th century, polo has become a significant traditional sport in Ladakh. Played with teams of six, the game involves scoring goals by hitting a ball into the opposing team's net using long-handled mallets while riding horses. It remains a popular event during local festivals.",
+        "Reference Link": "https://www.ladakhdekho.com/sports-in-ladakh.html"
+      },
+      {
+        "Game Name": "Yak Racing",
+        "Description": "A unique and exhilarating sport where participants race yaks over a designated course. Often held during traditional festivals, these races are accompanied by dances and songs, reflecting the rich cultural heritage of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Yak_racing"
+      },
+      {
+        "Game Name": "Ice Hockey",
+        "Description": "Emerging as a popular winter sport in Ladakh, ice hockey is played on natural ice surfaces from mid-December to mid-February. The region has produced national-level players, with local tournaments drawing significant attention.",
+        "Reference Link": "https://stawa.org/the-state-of-ice-hockey-in-ladakh/"
+      },
+      {
+        "Game Name": "Dosmoche Festival Games",
+        "Description": "During the Dosmoche festival, various traditional games and mask dances are performed to ward off evil spirits and ensure prosperity. These festivities include ritualistic dances, traditional music, and communal activities that strengthen social bonds.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dosmoche"
+      }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "items": []
+  },
+  {
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Game Name": "Pétanque",
+        "Description": "A French game introduced during colonial times, Pétanque involves players throwing metal balls aiming to land as close as possible to a smaller wooden ball called a 'cochonnet'. It remains popular in Puducherry, especially among the older Franco-Indian community.",
+        "Reference Link": "https://timesofindia.indiatimes.com/blogs/tracking-indian-communities/a-french-legacy-that-pondy-is-game-for/"
+      },
+      {
+        "Game Name": "Silambam",
+        "Description": "An ancient martial art form native to South India, Silambam is practiced in Puducherry. It involves the use of a bamboo staff for self-defense and showcases agility, balance, and coordination.",
+        "Reference Link": "https://www.facebook.com/FitIndiaOff/videos/silambam-indigenous-game-of-puducherry/217948169998204/"
+      },
+      {
+        "Game Name": "Kho-Kho",
+        "Description": "A traditional Indian tag game where two teams compete; one team sits or kneels in a row, and the opposing team's runners try to avoid being touched by members of the sitting team. It emphasizes speed, strategy, and teamwork. Played in Puducherry's schools and communities.",
+        "Reference Link": "https://sbvu.ac.in/kgnc-archives/puducherry-sports-games-and-cultural-meet-2020/"
+      },
+      {
+        "Game Name": "Kabaddi",
+        "Description": "A contact team sport where players take turns to raid the opposing team's half, aiming to tag opponents and return to their half without being tackled. It requires strength, strategy, and agility. Popular in various parts of Puducherry.",
+        "Reference Link": "https://sbvu.ac.in/kgnc-archives/puducherry-sports-games-and-cultural-meet-2020/"
+      },
+      {
+        "Game Name": "Carrom",
+        "Description": "A tabletop game originating from the Indian subcontinent, Carrom is very popular in Puducherry. Players use a striker disk with a flick of the finger to move lighter object discs into one of four corner pockets.",
+        "Reference Link": "https://sbvu.ac.in/kgnc-archives/puducherry-sports-games-and-cultural-meet-2020/"
+      },
+      {
+        "Game Name": "Marbles (Goli)",
+        "Description": "A traditional game where players use a shooter marble to hit target marbles out of a designated area. It requires precision and strategy and is commonly played by children in Puducherry.",
+        "Reference Link": "https://www.facebook.com/p/Traditional-Sports-Games-Association-Puducherry-100089880273518/"
+      },
+      {
+        "Game Name": "Lattu (Spinning Top)",
+        "Description": "A game involving spinning a wooden top using a string. Players compete to see whose top spins the longest or to knock other tops out of a designated area. It is a popular traditional game among children in Puducherry.",
+        "Reference Link": "https://www.facebook.com/p/Traditional-Sports-Games-Association-Puducherry-100089880273518/"
+      },
+      {
+        "Game Name": "Seven Stones (Lagori)",
+        "Description": "A traditional game where players stack seven flat stones and attempt to knock them over with a ball. After knocking the stones, the team tries to restore the pile while the opposing team throws the ball to hit them. It is a favorite pastime in Puducherry.",
+        "Reference Link": "https://steemit.com/india/@aniketmore1925/traditional-indian-games-we-played-when-we-were-kids"
+      }
+    ]
+  }
+]

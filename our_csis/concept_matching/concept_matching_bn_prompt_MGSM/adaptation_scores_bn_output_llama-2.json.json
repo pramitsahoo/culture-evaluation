@@ -1,0 +1,13 @@
+{
+  "dataset_statistics": {
+    "total_sentences": 0,
+    "entries_with_replacements": 0,
+    "total_strict_matches": 0,
+    "total_singular_plural_matches": 0,
+    "total_fuzzy_matches": 0,
+    "average_strict_match_per_sentence": 0,
+    "average_singular_plural_match_per_sentence": 0,
+    "average_fuzzy_match_per_sentence": 0
+  },
+  "detailed_scores": []
+}

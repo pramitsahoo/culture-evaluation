@@ -1,0 +1,2815 @@
+{
+  "dataset_statistics": {
+    "total_sentences": 250,
+    "entries_with_replacements": 217,
+    "total_strict_matches": 13,
+    "total_singular_plural_matches": 12,
+    "average_strict_match_per_sentence": 0.052,
+    "average_singular_plural_match_per_sentence": 0.048
+  },
+  "detailed_scores": [
+    {
+      "adapted_text": "Amita's ducks lay 16 eggs every day. She eats three eggs every morning and gives four eggs to her friends to make parathas. She sells the remaining eggs at the market for \u20b9168 per egg. How much money does she earn from selling eggs at the market every day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "eggs",
+        "parathas",
+        "\u20b9168",
+        "ducks",
+        "amita"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh decided to flip a house. He bought a house for \u20b96640000 and spent \u20b94170000 on renovations. As a result, the house's value increased by 150%. How much did he profit?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b94170000",
+        "\u20b96640000"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh decided to run sprints three times a week for a week. He runs 60 meters in each sprint. How many meters did he run in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Anika feeds each of her 20 hens three cups of a special feed mixture every day to keep them healthy. The mixture contains grains, mealworms, and vegetables. She feeds the hens three times a day. In the morning, she gives the flock of hens 15 cups of feed. In the afternoon, she gives them another 25 cups of feed. How many cups of feed does Anika need to give her hens for their last meal of the day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "hens"
+      ]
+    },
+    {
+      "adapted_text": "Aakash went to the shop to buy glasses for his new apartment. One glass costs \u20b9415, but the price of every second glass is 60% of the original price. Aakash wants to buy 16 glasses. How much money will he have to pay for them?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "aakash",
+        "\u20b9415"
+      ]
+    },
+    {
+      "adapted_text": "Anika has twice as many goats as Priya. Priya has four times as many goats as Meera. If Meera has 20 goats, how many goats do Anika, Priya, and Meera have in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "meera",
+        "priya"
+      ]
+    },
+    {
+      "adapted_text": "Anika is downloading a 200 GB file. She usually downloads at a rate of 2 GB/minute, but after 40% of the download is complete, her Windows updates start installing, requiring a 20-minute restart. After that, Anika has to restart the download. How long will it take to download the entire file?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh drives a car at a speed of 60 miles per hour for 3 hours and then realizes that he has forgotten something important at home, so he returns. He tries to return home in 4 hours, but the first 2 hours are spent in traffic. In the next half hour, he drives at a speed of 30 miles per hour, and in the remaining 4 hours, he is able to drive at a speed of 80 miles per hour. How far is he from home after 4 hours?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "kilometers"
+      ]
+    },
+    {
+      "adapted_text": "\u09aa\u09cd\u09b0\u09a4\u09bf \u09b8\u09aa\u09cd\u09a4\u09be\u09b9\u09c7 \u09aa\u09cd\u09b0\u09a5\u09ae 40 \u0998\u09a3\u09cd\u099f\u09be \u0995\u09be\u099c \u0995\u09b0\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u0986\u09af\u09bc\u09c7\u09b6\u09be \u09aa\u09cd\u09b0\u09a4\u09bf \u0998\u09a3\u09cd\u099f\u09be\u09df \u20b9830 \u09a6\u09b0\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09c7\u09a8\u0964 \u0985\u09a4\u09bf\u09b0\u09bf\u0995\u09cd\u09a4 \u09b8\u09ae\u09df \u0995\u09be\u099c \u0995\u09b0\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u09a4\u09bf\u09a8\u09bf \u09a4\u09be\u0981\u09b0 \u09aa\u09cd\u09b0\u09a4\u09bf \u0998\u09a3\u09cd\u099f\u09be\u09b0 \u09a8\u09bf\u09df\u09ae\u09bf\u09a4 \u09a6\u09b0\u09c7\u09b0 1.2 \u0997\u09c1\u09a3 \u0985\u09b0\u09cd\u09a5 \u09aa\u09be\u09a8\u0964 \u09af\u09a6\u09bf \u0986\u09af\u09bc\u09c7\u09b6\u09be \u098f\u0987 \u09b8\u09aa\u09cd\u09a4\u09be\u09b9\u09c7 45 \u0998\u09a3\u09cd\u099f\u09be \u0995\u09be\u099c \u0995\u09b0\u09c7 \u09a5\u09be\u0995\u09c7\u09a8, \u09a4\u09be\u09b9\u09b2\u09c7 \u098f\u0987 \u09b8\u09aa\u09cd\u09a4\u09be\u09b9\u09c7 \u09a4\u09be\u0981\u09b0 \u0989\u09aa\u09be\u09b0\u09cd\u099c\u09a8 \u0995\u09a4?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ayesha",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Aarti went to a bakery in Mumbai and bought various pastries. She bought 3 dozen donuts at \u20b95604 per dozen, 2 dozen small cupcakes at \u20b96640 per dozen, and 6 dozen mini cheese cakes at \u20b94590 per dozen. What was her total expenditure?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "6 dozen mini cheese cakes",
+        "\u20b96640",
+        "a bakery in mumbai",
+        "2 dozen small cupcakes",
+        "\u20b95604",
+        "\u20b94590",
+        "3 dozen donuts"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh planted a lemon tree. It will cost \u20b97470 to plant the tree. Every year, it will produce 7 lemons, which he can sell for \u20b9124.5 each. It costs \u20b9245 per year to water and fertilize the tree. How many years will it take for Ramesh to start making a profit from the lemon tree?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b9245",
+        "\u20b91245",
+        "\u20b97470"
+      ]
+    },
+    {
+      "adapted_text": "Anika is a door-to-door salesperson. She sold one-third of her vacuum cleaners to Green House, 2 more to Red House, and half of the remaining to Orange House. If Anika has 5 vacuum cleaners left, how many did she start with?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika"
+      ]
+    },
+    {
+      "adapted_text": "\u098f\u0995 \u09ac\u09cd\u09af\u09ac\u09b8\u09be\u09df\u09c0 2\u099f\u09bf \u0995\u09cd\u09b0\u09df \u09aa\u09b0\u09bf\u0995\u09b2\u09cd\u09aa\u09a8\u09be\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u098f\u0995\u099f\u09bf \u09ac\u09c7\u099b\u09c7 \u09a8\u09bf\u09a4\u09c7 \u099a\u09be\u09a8: \u20b9415,000 \u09ae\u09c2\u09b2\u09cd\u09af\u09c7\u09b0 \u09b8\u09cb\u09a8\u09be \u0985\u09a5\u09ac\u09be \u20b966,400 \u09ae\u09c2\u09b2\u09cd\u09af\u09c7\u09b0 \u0987\u09b2\u09c7\u0995\u099f\u09cd\u09b0\u09a8\u09bf\u0995 \u0997\u09cd\u09af\u09be\u099c\u09c7\u099f\u0964 \u09a4\u09be\u09b0 \u0986\u09b0\u09cd\u09a5\u09bf\u0995 \u0989\u09aa\u09a6\u09c7\u09b7\u09cd\u099f\u09be \u0985\u09a8\u09c1\u09ae\u09be\u09a8 \u0995\u09b0\u09c7\u09a8 \u09af\u09c7 \u098f\u0987 \u09ae\u09be\u09b8\u09c7\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u09b8\u09cb\u09a8\u09be\u09b0 \u09ac\u09be\u099c\u09be\u09b0 2.5% \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u09aa\u09be\u09ac\u09c7 \u098f\u09ac\u0982 \u0987\u09b2\u09c7\u0995\u099f\u09cd\u09b0\u09a8\u09bf\u0995 \u0997\u09cd\u09af\u09be\u099c\u09c7\u099f\u09c7\u09b0 \u09ac\u09be\u099c\u09be\u09b0 1.2% \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u09aa\u09be\u09ac\u09c7\u0964 \u0995\u09cb\u09a8\u0993 \u098f\u0995\u099f\u09bf \u09aa\u09b0\u09bf\u0995\u09b2\u09cd\u09aa\u09a8\u09be \u09ac\u09c7\u099b\u09c7 \u09a8\u09bf\u09df\u09c7 \u0990 \u09ac\u09cd\u09af\u09ac\u09b8\u09be\u09df\u09c0 \u09af\u09a6\u09bf \u098f\u0987 \u09ae\u09be\u09b8\u09c7\u09b0 \u09b6\u09c7\u09b7\u09c7 \u09b8\u09b0\u09cd\u09ac\u09be\u09a7\u09bf\u0995 \u09b2\u09be\u09ad \u0995\u09b0\u09a4\u09c7 \u099a\u09be\u09a8, \u09a4\u09be\u09b9\u09b2\u09c7 \u09b8\u09c7\u0987 \u09b2\u09be\u09ad\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3 \u0995\u09a4 \u09b9\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9415000",
+        "\u20b966400"
+      ]
+    },
+    {
+      "adapted_text": "\u09a6\u09c1\u099f\u09bf \u099f\u09cd\u09b0\u09c7\u09a8 \u098f\u0995\u0987 \u09b8\u09ae\u09df\u09c7 \u0995\u09b2\u0995\u09be\u09a4\u09be \u09a5\u09c7\u0995\u09c7 \u09af\u09be\u09a4\u09cd\u09b0\u09be \u09b6\u09c1\u09b0\u09c1 \u0995\u09b0\u09c7\u0964 \u09a4\u09be\u09b0\u09be \u09aa\u09b6\u09cd\u099a\u09bf\u09ae\u09c7\u09b0 \u09a6\u09bf\u0995\u09c7 \u09af\u09c7\u09a4\u09c7 \u09b6\u09c1\u09b0\u09c1 \u0995\u09b0\u09c7, \u0989\u09ad\u09df\u0987 128 \u0995\u09bf\u09b2\u09cb\u09ae\u09bf\u099f\u09be\u09b0 \u0995\u09b0\u09c7 \u09af\u09be\u09a4\u09cd\u09b0\u09be \u0995\u09b0\u09c7\u0964 \u09aa\u09b0\u09c7\u09b0 \u09a6\u09bf\u09a8, \u09a4\u09be\u09b0\u09be \u0989\u09a4\u09cd\u09a4\u09b0\u09c7\u09b0 \u09a6\u09bf\u0995\u09c7 \u09af\u09be\u09a4\u09cd\u09b0\u09be \u0995\u09b0\u09c7 240 \u0995\u09bf\u09b2\u09cb\u09ae\u09bf\u099f\u09be\u09b0 \u09aa\u09a5 \u09af\u09be\u0993\u09df\u09be \u09b8\u09ae\u09cd\u09aa\u09c2\u09b0\u09cd\u09a3 \u0995\u09b0\u09c7\u0964 \u09a4\u09be\u09b9\u09b2\u09c7 \u09a6\u09c1\u0987\u09a6\u09bf\u09a8\u09c7 \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u099f\u09cd\u09b0\u09c7\u09a8 \u0995\u09a4 \u09a6\u09c2\u09b0\u09a4\u09cd\u09ac \u0985\u09a4\u09bf\u0995\u09cd\u09b0\u09ae \u0995\u09b0\u09c7\u099b\u09c7?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "128 kilometers",
+        "kolkata",
+        "240 kilometers"
+      ]
+    },
+    {
+      "adapted_text": "Amita earns \u20b91660 per hour for teaching and \u20b92490 per hour for being a cheerleading coach. If she works 50 weeks in a year, teaching for 35 hours a week and coaching for 15 hours a week, what is her annual salary?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b92490",
+        "\u20b91660"
+      ]
+    },
+    {
+      "adapted_text": "Anika  is walking 12 kilometers. She took 1 hour to walk the first 4 kilometers and another hour to walk the next 2 kilometers. If she wants her average walking speed to be 4 kilometers per hour, how fast (kilometers per hour) does she need to walk to cover the remaining distance?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "kilometers"
+      ]
+    },
+    {
+      "adapted_text": "Anika has 10 liters of orange drink where two-thirds is water and she wants to mix it with 15 liters of pineapple drink where five-sixths is water. But while pouring, she spills one liter of orange drink. In the remaining 24 liters, how much water is there?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "liters",
+        "anikas",
+        "pineapple drink",
+        "orange drink"
+      ]
+    },
+    {
+      "adapted_text": "Aakash and Priya are siblings. Aakash is 6 years older than Priya. When Aakash was 23 years old, he had a son. If Priya is currently 31 years old, how many years ago was Aakash's son born?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "aakash",
+        "priya"
+      ]
+    },
+    {
+      "adapted_text": "Anika \u0995\u09be\u09b2\u09c7\u09b0 \u09b8\u09ac\u09a5\u09c7\u0995\u09c7 \u09ac\u09c7\u09b6\u09bf \u09ac\u09bf\u0995\u09cd\u09b0\u09df \u09b9\u0993\u09df\u09be \u09ac\u0987\u099f\u09bf \u20b91618.50 \u09ae\u09c2\u09b2\u09cd\u09af\u09c7 \u0995\u09bf\u09a8\u09c7\u099b\u09bf\u09b2\u09c7\u09a8\u0964 \u09af\u09be \u0986\u09b8\u09b2 \u09ae\u09c2\u09b2\u09cd\u09af\u09c7\u09b0 \u0993\u09aa\u09b0 25% \u099b\u09be\u09dc\u09c7 \u09aa\u09be\u0993\u09df\u09be \u0997\u09bf\u09df\u09c7\u099b\u09bf\u09b2\u0964 \u09ac\u0987\u099f\u09bf\u09b0 \u0986\u09b8\u09b2 \u09ae\u09c2\u09b2\u09cd\u09af \u0995\u09a4 \u099b\u09bf\u09b2?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "\u20b9161850"
+      ]
+    },
+    {
+      "adapted_text": "Anika bought a chicken meal for \u20b91014, 5 packets of milk at \u20b9249 per packet, 4 apples at \u20b9127 per apple, and ordered several boxes of pizza. Anika paid a total of \u20b94150. If each box of pizza costs \u20b9710, how many boxes of pizza did Anika order?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b91014",
+        "\u20b9249",
+        "\u20b9710",
+        "anika",
+        "\u20b9127",
+        "\u20b94150"
+      ]
+    },
+    {
+      "adapted_text": "Anika bought 3 pairs of shorts, 3 pairs of pants, and 3 pairs of shoes. One pair of shorts costs \u20b91378.50. One pair of pants costs \u20b91863.75 and one pair of shoes costs \u20b93462. How many rupees did Anika spend on all the clothes?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "\u20b9137850",
+        "\u20b9186375",
+        "\u20b93462"
+      ]
+    },
+    {
+      "adapted_text": "Anjali \u0916\u093e\u0924\u0940 \u0939\u0948 \u0930\u093e\u0924 \u092e\u0947\u0902 \u090f\u0915 \u0938\u0930\u094d\u0935\u093f\u0902\u0917 \u0906\u0907\u0938\u0915\u094d\u0930\u0940\u092e\u0964 \u0935\u0939 \u092a\u094d\u0930\u0924\u093f \u0915\u093e\u0930\u094d\u091f\u0928 \u20b9324 \u092e\u0947\u0902 15 \u0938\u0930\u094d\u0935\u093f\u0902\u0917\u094d\u0938 \u0935\u093e\u0932\u093e \u090f\u0915 \u0906\u0907\u0938\u0915\u094d\u0930\u0940\u092e \u0915\u093e \u0915\u093e\u0930\u094d\u091f\u0928 \u0916\u0930\u0940\u0926\u0924\u0940 \u0939\u0948\u0964 60 \u0926\u093f\u0928 \u092c\u093e\u0926, \u0906\u0907\u0938\u0915\u094d\u0930\u0940\u092e \u0915\u0947 \u0932\u093f\u090f \u0909\u0938\u0915\u0947 \u0916\u0930\u094d\u091a \u0915\u0940 \u0915\u0941\u0932 \u0930\u093e\u0936\u093f \u0915\u093f\u0924\u0928\u0940 \u0939\u094b\u0917\u0940?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anjali",
+        "\u20b9324"
+      ]
+    },
+    {
+      "adapted_text": "Vivek  stopped twice on his 60 km bike trip. He stopped for the first time after cycling 20 km. He stopped for the second time 15 km before the end of his trip. How many kilometers did he travel between his first and second stops?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "vivek",
+        "km"
+      ]
+    },
+    {
+      "adapted_text": "Anika found a pair of boots that fit her budget while shopping for shoes. But, she has to choose between the boots and a pair of high heels, the total price of which is five dollars less than the boots. If one pair of heels costs \u20b92739 and the other costs double that amount, what is the price of the boots in INR?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "\u20b983",
+        "\u20b92739",
+        "\u20b95478"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh \u0914\u0930 Akash \u0915\u0940 \u0909\u092e\u094d\u0930 \u0915\u093e \u0905\u0928\u0941\u092a\u093e\u0924 7:11 \u0939\u0948\u0964 \u092f\u0926\u093f \u0909\u0928\u0915\u0940 \u0926\u094b\u0928\u094b\u0902 \u0915\u0940 \u0915\u0941\u0932 \u0909\u092e\u094d\u0930 \u0905\u092d\u0940 162 \u0935\u0930\u094d\u0937 \u0939\u0948, \u0924\u094b 10 \u0935\u0930\u094d\u0937 \u092c\u093e\u0926 Akash \u0915\u0940 \u0909\u092e\u094d\u0930 \u0915\u093f\u0924\u0928\u0940 \u0939\u094b\u0917\u0940, \u092f\u0939 \u091c\u094d\u091e\u093e\u0924 \u0915\u0940\u091c\u093f\u090f\u0964",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rajesh",
+        "akash"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh wants to steal some jelly beans from a jar. He asked his friends to guess how many jelly beans are in the jar. One friend guessed 80. Another friend guessed 20 more than half of the first friend's guess. The third friend guessed 25% more than the first friend's guess. What is the average of their guesses?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "jar",
+        "jelly beans"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh takes care of 10 dogs. It takes him 0.5 hours per dog each day to walk them and look after them. How many hours does he spend caring for the dogs in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Anika has 110 coins. She has 30 more gold coins than silver coins. How many gold coins does Anika have?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "\u20b983",
+        "coins"
+      ]
+    },
+    {
+      "adapted_text": "Aryan from  Sivani has 2 fewer gems.  Raman has half the number of gems that Aryan has, plus 5 more. If Raman has 40 gems, how many gems does Sivani have?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "raman",
+        "sivani",
+        "aryan"
+      ]
+    },
+    {
+      "adapted_text": "Vikram 40 minutes khelte hain ping-pong. Pehle 20 minutes mein woh 4 points score karte hain. Dusre 20 minutes mein woh 25% zyada points score karte hain. Woh total kitne points score karte hain?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "vikram"
+      ]
+    },
+    {
+      "adapted_text": "Anika \u0996\u09be\u09df 2\u099f\u09bf \u09a6\u0987 \u09aa\u09cd\u09b0\u09a4\u09bf\u09a6\u09bf\u09a8\u0964 \u09b8\u09ae\u09cd\u09aa\u09cd\u09b0\u09a4\u09bf 4\u099f\u09bf \u09a6\u0987 \u20b9415-\u098f\u09b0 \u099b\u09be\u09dc\u09af\u09c1\u0995\u09cd\u09a4 \u09ae\u09c2\u09b2\u09cd\u09af\u09c7 \u09ac\u09bf\u0995\u09cd\u09b0\u09bf \u09b9\u099a\u09cd\u099b\u09c7\u0964 30 \u09a6\u09bf\u09a8\u09c7 \u09a4\u09bf\u09a8\u09bf \u09a6\u0987\u09b0 \u099c\u09a8\u09cd\u09af \u0995\u09a4 \u099f\u09be\u0995\u09be \u09ac\u09cd\u09af\u09df \u0995\u09b0\u09c7\u09a8?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "",
+        "\u20b9415"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh wants to buy video games using the money he gets from selling all his toys. He has 13 Lego sets and sold each of them for \u20b91245. He bought 8 video games worth \u20b91660 and still has \u20b9415 left. How many Lego sets does he have now?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b91660",
+        "\u20b9415",
+        "\u20b91245"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ran 60 kilometers in a week. He runs 3 days a week. He ran for 3 hours on the first day and half that time on the other two days. How fast did he run?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "kilometers"
+      ]
+    },
+    {
+      "adapted_text": "Amita can run four times faster than she can walk, but she can skip at half the speed of her running. If she can skip 3 miles per hour, how many miles can she travel in six hours if she spends one-third of the time running and two-thirds of the time walking?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 7,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "walking",
+        "run",
+        "skip",
+        "four times",
+        "hours",
+        "per hour",
+        "miles"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh's iPhone is four times older than Ben's iPhone. Ben's iPhone is twice as old as Suji's iPhone. If Suji's iPhone is 1 year old, how old is Rajesh's iPhone?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "suji",
+        "\u20b9830",
+        "rajesh",
+        "mobile",
+        "ben"
+      ]
+    },
+    {
+      "adapted_text": "\u0905\u0930\u0941\u0923\u093e \u0936\u093f\u0916\u0930 \u092a\u0930 \u092c\u0948\u0920\u093e \u0935\u093f\u0936\u093e\u0932 \u0921\u094d\u0930\u0948\u0917\u0928 \u092a\u093e\u0930\u094d\u0917 1000 \u092b\u0941\u091f \u0915\u0940 \u0926\u0942\u0930\u0940 \u092e\u0947\u0902 \u092e\u094c\u091c\u0942\u0926 \u0915\u093f\u0938\u0940 \u092d\u0940 \u091a\u0940\u091c\u093c \u092a\u0930 \u092e\u0941\u0901\u0939 \u0938\u0947 \u0905\u0917\u094d\u0928\u093f\u0936\u093f\u0916\u093e \u092c\u0930\u0938\u093e \u0930\u0939\u093e \u0939\u0948\u0964 \u0921\u094d\u0930\u0948\u0917\u0928 \u0915\u094b \u092e\u093e\u0930\u0928\u0947 \u0935\u093e\u0932\u093e \u090f\u0915\u092e\u093e\u0924\u094d\u0930 \u091c\u094d\u091e\u093e\u0924 \u0939\u0925\u093f\u092f\u093e\u0930 \u0938\u094b\u0928\u0947 \u0915\u093e \u091cavelin \u0939\u0948, \u091c\u093f\u0938\u0947 \u092a\u0935\u0928 400 \u092b\u0941\u091f \u0915\u0940 \u0926\u0942\u0930\u0940 \u0924\u0915 \u092b\u0947\u0902\u0915 \u0938\u0915\u0924\u093e \u0939\u0948, \u0932\u0947\u0915\u093f\u0928 \u0935\u0939 \u0926\u0942\u0930\u0940 \u0921\u094d\u0930\u0948\u0917\u0928 \u0915\u0940 \u0905\u0917\u094d\u0928\u093f\u0936\u093f\u0916\u093e \u0915\u0940 \u092a\u0939\u0941\u0901\u091a \u0915\u0947 \u092d\u0940\u0924\u0930 \u0939\u0948\u0964 \u0932\u0947\u0915\u093f\u0928 \u091c\u092c \u092a\u0935\u0928 \u0928\u0940\u0932\u0915\u0902\u0920 \u092e\u0923\u093f \u092a\u0915\u0921\u093c\u0924\u093e \u0939\u0948, \u0924\u094b \u0935\u0939 \u092e\u0923\u093f \u092a\u0915\u0921\u093c\u0928\u0947 \u0915\u0947 \u092c\u093f\u0928\u093e \u0915\u0940 \u0924\u0941\u0932\u0928\u093e \u092e\u0947\u0902 \u0924\u0940\u0928 \u0917\u0941\u0928\u093e \u0926\u0942\u0930\u0940 \u0924\u0915 \u091cavelin \u092b\u0947\u0902\u0915 \u0938\u0915\u0924\u093e \u0939\u0948\u0964 \u092f\u0926\u093f \u0935\u0939 \u092e\u0923\u093f \u092a\u0915\u0921\u093c\u0924\u093e \u0939\u0948, \u0924\u094b \u0921\u094d\u0930\u0948\u0917\u0928 \u0915\u0940 \u0905\u0917\u094d\u0928\u093f\u0936\u093f\u0916\u093e \u0915\u0940 \u092a\u0939\u0941\u0901\u091a \u0938\u0947 \u092c\u093e\u0939\u0930 \u0915\u093f\u0924\u0928\u0940 \u0926\u0942\u0930\u0940 \u0924\u0915 \u092a\u0935\u0928 \u0938\u094b\u0928\u0947 \u0915\u0947 \u091cavelin \u0938\u0947 \u0921\u094d\u0930\u0948\u0917\u0928 \u0915\u094b \u0939\u092e\u0932\u093e \u0915\u0930 \u0938\u0915\u0924\u093e \u0939\u0948?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Aai Lakshmi  baked 5 apple pies for the firefighters' lunch. She cut each pie into 8 slices and placed five pies on a buffet table for the guests to serve themselves. At the end of the evening, after the guests had finished taking and eating their pie slices, 14 slices of pie were left. How many slices did the guests take?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "aai lakshmi"
+      ]
+    },
+    {
+      "adapted_text": "Raju wants to sell candles. With every pound of wax, he can make 10 tapers. One pound of wax and a wick cost \u20b9830. If he sells each candle for \u20b9166, how much profit will he make if he makes and sells 20 candles?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9166",
+        "\u20b9830",
+        "pound",
+        "raju"
+      ]
+    },
+    {
+      "adapted_text": "Anika, a freelance blogger who writes about health, delivers daily content to her clients. On average, it takes her 4 hours to research and write a blog post. Last week, on Monday, she wrote 5 posts. On Tuesday, she wrote 2/5 more posts than on Monday. On Wednesday, she wrote twice as many posts as on Tuesday. Calculate the total time Anika spent writing blog posts over these three days.",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought twice as many red ties as blue ties. Red ties cost 50% more than blue ties. He bought each blue tie for \u20b93320 and spent \u20b96640 in total for the blue ties. How much did he spend on all the ties?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b916600",
+        "\u20b93320"
+      ]
+    },
+    {
+      "adapted_text": "Avani used a 4-foot-long rope to support the tomato plant in her garden in Bangalore. She cut the rope into 6-inch pieces. How many pieces did she get?",
+      "strict_matches": [
+        "tomato"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.2,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "in her",
+        "tomato",
+        "inches",
+        "avani",
+        "feet"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh lives in a 15-floor apartment building. Each floor has 8 units, and 3/4 of the building is occupied. How many units in the building are not occupied?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rajesh"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh has a poultry farm. His chickens lay 252 eggs every day, and he sells them at \u20b921,180 per dozen. How much does he earn from eggs every week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rajesh",
+        "\u20b921180"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh's boat travels at 10 kilometers per hour. He travels from 1 pm to 4 pm. Then he returns at a speed of 6 kilometers per hour. How long does it take him to return?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rajesh",
+        "kilometers"
+      ]
+    },
+    {
+      "adapted_text": "Anika's bag of books is getting too heavy for her. She needs to remove 15 pounds from it. Each comic book weighs 1/4 pound and each toy weighs 1/2 pound. If she takes out 30 comic books, how many more toys does she need to take out?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "book"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.3333333333333333,
+      "replaced_words": [
+        "anika",
+        "books",
+        "pounds"
+      ]
+    },
+    {
+      "adapted_text": "\u098f\u0995\u099c\u09a8 \u09ae\u09c7\u0995\u09be\u09a8\u09bf\u0995 \u099f\u09cd\u09b0\u09be\u0995 \u0993 \u0997\u09be\u09dc\u09bf\u09b0 \u099f\u09be\u09df\u09be\u09b0 \u09ae\u09c7\u09b0\u09be\u09ae\u09a4 \u0995\u09b0\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u09ad\u09bf\u09a8\u09cd\u09a8 \u09b9\u09be\u09b0\u09c7 \u0985\u09b0\u09cd\u09a5 \u0997\u09cd\u09b0\u09b9\u09a3 \u0995\u09b0\u09c7\u09a8\u0964 \u09ae\u09c7\u09b0\u09be\u09ae\u09a4 \u0995\u09b0\u09be \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u099f\u09cd\u09b0\u09be\u0995\u09c7\u09b0 \u099f\u09be\u09df\u09be\u09b0\u09c7\u09b0 \u099c\u09a8\u09cd\u09af, \u09ae\u09c7\u0995\u09be\u09a8\u09bf\u0995\u099f\u09bf \u20b95000 \u09a8\u09c7\u09a8 \u098f\u09ac\u0982 \u09ae\u09c7\u09b0\u09be\u09ae\u09a4 \u0995\u09b0\u09be \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u0997\u09be\u09dc\u09bf\u09b0 \u099f\u09be\u09df\u09be\u09b0\u09c7\u09b0 \u099c\u09a8\u09cd\u09af, \u09ae\u09c7\u0995\u09be\u09a8\u09bf\u0995\u099f\u09bf \u20b93300 \u09a8\u09c7\u09a8\u0964 \u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0\u09c7, \u09ae\u09c7\u0995\u09be\u09a8\u09bf\u0995\u099f\u09bf 6\u099f\u09bf \u099f\u09cd\u09b0\u09be\u0995\u09c7\u09b0 \u099f\u09be\u09df\u09be\u09b0 \u0993 4\u099f\u09bf \u0997\u09be\u09dc\u09bf\u09b0 \u099f\u09be\u09df\u09be\u09b0 \u09ae\u09c7\u09b0\u09be\u09ae\u09a4 \u0995\u09b0\u09c7\u099b\u09c7\u09a8\u0964 \u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0\u09c7, \u09ae\u09c7\u0995\u09be\u09a8\u09bf\u0995\u099f\u09bf 12\u099f\u09bf \u0997\u09be\u09dc\u09bf\u09b0 \u099f\u09be\u09df\u09be\u09b0 \u09ae\u09c7\u09b0\u09be\u09ae\u09a4 \u0995\u09b0\u09c7\u09a8 \u0993 \u0995\u09cb\u09a8\u0993 \u099f\u09cd\u09b0\u09be\u0995\u09c7\u09b0 \u099f\u09be\u09df\u09be\u09b0 \u09ae\u09c7\u09b0\u09be\u09ae\u09a4 \u0995\u09b0\u09c7\u09a8\u09a8\u09bf\u0964 \u09af\u09c7\u09a6\u09bf\u09a8 \u09a4\u09be\u09b0 \u0986\u09df \u09ac\u09c7\u09b6\u09bf \u09b9\u09df\u09c7\u099b\u09c7 \u09b8\u09c7\u0987\u09a6\u09bf\u09a8 \u0993\u0987 \u09ae\u09c7\u0995\u09be\u09a8\u09bf\u0995 \u0985\u09a8\u09cd\u09af\u09a6\u09bf\u09a8\u09c7\u09b0 \u099a\u09c7\u09df\u09c7 \u0995\u09a4 \u09ac\u09c7\u09b6\u09bf \u0989\u09aa\u09be\u09b0\u09cd\u099c\u09a8 \u0995\u09b0\u09c7\u099b\u09c7\u09a8?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b93300",
+        "\u20b95000"
+      ]
+    },
+    {
+      "adapted_text": "\u09a6\u09c1\u0987 \u09ac\u09cb\u09a8, \u09b8\u09c1\u099a\u09bf\u09a4\u09cd\u09b0\u09be \u0993 \u09b0\u09be\u09a7\u09be, \u09b8\u09cd\u09a5\u09be\u09a8\u09c0\u09df \u09aa\u09b6\u09c1 \u0986\u09b6\u09cd\u09b0\u09df \u09a5\u09c7\u0995\u09c7 7\u099f\u09bf \u0995\u09c1\u0995\u09c1\u09b0\u09c7\u09b0 \u09b8\u09a8\u09cd\u09a4\u09be\u09a8 \u09a6\u09a4\u09cd\u09a4\u0995 \u09a8\u09bf\u09df\u09c7 \u09af\u0996\u09a8 \u09ac\u09be\u09dc\u09bf \u09ab\u09bf\u09b0\u099b\u09bf\u09b2\u09c7\u09a8 \u09a4\u0996\u09a8 \u09a4\u09be\u09a6\u09c7\u09b0 \u09ae\u09be \u09ab\u09cb\u09a8 \u0995\u09b0\u09c7 \u09a4\u09be\u09a6\u09c7\u09b0\u0995\u09c7 \u099c\u09be\u09a8\u09be\u09a8 \u09af\u09c7 \u09a4\u09be\u09a6\u09c7\u09b0 \u09ac\u09be\u09dc\u09bf\u09b0 \u09a6\u09c1\u099f\u09bf \u0995\u09c1\u0995\u09c1\u09b0\u09c7\u09b0 \u09b8\u09ac\u09c7\u09ae\u09be\u09a4\u09cd\u09b0 \u0995\u09c1\u0995\u09c1\u09b0\u09c7\u09b0 \u09b8\u09a8\u09cd\u09a4\u09be\u09a8 \u09b9\u09df\u09c7\u099b\u09c7\u0964 \u09a4\u09bf\u09a8\u09bf \u09ac\u09b2\u09c7\u09a8 \u09af\u09c7 \u09a6\u09a4\u09cd\u09a4\u0995 \u09a8\u09c7\u0993\u09df\u09be \u0995\u09c1\u0995\u09c1\u09b0\u09c7\u09b0 \u09b8\u09a8\u09cd\u09a4\u09be\u09a8\u0997\u09c1\u09b2\u09bf\u09b0 \u09a5\u09c7\u0995\u09c7, \u09aa\u09cd\u09b0\u09a5\u09ae \u0995\u09c1\u0995\u09c1\u09b0\u09c7\u09b0 \u09b8\u09a8\u09cd\u09a4\u09be\u09a8\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u09af\u09be \u09a4\u09bf\u09a8\u0997\u09c1\u09a3, \u09af\u09c7\u0996\u09be\u09a8\u09c7 \u0985\u09a8\u09cd\u09af \u0986\u09b0\u09c7\u0995\u099f\u09bf \u0995\u09c1\u0995\u09c1\u09b0\u09c7\u09b0 \u09b8\u09a8\u09cd\u09a4\u09be\u09a8\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u09af\u09be 12\u099f\u09bf\u0964 \u09ac\u09b0\u09cd\u09a4\u09ae\u09be\u09a8\u09c7 \u09b8\u09c1\u099a\u09bf\u09a4\u09cd\u09b0\u09be \u0993 \u09b0\u09be\u09a7\u09be\u09b0 \u09aa\u09b0\u09bf\u09ac\u09be\u09b0\u09c7 \u0995\u09a4\u0997\u09c1\u09b2\u09bf \u0995\u09c1\u0995\u09c1\u09b0\u09c7\u09b0 \u09b8\u09a8\u09cd\u09a4\u09be\u09a8 \u09b0\u09df\u09c7\u099b\u09c7?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Anika has 30 laddoos. Anika ate 2 laddoos. With the remaining laddoos, Anika wants to fill a bag with 2 laddoos each. How many bags can Anika fill?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "laddoos"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh this week plans to watch a movie. He always buys a ticket for \u20b9581 and popcorn for \u20b9581. If he has \u20b93486 this week, how many times can he go to the movies?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b9581",
+        "\u20b93486"
+      ]
+    },
+    {
+      "adapted_text": "\u090f\u0915 \u0932\u0915\u0921\u093c\u0940 \u0915\u093e \u092a\u0941\u0932 5000 \u0930\u0941\u092a\u092f\u0947 \u0938\u0947 \u0905\u0927\u093f\u0915 \u092d\u093e\u0930 \u0935\u0939\u0928 \u0928\u0939\u0940\u0902 \u0915\u0930 \u0938\u0915\u0924\u093e\u0964 \u0909\u0938 \u092a\u0941\u0932 \u092a\u0930 \u090f\u0915 \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u091f\u094d\u0930\u0915 \u0917\u0941\u091c\u0930\u0924\u093e \u0939\u0948 \u091c\u093f\u0938\u092e\u0947\u0902 \u0938\u092e\u093e\u0928 \u0935\u091c\u0928 \u0915\u0947 \u0921\u093f\u092c\u094d\u092c\u094b\u0902 \u0938\u0947 \u092d\u0930\u093e \u0939\u0941\u0906 \u0939\u0948\u0964 \u091f\u094d\u0930\u0915 \u091a\u093e\u0932\u0915 \u0914\u0930 \u0916\u093e\u0932\u0940 \u091f\u094d\u0930\u0915 \u0915\u093e \u0915\u0941\u0932 \u0935\u091c\u0928 3755 \u0930\u0941\u092a\u092f\u0947 \u0939\u0948\u0964 \u092a\u0941\u0932 \u0915\u0947 \u092d\u093e\u0930 \u0938\u0940\u092e\u093e \u0915\u094b \u092a\u093e\u0930 \u0915\u093f\u090f \u092c\u093f\u0928\u093e \u091f\u094d\u0930\u0915 \u092e\u0947\u0902 \u0905\u0927\u093f\u0915\u0924\u092e \u0915\u093f\u0924\u0928\u0947 \u0921\u093f\u092c\u094d\u092c\u0947 \u0930\u0916\u0947 \u091c\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "3755",
+        "5000",
+        "15"
+      ]
+    },
+    {
+      "adapted_text": "Vivek \u0985\u09a8\u09b2\u09be\u0987\u09a8\u09c7 \u09ae\u09c1\u09a6\u09bf\u0996\u09be\u09a8\u09be\u09b0 \u09b8\u09be\u09ae\u0997\u09cd\u09b0\u09c0 \u0985\u09b0\u09cd\u09a1\u09be\u09b0 \u0995\u09b0\u09c7\u099b\u09c7\u09a8\u0964 \u09a4\u09be\u0981\u09b0 \u099a\u09c2\u09dc\u09be\u09a8\u09cd\u09a4 \u09ac\u09bf\u09b2\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3 \u20b93320\u0964 \u09af\u09c7\u09b9\u09c7\u09a4\u09c1 \u098f\u099f\u09bf \u098f\u0995\u099f\u09bf \u09b8\u09b0\u09ac\u09b0\u09be\u09b9\u0995\u09be\u09b0\u09c0 \u09ac\u09bf\u0995\u09cd\u09b0\u09c7\u09a4\u09be\u09b0 \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09c7 \u0995\u09b0\u09be \u09b9\u09df\u09c7\u099b\u09bf\u09b2, \u09a4\u09be\u0987 \u09a4\u09be\u0981\u09b0\u09be \u09a4\u09be\u0981\u09b0 \u09ae\u09cb\u099f \u09ac\u09bf\u09b2\u09c7\u09b0 \u0993\u09aa\u09b0 25% \u09ab\u09bf \u098f\u09ac\u0982 \u09a1\u09c7\u09b2\u09bf\u09ad\u09be\u09b0\u09bf \u09ab\u09bf \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u20b9245 \u09af\u09cb\u0997 \u0995\u09b0\u09c7\u099b\u09bf\u09b2\u0964 Vivek \u20b9320 \u09ac\u0995\u09b6\u09bf\u09b8\u0993 \u09a6\u09bf\u09df\u09c7\u099b\u09bf\u09b2\u09c7\u09a8\u0964 \u0985\u09a4\u09bf\u09b0\u09bf\u0995\u09cd\u09a4 \u09ab\u09bf \u09b8\u09ae\u09c7\u09a4, Vivek\u09c7\u09b0 \u09ae\u09c1\u09a6\u09bf\u0996\u09be\u09a8\u09be \u09b8\u09be\u09ae\u0997\u09cd\u09b0\u09c0 \u09ac\u09be\u09ac\u09a6 \u09b8\u09b0\u09cd\u09ac\u09b6\u09c7\u09b7 \u09ae\u09c2\u09b2\u09cd\u09af \u0995\u09a4 \u099b\u09bf\u09b2?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b93320",
+        "\u20b9245",
+        "vivek",
+        "\u20b9320"
+      ]
+    },
+    {
+      "adapted_text": "Amita bought a brooch for her daughter. She paid \u20b941500 for the materials and \u20b965000 for the craftsman, Jahangir, to make it. Then she paid 10% for insurance. How much did she spend in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b941500",
+        "amita",
+        "\u20b965000"
+      ]
+    },
+    {
+      "adapted_text": "\u09af\u09a6\u09bf \u09b8\u09c1\u09ae\u09bf\u09a4 \u098f\u0995\u0987 \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf\u09a4\u09c7 40 \u09ac\u099b\u09b0 \u09a7\u09b0\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09c7\u09a8, \u09a4\u09be\u09b9\u09b2\u09c7 \u09a4\u09bf\u09a8\u09bf \u20b94150000/\u09ac\u099b\u09b0 \u09b9\u09be\u09b0\u09c7 \u09ac\u09be\u09b0\u09cd\u09b7\u09bf\u0995 \u09aa\u09c7\u09a8\u09b6\u09a8 \u09aa\u09be\u09ac\u09c7\u09a8\u0964 20 \u09ac\u099b\u09b0 \u09aa\u09b0 \u09a5\u09c7\u0995\u09c7 \u09b6\u09c1\u09b0\u09c1 \u0995\u09b0\u09c7, \u09a4\u09bf\u09a8\u09bf \u09aa\u09cd\u09b0\u09a4\u09bf \u09ac\u099b\u09b0 \u09aa\u09c7\u09a8\u09b6\u09a8 \u09ae\u09c2\u09b2\u09cd\u09af\u09c7\u09b0 5%-\u098f\u09b0 \u099c\u09a8\u09cd\u09af \u09af\u09cb\u0997\u09cd\u09af \u09b9\u09df\u09c7 \u0993\u09a0\u09c7\u09a8\u0964 \u09af\u09a6\u09bf \u09a4\u09bf\u09a8\u09bf 30 \u09ac\u099b\u09b0 \u09aa\u09b0 \u0995\u09be\u099c \u099b\u09c7\u09dc\u09c7 \u09a6\u09c7\u09a8 \u09a4\u09be\u09b9\u09b2\u09c7 \u09a4\u09be\u0981\u09b0 \u09ac\u09be\u09b0\u09cd\u09b7\u09bf\u0995 \u09aa\u09c7\u09a8\u09b6\u09a8 \u0995\u09a4 \u09b9\u09ac\u09c7?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b94150000"
+      ]
+    },
+    {
+      "adapted_text": "Anika \u09b8\u09be\u09ac\u09b8\u09cd\u0995\u09cd\u09b0\u09be\u0987\u09ac \u0995\u09b0\u09c7\u099b\u09bf\u09b2\u09c7\u09a8 \u098f\u0995\u099f\u09bf \u09b8\u09cd\u099f\u09cd\u09b0\u09bf\u09ae\u09bf\u0982 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be \u09af\u09c7\u099f\u09bf\u09b0 \u099c\u09a8\u09cd\u09af \u09a4\u09be\u0981\u0995\u09c7 \u09aa\u09cd\u09b0\u09a4\u09bf \u09ae\u09be\u09b8\u09c7 \u20b911620 \u0995\u09b0\u09c7 \u09a6\u09bf\u09a4\u09c7 \u09b9\u09a4\u0964 \u09af\u09a6\u09bf \u09b8\u09cd\u099f\u09cd\u09b0\u09bf\u09ae\u09bf\u0982 \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf\u099f\u09bf \u09ac\u099b\u09b0\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a5\u09ae\u09be\u09b0\u09cd\u09a7\u09c7 \u09a4\u09be\u0981\u09b0 \u09a5\u09c7\u0995\u09c7 \u09aa\u09cd\u09b0\u09be\u09b0\u09ae\u09cd\u09ad\u09bf\u0995 \u0985\u09b0\u09cd\u09a5 \u0997\u09cd\u09b0\u09b9\u09a3 \u0995\u09b0\u09c7 \u09a5\u09be\u0995\u09c7 \u098f\u09ac\u0982 \u09ac\u099b\u09b0\u09c7\u09b0 \u09aa\u09b0\u09c7\u09b0 \u0985\u09b0\u09cd\u09a7\u09c7 10% \u0995\u09ae \u0985\u09b0\u09cd\u09a5 \u09a7\u09be\u09b0\u09cd\u09af \u0995\u09b0\u09c7 \u09a5\u09be\u0995\u09c7, \u09a4\u09be\u09b9\u09b2\u09c7 \u09ac\u099b\u09b0\u09c7\u09b0 \u09b6\u09c7\u09b7\u09c7 \u09a4\u09bf\u09a8\u09bf \u09b8\u09cd\u099f\u09cd\u09b0\u09bf\u09ae\u09bf\u0982 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be\u099f\u09bf\u0995\u09c7 \u09ae\u09cb\u099f \u0995\u09a4 \u0985\u09b0\u09cd\u09a5 \u09aa\u09cd\u09b0\u09a6\u09be\u09a8 \u0995\u09b0\u09c7\u099b\u09c7\u09a8 \u09a4\u09be \u09b9\u09bf\u09b8\u09be\u09ac \u0995\u09b0\u09c1\u09a8\u0964",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b911620"
+      ]
+    },
+    {
+      "adapted_text": "Anika wants to go on a road trip in her car and wants to know how far she can drive on a full tank of gas. After filling her tank last time, she drove 100 kilometers, and she had to fill 4 gallons of gas to refill the tank. According to her car's owner's manual, the tank holds 12 gallons of gas. How many kilometers can Anika drive on a full tank of gas?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "kilometers",
+        "road trip",
+        "car",
+        "anika",
+        "gallons"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh spends 2 hours watching TV and then decides to spend half that time reading a book. He does this 3 times a week. How much time does he spend watching TV and reading in 4 weeks?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "hours",
+        "rajesh"
+      ]
+    },
+    {
+      "adapted_text": "\u099a\u09be\u09b0\u099f\u09bf \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df \u098f\u0995\u099f\u09bf \u0995\u09cd\u09b0\u09bf\u0995\u09c7\u099f \u099f\u09c1\u09b0\u09cd\u09a8\u09be\u09ae\u09c7\u09a8\u09cd\u099f\u09c7 \u09aa\u09cd\u09b0\u09a4\u09bf\u09a6\u09cd\u09ac\u09a8\u09cd\u09a6\u09cd\u09ac\u09bf\u09a4\u09be \u0995\u09b0\u099b\u09c7\u0964 \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df \u098f\u0995\u099f\u09bf \u0995\u09b0\u09c7 \u09ae\u09c7\u09df\u09c7\u09a6\u09c7\u09b0 \u0993 \u098f\u0995\u099f\u09bf \u0995\u09b0\u09c7 \u099b\u09c7\u09b2\u09c7\u09a6\u09c7\u09b0 \u0995\u09cd\u09b0\u09bf\u0995\u09c7\u099f \u09a6\u09b2 \u09aa\u09be\u09a0\u09bf\u09df\u09c7\u099b\u09c7 \u098f\u09ac\u0982 \u09aa\u09cd\u09b0\u09a4\u09cd\u09af\u09c7\u0995\u099f\u09bf \u09a6\u09b2\u09c7 11\u099f\u09bf \u0995\u09b0\u09c7 \u0996\u09c7\u09b2\u09cb\u09df\u09be\u09dc \u09b0\u09df\u09c7\u099b\u09c7\u0964 \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09a6\u09b2\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u098f\u0995\u099c\u09a8 \u0995\u09b0\u09c7 \u0995\u09cb\u099a\u0993 \u09aa\u09be\u09a0\u09bf\u09df\u09c7\u099b\u09c7\u0964 \u09b8\u09ac \u09ae\u09bf\u09b2\u09bf\u09df\u09c7, \u09b8\u09ae\u09b8\u09cd\u09a4 \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df \u09ae\u09cb\u099f \u0995\u09a4\u099c\u09a8 \u09b2\u09cb\u0995 \u09aa\u09be\u09a0\u09bf\u09df\u09c7\u099b\u09c7?",
+      "strict_matches": [
+        "cricket"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 1.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "cricket"
+      ]
+    },
+    {
+      "adapted_text": "A treasure hunter named Arun found a treasure chest filled with gems. Inside, there were 175 diamonds, 35 fewer rubies than diamonds, and twice as many emeralds as rubies. How many gems were there in total in the chest?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "diamond"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.2,
+      "replaced_words": [
+        "rubies",
+        "emeralds",
+        "arun",
+        "diamonds",
+        "treasure chest"
+      ]
+    },
+    {
+      "adapted_text": "\u0921\u0949\u0915\u094d\u091f\u0930 \u0935\u093e\u091c\u092a\u0947\u092f\u0940 \u0938\u094d\u0915\u0942\u0932 \u092e\u0947\u0902 \u0932\u0921\u093c\u0915\u094b\u0902 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u0932\u0921\u093c\u0915\u093f\u092f\u094b\u0902 \u0915\u0940 \u0924\u0941\u0932\u0928\u093e \u092e\u0947\u0902 \u0926\u094b \u0917\u0941\u0928\u093e \u0905\u0927\u093f\u0915 \u0939\u0948\u0964 \u092f\u0926\u093f \u0935\u0939\u093e\u0901 60 \u0932\u0921\u093c\u0915\u093f\u092f\u093e\u0901 \u0939\u0948\u0902 \u0914\u0930 \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u0936\u093f\u0915\u094d\u0937\u0915 \u0915\u0947 \u0938\u093e\u0925 5 \u091b\u093e\u0924\u094d\u0930 \u0939\u0948\u0902, \u0924\u094b \u0935\u0939\u093e\u0901 \u0915\u093f\u0924\u0928\u0947 \u0936\u093f\u0915\u094d\u0937\u0915 \u0939\u0948\u0902?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Anika began with a certain amount of money. Then, for 8 weeks, she received a weekly allowance of \u20b9414. At the end of 8 weeks, if she has a total of \u20b98300, how much money did Anika start with?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "\u20b98300",
+        "\u20b9414"
+      ]
+    },
+    {
+      "adapted_text": "Anika attends dance classes every day of the week for 5 classes and 8 classes on Saturday. If there are 15 students in each class and she charges \u20b91245 from each student, how much money does she earn in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "\u20b91245"
+      ]
+    },
+    {
+      "adapted_text": "Keerthi has two different recipes from her grandmother, one with 20 instructions and the other with double the instructions of the first. How many instructions does Keerthi need to read to make both dishes?",
+      "strict_matches": [
+        "one"
+      ],
+      "singular_plural_matches": [
+        "recipe"
+      ],
+      "total_replaced_words": 15,
+      "strict_match_score": 0.06666666666666667,
+      "singular_plural_score": 0.06666666666666667,
+      "replaced_words": [
+        "instructions",
+        "instructions does she need to read",
+        "the other",
+        "how many",
+        "the firsts",
+        "keerthi",
+        "both",
+        "compared to",
+        "one",
+        "recipes",
+        "to make",
+        "two different",
+        "double",
+        "kinds of",
+        "keerthis"
+      ]
+    },
+    {
+      "adapted_text": "To donate, Tumi is selling brownies for \u20b9250 each and cheesecakes for \u20b9330 each. If Tumi sells 43 brownies and 23 cheesecakes, how much money did Tumi collect?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9330",
+        "\u20b9250"
+      ]
+    },
+    {
+      "adapted_text": "Anika purchased five cell phones for \u20b912450 in three monthly installments. A 2% interest will be charged on each phone. How much will Anika have to pay each month for three months?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b912450"
+      ]
+    },
+    {
+      "adapted_text": "\u090f\u0915 \u0915\u093f\u0938\u093e\u0928 \u092c\u093e\u091c\u093e\u0930 \u092e\u0947\u0902 \u0906\u0930\u094d\u091f\u0940 \u0915\u093e \u090f\u0915 \u092b\u0942\u0932\u094b\u0902 \u0915\u0940 \u0926\u0941\u0915\u093e\u0928 \u0939\u0948\u0964 \u0935\u0939 \u0924\u0940\u0928 \u0924\u0930\u0939 \u0915\u0947 \u092b\u0942\u0932 \u092c\u0947\u091a\u0924\u0940 \u0939\u0948: \u0917\u0947\u0902\u0926\u093e, \u092a\u093f\u091f\u0941\u0928\u093f\u092f\u093e \u0914\u0930 \u092c\u094b\u0917\u0947\u0928\u0935\u093f\u0932\u094d\u0932\u093e\u0964 \u0935\u0939 \u0906\u092e \u0924\u094c\u0930 \u092a\u0930 \u0917\u0947\u0902\u0926\u0947 \u0915\u093e \u092a\u094d\u0930\u0924\u093f \u091f\u092c \u20b9227, \u092a\u093f\u091f\u0941\u0928\u093f\u092f\u093e \u0915\u093e \u092a\u094d\u0930\u0924\u093f \u091f\u092c \u20b9155 \u0914\u0930 \u092c\u094b\u0917\u0947\u0928\u0935\u093f\u0932\u094d\u0932\u093e \u0915\u093e \u092a\u094d\u0930\u0924\u093f \u091f\u092c \u20b9175 \u0926\u093e\u092e \u092a\u0930 \u092c\u0947\u091a\u0924\u0940 \u0939\u0948\u0964 \u0906\u091c \u0906\u0930\u094d\u091f\u0940 \u0915\u0947 \u092a\u093e\u0938 \u0915\u094b\u0908 \u0916\u093c\u0930\u0940\u0926\u093e\u0930 \u0928\u0939\u0940\u0902 \u0939\u0948, \u0907\u0938\u0932\u093f\u090f \u0909\u0938\u0928\u0947 \u092b\u0948\u0938\u0932\u093e \u0915\u093f\u092f\u093e \u0939\u0948 \u0915\u093f \u0935\u0939 \u0938\u092d\u0940 \u0926\u093e\u092e \u0928\u093f\u0915\u091f\u0924\u092e \u092a\u0942\u0930\u094d\u0923 \u0930\u0941\u092a\u092f\u0947 \u092e\u0947\u0902 \u0932\u0947\u0902\u0917\u0947\u0964 \u092f\u0926\u093f \u0906\u0930\u094d\u091f\u0940 12 \u091f\u092c \u0917\u0947\u0902\u0926\u093e, 9 \u091f\u092c \u092a\u093f\u091f\u0941\u0928\u093f\u092f\u093e \u0914\u0930 17 \u091f\u092c \u092c\u094b\u0917\u0947\u0928\u0935\u093f\u0932\u094d\u0932\u093e \u092c\u0947\u091a\u0924\u0940 \u0939\u0948, \u0924\u094b \u0935\u0939 \u0915\u093f\u0924\u0928\u093e \u092a\u0948\u0938\u093e \u0915\u092e\u093e\u090f\u0917\u0940?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9227",
+        "\u20b9175",
+        "\u20b9155"
+      ]
+    },
+    {
+      "adapted_text": "Aryan is building a sandcastle on Juhu beach. He noticed that the area of each layer of the sandcastle is half the area of the layer below it. If he builds a sandcastle with 4 layers and the top layer measures 16 square feet, what is the average area of each layer?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "square feet",
+        "on juhu beach",
+        "sandcastle",
+        "aryan"
+      ]
+    },
+    {
+      "adapted_text": "Anika bought a new puppy. Her veterinarian advised that for the first 180 days, the puppy should be fed 1 cup of puppy food daily. After that, the puppy should be fed 2 cups of puppy food for life. If a bag contains 110 cups of puppy food, how many bags of puppy food will Anika need for the first year?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika"
+      ]
+    },
+    {
+      "adapted_text": "\u09af\u09a6\u09bf \u09b0\u09be\u099c\u09c7\u09b6 \u09b8\u09be\u09b0\u09be\u09b0 \u09a4\u09c1\u09b2\u09a8\u09be\u09df \u0985\u09b0\u09cd\u09a7\u09c7\u0995 \u09b2\u09a8\u09cd\u09a1\u09cd\u09b0\u09bf \u0995\u09b0\u09c7, \u098f\u09ac\u0982 \u09b8\u09be\u09b0\u09be \u09a6\u09c7\u09ac\u09c7\u09a8\u09c7\u09b0 \u09a4\u09c1\u09b2\u09a8\u09be\u09df 4 \u0997\u09c1\u09a3 \u09ac\u09c7\u09b6\u09bf \u09b2\u09a8\u09cd\u09a1\u09cd\u09b0\u09bf \u0995\u09b0\u09c7, \u09a4\u09ac\u09c7 \u09af\u09a6\u09bf \u09b8\u09be\u09b0\u09be 400 \u09aa\u09be\u0989\u09a8\u09cd\u09a1 \u09b2\u09a8\u09cd\u09a1\u09cd\u09b0\u09bf \u0995\u09b0\u09c7 \u09b8\u09c7\u0995\u09cd\u09b7\u09c7\u09a4\u09cd\u09b0\u09c7 \u09b0\u09be\u099c\u09c7\u09b6 \u0993 \u09a6\u09c7\u09ac\u09c7\u09a8\u09c7\u09b0 \u0995\u09b0\u09be \u09b2\u09a8\u09cd\u09a1\u09cd\u09b0\u09bf\u09b0 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3\u09c7\u09b0 \u09aa\u09be\u09b0\u09cd\u09a5\u0995\u09cd\u09af\u09c7\u09b0 \u09b9\u09bf\u09b8\u09be\u09ac \u0995\u09b0\u09c1\u09a8.",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Vivek can buy 3 packages for \u20b9207.50 or 2 flowers for \u20b983. To buy 18 flowers at the best price, how much money will he save?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "vivek",
+        "\u20b920750",
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh adopted a dog. He took the dog to the groomer, which cost him \u20b98300. As a new customer, the groomer gave him a 30% discount. How much did the grooming cost?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b98300"
+      ]
+    },
+    {
+      "adapted_text": "Avani and Priya each received 1/6 of 24 liters of water. Then, Rohan received 6 liters of water. How much water will be left?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "liters",
+        "avani and priya"
+      ]
+    },
+    {
+      "adapted_text": "Aakash had 10 stickers. He bought 21 stickers from a shop in the market and received 23 stickers as a birthday gift. Then, Aakash gave 9 stickers to his sister and used 28 stickers to decorate greeting cards. How many stickers does Aakash have left?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "stickers",
+        "aakash"
+      ]
+    },
+    {
+      "adapted_text": "Priya's weight is 125 kilograms.  Anika's weight is 2 kilograms less than 4 times Priya's weight. What is their combined weight in kilograms?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "priya",
+        "125 kilograms"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh planted 3 rose bushes. Each rose bush has 25 roses. Each rose has 8 thorns. How many thorns are there in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rajesh",
+        "each",
+        "rose"
+      ]
+    },
+    {
+      "adapted_text": "Avinash is stitching a quilt with his old souvenir T-shirts. He has one shirt for each vacation he takes. Each shirt has its own quilt block. Each row is made up of blocks from a different year's vacation. He goes on vacation four times a year and has been traveling since he was 23 years old. He is currently 34 years old. How many quilt blocks does he have in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "avinash"
+      ]
+    },
+    {
+      "adapted_text": "\u09a6\u09bf\u09a8\u09c7 \u09a4\u09bf\u09a8\u09ac\u09be\u09b0 \u09ac\u09be\u099c\u09be\u09b0\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u0985\u09b0\u09c1\u09a3\u09c7\u09b0 \u098f\u0995\u099f\u09bf \u0985\u09cd\u09af\u09be\u09b2\u09be\u09b0\u09cd\u09ae \u09b8\u09c7\u099f \u0995\u09b0\u09be \u0986\u099b\u09c7\u0964 \u0985\u09b0\u09c1\u09a3 \u09af\u09a4\u0995\u09cd\u09b7\u09a3 \u09a8\u09be \u0985\u09cd\u09af\u09be\u09b2\u09be\u09b0\u09cd\u09ae \u09ac\u09a8\u09cd\u09a7 \u0995\u09b0\u09c7\u09a8 \u09a4\u09a4\u0995\u09cd\u09b7\u09a3 \u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4 \u098f\u099f\u09bf \u09ac\u09be\u099c\u09a4\u09c7 \u09a5\u09be\u0995\u09c7, \u0986\u099c \u09aa\u09cd\u09b0\u09a5\u09ae\u09ac\u09be\u09b0 \u09af\u0996\u09a8 \u098f\u099f\u09bf \u09ac\u09c7\u099c\u09c7 \u0989\u09a0\u09c7\u099b\u09bf\u09b2 \u09a4\u0996\u09a8 \u098f\u099f\u09bf \u099a\u09be\u09b0\u09ac\u09be\u09b0 \u09ac\u09c7\u099c\u09c7\u099b\u09c7\u0964 \u09a6\u09cd\u09ac\u09bf\u09a4\u09c0\u09df\u09ac\u09be\u09b0 \u09af\u0996\u09a8 \u098f\u099f\u09bf \u09ac\u09c7\u099c\u09c7 \u0989\u09a0\u09c7\u099b\u09bf\u09b2 \u09a4\u0996\u09a8 \u098f\u099f\u09bf \u09aa\u09cd\u09b0\u09a5\u09ae\u09ac\u09be\u09b0\u09c7\u09b0 \u09a5\u09c7\u0995\u09c7 \u09a4\u09bf\u09a8\u0997\u09c1\u09a3 \u09ac\u09c7\u09b6\u09bf \u09ac\u09c7\u099c\u09c7\u099b\u09c7\u0964 \u09a4\u09c3\u09a4\u09c0\u09df\u09ac\u09be\u09b0\u09c7, \u098f\u099f\u09bf \u09a6\u09cd\u09ac\u09bf\u09a4\u09c0\u09df\u09ac\u09be\u09b0\u09c7\u09b0 \u0985\u09b0\u09cd\u09a7\u09c7\u0995 \u09b8\u09ae\u09df \u09ac\u09c7\u099c\u09c7\u099b\u09c7\u0964 \u09b8\u09ac \u09ae\u09bf\u09b2\u09bf\u09df\u09c7 \u0995\u09a4\u09ac\u09be\u09b0 \u0985\u09cd\u09af\u09be\u09b2\u09be\u09b0\u09cd\u09ae \u09ac\u09c7\u099c\u09c7\u099b\u09c7?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "\u098f\u0995\u099f\u09bf \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf \u09a4\u09be\u09b0 \u09aa\u09cd\u09b0\u09a4\u09cd\u09af\u09c7\u0995 \u0995\u09b0\u09cd\u09ae\u099a\u09be\u09b0\u09c0\u09a6\u09c7\u09b0 \u098f\u0995 \u09ae\u09be\u09b8\u09c7 \u20b950,400 \u09ac\u09c7\u09a4\u09a8 \u09a6\u09c7\u09df\u0964 \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf\u09b0 \u09ac\u09c7\u09a4\u09a8 \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf\u09b0 \u09a8\u09c0\u09a4\u09bf \u0985\u09a8\u09c1\u09b8\u09be\u09b0\u09c7 \u09af\u09be\u09b0\u09be \u09aa\u09be\u0981\u099a \u09ac\u099b\u09b0 \u09a7\u09b0\u09c7 \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf\u09a4\u09c7 \u0986\u099b\u09c7\u09a8 \u09a4\u09be\u0981\u09a6\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09aa\u09cd\u09b0\u09a4\u09bf \u09ac\u099b\u09b0 \u09aa\u09cd\u09b0\u09be\u09b0\u09ae\u09cd\u09ad\u09bf\u0995 \u09ac\u09c7\u09a4\u09a8\u09c7\u09b0 10% \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u0995\u09b0\u09be \u09b9\u09df\u0964 \u0997\u09a4 \u09a1\u09bf\u09b8\u09c7\u09ae\u09cd\u09ac\u09b0\u09c7, \u09b8\u09bf\u09b2\u09ad\u09bf \u09af\u09a6\u09bf \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf\u09a4\u09c7 \u09b8\u09ac\u09c7\u09ae\u09be\u09a4\u09cd\u09b0 5 \u09ac\u099b\u09b0 \u09aa\u09c2\u09b0\u09cd\u09a3 \u0995\u09b0\u09c7 \u09a5\u09be\u0995\u09c7, \u09a4\u09ac\u09c7 \u0986\u09b0\u0993 \u09a4\u09bf\u09a8 \u09ac\u099b\u09b0 \u099a\u09be\u0995\u09b0\u09bf \u0995\u09b0\u09be\u09b0 \u09aa\u09b0 \u09a4\u09be\u09b0 \u09ac\u09be\u09b0\u09cd\u09b7\u09bf\u0995 \u09ac\u09c7\u09a4\u09a8 \u0995\u09a4 \u09b9\u09ac\u09c7?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b950400"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh's first record sold 10 times more than Maya's. If they together sold 88,000 copies, how many copies did Rajesh sell?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rajesh",
+        "maya"
+      ]
+    },
+    {
+      "adapted_text": "Anika is planning a birthday party and needs 0.75 gift bags for each guest, as 1/4 of the invitees did not attend. She invited 16 friends. Each gift bag costs \u20b9160. How much will she spend?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "\u20b9160"
+      ]
+    },
+    {
+      "adapted_text": "Tejas \u0928\u093e\u092e \u0915\u093e \u091f\u093e\u0907-\u0930\u0947\u0915\u094d\u0938 \u0921\u093e\u092f\u0928\u093e\u0938\u094b\u0930 \u092a\u093f\u0915\u0928\u093f\u0915 \u0915\u0947 \u0932\u093f\u090f \u0906\u0932\u0942 \u0938\u0932\u093e\u0926 \u0932\u093e\u0928\u0947 \u0915\u0940 \u092f\u094b\u091c\u0928\u093e \u092c\u0928\u093e \u0930\u0939\u093e \u0925\u093e\u0964 \u0935\u0939 \u091c\u093e\u0928\u0924\u093e \u0939\u0948 \u0915\u093f \u090f\u0915 \u0935\u092f\u0938\u094d\u0915 \u0921\u093e\u092f\u0928\u093e\u0938\u094b\u0930 10 \u092a\u093e\u0909\u0902\u0921 \u0906\u0932\u0942 \u0938\u0932\u093e\u0926 \u0916\u093e\u090f\u0917\u093e \u0914\u0930 \u090f\u0915 \u092c\u091a\u094d\u091a\u093e \u090f\u0915 \u0935\u092f\u0938\u094d\u0915 \u0915\u0940 \u0924\u0941\u0932\u0928\u093e \u092e\u0947\u0902 \u0906\u0927\u093e \u0916\u093e\u090f\u0917\u093e\u0964 \u092f\u0926\u093f \u092a\u093f\u0915\u0928\u093f\u0915 \u092e\u0947\u0902 20 \u0935\u092f\u0938\u094d\u0915 \u0914\u0930 5 \u092c\u091a\u094d\u091a\u0947 \u0939\u0948\u0902, \u0924\u094b \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u0915\u094b \u092a\u0930\u094d\u092f\u093e\u092a\u094d\u0924 \u092e\u093e\u0924\u094d\u0930\u093e \u092e\u0947\u0902 \u0916\u093f\u0932\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u091f\u0947\u091c\u0947\u0938 \u0915\u094b \u092a\u093f\u0915\u0928\u093f\u0915 \u092e\u0947\u0902 \u0915\u093f\u0924\u0928\u0947 \u092a\u093e\u0909\u0902\u0921 \u0906\u0932\u0942 \u0938\u0932\u093e\u0926 \u0932\u093e\u0928\u093e \u0939\u094b\u0917\u093e?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "tejas",
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Anika has three times as many pets as Priya. Priya has two more pets than Sindhu. If Sindhu has four pets, how many pets do they have altogether?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "priya",
+        "sindhu"
+      ]
+    },
+    {
+      "adapted_text": "Anika,  Rohan,  Karan, and  Jai are four children. Anika is 5 years older than Rohan and 2 years younger than Karan. If Jai is 10 years old and is 1 year younger than Karan, what is Rohan's age?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "rohan",
+        "jai",
+        "karan"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh, in the time it takes him to run 400 meters hurdles, is faster than Leela by 2 seconds. However, Ramesh has changed his diet, which has improved his speed by 10%. If Leela runs 400 meters hurdles in 38 seconds, how many seconds will it take Ramesh to run 400 meters hurdles after improving his diet?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "leela"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh slept for 9 hours last night. Compared to Ramesh, his friend James slept for only 2/3 of the time. How many more hours did Ramesh sleep than James?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "\u091c\u092c \u0905\u0902\u091c\u0932\u093f \u0915\u0941\u092e\u093e\u0930 \u091f\u092e\u093e\u091f\u0930 \u0938\u0947 \u0938\u0949\u0938 \u092c\u0928\u093e\u0924\u0940 \u0939\u0948, \u0924\u094b \u0909\u0928\u0915\u093e \u092e\u093e\u0924\u094d\u0930\u093e \u0906\u0927\u093e \u0939\u094b \u091c\u093e\u0924\u0940 \u0939\u0948\u0964 \u092a\u094d\u0930\u0924\u093f 16 \u0914\u0902\u0938 \u0915\u0941\u092e\u093e\u0930 \u091f\u092e\u093e\u091f\u0930 \u091c\u094b \u0935\u0939 \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 \u0915\u0930\u0924\u0940 \u0939\u0948 \u0909\u0938\u092e\u0947\u0902 \u0924\u0940\u0928 \u091f\u092e\u093e\u091f\u0930 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902\u0964 \u0905\u0902\u091c\u0932\u093f \u0928\u0947 \u0906\u0916\u093f\u0930\u0940 \u092c\u093e\u0930 \u091f\u092e\u093e\u091f\u0930 \u0938\u0947 32 \u0914\u0902\u0938 \u0938\u0949\u0938 \u092c\u0928\u093e\u092f\u093e \u0925\u093e\u0964 \u0905\u0902\u091c\u0932\u093f \u0928\u0947 \u0915\u093f\u0924\u0928\u0947 \u091f\u092e\u093e\u091f\u0930 \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 \u0915\u093f\u090f?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Anika, an enthusiastic gardener, received 18 new sapling pots from her favourite nursery yesterday. Her spacious house already has 2 sapling pots on each side of its 40 windows. Feeling generous, she decided to give 1 sapling pot from each window side to her friends and family members tomorrow. How many sapling pots will Anika have left?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "sapling pots"
+      ]
+    },
+    {
+      "adapted_text": "Arjun\u09c7\u09b0 4 \u099c\u09a8 \u09ac\u09a8\u09cd\u09a7\u09c1 \u099b\u09bf\u09b2\u09c7\u09a8 \u09af\u09be\u09b0\u09be \u098f\u0995\u099f\u09bf \u09a8\u09bf\u09b0\u09cd\u09a6\u09bf\u09b7\u09cd\u099f \u09a6\u09bf\u09a8\u09c7 \u09a4\u09be\u0981\u0995\u09c7 \u09a6\u09c7\u0996\u09a4\u09c7 \u098f\u09b8\u09c7\u099b\u09bf\u09b2\u09c7\u09a8\u0964 Arjun \u09a6\u09b0\u099c\u09be \u0996\u09cb\u09b2\u09be\u09b0 \u0986\u0997\u09c7 \u09a4\u09be\u0981\u09b0 \u09aa\u09cd\u09b0\u09a5\u09ae \u09ac\u09a8\u09cd\u09a7\u09c1 20 \u09ac\u09be\u09b0 \u09a1\u09cb\u09b0\u09ac\u09c7\u09b2 \u09ac\u09be\u099c\u09bf\u09df\u09c7\u099b\u09bf\u09b2\u09c7\u09a8, Arjun\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a5\u09ae \u09ac\u09a8\u09cd\u09a7\u09c1\u09b0 \u09a4\u09c1\u09b2\u09a8\u09be\u09df \u09a6\u09cd\u09ac\u09bf\u09a4\u09c0\u09df \u09ac\u09a8\u09cd\u09a7\u09c1 1/4 \u0997\u09c1\u09a3 \u09ac\u09c7\u09b6\u09bf\u09ac\u09be\u09b0 \u09a1\u09cb\u09b0\u09ac\u09c7\u09b2 \u09ac\u09be\u099c\u09bf\u09df\u09c7\u099b\u09bf\u09b2\u09c7\u09a8\u0964 \u099a\u09a4\u09c1\u09b0\u09cd\u09a5 \u09ac\u09a8\u09cd\u09a7\u09c1\u09b0 \u09a4\u09c1\u09b2\u09a8\u09be\u09df \u09a4\u09c3\u09a4\u09c0\u09df \u09ac\u09a8\u09cd\u09a7\u09c1\u099f\u09bf 10 \u09ac\u09be\u09b0 \u09ac\u09c7\u09b6\u09bf \u09a1\u09cb\u09b0\u09ac\u09c7\u09b2 \u09ac\u09be\u099c\u09bf\u09df\u09c7\u099b\u09bf\u09b2\u09c7\u09a8\u0964 \u09af\u09a6\u09bf \u099a\u09a4\u09c1\u09b0\u09cd\u09a5 \u09ac\u09a8\u09cd\u09a7\u09c1\u099f\u09bf 60 \u09ac\u09be\u09b0 \u09a1\u09cb\u09b0\u09ac\u09c7\u09b2 \u09ac\u09be\u099c\u09bf\u09df\u09c7 \u09a5\u09be\u0995\u09c7\u09a8, \u09a4\u09ac\u09c7 \u09a1\u09cb\u09b0\u09ac\u09c7\u09b2\u099f\u09bf \u09ae\u09cb\u099f \u0995\u09a4\u09ac\u09be\u09b0 \u09ac\u09c7\u099c\u09c7\u099b\u09bf\u09b2?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "arjun"
+      ]
+    },
+    {
+      "adapted_text": "Anika needs to read 4 pages from her science textbook, 20 pages from her social studies textbook, 7 pages from her history textbook, and 8 pages from her geography textbook. Anika read 15 pages on Monday. If she gets 4 more days to complete her reading, then on average how many pages does she need to read each day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh drinks a glass of water at breakfast, lunch, and dinner. Finally, he drinks a glass of water before going to bed. Ramesh does this every day of the week but at the end of the week, he likes to relax and prefers to drink soda instead of water at dinner. How many glasses of water does Ramesh drink in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Anika is solving a 1000-piece jigsaw puzzle. She has placed one-fourth of the pieces on the board, and then her mother placed one-third of the remaining pieces. How many pieces of the jigsaw puzzle are left to be placed?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh ate 5 cookies, and his friend, Priya, ate three times as many. How many cookies did they eat together?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "cookies",
+        "rajesh",
+        "priya"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh has 3 boxes. Each box is 5 inches by 6 inches by 4 inches. The walls of the boxes are 1 inch thick. What is the total internal volume of the 3 boxes?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Anika \u09aa\u09cd\u09b0\u09a4\u09bf \u09b0\u09be\u09a4\u09c7 \u09b9\u09cb\u09ae\u0993\u09df\u09be\u09b0\u09cd\u0995 \u09b6\u09c7\u09b7 \u0995\u09b0\u09be\u09b0 \u09aa\u09b0 TV \u09a6\u09c7\u0996\u09c7\u0964 \u09aa\u09cd\u09b0\u09a4\u09bf \u09b8\u09cb\u09ae\u09ac\u09be\u09b0 \u0993 \u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0 \u09b0\u09be\u09a4\u09c7, \u09b8\u09c7 \u09a4\u09be\u09b0 \u09aa\u09cd\u09b0\u09bf\u09df \u09b6\u09cb-\u098f\u09b0 \u098f\u0995\u099f\u09bf 1-\u0998\u09a3\u09cd\u099f\u09be\u09b0 \u09aa\u09b0\u09cd\u09ac \u09a6\u09c7\u0996\u09c7\u099b\u09bf\u09b2\u0964 \u09ac\u09c1\u09a7\u09ac\u09be\u09b0\u09c7, \u09b8\u09c7 30 \u09ae\u09bf\u09a8\u09bf\u099f\u09c7\u09b0 \u09b6\u09cb-\u098f\u09b0 \u0995\u09df\u09c7\u0995\u099f\u09be \u09aa\u09b0\u09cd\u09ac \u09a6\u09c7\u0996\u09c7\u099b\u09bf\u09b2\u0964 \u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0\u09c7, \u09b8\u09c7 \u09a4\u09be\u09dc\u09be\u09a4\u09be\u09dc\u09bf \u09b9\u09cb\u09ae\u0993\u09df\u09be\u09b0\u09cd\u0995 \u09b6\u09c7\u09b7 \u0995\u09b0\u09c7\u099b\u09bf\u09b2 \u098f\u09ac\u0982 \u098f\u0995\u099f\u09bf 1-\u0998\u09a3\u09cd\u099f\u09be\u09b0 \u09aa\u09b0\u09cd\u09ac \u0993 30 \u09ae\u09bf\u09a8\u09bf\u099f\u09c7\u09b0 \u098f\u0995\u099f\u09bf \u09b6\u09cb \u09a6\u09c7\u0996\u09c7\u099b\u09bf\u09b2\u0964 \u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0, \u09b8\u09aa\u09cd\u09a4\u09be\u09b9\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09a6\u09bf\u09a8\u09c7 \u09b8\u09c7 \u09a6\u09c7\u09b0\u09bf \u0995\u09b0\u09c7 \u0998\u09c1\u09ae \u09a5\u09c7\u0995\u09c7 \u0989\u09a0\u09a4\u09c7 \u09aa\u09be\u09b0\u09ac\u09c7 \u09ac\u09b2\u09c7 1 \u0998\u09a3\u09cd\u099f\u09be\u09b0 \u09a6\u09c1\u099f\u09cb \u09aa\u09b0\u09cd\u09ac \u09a6\u09c7\u0996\u09c7\u099b\u09bf\u09b2\u0964 \u09b8\u09ac \u09ae\u09bf\u09b2\u09bf\u09df\u09c7 \u09b8\u09c7 \u09af\u09a6\u09bf 7 \u0998\u09a3\u09cd\u099f\u09be TV \u09a6\u09c7\u0996\u09c7, \u09a4\u09be\u09b9\u09b2\u09c7 \u09b8\u09c7 \u09ac\u09c1\u09a7\u09ac\u09be\u09b0\u09c7 30 \u09ae\u09bf\u09a8\u09bf\u099f\u09c7\u09b0 \u0995\u09a4\u0997\u09c1\u09b2\u09bf \u09aa\u09b0\u09cd\u09ac \u09a6\u09c7\u0996\u09c7\u099b\u09bf\u09b2?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika"
+      ]
+    },
+    {
+      "adapted_text": "\u090f\u0915 \u0938\u094d\u0925\u093e\u0928\u0940\u092f \u092c\u0947\u0915\u093f\u0902\u0917 \u092a\u094d\u0930\u0924\u093f\u092f\u094b\u0917\u093f\u0924\u093e \u0915\u0947 \u0932\u093f\u090f \u0930\u0935\u093f \u0915\u0942\u0915\u0940\u091c \u092c\u0928\u093e \u0930\u0939\u093e \u0939\u0948\u0964 \u092a\u093f\u091b\u0932\u0947 \u0938\u093e\u0932 \u091c\u094b \u0909\u0938\u0928\u0947 \u092c\u0928\u093e\u092f\u093e \u0925\u093e \u0909\u0938\u0938\u0947 \u0935\u0939 \u0926\u094b\u0917\u0941\u0928\u093e \u092c\u0928\u093e\u0928\u093e \u091a\u093e\u0939\u0924\u093e \u0939\u0948\u0964 \u091c\u092c \u0935\u0939 \u092c\u0947\u0915\u093f\u0902\u0917 \u0915\u0930\u0928\u093e \u0938\u092e\u093e\u092a\u094d\u0924 \u0915\u0930\u0924\u093e \u0939\u0948, \u0924\u094b \u0909\u0938\u0947 \u092a\u0924\u093e \u091a\u0932\u0924\u093e \u0939\u0948 \u0915\u093f \u0909\u0938\u0928\u0947 \u0935\u093e\u0938\u094d\u0924\u0935 \u092e\u0947\u0902 \u091c\u093f\u0924\u0928\u093e \u091a\u093e\u0939 \u0930\u0939\u093e \u0925\u093e \u0909\u0938\u0938\u0947 15 \u0915\u0942\u0915\u0940\u091c \u091c\u094d\u092f\u093e\u0926\u093e \u092c\u0947\u0915 \u0915\u0940 \u0939\u0948\u0902\u0964 \u0935\u0939 \u0909\u0928\u094d\u0939\u0947\u0902 \u0920\u0902\u0921\u093e \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u091c\u092c \u092c\u093e\u0939\u0930 \u0930\u0916\u0924\u093e \u0939\u0948 \u0924\u094b 5 \u0915\u0942\u0915\u0940\u091c \u0917\u093f\u0930 \u091c\u093e\u0924\u0940 \u0939\u0948\u0902, \u0914\u0930 \u0905\u092c \u0915\u0941\u0932 110 \u0915\u0942\u0915\u0940\u091c \u092c\u091a\u0940 \u0939\u0948\u0902\u0964 \u0930\u0935\u093f \u092a\u093f\u091b\u0932\u0947 \u0938\u093e\u0932 \u0915\u093f\u0924\u0928\u0940 \u0915\u0942\u0915\u0940\u091c \u092c\u0928\u093e\u092f\u093e \u0925\u093e?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "\u098f\u0995\u099f\u09be \u09b8\u09cd\u09a5\u09be\u09a8\u09c0\u09df \u09aa\u09c7\u099f\u09cd\u09b0\u09cb\u09b2 \u09aa\u09be\u09ae\u09cd\u09aa \u098f\u0995 \u09b2\u09bf\u099f\u09be\u09b0 \u09aa\u09c7\u099f\u09cd\u09b0\u09cb\u09b2 \u20b9249 \u09ae\u09c2\u09b2\u09cd\u09af\u09c7 \u09ac\u09bf\u0995\u09cd\u09b0\u09df \u0995\u09b0\u09c7\u0964 \u098f\u0995\u099f\u09bf \u09aa\u09c7\u099f\u09cd\u09b0\u09cb\u09b2 \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf, \u09af\u09a6\u09bf \u0986\u09aa\u09a8\u09bf \u098f\u0987 \u09aa\u09be\u09ae\u09cd\u09aa \u09a5\u09c7\u0995\u09c7 \u09aa\u09c7\u099f\u09cd\u09b0\u09cb\u09b2 \u09ad\u09b0\u09c7\u09a8 \u09a4\u09be\u09b9\u09b2\u09c7 \u09aa\u09cd\u09b0\u09a4\u09bf \u09b2\u09bf\u099f\u09be\u09b0 \u09aa\u09c7\u099f\u09cd\u09b0\u09cb\u09b2 \u09aa\u09bf\u099b\u09c1 \u20b920 \u0995\u09cd\u09af\u09be\u09b6\u09ac\u09cd\u09af\u09be\u0995 \u09a6\u09c7\u09df\u0964 \u09af\u09a6\u09bf \u0995\u09c7\u0989 10 \u09b2\u09bf\u099f\u09be\u09b0 \u09aa\u09c7\u099f\u09cd\u09b0\u09cb\u09b2 \u0995\u09c7\u09a8\u09c7\u09a8, \u0995\u09cd\u09af\u09be\u09b6\u09ac\u09cd\u09af\u09be\u0995 \u09aa\u09be\u0993\u09df\u09be\u09b0 \u09aa\u09b0\u09c7, \u09a4\u09be\u0981\u09a6\u09c7\u09b0 \u09aa\u09c7\u099f\u09cd\u09b0\u09cb\u09b2\u09c7\u09b0 \u09ae\u09c2\u09b2\u09cd\u09af \u0995\u09a4 \u09b9\u09ac\u09c7?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9249",
+        "\u20b920"
+      ]
+    },
+    {
+      "adapted_text": "Rohan planted 2 flowers in his garden one day. After 15 days, if 5 more flowers grow, how many flowers will there be in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "flower"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.5,
+      "replaced_words": [
+        "rohan",
+        "flowers"
+      ]
+    },
+    {
+      "adapted_text": "Aakash's phone has 6 times more pictures than Priya's phone. The maximum number of pictures Priya's phone can hold is 50 times more than the total number of birds in the picture of ducks that Aakash took at the zoo. If Aakash's phone has 1800 pictures, how many ducks are there in the picture Aakash took at the zoo?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "priyas",
+        "aakash"
+      ]
+    },
+    {
+      "adapted_text": "\u0915\u0941\u091b \u0932\u0915\u0921\u093c\u0940 \u0915\u0947 \u092a\u094d\u0932\u093e\u0908\u0935\u0941\u0921 \u0916\u0930\u0940\u0926\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0938\u094b\u0928\u0942 \u0928\u0947 \u0926\u0947\u0916\u093e \u0915\u093f \u092a\u093f\u091b\u0932\u0947 \u0915\u0941\u091b \u092e\u0939\u0940\u0928\u094b\u0902 \u092e\u0947\u0902 \u0932\u0915\u0921\u093c\u0940 \u0915\u0947 \u092a\u094d\u0932\u093e\u0908\u0935\u0941\u0921 \u0915\u0940 \u0915\u0940\u092e\u0924 50% \u092c\u0922\u093c \u0917\u0908 \u0939\u0948\u0964 \u091a\u0942\u0901\u0915\u093f \u0909\u0938\u0915\u0947 \u092a\u093e\u0938 \u0915\u0941\u091b \u092a\u094d\u0932\u093e\u0908\u0935\u0941\u0921 \u092c\u091a\u093e \u0939\u0941\u0906 \u0939\u0948, \u0907\u0938\u0932\u093f\u090f \u0909\u0938\u0928\u0947 \u0909\u0928\u094d\u0939\u0947\u0902 \u092c\u0947\u091a\u0928\u0947 \u0915\u093e \u092b\u0948\u0938\u0932\u093e \u0915\u093f\u092f\u093e \u0939\u0948\u0964 \u0909\u0938\u0915\u0947 \u092a\u093e\u0938 2 x 4 x 10 \u092e\u093e\u092a \u0915\u0947 \u0926\u0938 \u092a\u094d\u0932\u093e\u0908\u0935\u0941\u0921 \u0939\u0948\u0902 \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u0915\u094b \u0909\u0938\u0928\u0947 \u20b9830 \u092e\u0947\u0902 \u0916\u0930\u0940\u0926\u093e \u0925\u093e\u0964 \u0909\u0938\u0915\u0947 \u092a\u093e\u0938 \u092a\u093e\u0902\u091a 4 x 4 x 10 \u092e\u093e\u092a \u0915\u0947 \u092a\u094d\u0932\u093e\u0908\u0935\u0941\u0921 \u092d\u0940 \u0939\u0948\u0902 \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u0915\u094b \u0909\u0938\u0928\u0947 \u20b91328 \u092e\u0947\u0902 \u0916\u0930\u0940\u0926\u093e \u0925\u093e\u0964 \u092f\u0926\u093f \u0935\u0939 \u0909\u0928\u094d\u0939\u0947\u0902 \u0938\u092c \u092c\u0947\u091a \u0926\u0947\u0924\u093e \u0939\u0948, \u0924\u094b \u0909\u0938\u0947 \u0915\u093f\u0924\u0928\u093e \u0932\u093e\u092d \u0939\u094b\u0917\u093e?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b91328",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Anika makes coffee using 7:13 ratio of tea spoons of sugar and cups of water. If she uses a total of 120 tea spoons of sugar and cups of water to make the coffee, how many tea spoons of sugar did she use?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought 2 pairs of shoes for each of his 3 children. Each pair costs \u20b94980. How much money did he spend in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b94980"
+      ]
+    },
+    {
+      "adapted_text": "Arjun\u09c7\u09b0 \u09ae\u09cb\u099f \u09ac\u09c7\u09a4\u09a8 \u09b2\u09be\u09b2\u09bf\u09a4\u09be \u09a5\u09c7\u0995\u09c7 30% \u09ac\u09c7\u09b6\u09bf \u099b\u09bf\u09b2\u0964 \u099a\u09be\u09b0 \u09ac\u099b\u09b0 \u09aa\u09b0\u09c7, \u09a4\u09be\u0981\u09b0 \u09ac\u09c7\u09a4\u09a8 \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u09aa\u09c7\u09df\u09c7\u099b\u09bf\u09b2, \u098f\u09ac\u0982 \u099a\u09be\u09b0 \u09ac\u099b\u09b0 \u0986\u0997\u09c7 \u09a4\u09bf\u09a8\u09bf \u09af\u09be \u09aa\u09c7\u09a4\u09c7\u09a8 \u09a4\u09be\u09b0 \u09a5\u09c7\u0995\u09c7 \u09a4\u09bf\u09a8\u09bf 40% \u09ac\u09c7\u09b6\u09bf \u0986\u09df \u0995\u09b0\u099b\u09bf\u09b2\u09c7\u09a8\u0964 \u09af\u09a6\u09bf \u0985\u09b0\u09cd\u099c\u09c1\u09a8 \u0993 \u09b2\u09be\u09b2\u09bf\u09a4\u09be \u09ac\u09c7\u09a4\u09a8 \u098f\u0995\u0987\u09b8\u09be\u09a5\u09c7 \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u09aa\u09c7\u09df\u09c7 \u09a5\u09be\u0995\u09c7, \u098f\u09ac\u0982 \u099a\u09be\u09b0 \u09ac\u099b\u09b0 \u0986\u0997\u09c7 \u0985\u09b0\u09cd\u099c\u09c1\u09a8 \u20b93,240,000 \u0986\u09df \u0995\u09b0\u09a4\u09c7\u09a8, \u09a4\u09ac\u09c7 \u099a\u09be\u09b0 \u09ac\u099b\u09b0 \u09aa\u09b0\u09c7 \u09a6\u09c1\u099c\u09a8\u09c7 \u09ae\u09cb\u099f \u0995\u09a4\u099f\u09be \u09ac\u09c7\u09a4\u09a8 \u09aa\u09be\u099a\u09cd\u099b\u09bf\u09b2\u09c7\u09a8 \u09a4\u09be \u09b9\u09bf\u09b8\u09be\u09ac \u0995\u09b0\u09c1\u09a8?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "arjun",
+        "\u20b93240000"
+      ]
+    },
+    {
+      "adapted_text": "Aakash uses 2 notebooks for his drawing in a week. If each notebook has 30 pages, how many pages does he use per month?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "aakash",
+        "notebooks"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh and Kavya were told to bring fruits. Rajesh brought 5 apples and 8 oranges, while Kavya brought double the number of apples and half the number of oranges compared to Rajesh. How many fruits do they have in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "apple"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.25,
+      "replaced_words": [
+        "rajesh",
+        "apples",
+        "kavya",
+        "oranges"
+      ]
+    },
+    {
+      "adapted_text": "Anika \u0926\u094c\u095c\u0947 3 \u0918\u0902\u091f\u0947 \u0924\u0915, \u0939\u0930 \u0918\u0902\u091f\u0947 10 \u0915\u093f\u0932\u094b\u092e\u0940\u091f\u0930 \u0915\u0940 \u0917\u0924\u093f \u0938\u0947\u0964 \u092b\u093f\u0930, \u0935\u0939 \u0939\u0930 \u0918\u0902\u091f\u0947 5 \u0915\u093f\u0932\u094b\u092e\u0940\u091f\u0930 \u0915\u0940 \u0917\u0924\u093f \u0938\u0947 \u0926\u094c\u095c\u0924\u0940 \u0939\u0948\u0964 7 \u0918\u0902\u091f\u094b\u0902 \u092e\u0947\u0902 \u0935\u0939 \u0915\u093f\u0924\u0928\u0947 \u0915\u093f\u0932\u094b\u092e\u0940\u091f\u0930 \u0926\u094c\u095c \u092a\u093e\u090f\u0917\u0940?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "10",
+        "5"
+      ]
+    },
+    {
+      "adapted_text": "Anika was preparing for a dinner party at her home, where she wanted to serve stew. She noticed that she was out of plastic spoons, so she bought a new pack of spoons. Later, her husband also bought 5 new packs of spoons and gave them to Anika. When Anika was making the stew, she used three spoons to taste it. Later, when she was setting the table, she had a total of 12 spoons. How many spoons were in the pack that Anika bought?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika"
+      ]
+    },
+    {
+      "adapted_text": "\u098f\u0995\u099f\u09bf \u0985\u09a8\u09c1\u09b7\u09cd\u09a0\u09be\u09a8\u09c7 \u09b8\u09b8\u09c7\u099c \u09ac\u09be\u09a8\u09be\u09a8\u09cb\u09b0 \u099c\u09a8\u09cd\u09af \u09b0\u09be\u09b9\u09c1\u09b2\u09c7\u09b0 \u09ae\u09c1\u09b0\u0997\u09bf \u09b8\u09b8\u09c7\u099c \u0993 \u09ae\u09be\u099b \u09b8\u09b8\u09c7\u099c\u09c7\u09b0 \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8 \u099b\u09bf\u09b2\u0964 \u09a4\u09bf\u09a8\u09bf 38\u099f\u09bf \u09ae\u09c1\u09b0\u0997\u09bf \u09b8\u09b8\u09c7\u099c \u098f\u09ac\u0982 \u09ae\u09c1\u09b0\u0997\u09bf \u09b8\u09b8\u09c7\u099c\u09c7\u09b0 \u099a\u09c7\u09df\u09c7 6\u099f\u09bf \u09ac\u09c7\u09b6\u09bf \u09ae\u09be\u099b \u09b8\u09b8\u09c7\u099c \u0995\u09bf\u09a8\u09c7\u099b\u09bf\u09b2\u09c7\u09a8\u0964 \u09b8\u09ac \u09ae\u09bf\u09b2\u09bf\u09df\u09c7 \u09b0\u09be\u09b9\u09c1\u09b2 \u0995\u09a4\u0997\u09c1\u09b2\u09bf \u09b8\u09b8\u09c7\u099c \u0995\u09cd\u09b0\u09df \u0995\u09b0\u09c7\u099b\u09bf\u09b2\u09c7\u09a8?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "After transferring to a new school, Amit made 20 more friends than Lilee. If Lilee made 50 friends, how many friends do Lilee and Amit have together?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "lilee",
+        "amit",
+        "after transferring to a new school"
+      ]
+    },
+    {
+      "adapted_text": "\u09ac\u09c7\u09b2\u09c7\u09b0 \u09ae\u09be \u09b8\u09cd\u09a5\u09be\u09a8\u09c0\u09df \u098f\u0995\u099f\u09bf \u09a6\u09cb\u0995\u09be\u09a8\u09c7 \u0996\u09b0\u09ac\u09c1\u099c\u09be, \u09ae\u09b0\u09bf\u099a, \u0993 \u0995\u09ae\u09b2\u09be\u09b2\u09c7\u09ac\u09c1 \u09ac\u09bf\u0995\u09cd\u09b0\u09df \u0995\u09b0\u09c7\u09a8\u0964 \u098f\u0995\u099f\u09bf \u0996\u09b0\u09ac\u09c1\u099c\u09be\u09b0 \u09a6\u09be\u09ae \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09ae\u09b0\u09bf\u099a\u09c7\u09b0 \u09a6\u09be\u09ae\u09c7\u09b0 \u09a4\u09bf\u09a8\u0997\u09c1\u09a3 \u09ac\u09c7\u09b6\u09bf\u0964 \u098f\u0995\u099f\u09bf \u0995\u09ae\u09b2\u09be\u09b2\u09c7\u09ac\u09c1\u09b0 \u09a6\u09be\u09ae \u098f\u0995\u099f\u09bf \u0996\u09b0\u09ac\u09c1\u099c\u09be\u09b0 \u09a6\u09be\u09ae\u09c7\u09b0 \u09a5\u09c7\u0995\u09c7 \u20b975 \u0995\u09ae\u0964 \u09a1\u09bf\u09b2\u09a8\u0995\u09c7 4\u099f\u09bf \u0996\u09b0\u09ac\u09c1\u099c\u09be, 20\u099f\u09bf \u09ae\u09b0\u09bf\u099a, \u0993 10\u099f\u09bf \u0995\u09ae\u09b2\u09be\u09b2\u09c7\u09ac\u09c1 \u0995\u09bf\u09a8\u09a4\u09c7 \u09a6\u09cb\u0995\u09be\u09a8\u09c7 \u09aa\u09be\u09a0\u09be\u09a8 \u09b9\u09b2\u0964 \u09af\u09a6\u09bf \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09ae\u09b0\u09bf\u099a\u09c7\u09b0 \u09a6\u09be\u09ae \u20b9125 \u09b9\u09df, \u09a4\u09be\u09b9\u09b2\u09c7 \u09b8\u09c7 \u09ae\u09cb\u099f \u0995\u09a4 \u099f\u09be\u0995\u09be \u09ac\u09cd\u09af\u09df \u0995\u09b0\u09ac\u09c7?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "\u20b975",
+        "\u20b9"
+      ]
+    },
+    {
+      "adapted_text": "\u090f\u0915 \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u090f\u0915 \u0926\u093f\u0928 \u092e\u0947\u0902 500 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u094b \u0926\u0947\u0916\u0924\u093e \u0939\u0948\u0964 \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u092e\u0930\u0940\u091c \u0915\u094b \u0914\u0938\u0924\u0928 24 \u092e\u093f\u0928\u091f \u0926\u0947\u0916\u0928\u0947 \u092e\u0947\u0902 \u0932\u0917\u0924\u093e \u0939\u0948\u0964 \u0921\u0949\u0915\u094d\u091f\u0930 \u092a\u094d\u0930\u0924\u093f \u0918\u0902\u091f\u0947 \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u0938\u0947 \u20b912,450 \u0935\u0938\u0942\u0932\u0924\u0947 \u0939\u0948\u0902 \u0914\u0930 \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u092e\u0930\u0940\u091c\u094b\u0902 \u0938\u0947 \u092a\u094d\u0930\u0924\u093f \u0918\u0902\u091f\u0947 \u20b916,600 \u0935\u0938\u0942\u0932\u0924\u093e \u0939\u0948\u0964 \u0907\u0928 \u0935\u093f\u091c\u093f\u091f\u094d\u0938 \u0938\u0947 \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u0915\u093f\u0924\u0928\u093e \u0932\u093e\u092d \u0915\u092e\u093e\u0924\u093e \u0939\u0948?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b916600",
+        "\u20b912450"
+      ]
+    },
+    {
+      "adapted_text": "Anika hired 60 temporary workers for the role of elves at her department store's Santa Village. After some children vomited on them, one-third of the elves left. Then, the remaining 10 elves left because the children started hitting them. How many elves are left?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "santa village",
+        "her"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh's expenditure in May was \u20b941,500. In June, his expenditure was \u20b96,000 less. What was his total expenditure for those two months?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rajesh",
+        "\u20b941500",
+        "\u20b94980"
+      ]
+    },
+    {
+      "adapted_text": "Priya and Farid went to a carnival. Priya rode the roller coaster 2 times, while Farid rode it 4 times. Then, they decided to each ride the luge 2 times. If each ride costs 6 tickets, how many tickets did they use that day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "priya",
+        "farid"
+      ]
+    },
+    {
+      "adapted_text": "Ravi walked 4 miles on Monday. On Tuesday, he walked 6 times more than on Monday. The total distance he walked from Monday to Wednesday was 41 miles. How many miles did he walk on Wednesday?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "monday",
+        "ravi",
+        "tuesday",
+        "wednesday"
+      ]
+    },
+    {
+      "adapted_text": "\u098f\u0995 \u09ae\u09be\u09b8\u09c7 \u09b0\u09be\u099c 4 \u09ac\u09be\u09b0 \u0997\u09be\u09dc\u09bf \u09a7\u09c1\u09df\u09c7 \u09a5\u09be\u0995\u09c7\u09a8\u0964 \u09af\u09a6\u09bf \u09aa\u09cd\u09b0\u09a4\u09bf\u09ac\u09be\u09b0 \u0997\u09be\u09dc\u09bf \u09a7\u09cb\u09df\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u20b91245 \u0996\u09b0\u099a \u09b9\u09df, \u09a4\u09ac\u09c7 \u09a4\u09bf\u09a8\u09bf \u098f\u0995 \u09ac\u099b\u09b0\u09c7 \u0995\u09a4 \u0985\u09b0\u09cd\u09a5 \u09aa\u09cd\u09b0\u09a6\u09be\u09a8 \u0995\u09b0\u09c7\u09a8?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "\u20b91245"
+      ]
+    },
+    {
+      "adapted_text": "Aakash has 3 times fewer video games than his friend Rohan. If Aakash has 20 video games but loses 5 right before comparing, how many video games does Rohan have?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rohan",
+        "aakash"
+      ]
+    },
+    {
+      "adapted_text": "There are 27 unicorns left in the world. One-third of them live in the Himalayas. Two-thirds of the Himalayan unicorns are female. How many female Himalayan unicorns are there?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "himalayas"
+      ]
+    },
+    {
+      "adapted_text": "Anika order 2 samosas for \u20b9622.50, 2 packets of chips for \u20b9127.50 and 2 cookies for \u20b983.  A 20% delivery charge is added at checkout and she wants to tip \u20b9500. What will be the total cost of her delivery order?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9500",
+        "\u20b962250",
+        "anika",
+        "\u20b983",
+        "\u20b912750"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh yesterday took an exam that had 75 questions. He finished the exam at a rate of 5 questions per hour. Today, he took another exam with 100 questions at the same rate. If Ramesh finished the first exam in 8 hours and the second exam in 6 hours, how many questions did he leave incomplete?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "parathas",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh plays video games for 2 hours every day. He also has a part-time job where he earns \u20b9830 per hour. If Ramesh spends his time working instead of playing video games, how much money can he earn in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought milk for \u20b9166, eggs for \u20b9249, a light bulb for \u20b9249, a cup for \u20b9249, and a birdcage for \u20b9332. If there is a 10% tax on non-food items, what is the total cost of all the items?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "166",
+        "ramesh",
+        "332",
+        "249",
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "\u0915\u093f\u092e \u0928\u0947 \u0905\u092a\u0928\u093e \u0916\u0941\u0926 \u0915\u093e \u0939\u093e\u0909\u0938\u0915\u0940\u092a\u093f\u0902\u0917 \u0935\u094d\u092f\u0935\u0938\u093e\u092f \u0936\u0941\u0930\u0942 \u0915\u093f\u092f\u093e \u0939\u0948 \u0914\u0930 \u0935\u0939 \u0905\u092a\u0928\u0947 \u0917\u094d\u0930\u093e\u0939\u0915\u094b\u0902 \u0938\u0947 \u0915\u093f\u0924\u0928\u093e \u0932\u093e\u092d \u0915\u092e\u093e\u090f\u0917\u093e, \u092f\u0939 \u0917\u093f\u0928 \u0930\u0939\u093e \u0939\u0948\u0964  \u0909\u0938\u0915\u0947 \u092a\u0939\u0932\u0947 \u0938\u0947 \u0939\u0940 3 \u0917\u094d\u0930\u093e\u0939\u0915 \u0939\u0948\u0902, \u0932\u0947\u0915\u093f\u0928 \u0905\u092c \u0935\u0939 5 \u0905\u0928\u094d\u092f \u0938\u0902\u092d\u093e\u0935\u093f\u0924 \u0917\u094d\u0930\u093e\u0939\u0915\u094b\u0902 \u0938\u0947 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u093e \u0939\u0948 \u0914\u0930 \u0909\u0928\u094d\u0939\u0947\u0902 \u0905\u092a\u0928\u0947 \u0939\u093f\u0938\u093e\u092c \u092e\u0947\u0902 \u0936\u093e\u092e\u093f\u0932 \u0915\u0930\u0928\u0947 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0915\u093e\u092b\u0940 \u0906\u0924\u094d\u092e\u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u092e\u0939\u0938\u0942\u0938 \u0915\u0930 \u0930\u0939\u093e \u0939\u0948\u0964 \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u0917\u094d\u0930\u093e\u0939\u0915 \u0915\u0947 \u0918\u0930 \u0915\u0940 \u0938\u092b\u093e\u0908 \u0915\u0947 \u0932\u093f\u090f 2 \u092c\u094b\u0924\u0932 \u092c\u094d\u0932\u0940\u091a \u0914\u0930 \u090f\u0915 \u092a\u0948\u0915\u0947\u091f \u0915\u092a\u0921\u093c\u093e \u0932\u0917\u0924\u093e \u0939\u0948\u0964 \u092c\u094d\u0932\u0940\u091a \u0915\u0940 \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u092c\u094b\u0924\u0932 \u0915\u0940 \u0915\u0940\u092e\u0924 \u20b9166 \u0939\u0948 \u0914\u0930 \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u0915\u092a\u0921\u093c\u0947 \u0915\u093e \u092a\u0948\u0915\u0947\u091f \u20b9415 \u0915\u0940 \u0939\u0948\u0964 \u092f\u0947 \u0939\u0940 \u0909\u0938\u0915\u0940 \u090f\u0915\u092e\u093e\u0924\u094d\u0930 \u0916\u0930\u094d\u091a\u093e \u0939\u0948\u0964 \u0909\u0938\u0928\u0947 \u0939\u093f\u0938\u093e\u092c \u0932\u0917\u093e\u092f\u093e \u0939\u0948 \u0915\u093f \u092a\u094d\u0930\u0924\u093f \u0938\u092a\u094d\u0924\u093e\u0939 \u0909\u0938\u0915\u093e \u0915\u0941\u0932 \u20b96,352 \u0915\u092e\u093e\u0908 \u0939\u094b\u0917\u0940\u0964 \u0915\u0941\u0932 \u0915\u092e\u093e\u0908 \u0914\u0930 \u0915\u0941\u0932 \u0916\u0930\u094d\u091a \u0915\u093e \u0905\u0902\u0924\u0930 \u0939\u0940 \u0932\u093e\u092d \u0939\u0948, \u0932\u0941\u0915\u093e\u0938 \u092a\u094d\u0930\u0924\u093f \u0938\u092a\u094d\u0924\u093e\u0939 \u0915\u093f\u0924\u0928\u0947 \u0930\u0941\u092a\u092f\u0947 \u0915\u093e \u0932\u093e\u092d \u0915\u092e\u093e\u090f\u0917\u093e?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9166",
+        "\u20b9415"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh has a mango orchard of 10 hectares. There are 100 mangoes per hectare. Ramesh harvests mangoes every 3 months. How many mangoes does Ramesh harvest in a year?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "mango"
+      ],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.3333333333333333,
+      "replaced_words": [
+        "ramesh",
+        "mangoes",
+        "hectare"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh is picking up his toys from the floor of his house. He had gathered a set of 500-piece Lego box on the floor, and another box had 3 times as many pieces as the 500-piece box, and yet another box had 1/4 the number of pieces. If Ramesh picks up all the Lego, how many blocks did he pick up?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "pieces",
+        "ramesh",
+        "lego",
+        "500",
+        "3 times",
+        "14"
+      ]
+    },
+    {
+      "adapted_text": "Anika observed how many bees went in and out of a beehive each day. She saw 30 bees leave the hive in the first 6 hours, and in the next 6 hours, she saw half that number return. She then saw double the number of bees she had initially observed leave the hive in the next 6 hours.  After that, all the bees that had left earlier and hadn't returned came back to the hive in the next 6 hours. How many bees did Anika see return to the hive in the last 6 hours of the day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "a beehive",
+        "anika",
+        "bees",
+        "hours",
+        "each day"
+      ]
+    },
+    {
+      "adapted_text": "Anika and her mother went to the Science City in Kolkata. The entry fee for adults is \u20b91016 and for children is \u20b9830. Anika's mother paid the cashier for one child's ticket and one adult's ticket. If she received \u20b9830 back, how much money did she pay the cashier?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b91016",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Anika's number of Facebook friends is three times more than Priya's.  James has four times more Facebook friends than Priya. If Anika has 12 Facebook friends, how many Facebook friends does James have?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "james"
+      ]
+    },
+    {
+      "adapted_text": "Vivek \u0993 Rohan \u09a0\u09bf\u0995 \u0995\u09b0\u09c7\u099b\u09c7 \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df \u09a5\u09c7\u0995\u09c7 \u0995\u09c7 \u09b8\u09ac\u099a\u09c7\u09df\u09c7 \u09a6\u09cd\u09b0\u09c1\u09a4 \u09ac\u09be\u09dc\u09bf \u09ab\u09bf\u09b0\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7 \u09a4\u09be \u09a6\u09c7\u0996\u09ac\u09c7\u0964 Vivek Rohan\u09c7\u09b0 \u09a5\u09c7\u0995\u09c7 \u0986\u09b0\u0993 \u09a6\u09c2\u09b0\u09c7 \u09a5\u09be\u0995\u09c7, \u09a4\u09be\u0987 \u09a4\u09be\u09b0 \u09ac\u09be\u0987\u0995 \u099a\u09be\u09b2\u09be\u09a8\u09cb\u09b0 \u0985\u09a8\u09c1\u09ae\u09a4\u09bf \u0986\u099b\u09c7\u0964 Vivek \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df \u09a5\u09c7\u0995\u09c7 3 \u0995\u09bf\u09b2\u09cb\u09ae\u09bf\u099f\u09be\u09b0 \u09a6\u09c2\u09b0\u09c7 \u09a5\u09be\u0995\u09c7 \u098f\u09ac\u0982 \u09b8\u09c7 \u09aa\u09cd\u09b0\u09a4\u09bf \u09ae\u09bf\u09a8\u09bf\u099f\u09c7 440 \u09ae\u09bf\u099f\u09be\u09b0 \u0997\u09a4\u09bf\u09a4\u09c7 \u09ac\u09be\u0987\u0995 \u099a\u09be\u09b2\u09be\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7\u0964 Rohan \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df \u09a5\u09c7\u0995\u09c7 2 \u0995\u09bf\u09b2\u09cb\u09ae\u09bf\u099f\u09be\u09b0 \u09a6\u09c2\u09b0\u09c7 \u09a5\u09be\u0995\u09c7\u0964 \u09af\u09a6\u09bf Rohan \u09a4\u09be\u09b0 \u09b8\u09cd\u0995\u09c7\u099f\u09ac\u09cb\u09b0\u09cd\u09a1 \u09aa\u09cd\u09b0\u09a4\u09bf \u09ae\u09bf\u09a8\u09bf\u099f\u09c7 264 \u09ae\u09bf\u099f\u09be\u09b0 \u0997\u09a4\u09bf\u09a4\u09c7 \u099a\u09be\u09b2\u09be\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7, \u09a4\u09ac\u09c7 \u09aa\u09b0\u09be\u099c\u09bf\u09a4 \u099c\u09a8 \u09aa\u09cd\u09b0\u09a4\u09bf\u09af\u09cb\u0997\u09bf\u09a4\u09be \u09b6\u09c7\u09b7 \u0995\u09b0\u09be\u09b0 \u0986\u0997\u09c7 \u09ac\u09bf\u099c\u09df\u09c0\u0995\u09c7 \u09a4\u09be\u09b0 \u09ac\u09be\u09dc\u09bf\u09a4\u09c7 \u0995\u09a4\u0995\u09cd\u09b7\u09a3 \u0985\u09aa\u09c7\u0995\u09cd\u09b7\u09be \u0995\u09b0\u09a4\u09c7 \u09b9\u09ac\u09c7?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rohan",
+        "2",
+        "3",
+        "264",
+        "440",
+        "vivek"
+      ]
+    },
+    {
+      "adapted_text": "Shobhana decided that her neighbour's children should be able to use the bicycle air filling service. She decided that the best way to set the price was to charge per tyre. The price for filling each tyre with air is \u20b921. On the first day, 5 people came by bicycle and got both their tyres filled. 3 people came and got all the tyres of their tricycles filled. Finally, one person came by unicycle. How much money did she earn that day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b921",
+        "\u20b9"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh bought ten packets of biscuits. Each packet contains six biscuits. Each biscuit costs \u20b98.30. If he pays with a \u20b9830 note, how much change will Rajesh receive?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rajesh",
+        "biscuits",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Avinash bought a big packet of french fries and ate fourteen of them before a hungry crow stole the packet from his hand. The crow ate half of what Avinash had eaten. Then, three birds chased him away from the food, and each bird ate three fries. Later, a raccoon stole two-thirds of the remaining fries. Leaving five, the rest of the french fries were taken by ants. How many french fries were in the packet when Avinash bought it?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "avinash",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Vidya attends three 1-hour classes every Monday, Wednesday, and Friday. On Tuesday and Thursday, she has two 2-hour classes. A semester has 16 weeks of school. How many hours does Vidya spend in class during a semester?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "vidya"
+      ]
+    },
+    {
+      "adapted_text": "Vijay makes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Vijay arranges all the baked goods end to end, how many feet long will they be?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "chocolate croissants",
+        "rolls",
+        "baguettes",
+        "vijay"
+      ]
+    },
+    {
+      "adapted_text": "15 \u09ae\u09bf\u09a8\u09bf\u099f\u09c7 \u0995\u09c7 \u09b8\u09ac\u09a5\u09c7\u0995\u09c7 \u09ac\u09c7\u09b6\u09bf \u09a6\u09cc\u09dc\u09be\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7\u09a8 \u09a4\u09be \u09a6\u09c7\u0996\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u09b0\u09be\u099c\u09c7\u09b6 \u0993 \u0995\u09bf\u09b0\u09a3 \u098f\u0995\u099f\u09bf \u09aa\u09cd\u09b0\u09a4\u09bf\u09af\u09cb\u0997\u09bf\u09a4\u09be \u0995\u09b0\u099b\u09c7\u09a8\u0964 \u09a4\u09be\u0981\u09b0\u09be \u098f\u0995\u099f\u09bf 100 \u0997\u099c \u09b2\u09ae\u09cd\u09ac\u09be \u09ab\u09c1\u099f\u09ac\u09b2 \u09ae\u09be\u09a0\u09c7 \u098f\u099f\u09bf \u0995\u09b0\u09ac\u09c7\u09a8 \u09ac\u09b2\u09c7 \u09b8\u09bf\u09a6\u09cd\u09a7\u09be\u09a8\u09cd\u09a4 \u09a8\u09c7\u09a8\u0964 \u09b0\u09be\u099c\u09c7\u09b6 15 \u09ac\u09be\u09b0 \u09a6\u09cc\u09dc\u09c7 \u0997\u09bf\u09df\u09c7 \u09ab\u09bf\u09b0\u09c7 \u0986\u09b8\u09c7\u09a8\u0964 \u0995\u09bf\u09b0\u09a3 \u098f\u0995\u09ac\u09be\u09b0 \u09a6\u09cc\u09dc\u09c7 \u0997\u09bf\u09df\u09c7 \u09ab\u09bf\u09b0\u09c7 \u0986\u09b8\u09c7\u09a8, \u098f\u09ac\u0982 \u09a4\u09be\u09b0\u09aa\u09b0 \u09b8\u09bf\u09a6\u09cd\u09a7\u09be\u09a8\u09cd\u09a4 \u09a8\u09c7\u09a8 \u09af\u09c7 \u09a4\u09bf\u09a8\u09bf \u09b0\u09be\u099c\u09c7\u09b6\u09c7\u09b0 \u09aa\u09be\u09b6\u09c7 \u09a6\u09cc\u09dc\u09be\u09a4\u09c7 \u099a\u09be\u09a8 \u09a8\u09be, \u09a4\u09be\u0987 \u09a4\u09bf\u09a8\u09bf 40 \u0997\u099c\u09c7\u09b0 \u09b2\u09be\u0987\u09a8\u09c7 \u09a6\u09cc\u09dc\u09c7 \u09af\u09c7\u09a4\u09c7 \u098f\u09ac\u0982 \u09ab\u09bf\u09b0\u09c7 \u0986\u09b8\u09a4\u09c7 \u09b6\u09c1\u09b0\u09c1 \u0995\u09b0\u09b2\u09c7\u09a8\u0964 \u09a4\u09bf\u09a8\u09bf \u098f\u099f\u09bf 34 \u09ac\u09be\u09b0 \u0995\u09b0\u09b2\u09c7\u09a8\u0964 \u09aa\u09b0\u09be\u099c\u09bf\u09a4\u09c7\u09b0 \u09a4\u09c1\u09b2\u09a8\u09be\u09df \u09ac\u09bf\u099c\u09df\u09c0 \u0995\u09a4 \u09ac\u09c7\u09b6\u09bf \u09a6\u09cc\u09dc\u09c7\u099b\u09c7\u09a8?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Aniket went to buy some things from Saraswati School. He bought 4 pens, each costing \u20b9124.5, 2 notebooks, each costing \u20b9332, and one ream of bond paper costing \u20b91660. How much did Aniket spend in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "aniket",
+        "\u20b91660",
+        "\u20b91245",
+        "\u20b9332"
+      ]
+    },
+    {
+      "adapted_text": "Avinash saw 11 frogs swimming in a pond. Suddenly, he saw 6 of them emerge from under a lotus leaf, and then he saw 2 of them hide under a stone. How many frogs can Avinash see in the pond now?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "avinash",
+        "frogs"
+      ]
+    },
+    {
+      "adapted_text": "Aakash and Laxmi went to the beach today. Aakash caught 10 pomfrets, 6 seer fish, and 3 clownfish. Where Laxmi caught 5 fewer pomfrets, 3 fewer seer fish, and 2 more clownfish than Aakash. How many fish did they catch in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "pomfrets",
+        "clownfish",
+        "aakash",
+        "seer fish",
+        "laxmi"
+      ]
+    },
+    {
+      "adapted_text": "\u09af\u09a6\u09bf \u098f\u0995 \u09ac\u09cd\u09af\u09be\u0997 \u09ae\u09be\u09b0\u09cd\u09ac\u09c7\u09b2\u09c7\u09b0 \u09a6\u09be\u09ae \u20b91660 \u09b9\u09df \u098f\u09ac\u0982 \u09aa\u09cd\u09b0\u09a4\u09bf \u09a6\u09c1\u09ae\u09be\u09b8\u09c7 \u0986\u09b8\u09b2 \u09ae\u09c2\u09b2\u09cd\u09af\u09c7\u09b0 20% \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u09aa\u09be\u09df, 36 \u09ae\u09be\u09b8 \u09aa\u09b0\u09c7 \u098f\u0995 \u09ac\u09cd\u09af\u09be\u0997 \u09ae\u09be\u09b0\u09cd\u09ac\u09c7\u09b2\u09c7\u09b0 \u0995\u09a4 \u09a6\u09be\u09ae \u09b9\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b91660"
+      ]
+    },
+    {
+      "adapted_text": "\u090f\u0915 \u0918\u0930 \u092e\u0947\u0902, \u0935\u093f\u092d\u093f\u0928\u094d\u0928 \u092a\u094d\u0930\u0915\u093e\u0930 \u0915\u0947 \u0916\u093f\u0932\u094c\u0928\u0947 \u0939\u0948\u0902: 5 \u0932\u093e\u0932 \u0915\u093e\u0930\u0947\u0902, 3 \u090f\u0915\u094d\u0936\u0928 \u092b\u093f\u0917\u0930, \u0914\u0930 \u090f\u0915 \u0917\u0941\u0921\u093c\u093f\u092f\u093e\u0964 \u0917\u0941\u0921\u093c\u093f\u092f\u093e \u0915\u0940 \u0915\u0940\u092e\u0924 3 \u090f\u0915\u094d\u0936\u0928 \u092b\u093f\u0917\u0930 \u0915\u0940 \u0915\u0940\u092e\u0924\u094b\u0902 \u0915\u0947 \u092c\u0930\u093e\u092c\u0930 \u0939\u0948 \u0914\u0930 \u090f\u0915 \u0932\u093e\u0932 \u0915\u093e\u0930 \u0915\u0940 \u0915\u0940\u092e\u0924 \u20b9332 \u0939\u0948\u0964 \u090f\u0915 \u090f\u0915\u094d\u0936\u0928 \u092b\u093f\u0917\u0930 \u0915\u0940 \u0915\u0940\u092e\u0924 \u20b9415 \u0939\u0948, \u0924\u094b \u0938\u092d\u0940 \u0916\u093f\u0932\u094c\u0928\u094b\u0902 \u0915\u093e \u092e\u0942\u0932\u094d\u092f \u0915\u093f\u0924\u0928\u093e \u0939\u0948?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9415",
+        "\u20b9332"
+      ]
+    },
+    {
+      "adapted_text": "Anika is trying to decide whether she should file her taxes herself or hire an accountant. If she files them herself, she can reduce her freelance work by 3 hours, which would mean losing an income of \u20b92895 per hour. An accountant charges \u20b97590. How much more money will Anika have if she hires an accountant?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "\u20b92895",
+        "\u20b97590"
+      ]
+    },
+    {
+      "adapted_text": "Anika, on her 30th birthday, received a new computer as a gift along with many other accessories. Her budget was \u20b9127,000, which was given to her by all her family members. They thought she would be able to save some money to buy a dress. She went to a computer shop and bought a machine with a screen, keyboard, and mouse for \u20b990,000. She also bought a scanner for \u20b913,000, a CD burner for \u20b96,000, and a printer for \u20b98,000. How much money will she have left to buy a dress?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b990000",
+        "\u20b98000",
+        "\u20b9127000",
+        "\u20b96000",
+        "anika",
+        "\u20b913000"
+      ]
+    },
+    {
+      "adapted_text": "Anika's neighbour gives her a basket of 9 eggs every time to look after her daughter.  Anika needs 3 eggs to make one Spanish flan. If Anika is tasked with making 15 Spanish flans for her school's fund drive, how many times will she have to look after the child?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "eggs"
+      ]
+    },
+    {
+      "adapted_text": "Aakash is twice as old as Rohan. In 2 years, the sum of their ages will be 28. How old is Aakash now?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rohan",
+        "aakash"
+      ]
+    },
+    {
+      "adapted_text": "Anika has \u20b9664 more than double the amount Avani has. If Avani has \u20b9664, how much money does Anika have?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "\u20b9664",
+        "\u20b9166",
+        "avani"
+      ]
+    },
+    {
+      "adapted_text": "Anika walks 20 miles every day. Except on weekends, she walks 10 miles. How many miles does she walk in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika"
+      ]
+    },
+    {
+      "adapted_text": "A marching band in Kolkata has ordered new uniforms. Each uniform comes with a cap priced at \u20b92075, a jacket three times the price of the cap, and the average price of the cap and jacket is equal to the price of the pants. What is the total cost of each uniform?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b92075"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh is walking through the Entomological Museum. He sees 80 spiders with 8 legs, 90 insects with 6 legs, and 3 rare mutant invertebrates with 10 legs. How many legs did Rajesh see in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rajesh",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Anika, Priya, Riya, and Aarav are four birds. Priya is three years older than Riya. Riya's age is double that of Aarav. If Aarav's age is equal to Riya's age, and Riya is 8 years old, what is the total age of the four birds?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "aarav",
+        "riya",
+        "priya",
+        "four birds"
+      ]
+    },
+    {
+      "adapted_text": "Anika needs to calculate her monthly payment for all her debts. She has a minimum student loan payment of \u20b925,000/month, a minimum credit card payment of \u20b916,500/month, and a minimum home loan payment of \u20b941,500/month. If Anika wants to pay 50% more than the minimum amount, how much will she pay in a year?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "\u20b941500",
+        "\u20b916500",
+        "\u20b925000"
+      ]
+    },
+    {
+      "adapted_text": "Anika is preparing potatoes for her big family reunion potluck. It's a large gathering, so she needs 60 potatoes, all roughly the same size, so it takes about the same amount of time to peel and cut each one. It takes Anika about one and a half minutes to peel and cut each potato, but only 5 seconds to cut it. How long will it take Anika to prepare all the potatoes?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh and his brother, Karthik, are selling lemonade. They spend \u20b9249 for lemons and \u20b9166 for sugar to make each gallon. They sell each glass for \u20b941.50 and make 20 glasses from each gallon. If they make a profit of \u20b92075, how much did they spend on lemons?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "karthik",
+        "\u20b9249",
+        "\u20b9166",
+        "\u20b92075",
+        "\u20b94150"
+      ]
+    },
+    {
+      "adapted_text": "\u098f\u0995 \u09a6\u09cc\u09dc \u09aa\u09cd\u09b0\u09a4\u09bf\u09af\u09cb\u0997\u09bf\u09a4\u09be\u09df 240 \u099c\u09a8 \u09ad\u09be\u09b0\u09a4\u09c0\u09df\u09a6\u09c7\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7, 80 \u099c\u09a8 \u09ae\u09b9\u09be\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0\u09c0\u09df, \u0993 \u09ac\u09be\u0995\u09bf \u09ac\u09be\u0999\u09be\u09b2\u09bf \u099b\u09bf\u09b2\u0964 \u09ac\u09be\u0999\u09be\u09b2\u09bf \u09a6\u09b2\u09c7 \u099b\u09c7\u09b2\u09c7\u09a6\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u09af\u09be \u09af\u09a6\u09bf 60 \u099c\u09a8 \u09b9\u09df, \u09a4\u09ac\u09c7 \u09ac\u09be\u0999\u09be\u09b2\u09bf \u09a6\u09b2\u09c7 \u0995\u09a4\u099c\u09a8 \u09ae\u09c7\u09df\u09c7 \u099b\u09bf\u09b2?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "maharashtrian",
+        "indian"
+      ]
+    },
+    {
+      "adapted_text": "Aakash spends 1/4 of his salary on rent, 1/3 on petrol, and donates half of the remaining amount to his favourite charity. He gives his daughter \u20b916600 weekly for expenses, and his wife \u20b958600 for groceries and household items. If Aakash earns \u20b9504000 per month, how much money will he have left after all expenses and donations?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b958600",
+        "\u20b916600",
+        "\u20b9504000",
+        "aakash",
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "Anika has ten more crabs than Monika, and Monika has four fewer crabs than Bhawna. If Bhawna has 40 crabs, how many crabs do they have altogether?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "monika",
+        "bhawna"
+      ]
+    },
+    {
+      "adapted_text": "Ankit \u09b6\u09bf\u0996\u09bf\u09df\u09c7  \u098f\u0995 \u0998\u09a3\u09cd\u099f\u09be\u09df \u20b9830 \u0989\u09aa\u09be\u09b0\u09cd\u099c\u09a8 \u0995\u09b0\u09c7\u09a8\u0964 \u09a4\u09bf\u09a8\u09bf \u09aa\u09cd\u09b0\u09a5\u09ae \u09b8\u09aa\u09cd\u09a4\u09be\u09b9\u09c7 5 \u0998\u09a3\u09cd\u099f\u09be \u098f\u09ac\u0982 \u09a6\u09cd\u09ac\u09bf\u09a4\u09c0\u09df \u09b8\u09aa\u09cd\u09a4\u09be\u09b9\u09c7 8 \u0998\u09a3\u09cd\u099f\u09be \u09b6\u09bf\u0996\u09bf\u09df\u09c7\u099b\u09bf\u09b2\u09c7\u09a8\u0964 \u09aa\u09cd\u09b0\u09a5\u09ae \u09a6\u09c1\u0987 \u09b8\u09aa\u09cd\u09a4\u09be\u09b9\u09c7 \u09a4\u09bf\u09a8\u09bf \u0995\u09a4 \u0989\u09aa\u09be\u09b0\u09cd\u099c\u09a8 \u0995\u09b0\u09c7\u099b\u09bf\u09b2\u09c7\u09a8?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Anika and Priya are contesting for the class representative position at the Vidya Mandir School. If the winner gets 3/4 of the votes and a total of 80 students voted in the class, calculate the number of votes the loser received.",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika and priya",
+        "vidya mandir"
+      ]
+    },
+    {
+      "adapted_text": "Mohini, the flower vendor at the corner, is very unhappy with Farid for not completing the delivery order. Mohini had ordered four times the number of red roses from her white carnations. She also placed an order for 200 pink calla lilies, which was five times the number of white carnations. If Farid cannot deliver the missing red roses by 5 pm, Mohini has threatened to change suppliers. To keep Mohini's business, how many red roses must Farid deliver by 5 pm?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9830",
+        "mohini",
+        "farid"
+      ]
+    },
+    {
+      "adapted_text": "Avinash is two years older than Rohan. Two years ago, Rohan's age was 5 years more than half of Janani's age. If Janani is 30 years old, how old is Avinash?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rohan",
+        "janani",
+        "avinash"
+      ]
+    },
+    {
+      "adapted_text": "Anika is making a six-sided die. She has a chance of rolling an even number, then another even number. What is the probability that she will roll a number greater than 3 (expressed as a percentage)?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika"
+      ]
+    },
+    {
+      "adapted_text": "Anika and her mother picked some apples from their apple orchard. Anika picked more than half the number of apples her mother did. If her mother picked 20 apples, how many apples did they pick together?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "apple"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.5,
+      "replaced_words": [
+        "anika",
+        "apples"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh works at a pet shop and distributes hay among the rodents. The mice are kept in 3 cages, divided into equal groups, and each mouse is given 6 pieces of hay. 10 hamsters are kept individually in cages, and each hamster is given 5 pieces of hay. There is also a rabbit hutch where 20 pieces of hay are distributed among the rabbits. No hay is used anywhere else in the shop. If 160 pieces of hay are distributed among the rodents, how many mice are there in each cage?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "mice",
+        "hay",
+        "rajesh",
+        "rabbits",
+        "rodents",
+        "hamsters"
+      ]
+    },
+    {
+      "adapted_text": "Avani took a loan of \u20b98300 from Priya. They agreed on a 2% monthly interest rate. If Avani is able to repay it after 3 months, how much money will she have to give Priya?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b98300",
+        "priya",
+        "avani"
+      ]
+    },
+    {
+      "adapted_text": "\u098f\u0995\u099c\u09a8 \u09ac\u09cd\u09af\u09ac\u09b8\u09be\u09df\u09c0 \u098f\u0995 \u0995\u09c3\u09b7\u0995\u09c7\u09b0 \u09a5\u09c7\u0995\u09c7 \u09aa\u09cd\u09b0\u09a4\u09bf \u09ac\u09b8\u09cd\u09a4\u09be \u20b91660 \u09a6\u09b0\u09c7 \u0995\u09bf\u099b\u09c1 \u0997\u09ae\u09c7\u09b0 \u09ac\u09b8\u09cd\u09a4\u09be \u0995\u09bf\u09a8\u09c7\u099b\u09c7\u09a8\u0964 \u09af\u09a6\u09bf \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09ac\u09b8\u09cd\u09a4\u09be \u0995\u09cd\u09b7\u09c7\u09a4 \u09a5\u09c7\u0995\u09c7 \u0997\u09c1\u09a6\u09be\u09ae \u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4 \u0986\u09a8\u09a4\u09c7 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a3 \u09ac\u09be\u09ac\u09a6 \u20b9166 \u0996\u09b0\u099a \u09b9\u09df, \u098f\u09ac\u0982 \u09ac\u09cd\u09af\u09ac\u09b8\u09be\u09df\u09c0 \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09ac\u09b8\u09cd\u09a4\u09be \u20b94980 \u09a6\u09b0\u09c7 \u09ac\u09bf\u0995\u09cd\u09b0\u09bf \u0995\u09b0\u09c7 \u09ae\u09cb\u099f \u20b9400 \u09b2\u09be\u09ad \u0995\u09b0\u09c7\u09a8, \u09a4\u09ac\u09c7 \u09a4\u09bf\u09a8\u09bf \u0995\u09a4\u0997\u09c1\u09b2\u09bf \u09ac\u09b8\u09cd\u09a4\u09be \u09ac\u09bf\u0995\u09cd\u09b0\u09bf \u0995\u09b0\u09c7\u099b\u09bf\u09b2\u09c7\u09a8?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9166",
+        "\u20b91660",
+        "\u20b9400",
+        "\u20b94980"
+      ]
+    },
+    {
+      "adapted_text": "\u09a4\u09bf\u09a8 \u09ac\u09a8\u09cd\u09a7\u09c1 \u09ae\u09c7\u09b2\u09be\u09df \u09af\u09be\u0993\u09df\u09be\u09b0 \u099c\u09a8\u09cd\u09af 3\u099f\u09bf \u099f\u09bf\u0995\u09bf\u099f\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u20b91687.75 \u0996\u09b0\u099a \u0995\u09b0\u09c7\u0964 \u09a4\u09be\u0981\u09b0\u09be \u099f\u09bf\u0995\u09bf\u099f\u09c7\u09b0 \u09a5\u09c7\u0995\u09c7 \u0996\u09be\u09ac\u09be\u09b0\u09c7 \u20b9375 \u0995\u09ae \u0996\u09b0\u099a \u0995\u09b0\u09c7\u099b\u09bf\u09b2\u09c7\u09a8\u0964 \u09a4\u09be\u0981\u09b0\u09be 2\u099f\u09bf \u09ad\u09bf\u09a8\u09cd\u09a8 \u09b0\u09be\u0987\u09a1\u09c7\u0993 \u099a\u09dc\u09c7\u099b\u09bf\u09b2\u09c7\u09a8 \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u099c\u09a8\u09cd\u09af \u20b92733 \u0996\u09b0\u099a \u09b9\u09df\u09c7\u099b\u09bf\u09b2\u0964 \u09af\u09a6\u09bf \u09a4\u09be\u0981\u09b0\u09be \u09aa\u09cd\u09b0\u09a4\u09cd\u09af\u09c7\u0995\u09c7 \u09b8\u09ae\u09b8\u09cd\u09a4 \u0996\u09b0\u099a \u09b8\u09ae\u09be\u09a8\u09ad\u09be\u09ac\u09c7 \u09ad\u09be\u0997 \u0995\u09b0\u09a4\u09c7 \u09b8\u09ae\u09cd\u09ae\u09a4 \u09b9\u09a8, \u09a4\u09be\u09b9\u09b2\u09c7 \u09a4\u09be\u0981\u09a6\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a4\u09cd\u09af\u09c7\u0995\u0995\u09c7 \u0995\u09a4 \u0985\u09b0\u09cd\u09a5 \u09a6\u09bf\u09a4\u09c7 \u09b9\u09df\u09c7\u099b\u09bf\u09b2?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9168775",
+        "\u20b9375",
+        "\u20b92733"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh collected jute for 3 hours. He can collect 2 jute per minute. How many jute did he collect?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "jute",
+        "hours",
+        "minutes"
+      ]
+    },
+    {
+      "adapted_text": "\u090f\u0915 \u0935\u0930\u094d\u0937 \u092e\u0947\u0902 \u0930\u092e\u0947\u0936 \u0928\u0947 10 \u092a\u0947\u0921\u093c \u0932\u0917\u093e\u090f\u0964 \u092a\u094d\u0930\u0924\u093f \u090f\u0915 \u0935\u0930\u094d\u0937 \u0935\u0939 2 \u092a\u0947\u0921\u093c \u0915\u093e\u091f \u092d\u0940 \u0926\u0947\u0924\u0947 \u0939\u0948\u0902\u0964 \u0935\u0939 50 \u092a\u0947\u0921\u093c\u094b\u0902 \u0938\u0947 \u0936\u0941\u0930\u0941\u0906\u0924 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902\u0964 10 \u0935\u0930\u094d\u0937 \u092c\u093e\u0926 30% \u092a\u0947\u0921\u093c \u092e\u0930 \u091c\u093e\u0924\u0947 \u0939\u0948\u0902\u0964 \u0909\u0938\u0915\u0947 \u092a\u093e\u0938 \u0905\u092c \u0915\u093f\u0924\u0928\u0947 \u092a\u0947\u0921\u093c \u092c\u091a\u0947 \u0939\u0948\u0902?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Anika lives in a lively neighbourhood. One weekend, her neighbours decided to have some fun with Anika. On Friday morning, the neighbours placed 18 pink plastic flamingos in front of Anika's courtyard. On Saturday morning, the neighbours took back one-third of the flamingos, painted them white, and left the newly painted white flamingos in Anika's courtyard. Then, on Sunday morning, they added another 18 pink plastic flamingos to their collection. In the afternoon on Sunday, how many more pink plastic flamingos were there than white plastic flamingos?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "flamingos"
+      ]
+    },
+    {
+      "adapted_text": "Anika wants to buy new crayons. She needs 5 different coloured ones and had saved \u20b91660 for this. Each crayon costs \u20b9166. How much money will she get back?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "\u20b9166",
+        "\u20b91660"
+      ]
+    },
+    {
+      "adapted_text": "\u090f\u0915 \u092a\u0947\u0902\u0938\u093f\u0932 \u0914\u0930 \u090f\u0915 \u0930\u092c\u0930 \u0915\u0947 \u0938\u093e\u0925 \u092e\u093f\u0932\u0915\u0930 \u091c\u094b \u0915\u0940\u092e\u0924 \u0939\u094b\u0924\u0940 \u0939\u0948 \u0935\u0939 \u090f\u0915 \u092a\u0947\u0928 \u0915\u0940 \u0915\u0940\u092e\u0924 \u0915\u0947 \u092c\u0930\u093e\u092c\u0930 \u0939\u094b\u0924\u0940 \u0939\u0948\u0964 \u090f\u0915 \u092a\u0947\u0902\u0938\u093f\u0932 \u0915\u0940 \u0915\u0940\u092e\u0924 \u20b999.60 \u0914\u0930 \u090f\u0915 \u0930\u092c\u0930 \u0915\u0940 \u0915\u0940\u092e\u0924 \u20b924.60 \u0939\u0948\u0964 8 \u092a\u0947\u0928 \u0915\u0940 \u0915\u093f\u0924\u0928\u0940 \u0915\u0940\u092e\u0924 \u0939\u094b\u0917\u0940?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b99960",
+        "\u20b92460"
+      ]
+    },
+    {
+      "adapted_text": "In 40 restaurants in a particular city, 200 pounds of carrots are distributed. Each restaurant receives 2 pounds of carrots. How many pounds of carrots will not be used?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b916600"
+      ]
+    },
+    {
+      "adapted_text": "In the city of  Mysore, there are exactly 23786 residents. Of these, 8417 are male and 9092 are female. The rest of the population consists of children. How many children are there in Mysore?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "mysore"
+      ]
+    },
+    {
+      "adapted_text": "Anika had 20 Pokemon cards at first. After one month, she collected three times that number. In the second month, she collected 20 fewer cards than she had collected in the first month. In the third month, she collected double the total number of cards she had collected in the first two months. How many Pokemon cards does she have now?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anikas"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh is a copy editor. Every week, he edits the same number of words for two different publishers, who pay him a separate price per word. Publisher A pays Ramesh twice as much per word as Publisher B. Ramesh edits a total of 1000 words each week, and Publisher A pays him \u20b94 per word. How much money does Ramesh earn in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b94"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh draws water from a well every day. He draws 5 buckets in the morning and 6 buckets in the evening. If each bucket holds 5 liters of water, how many liters of water does he draw every day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rajesh"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh won an award at work. It includes a one-time financial reward of \u20b9415,000 and a 5% salary increase. If he earns \u20b92,000 per week, and he receives the award on the first day of the year, how much money did he earn that year?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b9415000"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh has cultivated grapes on his 10-acre field. Every year, 5 tons of grapes are produced per acre, and 2 barrels of wine are made from each ton of grapes. How many barrels of wine are produced from his field every year?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "grape"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.25,
+      "replaced_words": [
+        "tons",
+        "rajesh",
+        "grapes",
+        "barrels"
+      ]
+    },
+    {
+      "adapted_text": "\u0915\u093e\u0930\u094d\u0932 \u0915\u093e \u092a\u0938\u0902\u0926\u0940\u0926\u093e \u0916\u093e\u0928\u093e \u092a\u0928\u0940\u0930 \u0939\u0948\u0964 \u0907\u0938 \u0939\u092b\u094d\u0924\u0947 \u0935\u0939 \u0939\u0930 \u0926\u093f\u0928 \u0926\u094b\u092a\u0939\u0930 \u0915\u0947 \u092d\u094b\u091c\u0928 \u092e\u0947\u0902 \u090f\u0915 \u0938\u0948\u0902\u0921\u0935\u093f\u091a \u0916\u093e\u092f\u093e \u0914\u0930 \u0939\u0930 \u0938\u0948\u0902\u0921\u0935\u093f\u091a \u092e\u0947\u0902 2 \u092a\u0928\u0940\u0930 \u0938\u094d\u0932\u093e\u0907\u0938 \u0915\u093e \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 \u0915\u093f\u092f\u093e\u0964 \u0935\u0939 \u0939\u0930 \u0938\u0948\u0902\u0921\u0935\u093f\u091a \u092e\u0947\u0902 \u091c\u094b \u0926\u0947\u0924\u093e \u0939\u0948 \u0909\u0938\u0938\u0947 \u090f\u0915 \u0914\u0930 \u090f\u0915 \u0905\u0924\u093f\u0930\u093f\u0915\u094d\u0924 \u0938\u094d\u0932\u093e\u0907\u0938 \u092a\u094d\u0930\u0924\u093f \u0905\u092e\u0932\u0947\u091f \u092e\u0947\u0902 \u0921\u093e\u0932\u0915\u0930 \u0938\u092a\u094d\u0924\u093e\u0939 \u092e\u0947\u0902 3 \u0926\u093f\u0928 \u0938\u0941\u092c\u0939 \u0905\u092e\u0932\u0947\u091f \u0916\u093e\u092f\u093e\u0964 \u0938\u092a\u094d\u0924\u093e\u0939 \u092e\u0947\u0902 \u0915\u0908 \u0930\u093e\u0924 \u0915\u0947 \u0916\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0909\u0938\u0928\u0947 \u092e\u0948\u0915\u0930\u0928\u0940 \u0914\u0930 \u092a\u0928\u0940\u0930 \u0938\u0947 \u090f\u0915 \u0914\u0930 \u0905\u0927\u093f\u0915 \u092d\u094b\u091c\u0928 \u092c\u0928\u093e\u092f\u093e \u091c\u093f\u0938\u092e\u0947\u0902 8 \u092a\u0928\u0940\u0930 \u0915\u0947 \u0938\u094d\u0932\u093e\u0907\u0938 \u0925\u0947\u0964 \u0909\u0938\u0928\u0947 \u0915\u093f\u0924\u0928\u0947 \u092a\u0928\u0940\u0930 \u0915\u0947 \u0938\u094d\u0932\u093e\u0907\u0938 \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 \u0915\u093f\u090f?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Anika has 22 green pens and 10 yellow pens. Then she bought 6 bags of blue pens and 2 bags of red pens. Each bag of blue pens had 9 pens and each bag of red pens had 6 pens. How many pens does Anika have now?",
+      "strict_matches": [
+        "red",
+        "yellow"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.4,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "green",
+        "yellow",
+        "anika",
+        "red",
+        "blue"
+      ]
+    },
+    {
+      "adapted_text": "\u0905\u092e\u093f\u0924 \u092e\u093f\u0938\u094d\u091f\u0930 \u092c\u0930\u094d\u0924\u093e\u091a\u094d\u092f\u093e \u0917\u0923\u093f\u0924\u093e\u091a\u094d\u092f\u093e \u0935\u0930\u094d\u0917\u093e\u0924 \u0906\u0939\u0947. \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u0905\u0930\u094d\u0927\u0935\u093e\u0930\u094d\u0937\u093f\u0915 \u092a\u0930\u0940\u0915\u094d\u0937\u0947\u0938\u093e\u0920\u0940 \u092e\u093f\u0938\u094d\u091f\u0930 \u092c\u0930\u094d\u0924\u093e \u091b\u0939 \u092a\u0930\u0940\u0915\u094d\u0937\u0947 \u0918\u0947\u0924\u093e\u0924. \u0924\u094d\u092f\u093e\u0902\u0928\u093e \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u0905\u0930\u094d\u0927\u0935\u093e\u0930\u094d\u0937\u093f\u0915 \u092a\u0930\u0940\u0915\u094d\u0937\u0947\u0924\u0940\u0932 \u0917\u0941\u0923\u093e\u0902\u091a\u094d\u092f\u093e \u0938\u0930\u093e\u0938\u0930\u0940\u092a\u093e\u0938\u0942\u0928 \u0938\u0930\u094d\u0935\u093e\u0924 \u0915\u092e\u0940 \u0917\u0941\u0923 \u0915\u093e\u0922\u0942\u0928 \u091f\u093e\u0915\u0923\u094d\u092f\u093e\u0938\u093e\u0920\u0940 \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u094d\u092f\u093e\u0902\u0928\u093e \u092a\u0930\u0935\u093e\u0928\u0917\u0940 \u0926\u0947\u0924\u0947. \u092a\u0939\u093f\u0932\u094d\u092f\u093e \u092a\u093e\u091a \u092a\u0930\u0940\u0915\u094d\u0937\u093e\u0902\u092e\u0927\u094d\u092f\u0947 \u0905\u092e\u093f\u0924 \u091c\u0930 89, 71, 92, 100 \u0906\u0923\u093f 86 \u0905\u0902\u0915 \u092e\u093f\u0933\u0935\u093e\u092f\u091a\u0947 \u0924\u0930, \u0938\u0930\u093e\u0938\u0930\u0940 93 \u092e\u093f\u0933\u0935\u0923\u094d\u092f\u093e\u0938\u093e\u0920\u0940 \u0924\u094d\u092f\u093e\u0932\u093e \u091b\u0920\u0940 \u092a\u0930\u0940\u0915\u094d\u0937\u0947\u0924 \u0915\u093f\u0924\u0940 \u0905\u0902\u0915 \u092e\u093f\u0933\u0935\u093e\u0935\u0947 \u0932\u093e\u0917\u0924\u0940\u0932?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Rohan  cycle ride like. He ride it at least 5 times in a week and every time he ride 25 kilometers. He did it for 4 weeks, and then he decided, in a week he will ride only 2 times, but every time he will ride 60 kilometers, and he did it for 3 weeks. Rohan total how many kilometers ride?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rohan"
+      ]
+    },
+    {
+      "adapted_text": "Anika's Diwali sweet bag has 25 chocolate bars and 80 candied apples. Each chocolate bar weighs twice as much as each candied apple. If each chocolate bar weighs 40 grams, what is the total weight of Anika's sweet bag in grams?",
+      "strict_matches": [
+        "diwali"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.2,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "candied apples",
+        "chocolate bars",
+        "40 grams",
+        "anika",
+        "diwali"
+      ]
+    },
+    {
+      "adapted_text": "Anika went to a shop on Monday and bought 4 cakes. On Tuesday, she went to another shop and bought three times the number of cakes she bought the previous day. On Wednesday, she went to yet another shop and bought five times the number of cakes she bought on Tuesday. How many cakes did she buy in total over these three days?",
+      "strict_matches": [
+        "gulab jamun"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "gulab jamun"
+      ]
+    },
+    {
+      "adapted_text": "\u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09aa\u09cd\u09b2\u09c7\u099f \u20b9506,000 \u09ae\u09c2\u09b2\u09cd\u09af \u09a6\u09b0\u09c7\u09b0 \u0986\u09a7 \u09a1\u099c\u09a8 \u09aa\u09cd\u09b2\u09c7\u099f\u09c7\u09b0 \u09ae\u09cb\u099f \u09ae\u09c2\u09b2\u09cd\u09af \u09a5\u09c7\u0995\u09c7 \u0995\u09c1\u09dc\u09bf \u09a1\u099c\u09a8 \u0995\u09be\u09aa\u09c7\u09b0 \u09ae\u09c2\u09b2\u09cd\u09af \u20b996,000 \u0995\u09ae\u0964 \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u0995\u09be\u09aa\u09c7\u09b0 \u09ae\u09c2\u09b2\u09cd\u09af \u09ac\u09c7\u09b0 \u0995\u09b0\u09cb\u0964",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b996000",
+        "\u20b9506000"
+      ]
+    },
+    {
+      "adapted_text": "Anika wants to buy a new jacket and 2 pairs of shoes for herself. The jacket she wants costs \u20b92490 and each pair of shoes costs \u20b91660. Anika babysits her neighbour's children 4 times, earning \u20b9415 each time. Her parents give her \u20b9330 each time she mows the lawn. If Anika already has \u20b9830 saved before starting to babysit, how many times does she need to mow the lawn to buy the jacket and shoes?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b91660",
+        "\u20b9830",
+        "\u20b9415",
+        "anika",
+        "\u20b92490",
+        "\u20b9330"
+      ]
+    },
+    {
+      "adapted_text": "Aarti has a flock of chickens. The red chickens lay 3 eggs each day and the white chickens lay 5 eggs each day. Aarti collects 42 eggs every day. If she has two more red chickens than white chickens, how many red chickens does she have?",
+      "strict_matches": [
+        "red",
+        "white"
+      ],
+      "singular_plural_matches": [
+        "chicken"
+      ],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.4,
+      "singular_plural_score": 0.2,
+      "replaced_words": [
+        "white",
+        "aartis",
+        "flock of",
+        "red",
+        "chickens"
+      ]
+    },
+    {
+      "adapted_text": "Rajeev enjoys walking along the perimeter of the local park, which is a rectangular field with a width of 1.5 miles and a length of 6 miles. If he walks at a speed of 3 miles per hour, how many hours will he walk?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "local park",
+        "rajeev"
+      ]
+    },
+    {
+      "adapted_text": "Amita saw that 100 customers entered a store in Kolkata. The next day, she noticed that 50 more customers entered compared to the previous day. If a total of 500 customers enter by the third day, how many customers did Amita estimate entered on the third day?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "amita",
+        "\u20b983"
+      ]
+    },
+    {
+      "adapted_text": "Anika has two water tanks, each with holes that release 4 gallons of water per minute. Four minutes ago, the larger tank had twice as much water as the smaller tank. Now, the larger tank has four times as much water as the smaller tank. How much water is currently in the smaller tank?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "gallons",
+        "tank",
+        "minutes"
+      ]
+    },
+    {
+      "adapted_text": "Lorie wants to buy a pair of shoes worth \u20b926560 and a matching belt worth \u20b92656. She earns \u20b9664 per hour from her part-time job. How many hours will she have to work to buy these items?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9664",
+        "\u20b92656",
+        "\u20b926560"
+      ]
+    },
+    {
+      "adapted_text": "Anika borrowed \u20b9166,000 and promised to return 10% extra along with the principal. If she pays \u20b913,845 every month for 12 months, how much money will Anika still owe after that?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "\u20b913845",
+        "\u20b9166000"
+      ]
+    },
+    {
+      "adapted_text": "Aryan's age is three times Priya's age, and Priya's age is half of Rohan's age. If Priya's age is 21 years now, what will be the average age of the three after three years?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rohan",
+        "priya",
+        "aryan"
+      ]
+    },
+    {
+      "adapted_text": "\u099a\u09be\u09b0\u099c\u09a8 \u099b\u09be\u09a4\u09cd\u09b0, \u0985\u09b0\u09cd\u09a5\u09be\u09ce \u09b0\u09be\u09b9\u09c1\u09b2, \u09b8\u09cb\u09a8\u09be\u09b2\u09c0, \u0985\u09ae\u09bf\u09a4 \u098f\u09ac\u0982 \u0986\u09a6\u09bf\u09a4\u09bf, \u098f\u0995\u099f\u09be \u09ac\u09cb\u09b0\u09cd\u09a1 \u0997\u09c7\u09ae\u09c7 \u09ae\u09cb\u099f 251 \u09aa\u09df\u09c7\u09a8\u09cd\u099f \u09aa\u09c7\u09df\u09c7\u099b\u09bf\u09b2\u0964 \u09b0\u09be\u09b9\u09c1\u09b2 68 \u09aa\u09df\u09c7\u09a8\u09cd\u099f \u09aa\u09c7\u09df\u09c7\u099b\u09bf\u09b2\u0964 \u09b8\u09cb\u09a8\u09be\u09b2\u09c0 \u09b0\u09be\u09b9\u09c1\u09b2\u09c7\u09b0 \u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09c7\u09b0 \u09a5\u09c7\u0995\u09c7 10 \u09aa\u09df\u09c7\u09a8\u09cd\u099f \u09ac\u09c7\u09b6\u09bf \u09aa\u09c7\u09df\u09c7\u099b\u09bf\u09b2 \u098f\u09ac\u0982 \u0985\u09ae\u09bf\u09a4 \u09b0\u09be\u09b9\u09c1\u09b2\u09c7\u09b0 \u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09c7\u09b0 \u09a5\u09c7\u0995\u09c7 17 \u09aa\u09df\u09c7\u09a8\u09cd\u099f \u09ac\u09c7\u09b6\u09bf \u09aa\u09c7\u09df\u09c7\u099b\u09bf\u09b2\u0964 \u0986\u09a6\u09bf\u09a4\u09bf \u0995\u09a4 \u09aa\u09df\u09c7\u09a8\u09cd\u099f \u09aa\u09c7\u09df\u09c7\u099b\u09bf\u09b2?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "",
+        "251"
+      ]
+    },
+    {
+      "adapted_text": "Anika spent 10 minutes solving a word puzzle and 5 minutes solving a Sudoku puzzle. Over the weekend, she solved 3 word puzzles and 8 Sudoku puzzles. How much time did she spend on these games?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "5 minutes",
+        "3",
+        "10 minutes",
+        "anika",
+        "8"
+      ]
+    },
+    {
+      "adapted_text": "Anika planted 90 geraniums and 40 fewer petunias than geraniums. How many flower plants did she plant in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "geraniums",
+        "petunias"
+      ]
+    },
+    {
+      "adapted_text": "\u098f\u0995\u099f\u09bf \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf \u09ac\u09bf\u099c\u09cd\u099e\u09be\u09aa\u09a8\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09ac\u099b\u09b0\u09c7 \u20b91245000 \u09ac\u09cd\u09af\u09df \u0995\u09b0\u09c7, \u098f\u09ac\u0982 \u09a4\u09be\u09b0\u09aa\u09b0 \u0986\u09b0\u09c7\u0995\u099f\u09bf \u09ac\u099b\u09b0\u09c7 \u09ac\u09bf\u099c\u09cd\u099e\u09be\u09aa\u09a8\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u0990 \u0985\u09b0\u09cd\u09a5\u09c7\u09b0 \u098f\u0995-\u09a4\u09c3\u09a4\u09c0\u09df\u09be\u0982\u09b6 \u09ac\u09cd\u09af\u09df \u0995\u09b0\u09c7\u0964 \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf\u099f\u09bf \u09ac\u09bf\u099c\u09cd\u099e\u09be\u09aa\u09a8\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09a6\u09c1\u0987 \u09ac\u099b\u09b0\u09c7 \u09ae\u09cb\u099f \u0995\u09a4 \u0985\u09b0\u09cd\u09a5 \u09ac\u09cd\u09af\u09df \u0995\u09b0\u09c7\u099b\u09bf\u09b2?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b91245000"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh \u098f\u09ac\u0982 Vijay  \u09b8\u09c8\u0995\u09a4\u09c7 \u09b0\u09df\u09c7\u099b\u09c7\u09a8\u0964 \u0998\u09a3\u09cd\u099f\u09be\u09df \u20b92490 \u09ac\u09cd\u09af\u09df \u0995\u09b0\u09c7 Ramesh \u098f\u0995\u099f\u09bf \u09a1\u09bf\u0999\u09cd\u0997\u09bf \u09a8\u09cc\u0995\u09cb \u09ad\u09be\u09dc\u09be \u0995\u09b0\u09c7\u09a8 \u098f\u09ac\u0982 \u0998\u09a3\u09cd\u099f\u09be\u09df \u20b91500 \u09ac\u09cd\u09af\u09df \u0995\u09b0\u09c7 Vijay \u098f\u0995\u099f\u09bf \u09ac\u09cd\u09af\u09be\u09a8\u09be\u09a8\u09be \u09ac\u09cb\u099f \u09b0\u200d\u09cd\u09af\u09be\u09ab\u099f \u09ad\u09be\u09dc\u09be \u0995\u09b0\u09c7\u09a8\u0964 Ramesh \u09af\u09a6\u09bf 3 \u0998\u09a3\u09cd\u099f\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u09a8\u09cc\u0995\u09be\u099f\u09bf \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09c7\u09a8 \u098f\u09ac\u0982 Vijay 5 \u0998\u09a3\u09cd\u099f\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u09b0\u200d\u09cd\u09af\u09be\u09ab\u099f\u099f\u09bf \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09c7\u09a8, \u09a4\u09be\u09b9\u09b2\u09c7 \u09ad\u09be\u09dc\u09be \u09ac\u09be\u09ac\u09a6 \u098f\u0995\u09a4\u09cd\u09b0\u09c7 \u09a4\u09be\u09b0\u09be \u0995\u09a4 \u09ac\u09cd\u09af\u09df \u0995\u09b0\u09ac\u09c7\u09a8?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b92490",
+        "\u20b91500",
+        "vijay"
+      ]
+    },
+    {
+      "adapted_text": "Aniket  planning a road trip from Mumbai to Chennai. It takes 6 days to travel from Mumbai to Chennai by bus and half that time by car. If he plans to go to Chennai by bus and return from Chennai by car, how many days will he have to travel?",
+      "strict_matches": [
+        "mumbai"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.3333333333333333,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "aniket",
+        "mumbai",
+        "chennai"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh is counting his Pokemon cards. He has 30 fire type, 20 grass type, and 40 water type cards. If he loses 8 water type cards and buys 14 grass type cards, what is the probability that a randomly chosen card will be a water type card (round to the nearest whole number)?",
+      "strict_matches": [
+        "herb"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 5,
+      "strict_match_score": 0.2,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "jal",
+        "\u20b9830",
+        "ramesh",
+        "agni",
+        "herb"
+      ]
+    },
+    {
+      "adapted_text": "Anika ordered a build-your-own burrito for lunch. The base burrito cost \u20b9539.50. She added extra meat for \u20b9166, extra cheese for \u20b983, avocado for \u20b983, and 2 sauces at \u20b921 each. She also upgraded her meal with chips and a drink for \u20b9245. She had a \u20b9415 gift card that she used to pay for the meal. How much more does she have to pay?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b9245",
+        "\u20b9415",
+        "\u20b9166",
+        "\u20b921",
+        "\u20b983",
+        "\u20b953950"
+      ]
+    },
+    {
+      "adapted_text": "Anika is playing a puzzle with her mother. The puzzle has 360 pieces. Anika can usually put together 4 pieces per minute. Anika's mother can usually put together half the number of pieces that Anika can put together in one minute. How many hours will it take them to complete this puzzle?",
+      "strict_matches": [
+        "mother"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.5,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "mother"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh bought 12 cars for his company. Each car cost \u20b91,66,000. He paid 10% tax and \u20b983,000 for registration for each car. How much did he spend in total?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b983000",
+        "\u20b9166000"
+      ]
+    },
+    {
+      "adapted_text": "Anika \u098f\u09ac\u0982 Rohan  beaches  \u091c\u093e\u0928\u0947  \u0914\u0930  shells  \u09b8\u0982\u0997\u09cd\u09b0\u09b9  \u0995\u09b0\u09a4\u09c7  \u09aa\u099b\u09a8\u09cd\u09a6  \u0995\u09b0\u09c7\u0964  Monday  Rohan  20  shells  \u09b8\u0982\u0997\u09cd\u09b0\u09b9  \u0995\u09b0\u09c7\u099b\u09bf\u09b2  \u098f\u09ac\u0982  Anika  \u09a4\u09be\u09b0  \u09a4\u09c1\u09b2\u09a8\u09be\u09df  5  \u099f\u09bf  shells  \u09ac\u09c7\u09b6\u09bf  \u09b8\u0982\u0997\u09cd\u09b0\u09b9  \u0995\u09b0\u09c7\u099b\u09bf\u09b2\u0964  Monday  Anika  \u09af\u09a4  \u09b8\u0982\u0996\u09cd\u09af\u0995  shells  \u09b8\u0982\u0997\u09cd\u09b0\u09b9  \u0995\u09b0\u09c7\u099b\u09bf\u09b2,  Tuesday  \u09a4\u09be\u09b0  \u09a5\u09c7\u0995\u09c7  2  \u0997\u09c1\u09a3  \u09ac\u09c7\u09b6\u09bf  \u09b8\u0982\u0996\u09cd\u09af\u0995  shells  \u09b8\u0982\u0997\u09cd\u09b0\u09b9  \u0995\u09b0\u09c7\u099b\u09bf\u09b2\u0964  Tuesday  Anika  \u0995\u09a4\u0997\u09c1\u09b2\u09bf  shells  \u09b8\u0982\u0997\u09cd\u09b0\u09b9  \u0995\u09b0\u09c7\u099b\u09bf\u09b2?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "rohan",
+        "shells"
+      ]
+    },
+    {
+      "adapted_text": "Dinesh went to his orchard to pick mangoes and saw half as many butterflies as ants in the garden. If there were 50 ants, what is the total number of insects in the garden?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "mango"
+      ],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.25,
+      "replaced_words": [
+        "dinesh",
+        "mangoes",
+        "ants",
+        "butterflies"
+      ]
+    },
+    {
+      "adapted_text": "36\u099f\u09bf  \u09ae\u09cb\u09b0\u0997  \u09ac\u09b0\u09ab\u09c7\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u09b8\u09c2\u09b0\u09cd\u09af\u09b8\u09cd\u09a8\u09be\u09a8 \u0995\u09b0\u099b\u09c7\u0964 \u09a4\u09be\u09a6\u09c7\u09b0 \u098f\u0995-\u09a4\u09c3\u09a4\u09c0\u09df\u09be\u0982\u09b6 \u099d\u09be\u0981\u09aa \u09a6\u09bf\u09b2 \u098f\u09ac\u0982 \u09b8\u09be\u0997\u09b0\u09c7 \u09b8\u09be\u0981\u09a4\u09be\u09b0 \u0995\u09be\u099f\u09a4\u09c7 \u09b2\u09be\u0997\u09b2\u09cb\u0964 \u0985\u09a8\u09cd\u09af \u098f\u0995-\u09a4\u09c3\u09a4\u09c0\u09df\u09be\u0982\u09b6 \u09b0\u09be\u09a4\u09c7\u09b0 \u0996\u09be\u09ac\u09be\u09b0 \u0996\u09c7\u09a4\u09c7 \u0997\u09c1\u09b9\u09be\u09b0 \u09ad\u09bf\u09a4\u09b0\u09c7 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6 \u0995\u09b0\u09b2\u09cb\u0964 \u0995\u09a4\u0997\u09c1\u09b2\u09bf \u09ae\u09cb\u09b0\u0997 \u09a4\u0996\u09a8\u0993 \u09b8\u09c2\u09b0\u09cd\u09af\u09b8\u09cd\u09a8\u09be\u09a8 \u0995\u09b0\u099b\u09bf\u09b2?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        ""
+      ]
+    },
+    {
+      "adapted_text": "Vivek  decided to eat more tomatoes and decided to grow cherry tomatoes himself. He eats twice as many as his friend. He eats 6 tomatoes every day. If one plant produces 3 tomatoes per week, how many plants does he need?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "tomato"
+      ],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.5,
+      "replaced_words": [
+        "tomatoes",
+        "vivek"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh ordered some pizzas for his 20 friends. Ramesh wants to make sure that each friend gets 4 pieces. Pizzas are sold in pieces of 8. How many pizzas should Ramesh order?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh"
+      ]
+    },
+    {
+      "adapted_text": "Anika used many pens. She noticed that by mixing the ink of five empty pens, she could make one full pen, saving her money. If she buys 25 pens and wants to make new pens when the ink runs out, how many pens will she need?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "pens"
+      ]
+    },
+    {
+      "adapted_text": "Ramesh added \u20b91660 to his \u20b91660 for rice. Then he invested this money, which tripled in a year. How much money did he have after a year?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "ramesh",
+        "\u20b91660",
+        "\u20b9830"
+      ]
+    },
+    {
+      "adapted_text": "Anika is two years younger than Priya, who is five years older than Maya. If Priya is 20 years old, what is the sum of the ages of the three girls?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "",
+        "priya"
+      ]
+    },
+    {
+      "adapted_text": "Rajesh has 6 more candies than Vivek.  Avinash has twice as many candies as Vivek. If Avinash has 54 candies, how many more candies does Avinash have than Rajesh?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 3,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rajesh",
+        "vivek",
+        "avinash"
+      ]
+    },
+    {
+      "adapted_text": "Anika has two books. Priya has one. If Anika and Priya read each other's books along with their own, how many books will they have read together in the end?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 2,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "anika",
+        "priya"
+      ]
+    },
+    {
+      "adapted_text": "Aakash had penpals with 5 people. He stopped being penpals with 2 of them. Each of them sends 2 letters every week, each letter being 5 pages long. He replies to each letter in the same way. He can write one page in 6 minutes. How many hours does he spend writing in a week?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "aakash"
+      ]
+    },
+    {
+      "adapted_text": "Jayesh has a monthly phone plan with 1000 minutes. He needs to make 15-minute calls to his boss every day, and this month he has spent an additional 300 minutes calling other people. If this month has 30 days, how many minutes does Jayesh have left?",
+      "strict_matches": [],
+      "singular_plural_matches": [
+        "day"
+      ],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.16666666666666666,
+      "replaced_words": [
+        "jayesh",
+        "additional",
+        "days",
+        "his bosss",
+        "month",
+        "minutes"
+      ]
+    },
+    {
+      "adapted_text": "Anika had 24 pieces of french fries, but Rohan took 5 from her. Rohan took twice as many fries as Bilal. Ginger gave a handful of fries to Anika and then Kalpana took 3 fewer fries than Rohan had taken from Anika. If Anika had 27 fries left, how many fries did Ginger give her?",
+      "strict_matches": [
+        "ginger"
+      ],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.16666666666666666,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "rohan",
+        "kalpana",
+        "french fries",
+        "anika",
+        "ginger",
+        "bilal"
+      ]
+    },
+    {
+      "adapted_text": "\u090f\u0915 \u092e\u0947\u0915\u0905\u092a \u0906\u0930\u094d\u091f\u093f\u0938\u094d\u091f \u091c\u0940\u0928 \u0918\u0902\u091f\u0947 \u092a\u094d\u0930\u0924\u093f \u20b920,750 \u0932\u0947\u0924\u093e \u0939\u0948\u0964 \u090f\u0915 \u092b\u093f\u0932\u094d\u092e \u092e\u0947\u0902 \u0905\u092d\u093f\u0928\u092f \u0915\u0947 \u0932\u093f\u090f \u0909\u0938\u0915\u0947 \u092c\u0939\u0941\u0924 \u092e\u0939\u0902\u0917\u0947 \u092e\u0947\u0915\u0905\u092a \u0915\u0940 \u0906\u0935\u0936\u094d\u092f\u0915\u0924\u093e \u0939\u094b\u0924\u0940 \u0939\u0948 \u0914\u0930 \u0907\u0938\u0947 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092a\u094d\u0930\u0924\u093f\u0926\u093f\u0928 6 \u0918\u0902\u091f\u0947 \u0932\u0917\u0924\u0947 \u0939\u0948\u0902 \u0914\u0930 \u0938\u092a\u094d\u0924\u093e\u0939 \u092e\u0947\u0902 4 \u092c\u093e\u0930 \u0909\u0938\u0947 \u0907\u0938\u0947 \u0915\u0930\u0928\u093e \u0939\u094b\u0924\u093e \u0939\u0948\u0964 \u092b\u093f\u0932\u094d\u092e \u092a\u0942\u0930\u0940 \u0939\u094b\u0928\u0947 \u092e\u0947\u0902 5 \u0938\u092a\u094d\u0924\u093e\u0939 \u0932\u0917\u0924\u0947 \u0939\u0948\u0902\u0964 \u0915\u093e\u092e \u0915\u0940 \u092e\u093e\u0924\u094d\u0930\u093e \u0915\u0947 \u0932\u093f\u090f \u092b\u093f\u0932\u094d\u092e \u0915\u0947 \u0915\u093e\u092e \u0916\u0924\u094d\u092e \u0939\u094b\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u092e\u0947\u0915\u0905\u092a \u0906\u0930\u094d\u091f\u093f\u0938\u094d\u091f \u091c\u0940\u0928 \u0915\u094b 10% \u091b\u0942\u091f \u0926\u0947\u0924\u0940 \u0939\u0948\u0964 \u091c\u0940\u0928 \u0928\u0947 \u0915\u093f\u0924\u0928\u093e \u0935\u0947\u0924\u0928 \u0932\u093f\u092f\u093e?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b920750"
+      ]
+    },
+    {
+      "adapted_text": "Anika bought party supplies for her younger sister's birthday party. She spent \u20b91014 on cake ingredients, \u20b93569 on birthday gifts, \u20b91267 on decorations, \u20b9332 on invitations, and \u20b91846 on goodie bags for the party guests. She shared the expenses equally with her mother and father. How much did each person spend?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 6,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b91014",
+        "\u20b91267",
+        "\u20b91846",
+        "anika",
+        "\u20b93569",
+        "\u20b9332"
+      ]
+    },
+    {
+      "adapted_text": "A cook bought 4 bags of onions. Each bag weighed 50 pounds. One pound of onion costs \u20b9124.50. How much money did the cook spend?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 1,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "\u20b912450"
+      ]
+    },
+    {
+      "adapted_text": "Ravi on Monday ate 4 times more cookies than his sister. On Tuesday, he ate twice as many cookies as his sister. His sister ate 5 cookies on Monday and 13 cookies the next day. If 1 cookie contains 200 calories, how many more calories did Ravi consume compared to his sister?",
+      "strict_matches": [],
+      "singular_plural_matches": [],
+      "total_replaced_words": 4,
+      "strict_match_score": 0.0,
+      "singular_plural_score": 0.0,
+      "replaced_words": [
+        "monday",
+        "ravi",
+        "cookies",
+        "tuesday"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2735 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Telugu",
+        "Description": "Telugu is the official and most widely spoken language in Andhra Pradesh, belonging to the Dravidian language family. It has a rich literary tradition and is recognized as one of India's classical languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telugu_language"
+      },
+      {
+        "Language/Dialect Name": "Urdu",
+        "Description": "Urdu is spoken by a minority in Andhra Pradesh, primarily among the Muslim community. It has historical significance due to the Nizam's rule in the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Urdu"
+      },
+      {
+        "Language/Dialect Name": "Gondi",
+        "Description": "Gondi is a Dravidian language spoken by the Gond tribe in parts of Andhra Pradesh. It is considered vulnerable due to declining usage among younger generations.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gondi_language"
+      },
+      {
+        "Language/Dialect Name": "Kolami",
+        "Description": "Kolami is another Dravidian language spoken by tribal communities in Andhra Pradesh. It has several dialects and is primarily used in rural areas.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kolami_language"
+      },
+      {
+        "Language/Dialect Name": "Kuvi",
+        "Description": "Kuvi is spoken by the Khond tribe in the hilly regions of Andhra Pradesh and Odisha. It is known for its unique phonetic and grammatical structures.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kuvi_language"
+      },
+      {
+        "Language/Dialect Name": "Lambadi",
+        "Description": "Also known as Banjara, Lambadi is spoken by the Banjara community in Andhra Pradesh. It has influences from various languages due to the nomadic history of its speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lambadi_language"
+      },
+      {
+        "Language/Dialect Name": "Koya",
+        "Description": "Koya is a Dravidian language spoken by the Koya tribe in the border areas of Andhra Pradesh, Telangana, and Chhattisgarh. It is used in daily communication and cultural practices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Koya_language"
+      },
+      {
+        "Language/Dialect Name": "Chenchu",
+        "Description": "Chenchu is spoken by the Chenchu tribe, primarily residing in the Nallamala forest region of Andhra Pradesh. It is an endangered language with limited documentation.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chenchu_language"
+      },
+      {
+        "Language/Dialect Name": "Yerukala",
+        "Description": "Yerukala, also known as Erukala, is spoken by the Yerukala tribe in Andhra Pradesh. It is part of the Dravidian language family and has distinct linguistic features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Yerukala_language"
+      },
+      {
+        "Language/Dialect Name": "Savara",
+        "Description": "Savara is a Munda language spoken by the Sora tribe in parts of Andhra Pradesh. It has its own script and a rich oral tradition.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sora_language"
+      },
+      {
+        "Language/Dialect Name": "Konda",
+        "Description": "Konda is a Dravidian language spoken by the Konda-Dora tribe in the Eastern Ghats of Andhra Pradesh. It is considered endangered due to a decreasing number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Konda_language"
+      },
+      {
+        "Language/Dialect Name": "Manda",
+        "Description": "Manda is a lesser-known Dravidian language spoken by a small tribal community in Andhra Pradesh and Odisha. It is critically endangered with very few speakers remaining.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Manda_language"
+      },
+      {
+        "Language/Dialect Name": "Ollari",
+        "Description": "Ollari is a Dravidian language spoken by tribal groups in the border areas of Andhra Pradesh and Odisha. It is closely related to the Gondi language.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ollari_language"
+      },
+      {
+        "Language/Dialect Name": "Naiki",
+        "Description": "Naiki, also known as Naiki-Gondi, is a Dravidian language spoken by certain tribal communities in Andhra Pradesh. It serves as a link between Gondi and other related languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Naiki_language"
+      },
+      {
+        "Language/Dialect Name": "Pattapu",
+        "Description": "Pattapu is a Dravidian language spoken by a small community in Andhra Pradesh. It is one of the lesser-documented languages in the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pattapu_language"
+      }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Nyishi",
+        "Description": "Spoken by the Nyishi tribe, this language belongs to the Tani group within the Sino-Tibetan family. It is one of the most widely spoken indigenous languages in Arunachal Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nyishi_language"
+      },
+      {
+        "Language/Dialect Name": "Adi",
+        "Description": "The Adi language is used by the Adi people and comprises several dialects, including Minyong, Padam, and Pasi. It is part of the Tani branch and is prevalent in central Arunachal Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Adi_language"
+      },
+      {
+        "Language/Dialect Name": "Apatani",
+        "Description": "Spoken by the Apatani tribe in the Ziro valley, this language is unique within the Tani group and has distinct phonological features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Apatani_language"
+      },
+      {
+        "Language/Dialect Name": "Galo",
+        "Description": "The Galo language is used by the Galo tribe and is part of the Tani subgroup. It has several dialects and is spoken in the western part of the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Galo_language"
+      },
+      {
+        "Language/Dialect Name": "Tagin",
+        "Description": "Spoken by the Tagin tribe, this language is another member of the Tani group and is found in the Upper Subansiri district.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tagin_language"
+      },
+      {
+        "Language/Dialect Name": "Mishing",
+        "Description": "Also known as Plains Miri, this language is spoken by the Mishing people residing along the Assam-Arunachal border. It is closely related to the Adi language.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mishing_language"
+      },
+      {
+        "Language/Dialect Name": "Idu Mishmi",
+        "Description": "Used by the Idu Mishmi tribe, this language is part of the Mishmic group and is spoken in the Dibang Valley. It is considered endangered due to declining usage among younger generations.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Idu_Mishmi_language"
+      },
+      {
+        "Language/Dialect Name": "Digaro Mishmi",
+        "Description": "Also known as Taraon, this language is spoken by the Digaro Mishmi people and is part of the Mishmic group. It is prevalent in the Lohit district.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Digaro_Mishmi_language"
+      },
+      {
+        "Language/Dialect Name": "Miju Mishmi",
+        "Description": "Spoken by the Miju Mishmi tribe, this language belongs to the Mishmic group and is found in the eastern regions of Arunachal Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Miju_Mishmi_language"
+      },
+      {
+        "Language/Dialect Name": "Monpa",
+        "Description": "The Monpa language encompasses several dialects spoken by the Monpa people in the Tawang and West Kameng districts. It is part of the Tibetic language family.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Monpa_languages"
+      },
+      {
+        "Language/Dialect Name": "Sherdukpen",
+        "Description": "Used by the Sherdukpen community, this language is spoken in the West Kameng district and has influences from both Tibetic and indigenous languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sherdukpen_language"
+      },
+      {
+        "Language/Dialect Name": "Bugun",
+        "Description": "Also known as Khowa, this language is spoken by the Bugun tribe in the West Kameng district. It is considered endangered due to a limited number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bugun_language"
+      },
+      {
+        "Language/Dialect Name": "Hruso",
+        "Description": "Spoken by the Hruso (Aka) people, this language is found in the West Kameng district and is considered endangered.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hruso_language"
+      },
+      {
+        "Language/Dialect Name": "Miji",
+        "Description": "Also known as Sajolang, this language is spoken by the Miji people in the West Kameng district. It has two main dialects: Western and Eastern Miji.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Miji_language"
+      },
+      {
+        "Language/Dialect Name": "Koro",
+        "Description": "A recently documented language, Koro is spoken by a small community in the East Kameng district. Its classification within the Sino-Tibetan family remains uncertain.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Koro_language_(India)"
+      },
+      {
+        "Language/Dialect Name": "Nocte",
+        "Description": "The Nocte language is used by the Nocte tribe in the Tirap district. It is part of the Konyak subgroup of Naga languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nocte_language"
+      },
+      {
+        "Language/Dialect Name": "Wancho",
+        "Description": "Spoken by the Wancho tribe, this language is prevalent in the Longding district and is closely related to the Nocte language.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Wancho_language"
+      },
+      {
+        "Language/Dialect Name": "Tangsa",
+        "Description": "The Tangsa language comprises numerous dialects spoken by the Tangsa people in the Changlang district. It is part of the Northern Naga group.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tangsa_language"
+      },
+      {
+        "Language/Dialect Name": "Singpho",
+        "Description": "Used by the Singpho tribe, this language is spoken in the eastern parts of Arunachal Pradesh and is closely related to the Jingpho language of Myanmar.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Singpho_language"
+      },
+      {
+        "Language/Dialect Name": "Chakma",
+        "Description": "Spoken by the Chakma community, this language belongs to the Indo-Aryan family and is found in the southwestern regions of Arunachal Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chakma_language"
+      },
+      {
+        "Language/Dialect Name": "Tai Khamti",
+        "Description": "The Tai Khamti language is used by the Khamti people and is part of the Tai language family. It is spoken in the Lohit district and has its own script.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khamti_language"
+      },
+      {
+        "Language/Dialect Name": "Puroik",
+        "Description": "Also known as Sulung, this language is spoken by the Puroik people in various districts. It is considered endangered due to a small number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Puroik_language"
+      },
+      {
+        "Language/Dialect Name": "Bangru",
+        "Description": "Spoken by the Bangru community, this language is found in the Kurung Kumey district and is closely related to the Miji language.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bangru_language"
+      },
+      {
+        "Language/Dialect Name": "Meyor",
+        "Description": "Also known as Zakhring, this language is spoken by the Meyor people in the easternmost regions of Arunachal Pradesh. It is considered highly endangered.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meyor_language"
+      }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Assamese",
+        "Description": "The official language of Assam, Assamese is an Eastern Indo-Aryan language spoken by over 15 million people. It has various dialects, including Eastern, Central, Kamrupi, and Goalpariya, each reflecting regional nuances.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Assamese_language"
+      },
+      {
+        "Language/Dialect Name": "Bodo",
+        "Description": "A Sino-Tibetan language primarily spoken in the Bodoland Territorial Region of Assam. Recognized as one of the 22 scheduled languages of India, Bodo has its own script and rich oral literature.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bodo_language"
+      },
+      {
+        "Language/Dialect Name": "Mising",
+        "Description": "Belonging to the Tani branch of the Sino-Tibetan family, Mising is spoken by the Mising tribe residing along the Brahmaputra River. The language has been influenced by Assamese due to prolonged contact.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mising_language"
+      },
+      {
+        "Language/Dialect Name": "Karbi",
+        "Description": "A member of the Sino-Tibetan family, Karbi is spoken by the Karbi tribe in the hilly regions of Assam. It features several dialects and is integral to the tribe's cultural identity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Karbi_language"
+      },
+      {
+        "Language/Dialect Name": "Dimasa",
+        "Description": "Part of the Bodo-Garo group within the Sino-Tibetan family, Dimasa is spoken by the Dimasa community in Dima Hasao district. The language has its own script and a rich tradition of folk songs and tales.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dimasa_language"
+      },
+      {
+        "Language/Dialect Name": "Rabha",
+        "Description": "A Sino-Tibetan language spoken by the Rabha community in western Assam and parts of Meghalaya. It has multiple dialects and reflects the community's unique cultural heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rabha_language"
+      },
+      {
+        "Language/Dialect Name": "Tiwa",
+        "Description": "Also known as Lalung, Tiwa is a Tibeto-Burman language spoken by the Tiwa tribe in central Assam. The language is an essential aspect of Tiwa cultural practices and rituals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tiwa_language"
+      },
+      {
+        "Language/Dialect Name": "Deori",
+        "Description": "Belonging to the Sino-Tibetan family, Deori is spoken by the Deori tribe in Assam. The language has retained many archaic features and is considered endangered.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Deori_language"
+      },
+      {
+        "Language/Dialect Name": "Ahom",
+        "Description": "A Tai-Kadai language that was historically spoken by the Ahom people who ruled Assam for six centuries. While no longer in everyday use, Ahom is preserved through religious chants and manuscripts.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ahom_language"
+      },
+      {
+        "Language/Dialect Name": "Goalpariya",
+        "Description": "A group of dialects spoken in the Goalpara region of Assam. These dialects have a mix of Assamese, Bengali, and local linguistic features, reflecting the area's diverse cultural interactions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Goalpariya_dialects"
+      },
+      {
+        "Language/Dialect Name": "Kamrupi",
+        "Description": "A western dialect of Assamese spoken in the Kamrup region. It has distinct phonetic and lexical features that set it apart from standard Assamese.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kamrupi_dialect"
+      },
+      {
+        "Language/Dialect Name": "Hmar",
+        "Description": "A Kukish language spoken by the Hmar people in parts of Assam, Manipur, and Mizoram. It has its own script and a rich tradition of folk literature.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hmar_language"
+      },
+      {
+        "Language/Dialect Name": "Hajong",
+        "Description": "An Indo-Aryan language spoken by the Hajong people in Assam and Meghalaya. It serves as a bridge between Assamese and Bengali, incorporating elements of both languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hajong_language"
+      },
+      {
+        "Language/Dialect Name": "Bishnupriya Manipuri",
+        "Description": "An Indo-Aryan language spoken by the Bishnupriya community in Assam and Manipur. It combines features of Bengali, Assamese, and Meitei, reflecting a unique cultural synthesis.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bishnupriya_Manipuri_language"
+      },
+      {
+        "Language/Dialect Name": "Chutia",
+        "Description": "An extinct language that was once spoken by the Chutia people in Assam. Efforts are underway to revive the language through the study of historical documents and oral traditions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chutia_language"
+      }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Maithili",
+        "Description": "An Indo-Aryan language spoken in the northern and eastern regions of Bihar, particularly in the historical Mithila region. Maithili has a rich literary tradition and is recognized under the Eighth Schedule of the Indian Constitution.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Maithili_language"
+      },
+      {
+        "Language/Dialect Name": "Bhojpuri",
+        "Description": "Predominantly spoken in the western parts of Bihar, Bhojpuri extends into eastern Uttar Pradesh and the Terai region of Nepal. It has several dialects and is known for its vibrant folk traditions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhojpuri_language"
+      },
+      {
+        "Language/Dialect Name": "Magahi",
+        "Description": "Also known as Magadhi, this language is spoken in the central areas of Bihar, including districts like Patna, Gaya, and Nalanda. It is believed to be the descendant of the ancient Magadhi Prakrit.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Magahi_language"
+      },
+      {
+        "Language/Dialect Name": "Angika",
+        "Description": "Spoken in the Anga region, which includes districts like Bhagalpur and Munger in Bihar. Angika has a significant number of speakers and shares linguistic features with both Maithili and Magahi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Angika_language"
+      },
+      {
+        "Language/Dialect Name": "Bajjika",
+        "Description": "Also referred to as Western Maithili, Bajjika is spoken in the northwestern parts of Bihar, particularly in the Tirhut region encompassing districts like Muzaffarpur and Vaishali.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bajjika_dialect"
+      },
+      {
+        "Language/Dialect Name": "Surjapuri",
+        "Description": "A language variety spoken in the Purnia division of Bihar, including districts like Araria, Purnia, Katihar, and Kishanganj. It shares linguistic features with Assamese and Bengali.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Surjapuri_language"
+      },
+      {
+        "Language/Dialect Name": "Khortha",
+        "Description": "Spoken in the southern regions of Bihar, particularly in areas adjoining Jharkhand. Khortha is considered a dialect of Magahi and is prevalent among rural communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khortha_language"
+      },
+      {
+        "Language/Dialect Name": "Santali",
+        "Description": "An Austroasiatic language spoken by the Santhal tribal community in parts of Bihar, especially in districts like Jamui, Banka, and Bhagalpur. Santali has its own script called Ol Chiki.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Santali_language"
+      },
+      {
+        "Language/Dialect Name": "Kurmali",
+        "Description": "Also known as Panchpargania, this language is spoken by the Kurmi community in parts of southern Bihar and adjoining areas of Jharkhand. It is considered to have a close affinity with the Maithili language.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kurmali_language"
+      },
+      {
+        "Language/Dialect Name": "Tharu",
+        "Description": "Spoken by the Tharu tribal community in the northern regions of Bihar, particularly in the Champaran districts. Tharu languages have influences from neighboring languages such as Awadhi and Maithili.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tharu_languages"
+      }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Chhattisgarhi",
+        "Description": "An Indo-Aryan language spoken by approximately 16.25 million people in Chhattisgarh and neighboring states. It is the official language of Chhattisgarh and is grouped within the Eastern Hindi languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarhi_language"
+      },
+      {
+        "Language/Dialect Name": "Surgujia",
+        "Description": "A dialect of Chhattisgarhi spoken in the Surguja region. It is sometimes considered its own language due to its distinctiveness.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Language/Dialect Name": "Gondi",
+        "Description": "A Dravidian language spoken by the Gond tribes in southern Chhattisgarh, particularly in the Bastar region. Gondi has several dialects, including Muria and Madia.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Language/Dialect Name": "Halbi",
+        "Description": "A blend of Hindi, Odia, Marathi, and Chhattisgarhi, Halbi is spoken by tribal communities in eastern Bastar. It serves as a lingua franca among various tribes in the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Language/Dialect Name": "Bhatri",
+        "Description": "A language spoken in the eastern Bastar region, primarily by tribal communities. It is distinct from other regional languages and holds cultural significance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Language/Dialect Name": "Kurukh",
+        "Description": "A Dravidian language spoken by the Oraon tribe in the Surguja region. It is one of the indigenous languages of Chhattisgarh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Language/Dialect Name": "Korwa",
+        "Description": "A language spoken by the Korwa tribe in the Surguja region. It is part of the Munda language family and reflects the tribal heritage of the area.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Language/Dialect Name": "Muria",
+        "Description": "A dialect of Gondi spoken by the Muria tribe in north Bastar. It transitions into the Madia dialect further south.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Language/Dialect Name": "Madia",
+        "Description": "A dialect of Gondi spoken by the Madia tribe in southern Bastar. It is closely related to the Muria dialect spoken in the northern parts of Bastar.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Language/Dialect Name": "Dorli",
+        "Description": "A dialect that is transitional between Gondi and Koya, spoken along the borders of Andhra Pradesh and Telangana.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Language/Dialect Name": "Koya",
+        "Description": "A Dravidian language spoken by the Koya tribe along the borders of Chhattisgarh, Andhra Pradesh, and Telangana. It shares similarities with Gondi and other regional languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Language/Dialect Name": "Abujhmaria",
+        "Description": "A dialect of Gondi spoken by the Abujhmaria tribe in the Abujhmarh hills of Bastar. It is known for its unique linguistic features and relative isolation.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Language/Dialect Name": "Dhurwa",
+        "Description": "A Dravidian language spoken by the Dhurwa tribe in Bastar. It is closely related to Gondi and shares cultural significance with the tribal communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Language/Dialect Name": "Kamar",
+        "Description": "A language spoken by the Kamar tribe in the forested regions of Chhattisgarh. It is part of the Indo-Aryan language family and reflects the tribe's unique cultural identity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      },
+      {
+        "Language/Dialect Name": "Baigani",
+        "Description": "A dialect spoken by the Baiga tribe in Chhattisgarh. It is considered a variant of Chhattisgarhi with distinct linguistic features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chhattisgarh"
+      }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Konkani",
+        "Description": "The official language of Goa, Konkani is an Indo-Aryan language spoken by the majority of Goans. It has multiple dialects influenced by historical and cultural interactions, and is written in various scripts including Devanagari, Roman, Kannada, and Malayalam.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Konkani_language"
+      },
+      {
+        "Language/Dialect Name": "Goan Konkani",
+        "Description": "A central dialect of the Konkani macrolanguage, Goan Konkani is primarily spoken in the state of Goa. It includes sub-dialects such as Antruz, Bardeskari, and Saxtti, each reflecting unique regional and cultural nuances.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Konkani_language"
+      },
+      {
+        "Language/Dialect Name": "Portuguese",
+        "Description": "Introduced during the Portuguese colonial rule from 1510 to 1961, Portuguese was the official language of Goa. While its use has declined, it remains spoken among some older Goans and has left a lasting impact on Goan culture, architecture, and cuisine.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Goa"
+      },
+      {
+        "Language/Dialect Name": "Konkani-Portuguese Creole",
+        "Description": "Developed during the colonial era, this creole language emerged from the interaction between Portuguese colonizers and native Konkani speakers. It incorporates elements of both languages and reflects the blending of cultures during that period.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Konkani_language"
+      },
+      {
+        "Language/Dialect Name": "Marathi",
+        "Description": "Spoken by a significant minority in Goa, Marathi has historical ties to the region. It is used in education, media, and literature, and coexists with Konkani in various aspects of Goan society.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Goa"
+      },
+      {
+        "Language/Dialect Name": "Kannada",
+        "Description": "Due to historical interactions and migration, Kannada is spoken by a portion of Goa's population, particularly in areas bordering Karnataka. It has influenced certain Konkani dialects and contributes to the state's linguistic diversity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Goa"
+      },
+      {
+        "Language/Dialect Name": "Hindi",
+        "Description": "Widely understood and spoken in Goa, Hindi is used in education, administration, and media. It serves as a lingua franca, facilitating communication among diverse linguistic communities in the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Goa"
+      },
+      {
+        "Language/Dialect Name": "English",
+        "Description": "Serving as a global lingua franca, English is extensively used in Goa, especially in education, business, and tourism. Its widespread use enhances Goa's accessibility to international visitors and reflects its cosmopolitan character.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Goa"
+      },
+      {
+        "Language/Dialect Name": "Urdu",
+        "Description": "Spoken by a smaller segment of Goa's population, Urdu contributes to the state's linguistic mosaic. It is used in cultural and religious contexts, particularly within the Muslim community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Goa"
+      },
+      {
+        "Language/Dialect Name": "Konkani Muslim Dialects",
+        "Description": "Within the Muslim communities of Goa, unique Konkani dialects have evolved, incorporating Arabic and Persian loanwords. These dialects reflect the cultural and religious influences specific to these communities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Konkani_language"
+      }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Gujarati",
+        "Description": "An Indo-Aryan language and the official language of Gujarat, spoken by over 46 million people. It has multiple dialects and serves as the primary language for the majority of the state's population.",
+        "Reference Link": "https://www.britannica.com/topic/Gujarati-language"
+      },
+      {
+        "Language/Dialect Name": "Kathiawadi",
+        "Description": "A dialect of Gujarati spoken in the Saurashtra region, also known as Kathiawar. It reflects the cultural and linguistic nuances of the area.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Culture_of_Gujarat"
+      },
+      {
+        "Language/Dialect Name": "Surti",
+        "Description": "A dialect prevalent in the southern part of Gujarat, particularly around the city of Surat. It has distinct phonetic and lexical features.",
+        "Reference Link": "https://www.sanskarteaching.com/post/gujarati-language-5-different-accents-in-gujarat"
+      },
+      {
+        "Language/Dialect Name": "Charotari",
+        "Description": "Spoken in the Charotar region of central Gujarat, this dialect showcases unique linguistic characteristics influenced by the local culture.",
+        "Reference Link": "https://www.savaari.com/blog/languages-in-gujarat/"
+      },
+      {
+        "Language/Dialect Name": "Patani",
+        "Description": "A dialect from the Patan district in northern Gujarat, reflecting the area's historical and cultural heritage.",
+        "Reference Link": "https://lisindia.ciil.org/Gujrathi/Gujarathi.html"
+      },
+      {
+        "Language/Dialect Name": "Kutchi",
+        "Description": "A language spoken in the Kutch region, it has its own distinct identity but shares similarities with Sindhi and Gujarati. Kutchi is known for its rich oral traditions and is written using the Gujarati script.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gujarati_languages"
+      },
+      {
+        "Language/Dialect Name": "Bhili",
+        "Description": "A tribal language spoken by the Bhil community in parts of Gujarat. It is part of the Western Indo-Aryan language family and has several dialects within Gujarat.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indo-Aryan_languages"
+      },
+      {
+        "Language/Dialect Name": "Rathwi",
+        "Description": "A language spoken by the Rathwa tribe in Gujarat, reflecting the unique cultural and linguistic heritage of the community.",
+        "Reference Link": "https://byjus.com/question-answer/make-a-list-of-different-languages-spoken-in-gujarat-how-many-dialects-are-there-in/"
+      },
+      {
+        "Language/Dialect Name": "Vasavi",
+        "Description": "Spoken by certain tribal communities in Gujarat, Vasavi contributes to the state's linguistic diversity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gujarati_languages"
+      },
+      {
+        "Language/Dialect Name": "Dangi",
+        "Description": "A dialect spoken by the Dangi community in the southeastern part of Gujarat, influenced by both Gujarati and Marathi languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gujarat"
+      },
+      {
+        "Language/Dialect Name": "Dhodia",
+        "Description": "Spoken by the Dhodia tribe in Gujarat, this language reflects the tribe's distinct cultural identity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gujarat"
+      },
+      {
+        "Language/Dialect Name": "Gamit",
+        "Description": "A tribal language spoken by the Gamit community in Gujarat, contributing to the state's rich linguistic tapestry.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Indo-Aryan_languages"
+      }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Haryanvi",
+        "Description": "Haryanvi is an Indo-Aryan language spoken primarily in the Indian state of Haryana and the territory of Delhi. It is considered part of the Western Hindi dialect group, which also includes Khariboli and Braj. Haryanvi is written in the Devanagari script.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Haryanvi_language"
+      },
+      {
+        "Language/Dialect Name": "Bangru",
+        "Description": "Bangru, also known as Bangaru or Haryanvi, is the most widely spoken dialect in Haryana. It is prevalent in districts such as Rohtak, Sonipat, and Jhajjar, and is considered the standard form of Haryanvi.",
+        "Reference Link": "https://ignited.in/index.php/jasrae/article/download/13543/26890/67188?inline=1"
+      },
+      {
+        "Language/Dialect Name": "Ahirwati",
+        "Description": "Ahirwati is a dialect spoken by the Yadav community in regions including Rewari, Narnaul, and Mahendragarh. It is prevalent in the Ahirwal area and is the second most spoken dialect in the Haryanvi language.",
+        "Reference Link": "https://ignited.in/index.php/jasrae/article/download/13543/26890/67188?inline=1"
+      },
+      {
+        "Language/Dialect Name": "Bagri",
+        "Description": "Bagri is a dialect spoken in the western parts of Haryana, particularly in the Bagar region covering Sirsa, Fatehabad, and parts of Hisar and Bhiwani districts. It shares similarities with Rajasthani and Punjabi languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bagri_language"
+      },
+      {
+        "Language/Dialect Name": "Mewati",
+        "Description": "Mewati is spoken in the Mewat region, encompassing Nuh district, parts of Palwal, and Sohna in Haryana. It is closely related to Rajasthani and has its own distinct linguistic features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mewati_language"
+      },
+      {
+        "Language/Dialect Name": "Deswali",
+        "Description": "Deswali, also known as Desari or Desaru, is spoken in the Deswal region covering districts of Rohtak, Sonipat, and Jhajjar. It is a dialect of Haryanvi with unique phonetic and lexical characteristics.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Outline_of_Haryana"
+      },
+      {
+        "Language/Dialect Name": "Jatu",
+        "Description": "Jatu is a sub-dialect of Deswali, spoken by Jats and Rors in the low-lying khadir floodplains on the western banks of the Yamuna in Panipat, Karnal, Kurukshetra, and Yamunanagar districts.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Outline_of_Haryana"
+      },
+      {
+        "Language/Dialect Name": "Braj Bhasha",
+        "Description": "Braj Bhasha is spoken in the southern districts of Haryana, including Faridabad and Palwal. It is an important dialect with historical significance in literature and poetry.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Outline_of_Haryana"
+      },
+      {
+        "Language/Dialect Name": "Puadhi",
+        "Description": "Puadhi is spoken in the northeastern districts of Haryana, such as Panchkula, Ambala, and parts of Kurukshetra. It shares linguistic features with Punjabi and Hindi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Outline_of_Haryana"
+      },
+      {
+        "Language/Dialect Name": "Rangri",
+        "Description": "Rangri is a dialect of Haryanvi used by Haryanvi-Muslim migrants living in Pakistan. It reflects the linguistic heritage of the Ranghar community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Outline_of_Haryana"
+      },
+      {
+        "Language/Dialect Name": "Sansi",
+        "Description": "Sansi is a distinct language spoken by the Sansi nomads in Haryana. It has influences from Rajasthani, Punjabi, Haryanvi, and Hindi languages, reflecting the diverse cultural interactions of the community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Outline_of_Haryana"
+      },
+      {
+        "Language/Dialect Name": "Rathi",
+        "Description": "Rathi is spoken in central Sirsa district and northern Fatehabad district. It is a dialect with unique linguistic features within the Haryanvi language spectrum.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Outline_of_Haryana"
+      },
+      {
+        "Language/Dialect Name": "Malwai",
+        "Description": "Malwai is spoken in the northern Sirsa district, including areas like Mandi Dabwali, Kalanwali, and Odhan. It is also spoken in parts of Fatehabad district and shares features with Punjabi dialects.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Outline_of_Haryana"
+      }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Kangri",
+        "Description": "Spoken primarily in the Kangra district, Kangri is a Western Pahari language. It shares linguistic features with neighboring dialects and reflects the cultural heritage of the Kangra region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kangri_language"
+      },
+      {
+        "Language/Dialect Name": "Mandeali",
+        "Description": "Native to the Mandi district, Mandeali is another Western Pahari language. It has several dialects and is integral to the local identity of the Mandi region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mandeali_language"
+      },
+      {
+        "Language/Dialect Name": "Kullui",
+        "Description": "Spoken in the Kullu Valley, Kullui is a dialect of the Western Pahari languages. It reflects the unique cultural and geographical characteristics of the Kullu region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kullui_language"
+      },
+      {
+        "Language/Dialect Name": "Chambeali",
+        "Description": "Associated with the Chamba district, Chambeali is a Western Pahari language. It has its own distinct linguistic features, setting it apart from neighboring dialects.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chambeali_language"
+      },
+      {
+        "Language/Dialect Name": "Bilaspuri",
+        "Description": "Also known as Kahluri, this dialect is spoken in the Bilaspur district. It is part of the Western Pahari group and reflects the local traditions of Bilaspur.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bilaspuri_language"
+      },
+      {
+        "Language/Dialect Name": "Mahasu Pahari",
+        "Description": "Predominantly spoken in the Shimla and Solan districts, Mahasu Pahari comprises several sub-dialects. It is an essential part of the cultural fabric of the Mahasu region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mahasu_Pahari_language"
+      },
+      {
+        "Language/Dialect Name": "Sirmauri",
+        "Description": "Used in the Sirmaur district, Sirmauri is a dialect of the Western Pahari languages. It showcases the linguistic diversity within Himachal Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sirmauri_language"
+      },
+      {
+        "Language/Dialect Name": "Pangwali",
+        "Description": "Spoken by the inhabitants of the Pangi Valley in the Chamba district, Pangwali is a lesser-known dialect. It reflects the unique cultural identity of the Pangi region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pangwali_language"
+      },
+      {
+        "Language/Dialect Name": "Gaddi",
+        "Description": "Used by the Gaddi community, primarily in the Bharmour region of Chamba district, this dialect is part of the Western Pahari group. It is closely associated with the nomadic lifestyle of the Gaddi people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gaddi_language"
+      },
+      {
+        "Language/Dialect Name": "Kinnauri",
+        "Description": "Spoken in the Kinnaur district, Kinnauri belongs to the West Himalayish branch of the Sino-Tibetan language family. It has several dialects and is integral to the cultural identity of the Kinnauri people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kinnauri_language"
+      },
+      {
+        "Language/Dialect Name": "Lahauli",
+        "Description": "Used in the Lahaul region, Lahauli is part of the West Himalayish languages. It reflects the unique cultural and geographical characteristics of the Lahaul area.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lahauli_language"
+      },
+      {
+        "Language/Dialect Name": "Pattani",
+        "Description": "Also known as Manchad, this language is spoken in the Lahaul region. It is part of the West Himalayish branch and is considered endangered due to a declining number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pattani_language"
+      },
+      {
+        "Language/Dialect Name": "Kanashi",
+        "Description": "Spoken exclusively in the Malana village of Kullu district, Kanashi is an isolated language with unique linguistic features. It is considered endangered due to its limited number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kanashi_language"
+      }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Santali",
+        "Description": "An Austroasiatic language spoken by the Santal tribe, Santali is one of the prominent tribal languages in Jharkhand. It has its own script, Ol Chiki, and a rich tradition of oral literature, including folklore and songs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Santali_language"
+      },
+      {
+        "Language/Dialect Name": "Mundari",
+        "Description": "Spoken by the Munda tribe, Mundari is an Austroasiatic language with a significant presence in Jharkhand. It shares linguistic features with other Munda languages and is integral to the cultural practices of the Munda people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mundari_language"
+      },
+      {
+        "Language/Dialect Name": "Ho",
+        "Description": "Another Austroasiatic language, Ho is spoken by the Ho tribe primarily in the West Singhbhum district. The language has its own script, Warang Citi, and a rich oral tradition.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ho_language"
+      },
+      {
+        "Language/Dialect Name": "Kurukh",
+        "Description": "A Dravidian language spoken by the Oraon tribe, Kurukh is prevalent in Jharkhand. Efforts have been made to preserve and promote the language through educational initiatives and literature.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kurukh_language"
+      },
+      {
+        "Language/Dialect Name": "Khortha",
+        "Description": "An Indo-Aryan language, Khortha is widely spoken in the northern districts of Jharkhand. It serves as a lingua franca among various communities and has a rich collection of folk songs and stories.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khortha_language"
+      },
+      {
+        "Language/Dialect Name": "Nagpuri",
+        "Description": "Also known as Sadri, Nagpuri is an Indo-Aryan language spoken in the central region of Jharkhand. It has a significant body of folk literature and is used in local media and education.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagpuri_language"
+      },
+      {
+        "Language/Dialect Name": "Kurmali",
+        "Description": "Spoken by the Kudumi Mahato community, Kurmali is an Indo-Aryan language with roots in Jharkhand. It shares similarities with Bengali and Odia and is used in cultural and religious contexts.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kurmali_language"
+      },
+      {
+        "Language/Dialect Name": "Bhumij",
+        "Description": "An Austroasiatic language spoken by the Bhumij tribe, it is closely related to Mundari and shares cultural significance within the tribal communities of Jharkhand.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhumij_language"
+      },
+      {
+        "Language/Dialect Name": "Kharia",
+        "Description": "Belonging to the Austroasiatic family, Kharia is spoken by the Kharia tribe in Jharkhand. The language has distinct phonological and grammatical features and is used in daily communication and rituals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kharia_language"
+      },
+      {
+        "Language/Dialect Name": "Malto",
+        "Description": "A Dravidian language spoken by the Malto tribe, also known as Paharia, primarily in the Rajmahal hills. It is considered endangered, with efforts underway to document and revitalize it.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malto_language"
+      },
+      {
+        "Language/Dialect Name": "Birhor",
+        "Description": "A highly endangered Munda language spoken by the Birhor tribe, known for their nomadic lifestyle. The language is at risk of extinction, with very few speakers remaining.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Birhor_language"
+      },
+      {
+        "Language/Dialect Name": "Asuri",
+        "Description": "An Austroasiatic language spoken by the Asur tribe in Jharkhand. It is considered endangered, with efforts being made to preserve its oral traditions and promote its use among younger generations.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Asuri_language"
+      }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Kannada",
+        "Description": "The official language of Karnataka, Kannada is a Dravidian language with a rich literary history dating back to the 9th century. It has several dialects influenced by various regions within the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kannada"
+      },
+      {
+        "Language/Dialect Name": "Mysore Kannada",
+        "Description": "A dialect of Kannada spoken predominantly in the Mysore and Bangalore regions. It is considered the standard form of Kannada and is widely used in education and media.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kannada_dialects"
+      },
+      {
+        "Language/Dialect Name": "Dharwad Kannada",
+        "Description": "Spoken in the northern districts of Karnataka, particularly in Dharwad, this dialect has unique phonetic and lexical features distinguishing it from other Kannada dialects.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kannada_dialects"
+      },
+      {
+        "Language/Dialect Name": "Mangalore Kannada",
+        "Description": "Also known as Kundagannada, this dialect is prevalent in the coastal city of Mangalore and surrounding areas. It incorporates influences from Tulu and Konkani due to the region's linguistic diversity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kannada_dialects"
+      },
+      {
+        "Language/Dialect Name": "Gulbarga Kannada",
+        "Description": "Found in the northeastern parts of Karnataka, especially in Gulbarga, this dialect exhibits influences from Marathi and Urdu, reflecting the area's historical interactions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kannada_dialects"
+      },
+      {
+        "Language/Dialect Name": "Tulu",
+        "Description": "A Dravidian language spoken mainly in the coastal districts of Dakshina Kannada and Udupi. Tulu has its own rich oral traditions and is known for its distinct phonology and grammar.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tulu_language"
+      },
+      {
+        "Language/Dialect Name": "Kodava",
+        "Description": "Also known as Kodava Takk, this language is spoken by the Kodava community in the Kodagu district. It has its own script and is notable for its unique syntactic and phonological characteristics.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kodava_language"
+      },
+      {
+        "Language/Dialect Name": "Konkani",
+        "Description": "Spoken by communities in the coastal regions of Karnataka, particularly in Uttara Kannada and Udupi districts. Konkani in Karnataka has several dialects and is written in multiple scripts, including Devanagari and Kannada.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Konkani_language"
+      },
+      {
+        "Language/Dialect Name": "Beary",
+        "Description": "A dialect spoken by the Beary Muslim community in the coastal districts. It is a mix of Tulu, Malayalam, and Arabic, reflecting the community's diverse cultural heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Beary_bashe"
+      },
+      {
+        "Language/Dialect Name": "Havyaka Kannada",
+        "Description": "A dialect used by the Havyaka Brahmin community, primarily in the Western Ghats region. It retains many archaic features of Kannada and has a distinct vocabulary.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Havyaka_Brahmins"
+      },
+      {
+        "Language/Dialect Name": "Arebhashe",
+        "Description": "Also known as Gowda Kannada, this dialect is spoken by the Gowda community in the Kodagu and Dakshina Kannada districts. It serves as a link between Kannada and Tulu.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Arebhashe_dialect"
+      },
+      {
+        "Language/Dialect Name": "Sankethi",
+        "Description": "A dialect spoken by the Sankethi community, who migrated from Tamil Nadu to Karnataka. It blends elements of Kannada, Tamil, and Sanskrit.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sankethi_language"
+      },
+      {
+        "Language/Dialect Name": "Badaga",
+        "Description": "A Dravidian language spoken by the Badaga community in the Nilgiri Hills, straddling the border between Karnataka and Tamil Nadu. It has its own script and a rich oral literature.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Badaga_language"
+      },
+      {
+        "Language/Dialect Name": "Lambani",
+        "Description": "Spoken by the Lambani (Banjara) community, this language has roots in Rajasthani and has incorporated elements from Kannada and Telugu due to migration.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lambani_language"
+      },
+      {
+        "Language/Dialect Name": "Koraga",
+        "Description": "A Dravidian language spoken by the Koraga tribal community in the coastal districts. It is considered endangered due to the declining number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Koraga_language"
+      },
+      {
+        "Language/Dialect Name": "Siddi",
+        "Description": "The Siddi community, of African descent, resides in parts of Karnataka and speaks a dialect that is a blend of Konkani, Kannada, and their ancestral languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Siddi"
+      },
+      {
+        "Language/Dialect Name": "Irula",
+        "Description": "Spoken by the Irula tribal community in the southern regions of Karnataka and neighboring states. It is a Dravidian language with limited documentation.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Irula_language"
+      },
+      {
+        "Language/Dialect Name": "Holaya",
+        "Description": "A dialect spoken by the Holaya community in Karnataka. It is closely related to Kannada but has distinct phonetic and lexical features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Holaya_language"
+      },
+      {
+        "Language/Dialect Name": "Sholaga",
+        "Description": "Spoken by the Sholaga tribal community in the southern parts of Karnataka. It is a Dravidian language with unique linguistic traits.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sholaga_language"
+      }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Malayalam",
+        "Description": "The official language of Kerala, Malayalam is a Dravidian language spoken by over 35 million people. It has its own script and has evolved from Tamil, incorporating words from Sanskrit, Portuguese, and English.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malayalam"
+      },
+      {
+        "Language/Dialect Name": "Kasaragod Dialect",
+        "Description": "Spoken in the northernmost district of Kerala, this dialect exhibits influences from Kannada due to its proximity to Karnataka.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malayalam"
+      },
+      {
+        "Language/Dialect Name": "North Malabar Dialect",
+        "Description": "Predominant in the Kannur and Kozhikode districts, this dialect features unique phonological and lexical variations distinct from standard Malayalam.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malayalam"
+      },
+      {
+        "Language/Dialect Name": "Wayanad Dialect",
+        "Description": "Used in the Wayanad district, this dialect has distinct intonation patterns and vocabulary influenced by the tribal communities in the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malayalam"
+      },
+      {
+        "Language/Dialect Name": "Beary",
+        "Description": "Spoken by the Muslim community in the coastal areas of Kerala, Beary is a dialect that has significant influences from Arabic and Kannada.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Beary_dialect"
+      },
+      {
+        "Language/Dialect Name": "Ravula",
+        "Description": "A tribal dialect spoken by the Ravula community, primarily in the Wayanad district. It has its own unique linguistic features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ravula_language"
+      },
+      {
+        "Language/Dialect Name": "Paniya",
+        "Description": "Spoken by the Paniya tribe in Kerala, this Dravidian language is unique to the tribal communities in the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Paniya_language"
+      },
+      {
+        "Language/Dialect Name": "Kurumba",
+        "Description": "Used by the Kurumba tribe, this language is part of the Dravidian family and is spoken in the hilly regions of Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kurumba_language"
+      },
+      {
+        "Language/Dialect Name": "Kadar",
+        "Description": "A Dravidian language spoken by the Kadar tribe in Kerala. It is considered endangered due to the declining number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kadar_language"
+      },
+      {
+        "Language/Dialect Name": "Malapandaram",
+        "Description": "Spoken by the Malapandaram tribe, this language is part of the Dravidian family and is unique to Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malapandaram_language"
+      },
+      {
+        "Language/Dialect Name": "Malaryan",
+        "Description": "A Dravidian language spoken by the Malaryan tribe in Kerala. It has distinct linguistic features that set it apart from other regional languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malaryan_language"
+      },
+      {
+        "Language/Dialect Name": "Malavedan",
+        "Description": "Used by the Malavedan tribe, this language is part of the Dravidian family and is spoken in specific regions of Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malavedan_language"
+      },
+      {
+        "Language/Dialect Name": "Paliyan",
+        "Description": "Spoken by the Paliyan tribe, this Dravidian language is unique to the tribal communities in Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Paliyan_language"
+      },
+      {
+        "Language/Dialect Name": "Aranadan",
+        "Description": "A Dravidian language spoken by the Aranadan tribe in Kerala. It is considered endangered due to the declining number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Aranadan_language"
+      },
+      {
+        "Language/Dialect Name": "Mannan",
+        "Description": "Used by the Mannan tribe, this language is part of the Dravidian family and is spoken in specific regions of Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mannan_language"
+      },
+      {
+        "Language/Dialect Name": "Irula",
+        "Description": "A Dravidian language spoken by the Irula tribe in Kerala. It has distinct linguistic features that set it apart from other regional languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Irula_language"
+      },
+      {
+        "Language/Dialect Name": "Kanikkaran",
+        "Description": "Spoken by the Kanikkaran tribe, this language is part of the Dravidian family and is unique to Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kanikkaran_language"
+      },
+      {
+        "Language/Dialect Name": "Betta Kurumba",
+        "Description": "A dialect of the Kurumba language spoken by the Betta Kurumba tribe in Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Betta_Kurumba_language"
+      },
+      {
+        "Language/Dialect Name": "Muthuvan",
+        "Description": "Used by the Muthuvan tribe, this language is part of the Dravidian family and is spoken in specific regions of Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Muthuvan_language"
+      },
+      {
+        "Language/Dialect Name": "Yerukula",
+        "Description": "A Dravidian language spoken by the Yerukula tribe in Kerala. It has distinct linguistic features that set it apart from other regional languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Yerukula_language"
+      },
+      {
+        "Language/Dialect Name": "Kodava",
+        "Description": "Spoken by the Kodava community, this language is part of the Dravidian family and is unique to Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kodava_language"
+      },
+      {
+        "Language/Dialect Name": "Jenu Kurumba",
+        "Description": "A dialect of the Kurumba language spoken by the Jenu Kurumba tribe in Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jenu_Kurumba_language"
+      },
+      {
+        "Language/Dialect Name": "Mullu Kurumba",
+        "Description": "A dialect of the Kurumba language spoken by the Mullu Kurumba tribe in Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mullu_Kurumba_language"
+      },
+      {
+        "Language/Dialect Name": "Urali",
+        "Description": "A Dravidian language spoken by the Urali tribe in Kerala. It has distinct linguistic features that set it apart from other regional languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Urali_language"
+      },
+      {
+        "Language/Dialect Name": "Wayanad Chetti",
+        "Description": "Spoken by the Wayanad Chetti community, this language is part of the Dravidian family and is unique to Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Wayanad_Chetti_language"
+      },
+      {
+        "Language/Dialect Name": "Korra Koraga",
+        "Description": "A Dravidian language spoken by the Korra Koraga tribe in Kerala. It is considered endangered due to the declining number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Korra_Koraga_language"
+      },
+      {
+        "Language/Dialect Name": "Mudu Koraga",
+        "Description": "A dialect of the Koraga language spoken by the Mudu Koraga tribe in Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mudu_Koraga_language"
+      },
+      {
+        "Language/Dialect Name": "Bellari",
+        "Description": "A Dravidian language spoken by the Bellari community in Kerala. It has distinct linguistic features that set it apart from other regional languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bellari_language"
+      },
+      {
+        "Language/Dialect Name": "Kudiya",
+        "Description": "Spoken by the Kudiya tribe, this language is part of the Dravidian family and is unique to Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kudiya_language"
+      },
+      {
+        "Language/Dialect Name": "Tulu",
+        "Description": "A Dravidian language spoken by the Tuluva community in the northern regions of Kerala. It has its own script and rich literary tradition.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tulu_language"
+      },
+      {
+        "Language/Dialect Name": "Mala Malasar",
+        "Description": "A Dravidian language spoken by the Mala Malasar tribe in Kerala. It is considered endangered due to the declining number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mala_Malasar_language"
+      },
+      {
+        "Language/Dialect Name": "Malasar",
+        "Description": "Spoken by the Malasar tribe, this language is part of the Dravidian family and is unique to Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malasar_language"
+      },
+      {
+        "Language/Dialect Name": "Thachanadan",
+        "Description": "A Dravidian language spoken by the Thachanadan tribe in Kerala. It has distinct linguistic features that set it apart from other regional languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thachanadan_language"
+      },
+      {
+        "Language/Dialect Name": "Ullatan",
+        "Description": "Used by the Ullatan tribe, this language is part of the Dravidian family and is spoken in specific regions of Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ullatan_language"
+      },
+      {
+        "Language/Dialect Name": "Kalanadi",
+        "Description": "A Dravidian language spoken by the Kalanadi tribe in Kerala. It is considered endangered due to the declining number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kalanadi_language"
+      },
+      {
+        "Language/Dialect Name": "Kumbaran",
+        "Description": "Spoken by the Kumbaran tribe, this language is part of the Dravidian family and is unique to Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kumbaran_language"
+      },
+      {
+        "Language/Dialect Name": "Kunduvadi",
+        "Description": "A Dravidian language spoken by the Kunduvadi tribe in Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kunduvadi_language"
+      }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Bundeli",
+        "Description": "Bundeli is an Indo-Aryan language spoken in the Bundelkhand region, encompassing northern Madhya Pradesh and parts of Uttar Pradesh. It is considered an Apabhramsa (corrupted form) of Shauraseni Prakrit and was termed 'Bundeli' by George Grierson. Predominant in districts like Tikamgarh, Niwari, Sagar, Panna, Damoh, Chhatarpur, and Narsinghpur, Bundeli reflects the rich cultural heritage of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bundeli_language"
+      },
+      {
+        "Language/Dialect Name": "Bagheli",
+        "Description": "Bagheli, an Eastern Hindi language, is prevalent in the Baghelkhand region, covering districts such as Rewa, Satna, Singrauli, Shahdol, Umaria, and Sidhi in Madhya Pradesh. Scholars consider Bagheli a modified version of Ardha-Magadhi, with its parental language being Awadhi. It is also known by names like Baghelkhandi, Rimahi, and Rivai.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bagheli_language"
+      },
+      {
+        "Language/Dialect Name": "Malvi",
+        "Description": "Malvi is spoken in the Malwa region of western Madhya Pradesh, including cities like Indore, Ujjain, and Ratlam. It belongs to the Indo-Aryan language family and has several dialects, such as Ujjaini, Rajawadi, Umathwadi, and Sondhwadi. The language reflects the cultural amalgamation of the Malwa plateau.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malvi_language"
+      },
+      {
+        "Language/Dialect Name": "Nimadi",
+        "Description": "Nimadi is spoken in the Nimar region of western Madhya Pradesh, particularly in districts like Khargone, Khandwa, and Barwani. As an Indo-Aryan language, it shares similarities with Malvi and reflects the linguistic diversity of the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nimadi_language"
+      },
+      {
+        "Language/Dialect Name": "Bhili",
+        "Description": "Bhili is an Indo-Aryan language spoken by the Bhil tribe in western Madhya Pradesh, especially in districts like Dhar, Jhabua, and Khargone. It has several dialects and is part of the larger Bhil language group, contributing to the tribal linguistic heritage of the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhil_languages"
+      },
+      {
+        "Language/Dialect Name": "Gondi",
+        "Description": "Gondi is a Dravidian language spoken by the Gond tribe, primarily in the southern Satpura highlands of Madhya Pradesh. With over a million speakers in the state, it is prevalent in districts like Mandla, Dindori, Balaghat, Chhindwara, and Betul. Gondi reflects the rich tribal culture and traditions of the Gonds.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gondi_language"
+      },
+      {
+        "Language/Dialect Name": "Korku",
+        "Description": "Korku is a Munda language spoken by the Korku tribe in the central highlands of Madhya Pradesh, notably in districts such as Betul, Chhindwara, and Hoshangabad. The language contributes to the state's linguistic diversity and showcases the cultural heritage of the Korku people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Korku_language"
+      },
+      {
+        "Language/Dialect Name": "Kalto (Nahali)",
+        "Description": "Kalto, also known as Nahali, is an isolate language spoken by a small population in the southeastern part of Madhya Pradesh, particularly in Burhanpur district. Its unique linguistic features distinguish it from other regional languages, highlighting the state's diverse linguistic landscape.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kalto_language"
+      },
+      {
+        "Language/Dialect Name": "Pardhan",
+        "Description": "Pardhan is a dialect of the Gondi language, spoken by the Pardhan community, traditionally known as bards and storytellers among the Gonds. Predominantly found in districts like Mandla and Dindori, Pardhan holds cultural significance in preserving oral traditions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pardhan_people"
+      },
+      {
+        "Language/Dialect Name": "Baiga",
+        "Description": "The Baiga tribe, residing in districts such as Dindori and Mandla, speaks a dialect closely related to Gondi. This dialect reflects the unique cultural practices and traditions of the Baiga community, one of the prominent tribal groups in Madhya Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Baiga_people"
+      }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Marathi",
+        "Description": "The official language of Maharashtra, Marathi is an Indo-Aryan language spoken by approximately 83 million people. It has a rich literary tradition and serves as the primary means of communication across the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Marathi_language"
+      },
+      {
+        "Language/Dialect Name": "Varhadi",
+        "Description": "A dialect of Marathi spoken in the Vidarbha region of Maharashtra. It is characterized by distinct phonetic features, such as the substitution of the palatal approximant 'y' for the retroflex lateral approximant 'ḷ', making it unique within the Marathi dialect continuum.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Marathi_language#Varhadi"
+      },
+      {
+        "Language/Dialect Name": "Malvani",
+        "Description": "A dialect of Konkani with significant Marathi influence, Malvani is spoken in the Sindhudurg district and some parts of Ratnagiri district in Maharashtra. It reflects the cultural and linguistic amalgamation of the Konkan region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malvani_dialect"
+      },
+      {
+        "Language/Dialect Name": "Konkani",
+        "Description": "An Indo-Aryan language spoken along the Konkan coast, including parts of Maharashtra. It has several dialects and is known for its rich oral traditions and literature.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Konkani_language"
+      },
+      {
+        "Language/Dialect Name": "Ahirani",
+        "Description": "A dialect spoken in the Khandesh region of Maharashtra, particularly in Jalgaon and Dhule districts. Ahirani has its own distinct vocabulary and is influenced by neighboring languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ahirani_dialect"
+      },
+      {
+        "Language/Dialect Name": "Dangi",
+        "Description": "Spoken by the Dangi tribal community in the Dang region, which spans parts of Maharashtra and Gujarat. This dialect reflects the unique cultural heritage of the Dangi people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dang-Dhanki_language"
+      },
+      {
+        "Language/Dialect Name": "Warli",
+        "Description": "The language of the Warli tribe, primarily residing in the Thane district of Maharashtra. Warli is part of the Indo-Aryan language family and is known for its association with the tribe's famous mural paintings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Varli_language"
+      },
+      {
+        "Language/Dialect Name": "Bhili",
+        "Description": "A Western Indo-Aryan language spoken by the Bhil tribal community in parts of Maharashtra. Bhili has several dialects and is known for its rich folklore and oral traditions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhil_languages"
+      },
+      {
+        "Language/Dialect Name": "Gondi",
+        "Description": "A Dravidian language spoken by the Gond tribe in the Vidarbha region of Maharashtra. Gondi is notable for its oral literature and is considered vulnerable due to declining numbers of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gondi_language"
+      },
+      {
+        "Language/Dialect Name": "Korku",
+        "Description": "A member of the Austroasiatic language family, Korku is spoken by the Korku tribe in the Melghat region of Maharashtra. The language is recognized for its unique phonetic and grammatical structures.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Korku_language"
+      },
+      {
+        "Language/Dialect Name": "Pawari",
+        "Description": "Also known as Pawri or Pawari, this Bhili dialect is spoken by the Pawra tribe in the Satpura range of Maharashtra. It has distinct linguistic features that set it apart from other Bhili dialects.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pawari_language"
+      },
+      {
+        "Language/Dialect Name": "Katkari",
+        "Description": "A dialect spoken by the Katkari tribe, primarily found in the Raigad and Thane districts of Maharashtra. Katkari is part of the Indo-Aryan language family and is considered endangered.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Katkari_language"
+      },
+      {
+        "Language/Dialect Name": "Vadvali",
+        "Description": "A dialect of Marathi spoken by the agricultural communities in the Vasai-Virar region. Vadvali has been influenced by Portuguese due to historical colonial presence.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Marathi-Konkani_languages#Phudagi"
+      },
+      {
+        "Language/Dialect Name": "Samavedi",
+        "Description": "Spoken in the interiors of the Vasai-Virar region, this dialect has its roots in the Samavedi Brahmin community and exhibits influences from both Marathi and Konkani.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Marathi-Konkani_languages#Samavedi"
+      },
+      {
+        "Language/Dialect Name": "Andh",
+        "Description": "A Dravidian language spoken by the Andh tribal community in parts of Maharashtra. It is considered vulnerable, with efforts underway to document and preserve it.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Andh_language"
+      },
+      {
+        "Language/Dialect Name": "Kolami",
+        "Description": "A Central Dravidian language spoken by the Kolam tribe in the Yavatmal and Chandrapur districts of Maharashtra. Kolami is known for its unique syntactic structures and is considered endangered.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kolami_language"
+      },
+      {
+        "Language/Dialect Name": "Naiki",
+        "Description": "Also known as Naiki, this Central Dravidian language is spoken by a small population in Maharashtra. It is closely related to the Kolami language.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Naiki_language"
+      }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Meitei (Manipuri)",
+        "Description": "Meitei, also known as Manipuri, is the official language and lingua franca of Manipur. It belongs to the Tibeto-Burman language family and is spoken predominantly in the Imphal Valley. Recognized as a scheduled language in India, Meitei has a rich literary tradition and serves as a unifying medium among various ethnic groups in the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meitei_language"
+      },
+      {
+        "Language/Dialect Name": "Tangkhul",
+        "Description": "Tangkhul is a Sino-Tibetan language spoken by the Tangkhul Naga tribe in the Ukhrul district of Manipur. It plays a significant role in the cultural and social identity of the Tangkhul community, with a rich oral tradition encompassing folklore, songs, and indigenous knowledge.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tangkhulic_languages"
+      },
+      {
+        "Language/Dialect Name": "Paite",
+        "Description": "Paite is a Kuki-Chin language spoken by the Paite community in the Churachandpur district of Manipur. It holds cultural importance through its oral literature, including folktales, songs, and proverbs, reflecting the community's heritage and traditions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Paite_language"
+      },
+      {
+        "Language/Dialect Name": "Mao",
+        "Description": "Mao is a Sino-Tibetan language spoken by the Mao Naga tribe in the Senapati district of Manipur. It is integral to the tribe's cultural practices, oral traditions, and social interactions, preserving their unique identity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mao_language"
+      },
+      {
+        "Language/Dialect Name": "Thadou",
+        "Description": "Thadou is a Kuki-Chin language spoken by the Thadou people across various districts in Manipur. It serves as a vital aspect of their cultural expression, encompassing traditional songs, stories, and rituals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thadou_language"
+      },
+      {
+        "Language/Dialect Name": "Hmar",
+        "Description": "Hmar is a Kuki-Chin language spoken by the Hmar tribe in the southern regions of Manipur. The language is central to the tribe's cultural identity, with a rich collection of folk songs, dances, and oral narratives.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hmar_language"
+      },
+      {
+        "Language/Dialect Name": "Rongmei",
+        "Description": "Rongmei, also known as Kabui, is a Sino-Tibetan language spoken by the Rongmei Naga tribe in the Tamenglong district. It holds cultural significance through its oral traditions, including myths, legends, and customary laws.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rongmei_language"
+      },
+      {
+        "Language/Dialect Name": "Zeme",
+        "Description": "Zeme is a Sino-Tibetan language spoken by the Zeme Naga tribe in the Tamenglong district. It is crucial to the tribe's cultural heritage, encompassing traditional narratives, songs, and community rituals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Zeme_language"
+      },
+      {
+        "Language/Dialect Name": "Liangmai",
+        "Description": "Liangmai is a Sino-Tibetan language spoken by the Liangmai Naga tribe in parts of Manipur. It plays a significant role in preserving the tribe's oral traditions, folklore, and cultural practices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Liangmai_language"
+      },
+      {
+        "Language/Dialect Name": "Maram",
+        "Description": "Maram is a Sino-Tibetan language spoken by the Maram Naga tribe in the Senapati district. The language is integral to the tribe's cultural identity, with rich oral traditions and customary practices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Maram_language"
+      },
+      {
+        "Language/Dialect Name": "Maring",
+        "Description": "Maring is a Sino-Tibetan language spoken by the Maring Naga tribe in the Tengnoupal district. It holds cultural importance through its oral literature, traditional songs, and rituals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Maring_language"
+      },
+      {
+        "Language/Dialect Name": "Anal",
+        "Description": "Anal is a Sino-Tibetan language spoken by the Anal Naga tribe in the Chandel district. The language is central to the tribe's cultural expressions, including folk tales, songs, and dances.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Anal_language"
+      },
+      {
+        "Language/Dialect Name": "Mizo (Lushai)",
+        "Description": "Mizo, also known as Lushai, is a Kuki-Chin language spoken by the Mizo community in parts of Manipur. It is significant in the community's cultural and social life, with a rich tradition of songs, stories, and communal activities.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_language"
+      },
+      {
+        "Language/Dialect Name": "Vaiphei",
+        "Description": "Vaiphei is a Kuki-Chin language spoken by the Vaiphei tribe in the Churachandpur district. It plays a vital role in the tribe's cultural heritage, encompassing oral literature, traditional songs, and social customs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Vaiphei_language"
+      },
+      {
+        "Language/Dialect Name": "Kom",
+        "Description": "Kom is a Kuki-Chin language spoken by the Kom tribe in the Churachandpur and Kangpokpi districts. The language is integral to the tribe's cultural identity, with rich oral traditions and customary practices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kom_language"
+      }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Khasi",
+        "Description": "Spoken by the Khasi people, this language belongs to the Austroasiatic family and is one of the state's official languages. It has several dialects, including Sohra and Nongkrem.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khasi_language"
+      },
+      {
+        "Language/Dialect Name": "Garo",
+        "Description": "Used by the Garo tribe, this language is part of the Tibeto-Burman family and is also an official language of Meghalaya. Dialects include A·we, Chisak, and Atong.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Garo_language"
+      },
+      {
+        "Language/Dialect Name": "Pnar (Jaintia)",
+        "Description": "Spoken by the Pnar people in the Jaintia Hills, this language is closely related to Khasi and reflects the cultural identity of the Jaintia community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pnar_language"
+      },
+      {
+        "Language/Dialect Name": "War",
+        "Description": "A dialect of Khasi, War is spoken by communities in the southern slopes of the Khasi and Jaintia Hills. It is known for its distinct phonetic and lexical features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/War_language_(India)"
+      },
+      {
+        "Language/Dialect Name": "Biate",
+        "Description": "Belonging to the Kuki-Chin branch of the Tibeto-Burman family, Biate is spoken by the Biate community in parts of Meghalaya and Assam.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Biate_language"
+      },
+      {
+        "Language/Dialect Name": "Hajong",
+        "Description": "This Indo-Aryan language is spoken by the Hajong people residing along the Assam-Meghalaya border. It serves as a lingua franca among various communities in the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hajong_language"
+      },
+      {
+        "Language/Dialect Name": "Rabha",
+        "Description": "Part of the Tibeto-Burman family, Rabha is used by the Rabha tribe in western Meghalaya and neighboring Assam. The language has several dialects, including Rongdani and Maituri.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rabha_language"
+      },
+      {
+        "Language/Dialect Name": "Maram",
+        "Description": "A lesser-known dialect of Khasi, Maram is spoken by a small community in the West Khasi Hills, reflecting unique linguistic traits.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Maram_language"
+      },
+      {
+        "Language/Dialect Name": "Lyngngam",
+        "Description": "Considered a transitional dialect between Khasi and Garo, Lyngngam is spoken by the Lyngngam people in the western part of the Khasi Hills.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lyngngam_language"
+      },
+      {
+        "Language/Dialect Name": "Atong",
+        "Description": "A dialect of Garo, Atong is used by the Atong community in the South Garo Hills. It has distinct linguistic features setting it apart from other Garo dialects.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Atong_language_(Sino-Tibetan)"
+      },
+      {
+        "Language/Dialect Name": "Megam",
+        "Description": "Also known as Lyngngam, this language is spoken by the Megam people in the West Khasi Hills and shares features with both Khasi and Garo.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Megam_language"
+      },
+      {
+        "Language/Dialect Name": "Koch",
+        "Description": "Belonging to the Sino-Tibetan family, Koch is spoken by the Koch community in parts of Meghalaya and Assam. It has several dialects, including Harigaya and Wanang.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Koch_language"
+      },
+      {
+        "Language/Dialect Name": "Ruga",
+        "Description": "A lesser-known dialect of Garo, Ruga is spoken by the Ruga community in the South Garo Hills, maintaining unique linguistic characteristics.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ruga_language"
+      }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Mizo (Duhlian)",
+        "Description": "The official language of Mizoram, Mizo belongs to the Kuki-Chin branch of the Tibeto-Burman language family. It serves as the lingua franca among various tribes in the state and is written using the Roman script.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mizo_language"
+      },
+      {
+        "Language/Dialect Name": "Hmar",
+        "Description": "Spoken by the Hmar tribe, this language is part of the Kuki-Chin branch of the Tibeto-Burman family. The Hmar community is spread across Mizoram, Manipur, and Assam, and the language has several dialects.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hmar_language"
+      },
+      {
+        "Language/Dialect Name": "Lai (Pawi)",
+        "Description": "The Lai people, primarily residing in southern Mizoram, speak this language. Lai is also part of the Kuki-Chin branch and has its own distinct linguistic features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lai_language_(India)"
+      },
+      {
+        "Language/Dialect Name": "Mara",
+        "Description": "Spoken by the Mara tribe in the southeastern part of Mizoram, Mara is another Kuki-Chin language. The Mara Autonomous District Council oversees the preservation and promotion of this language.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mara_language"
+      },
+      {
+        "Language/Dialect Name": "Paite",
+        "Description": "The Paite language is spoken by the Paite community in Mizoram and neighboring states. It is closely related to other Kuki-Chin languages and has its own unique dialectal variations.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Paite_language"
+      },
+      {
+        "Language/Dialect Name": "Ralte",
+        "Description": "A lesser-known language spoken by the Ralte tribe in Mizoram. It is part of the Kuki-Chin group and is considered endangered due to a declining number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ralte_language"
+      },
+      {
+        "Language/Dialect Name": "Thadou",
+        "Description": "Spoken by the Thadou tribe, this language is prevalent in parts of Mizoram and Manipur. Thadou is a Kuki-Chin language with rich oral traditions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thadou_language"
+      },
+      {
+        "Language/Dialect Name": "Zo",
+        "Description": "The Zo people, residing in parts of Mizoram, speak this language. Zo is closely related to other Kuki-Chin languages and shares cultural ties with them.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Zo_people"
+      },
+      {
+        "Language/Dialect Name": "Chakma",
+        "Description": "The Chakma community in western Mizoram speaks this Indo-Aryan language. While distinct from the Kuki-Chin languages, Chakma has been influenced by neighboring languages and has its own script.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chakma_language"
+      },
+      {
+        "Language/Dialect Name": "Bawm",
+        "Description": "Spoken by the Bawm tribe in Mizoram, this language is part of the Kuki-Chin group. It is considered vulnerable due to a limited number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bawm_language"
+      },
+      {
+        "Language/Dialect Name": "Hrangkhol",
+        "Description": "The Hrangkhol tribe, residing in the northern regions of Mizoram, speaks this language. It is part of the Kuki-Chin family and has unique phonological features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hrangkhol_language"
+      },
+      {
+        "Language/Dialect Name": "Falam",
+        "Description": "Spoken by the Falam community, primarily in Myanmar, there is also a significant number of speakers in Mizoram. It is a Kuki-Chin language with several dialects.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Falam_language"
+      },
+      {
+        "Language/Dialect Name": "Simte",
+        "Description": "The Simte people in Mizoram and Manipur speak this language. Simte is closely related to other Kuki-Chin languages and has its own distinct identity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Simte_language"
+      },
+      {
+        "Language/Dialect Name": "Vaiphei",
+        "Description": "Spoken by the Vaiphei community in Mizoram, this language is part of the Kuki-Chin group and shares similarities with neighboring dialects.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Vaiphei_language"
+      },
+      {
+        "Language/Dialect Name": "Zou",
+        "Description": "The Zou tribe in Mizoram speaks this language, which is closely related to Paite and other Kuki-Chin languages. It has its own script and literary tradition.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Zou_language"
+      }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Ao",
+        "Description": "An Ao Naga language spoken in the central part of Nagaland, particularly in Mokokchung district. It has two primary dialects: Chungli and Mongsen. Ao has a rich oral tradition and is used in local literature and education.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ao_language"
+      },
+      {
+        "Language/Dialect Name": "Angami",
+        "Description": "Spoken by the Angami Naga tribe in and around Kohima district. It features complex tonal patterns and is known for its extensive use of affixation. Angami has several dialects, including Khonoma and Tenyidie.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Angami_language"
+      },
+      {
+        "Language/Dialect Name": "Sumi",
+        "Description": "Also known as Sema, this language is spoken by the Sumi Naga tribe in Zünheboto district and parts of Dimapur. Sumi has a significant number of speakers and is used in local media and education.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sumi_language"
+      },
+      {
+        "Language/Dialect Name": "Lotha",
+        "Description": "The language of the Lotha Naga tribe, primarily spoken in Wokha district. Lotha has its own script and a rich collection of folk songs and stories.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lotha_language"
+      },
+      {
+        "Language/Dialect Name": "Konyak",
+        "Description": "Spoken by the Konyak Naga tribe in Mon district. Konyak is known for its distinct phonetic features and is used in traditional songs and rituals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Konyak_language"
+      },
+      {
+        "Language/Dialect Name": "Chokri",
+        "Description": "A dialect of the Chakhesang Naga tribe, spoken in Phek district. Chokri is known for its tonal nature and is used in traditional songs and folklore.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chokri_language"
+      },
+      {
+        "Language/Dialect Name": "Chang",
+        "Description": "The language of the Chang Naga tribe, spoken in Tuensang district. It has a rich oral tradition and is used in local cultural practices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chang_language"
+      },
+      {
+        "Language/Dialect Name": "Phom",
+        "Description": "Spoken by the Phom Naga tribe in Longleng district. Phom has its own unique linguistic features and is used in traditional ceremonies.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Phom_language"
+      },
+      {
+        "Language/Dialect Name": "Yimkhiungrü",
+        "Description": "Also known as Yimchungru, this language is spoken in the eastern part of Nagaland, particularly in Kiphire and Tuensang districts. It has a rich oral tradition and is used in local festivals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Yimchungr%C3%BC_language"
+      },
+      {
+        "Language/Dialect Name": "Rengma",
+        "Description": "The language of the Rengma Naga tribe, spoken in Kohima and Tseminyü districts. Rengma has its own script and is used in traditional songs and dances.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rengma_language"
+      },
+      {
+        "Language/Dialect Name": "Pochury",
+        "Description": "Spoken by the Pochury Naga tribe in Phek and Kiphire districts. Pochury has a rich oral tradition and is used in local cultural practices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pochury_language"
+      },
+      {
+        "Language/Dialect Name": "Zeme",
+        "Description": "The language of the Zeme Naga tribe, spoken in Peren district and parts of Manipur. Zeme has its own unique linguistic features and is used in traditional ceremonies.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Zeme_language"
+      },
+      {
+        "Language/Dialect Name": "Liangmai",
+        "Description": "Spoken by the Liangmai Naga tribe in Peren district and parts of Manipur. Liangmai has a rich oral tradition and is used in local festivals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Liangmai_language"
+      },
+      {
+        "Language/Dialect Name": "Mao",
+        "Description": "The language of the Mao Naga tribe, spoken in the northern part of Manipur and parts of Nagaland. Mao has its own script and is used in traditional songs and dances.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mao_language"
+      },
+      {
+        "Language/Dialect Name": "Poumai",
+        "Description": "Spoken by the Poumai Naga tribe in Senapati district of Manipur and parts of Nagaland. Poumai has a rich oral tradition and is used in local cultural practices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Poumai_language"
+      },
+      {
+        "Language/Dialect Name": "Tangkhul",
+        "Description": "The language of the Tangkhul Naga tribe, spoken in Ukhrul district of Manipur and parts of Nagaland. Tangkhul has its own script and is known for its rich literary tradition.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tangkhul_language"
+      },
+      {
+        "Language/Dialect Name": "Zeliang",
+        "Description": "A combination of Zeme, Liangmai, and Rongmei languages, spoken in Peren district. Zeliang is used in local cultural practices and has a rich oral tradition.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Zeliang_language"
+      },
+      {
+        "Language/Dialect Name": "Khiamniungan",
+        "Description": "Spoken by the Khiamniungan Naga tribe in Noklak district and parts of Myanmar. It has a rich oral tradition and is used in traditional ceremonies.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khiamniungan_language"
+      },
+      {
+        "Language/Dialect Name": "Sangtam",
+        "Description": "The language of the Sangtam Naga tribe, spoken in Kiphire and Tuensang districts. Sangtam has its own unique linguistic features and is used in local festivals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sangtam_language"
+      },
+      {
+        "Language/Dialect Name": "Nagamese",
+        "Description": "A creole language based on Assamese, serving as a lingua franca among the diverse Naga tribes. It is widely used in trade and daily communication.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nagamese_Creole"
+      }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Odia",
+        "Description": "The official language of Odisha, Odia is an Indo-Aryan language spoken by approximately 82.7% of the state's population. It has several dialects and is recognized as a classical language of India.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Odia_language"
+      },
+      {
+        "Language/Dialect Name": "Sambalpuri",
+        "Description": "A western dialect of Odia spoken in districts like Sambalpur, Jharsuguda, Bargarh, Balangir, and Subarnapur. It has distinct phonological and lexical variations from standard Odia.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Odia_language"
+      },
+      {
+        "Language/Dialect Name": "Ganjami",
+        "Description": "A southern dialect of Odia spoken in Ganjam, Gajapati, and parts of Kandhamal districts. The variant spoken in Berhampur is known as 'Berhampuria'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Odia_language"
+      },
+      {
+        "Language/Dialect Name": "Baleswari",
+        "Description": "A northern dialect of Odia spoken in Baleswar, Bhadrak, Mayurbhanj, and Kendujhar districts. The variant spoken in Baleswar is called 'Baleswaria'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Odia_language"
+      },
+      {
+        "Language/Dialect Name": "Kataki",
+        "Description": "A central dialect of Odia spoken in Cuttack, Khordha, Puri, Nayagarh, Jajpur, Jagatsinghpur, Kendrapara, Dhenkanal, Angul, Debagarh, and parts of Boudh districts. The Cuttack variant is known as 'Katakia'.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Odia_language"
+      },
+      {
+        "Language/Dialect Name": "Desia",
+        "Description": "A southwestern dialect of Odia spoken in Nabarangpur, Rayagada, Koraput, Malkangiri, and southern parts of Kalahandi districts. It is also spoken in the hilly regions of Visakhapatnam and Vizianagaram districts of Andhra Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Odia_language"
+      },
+      {
+        "Language/Dialect Name": "Kalahandia",
+        "Description": "A variant of Odia spoken in Kalahandi and Nuapada districts and neighboring districts of Chhattisgarh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Odia_language"
+      },
+      {
+        "Language/Dialect Name": "Phulbani",
+        "Description": "A dialect spoken in Kandhamal and parts of Boudh district.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Odia_language"
+      },
+      {
+        "Language/Dialect Name": "Sundargadi",
+        "Description": "A northwestern dialect of Odia spoken in Sundargarh and parts of adjoining districts, as well as in the districts of Jashpur in Chhattisgarh and Simdega in Jharkhand.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Odia_language"
+      },
+      {
+        "Language/Dialect Name": "Santali",
+        "Description": "A Munda language spoken by the Santal tribe in northern Odisha, as well as in Jharkhand, West Bengal, Bihar, Assam, and neighboring countries. It is recognized as a scheduled language in India.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Santali_language"
+      },
+      {
+        "Language/Dialect Name": "Ho",
+        "Description": "A Munda language spoken by the Ho tribe in Odisha, Jharkhand, and West Bengal. It is written in the Warang Citi script.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ho_language"
+      },
+      {
+        "Language/Dialect Name": "Mundari",
+        "Description": "A Munda language spoken by the Munda people in Odisha, Jharkhand, and Bihar. It shares linguistic features with other Munda languages like Santali and Ho.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mundari_language"
+      },
+      {
+        "Language/Dialect Name": "Kui",
+        "Description": "A Dravidian language spoken by the Kandha (Kondh) tribe in Odisha. It is primarily spoken in the Kandhamal and Kalahandi districts.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kui_language"
+      },
+      {
+        "Language/Dialect Name": "Kharia",
+        "Description": "A Munda language spoken by the Kharia tribe in Odisha, Jharkhand, and Chhattisgarh. It has several dialects and is considered endangered.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kharia_language"
+      },
+      {
+        "Language/Dialect Name": "Juang",
+        "Description": "A Munda language spoken by the Juang tribe in Odisha. It is primarily spoken in the Keonjhar and Dhenkanal districts.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Juang_language"
+      },
+      {
+        "Language/Dialect Name": "Bhumij",
+        "Description": "A Munda language spoken by the Bhumij tribe in Odisha, Jharkhand, and West Bengal. It is closely related to the Mundari language.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhumij_language"
+      },
+      {
+        "Language/Dialect Name": "Bonda",
+        "Description": "A Munda language spoken by the Bonda tribe in the Malkangiri district of Odisha. It is considered one of the most isolated and endangered languages in India.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bonda_people"
+      },
+      {
+        "Language/Dialect Name": "Gadaba",
+        "Description": "A Dravidian language spoken by the Gadaba tribe in Odisha and Andhra Pradesh. It has two main dialects: Ollari and Gutob.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gadaba_language"
+      },
+      {
+        "Language/Dialect Name": "Sora",
+        "Description": "A Munda language spoken by the Sora tribe in Odisha and Andhra Pradesh. It has its own script called Sorang Sompeng.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sora_language"
+      },
+      {
+        "Language/Dialect Name": "Desia",
+        "Description": "A dialect spoken in the Koraput, Rayagada, Nabarangpur, and Malkangiri districts of Odisha. It serves as a lingua franca among various tribal communities in the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Desia_language"
+      },
+      {
+        "Language/Dialect Name": "Bhatri",
+        "Description": "An Indo-Aryan language spoken by the Bhottada tribe in Odisha and Chhattisgarh. It is considered a dialect of Odia by some linguists.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhatri_language"
+      },
+      {
+        "Language/Dialect Name": "Bodo Parja",
+        "Description": "A dialect spoken by the Parja tribe in the Koraput district of Odisha. It is also known as Jharia.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bodo_Parja_language"
+      },
+      {
+        "Language/Dialect Name": "Bathudi",
+        "Description": "A dialect spoken by the Bathudi tribe in northern Odisha.",
+        "Reference Link": "https://sarkaripariksha.com/static-gk/tribal-dialects-of-odia-languages/"
+      },
+      {
+        "Language/Dialect Name": "Bhuyan",
+        "Description": "A tribal dialect spoken in northern Odisha by the Bhuyan tribe.",
+        "Reference Link": "https://sarkaripariksha.com/static-gk/tribal-dialects-of-odia-languages/"
+      },
+      {
+        "Language/Dialect Name": "Kondhan",
+        "Description": "A tribal dialect spoken in western Odisha by the Kondh tribe.",
+        "Reference Link": "https://sarkaripariksha.com/static-gk/tribal-dialects-of-odia-languages/"
+      },
+      {
+        "Language/Dialect Name": "Matia",
+        "Description": "A tribal dialect spoken in southern Odisha.",
+        "Reference Link": "https://sarkaripariksha.com/static-gk/tribal-dialects-of-odia-languages/"
+      },
+      {
+        "Language/Dialect Name": "Reli",
+        "Description": "A dialect spoken in southern Odisha.",
+        "Reference Link": "https://sarkaripariksha.com/static-gk/tribal-dialects-of-odia-languages/"
+      },
+      {
+        "Language/Dialect Name": "Sounti",
+        "Description": "A dialect spoken in northern Odisha.",
+        "Reference Link": "https://sarkaripariksha.com/static-gk/tribal-dialects-of-odia-languages/"
+      },
+      {
+        "Language/Dialect Name": "Sadri",
+        "Description": "A lingua franca in parts of Odisha, Sadri is a mixture of Odia and Hindi with major regional tribal influences.",
+        "Reference Link": "https://sarkaripariksha.com/static-gk/tribal-dialects-of-odia-languages/"
+      }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Majhi",
+        "Description": "Majhi is considered the standard dialect of Punjabi and is spoken in the Majha region, which includes districts such as Amritsar, Gurdaspur, and Tarn Taran in India. It serves as the basis for standard Punjabi used in education and media.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Punjabi_language"
+      },
+      {
+        "Language/Dialect Name": "Malwai",
+        "Description": "Malwai is spoken in the Malwa region of Punjab, encompassing districts like Ludhiana, Patiala, Bathinda, and Ferozepur. This dialect reflects the cultural richness of the Malwa area and has its own unique linguistic features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Punjabi_dialects_and_languages"
+      },
+      {
+        "Language/Dialect Name": "Doabi",
+        "Description": "Doabi is the dialect of the Doaba region, situated between the Beas and Sutlej rivers, covering districts such as Jalandhar, Hoshiarpur, Kapurthala, and Nawanshahr. The term 'Doabi' derives from 'Doab,' meaning 'land between two rivers.'",
+        "Reference Link": "https://en.wikipedia.org/wiki/Punjabi_dialects_and_languages"
+      },
+      {
+        "Language/Dialect Name": "Puadhi",
+        "Description": "Puadhi is spoken in the Puadh region, which includes parts of Patiala, Fatehgarh Sahib, and Rupnagar districts in Punjab, as well as areas in Haryana. This dialect has distinct phonetic and lexical characteristics that set it apart from other Punjabi dialects.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Puadhi_dialect"
+      },
+      {
+        "Language/Dialect Name": "Bagri",
+        "Description": "Bagri is spoken in the southern parts of Punjab, particularly in the districts of Muktsar and Fazilka, extending into neighboring states like Rajasthan and Haryana. It serves as a linguistic bridge between Punjabi and Rajasthani languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bagri_language_(Rajasthani)"
+      },
+      {
+        "Language/Dialect Name": "Kangri",
+        "Description": "Kangri is spoken in the Kangra district of Himachal Pradesh and parts of northern Punjab, including areas in Hoshiarpur and Gurdaspur districts. It shares linguistic features with both Punjabi and Western Pahari languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kangri_dialect"
+      },
+      {
+        "Language/Dialect Name": "Dogri",
+        "Description": "Dogri is an Indo-Aryan language spoken in the Jammu region of Jammu and Kashmir and in parts of northern Punjab, such as Pathankot. It was recognized as a scheduled language in India in 2003 and has a rich literary tradition.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dogri_language"
+      },
+      {
+        "Language/Dialect Name": "Pahari-Potwari",
+        "Description": "Pahari-Potwari is spoken in the Pothohar Plateau of Pakistan and extends into parts of Indian Punjab. It serves as a transitional dialect between Punjabi and Hindko, reflecting the linguistic diversity of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pahari-Pothwari"
+      },
+      {
+        "Language/Dialect Name": "Gojri",
+        "Description": "Gojri is spoken by the Gujjar community in various parts of Punjab, including areas in Hoshiarpur and Gurdaspur districts. It is an Indo-Aryan language with influences from Rajasthani and Punjabi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gojri_language"
+      },
+      {
+        "Language/Dialect Name": "Sansi",
+        "Description": "Sansi is spoken by the Sansi nomadic community in Punjab. It is considered endangered, with a declining number of speakers, and efforts are being made to document and preserve this unique dialect.",
+        "Reference Link": "https://timesofindia.indiatimes.com/city/chandigarh/when-a-languages-mother-dies/articleshow/46892561.cms"
+      }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Marwari",
+        "Description": "Marwari is the most widely spoken dialect in Rajasthan, primarily in the Marwar region encompassing Jodhpur, Bikaner, Nagaur, Barmer, Jaisalmer, and Pali districts. It has a rich literary tradition and significantly influences the cultural identity of western Rajasthan.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Marwari_language"
+      },
+      {
+        "Language/Dialect Name": "Mewari",
+        "Description": "Mewari is spoken in the Mewar region, including Udaipur, Chittorgarh, Rajsamand, and Bhilwara districts. It reflects the cultural heritage of the Mewar dynasty and has distinct phonetic and lexical features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mewari_language"
+      },
+      {
+        "Language/Dialect Name": "Dhundhari",
+        "Description": "Also known as Jaipuri, Dhundhari is spoken in the Dhundhar region, covering Jaipur, Dausa, Tonk, and parts of Ajmer. It is the second most spoken dialect in Rajasthan and exhibits influences from neighboring languages.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dhundari_language"
+      },
+      {
+        "Language/Dialect Name": "Shekhawati",
+        "Description": "Shekhawati is spoken in the Shekhawati region, comprising Churu, Jhunjhunu, and Sikar districts. It is known for its unique grammatical structures and contributes to the region's rich cultural tapestry.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Shekhawati_dialect"
+      },
+      {
+        "Language/Dialect Name": "Harauti",
+        "Description": "Harauti is prevalent in the Hadoti region, including Bundi, Kota, Jhalawar, and Baran districts. It has distinct linguistic features and plays a role in the cultural expressions of southeastern Rajasthan.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Harauti_language"
+      },
+      {
+        "Language/Dialect Name": "Mewati",
+        "Description": "Mewati is spoken in the Mewat region, primarily in Alwar and Bharatpur districts. It shares similarities with both Rajasthani and Haryanvi languages and is integral to the Meo community's identity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mewati_language"
+      },
+      {
+        "Language/Dialect Name": "Bagri",
+        "Description": "Bagri is spoken in the Bagar tract, covering parts of northern Rajasthan, including Ganganagar, Hanumangarh, and parts of Churu districts. It serves as a linguistic bridge between Rajasthani, Haryanvi, and Punjabi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bagri_language"
+      },
+      {
+        "Language/Dialect Name": "Malvi",
+        "Description": "Malvi is spoken in the Malwa region, which includes parts of southeastern Rajasthan and western Madhya Pradesh. It has several sub-dialects and reflects the cultural heritage of the Malwa plateau.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malvi_language"
+      },
+      {
+        "Language/Dialect Name": "Wagdi",
+        "Description": "Wagdi is spoken by the Bhil community in the Vagad region, encompassing Dungarpur and Banswara districts. It is a Bhil language with its own script and rich oral traditions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Wagdi_language"
+      },
+      {
+        "Language/Dialect Name": "Bhili",
+        "Description": "Bhili is spoken by the Bhil tribes in southern Rajasthan. It has several dialects and is known for its oral literature, including folktales and songs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhili_language"
+      },
+      {
+        "Language/Dialect Name": "Garasia",
+        "Description": "Garasia is spoken by the Garasia tribal community in the Abu Road region of Rajasthan. It is an Indo-Aryan language with unique linguistic features and cultural significance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Garasia_language"
+      },
+      {
+        "Language/Dialect Name": "Gujari",
+        "Description": "Gujari is spoken by the Gujjar community in parts of Rajasthan. It shares similarities with Rajasthani and Gujarati and reflects the pastoral lifestyle of the Gujjars.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gurjar_apabhraṃśa"
+      },
+      {
+        "Language/Dialect Name": "Lambadi",
+        "Description": "Also known as Banjari, Lambadi is spoken by the Lambadi community in Rajasthan. It has influences from various languages due to the nomadic history of its speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lambadi_language"
+      },
+      {
+        "Language/Dialect Name": "Ahirwati",
+        "Description": "Ahirwati is spoken by the Ahir community in the southeastern parts of Rajasthan. It is closely related to Mewati and reflects the cultural heritage of the Ahirs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ahirwati_dialect"
+      },
+      {
+        "Language/Dialect Name": "Gade Lohar",
+        "Description": "Gade Lohar is spoken by the Gadia Lohar community, traditionally itinerant blacksmiths in Rajasthan. It has unique linguistic features and reflects the community's nomadic lifestyle.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gadia_Lohar"
+      }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Nepali",
+        "Description": "Serving as the lingua franca of Sikkim, Nepali is an Indo-Aryan language widely spoken across the state. It encompasses various dialects and reflects the cultural integration of the Gorkha community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nepali_language"
+      },
+      {
+        "Language/Dialect Name": "Sikkimese (Bhutia)",
+        "Description": "Also known as Drenjongke, this Tibetic language is spoken by the Bhutia community. It shares similarities with Dzongkha and has its own script derived from the Tibetan script.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sikkimese_language"
+      },
+      {
+        "Language/Dialect Name": "Lepcha",
+        "Description": "The indigenous language of the Lepcha people, it belongs to the Tibeto-Burman family. Lepcha has its own script and is integral to the cultural identity of its speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lepcha_language"
+      },
+      {
+        "Language/Dialect Name": "Limbu",
+        "Description": "Spoken by the Limbu community, this language is part of the Sino-Tibetan family. It possesses its own script, known as Sirijunga, and is recognized for its rich oral literature.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Limbu_language"
+      },
+      {
+        "Language/Dialect Name": "Gurung",
+        "Description": "Belonging to the Sino-Tibetan family, Gurung is spoken by the Gurung community in Sikkim. It has several dialects and reflects the traditions of its speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gurung_language"
+      },
+      {
+        "Language/Dialect Name": "Magar",
+        "Description": "This Sino-Tibetan language is used by the Magar community. It has multiple dialects and is significant to the cultural heritage of the Magar people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Magar_language"
+      },
+      {
+        "Language/Dialect Name": "Rai",
+        "Description": "Encompassing several dialects, the Rai language is spoken by the Rai community. It is part of the Kiranti branch of the Sino-Tibetan family and showcases the diversity within the community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rai_languages"
+      },
+      {
+        "Language/Dialect Name": "Tamang",
+        "Description": "Spoken by the Tamang people, this language belongs to the Tibeto-Burman family. It has its own script and is known for its rich musical traditions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tamang_language"
+      },
+      {
+        "Language/Dialect Name": "Sherpa",
+        "Description": "Used by the Sherpa community, this Tibetic language shares similarities with Sikkimese and Tibetan. It reflects the high-altitude heritage of its speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sherpa_language"
+      },
+      {
+        "Language/Dialect Name": "Newar",
+        "Description": "Also known as Nepal Bhasa, this Sino-Tibetan language is spoken by the Newar community. It has a rich literary tradition and its own script.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Newar_language"
+      },
+      {
+        "Language/Dialect Name": "Sunuwar",
+        "Description": "Spoken by the Sunuwar community, this language belongs to the Sino-Tibetan family. It is recognized for its unique phonetic characteristics.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sunuwar_language"
+      },
+      {
+        "Language/Dialect Name": "Mukhia",
+        "Description": "Also known as Rai Bantawa, this language is part of the Kiranti branch of the Sino-Tibetan family. It is spoken by the Mukhia community in Sikkim.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bantawa_language"
+      }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Tamil",
+        "Description": "The official language of Tamil Nadu, Tamil is a Dravidian language with a rich literary history spanning over two millennia. It is spoken by the majority of the state's population and has several regional dialects.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tamil_language"
+      },
+      {
+        "Language/Dialect Name": "Madras Bashai",
+        "Description": "A colloquial form of Tamil spoken in Chennai, Madras Bashai incorporates elements from English, Telugu, Urdu, and other languages, reflecting the city's diverse population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Madras_bashai"
+      },
+      {
+        "Language/Dialect Name": "Kongu Tamil",
+        "Description": "Spoken in the western districts of Tamil Nadu, including Coimbatore, Erode, and Salem, Kongu Tamil has distinct phonological and lexical features that set it apart from standard Tamil.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kongu_Tamil"
+      },
+      {
+        "Language/Dialect Name": "Madurai Tamil",
+        "Description": "This dialect is prevalent in and around the city of Madurai. It is known for its unique intonation and vocabulary, distinguishing it from other regional variants.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Madurai_Tamil"
+      },
+      {
+        "Language/Dialect Name": "Nellai Tamil",
+        "Description": "Spoken in the Tirunelveli district, Nellai Tamil exhibits unique linguistic features influenced by the region's history and culture.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nellai_Tamil"
+      },
+      {
+        "Language/Dialect Name": "Kumari Tamil",
+        "Description": "Found in the Kanyakumari district, Kumari Tamil has its own distinct characteristics, influenced by the region's proximity to Kerala and its multilingual environment.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kumari_Tamil"
+      },
+      {
+        "Language/Dialect Name": "Arwi",
+        "Description": "A written register of Tamil that uses an adapted Arabic script, Arwi was historically used by Tamil-speaking Muslim communities for religious and cultural purposes.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Arwi"
+      },
+      {
+        "Language/Dialect Name": "Brahmin Tamil",
+        "Description": "A dialect traditionally spoken by Tamil Brahmin communities, Brahmin Tamil has several sub-dialects and is known for its conservative linguistic features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Brahmin_Tamil"
+      },
+      {
+        "Language/Dialect Name": "Sankethi",
+        "Description": "Spoken by the Sankethi community, this dialect is a blend of Tamil and Kannada, reflecting the community's migration history between Tamil Nadu and Karnataka.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sankethi_language"
+      },
+      {
+        "Language/Dialect Name": "Badaga",
+        "Description": "A Dravidian language spoken by the Badaga community in the Nilgiris district, Badaga has its own script and a rich oral tradition.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Badaga_language"
+      },
+      {
+        "Language/Dialect Name": "Irula",
+        "Description": "Spoken by the Irula tribe in the Nilgiris and surrounding areas, Irula is a Dravidian language with limited documentation and is considered vulnerable.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Irula_language"
+      },
+      {
+        "Language/Dialect Name": "Toda",
+        "Description": "The Toda people of the Nilgiris speak this Dravidian language, which is known for its unique phonological features and is considered endangered.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Toda_language"
+      },
+      {
+        "Language/Dialect Name": "Kota",
+        "Description": "Spoken by the Kota tribe in the Nilgiris, this Dravidian language has a small number of speakers and is known for its distinct musical traditions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kota_language"
+      },
+      {
+        "Language/Dialect Name": "Kurumba",
+        "Description": "The Kurumba tribes in the Nilgiris and surrounding regions speak this language, which has several dialects and is part of the Southern Dravidian subgroup.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kurumba_language"
+      },
+      {
+        "Language/Dialect Name": "Paniya",
+        "Description": "Spoken by the Paniya tribe in the Nilgiris and parts of Kerala, this Dravidian language is considered vulnerable due to a declining number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Paniya_language"
+      },
+      {
+        "Language/Dialect Name": "Kattunayakan",
+        "Description": "The Kattunayakan tribe, found in the Nilgiris and other parts of Tamil Nadu, speak this Dravidian language, which is closely related to Malayalam.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kattunayakan"
+      },
+      {
+        "Language/Dialect Name": "Malayalam",
+        "Description": "While primarily spoken in Kerala, Malayalam is also spoken by a significant population in the western districts of Tamil Nadu, such as Kanyakumari and the Nilgiris.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malayalam"
+      },
+      {
+        "Language/Dialect Name": "Telugu",
+        "Description": "The second most spoken language in Tamil Nadu, Telugu speakers are concentrated in areas bordering Andhra Pradesh and have a long-standing presence in the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telugu_language"
+      },
+      {
+        "Language/Dialect Name": "Kannada",
+        "Description": "Spoken by communities in districts bordering Karnataka, Kannada has historical significance in regions like the Nilgiris and Coimbatore.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kannada_language"
+      },
+      {
+        "Language/Dialect Name": "Urdu",
+        "Description": "Primarily spoken by the Muslim population in Tamil Nadu, Urdu has a notable presence in cities like Chennai and has influenced local dialects.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Urdu"
+      },
+      {
+        "Language/Dialect Name": "Saurashtra",
+        "Description": "The Saurashtrian community in Tamil Nadu speaks this Indo-Aryan language, which has its roots in the Saurashtra region of Gujarat.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Saurashtra_language"
+      }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Telangana Telugu",
+        "Description": "A regional dialect of Telugu spoken in the state of Telangana. It incorporates unique phonetic and lexical features influenced by historical interactions with Persian, Urdu, and Marathi languages. This dialect reflects the cultural and linguistic diversity of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telangana_dialect"
+      },
+      {
+        "Language/Dialect Name": "Gondi",
+        "Description": "A Dravidian language spoken by the Gond tribal community in parts of northern Telangana, especially in districts like Adilabad. Gondi has several dialects and is known for its rich oral traditions, including folk songs and stories.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gondi_language"
+      },
+      {
+        "Language/Dialect Name": "Lambadi (Banjara)",
+        "Description": "Spoken by the Banjara community, Lambadi is an Indo-Aryan language with influences from Rajasthani. It is prevalent among the nomadic tribes in Telangana and features a rich collection of folk literature and songs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lambadi_language"
+      },
+      {
+        "Language/Dialect Name": "Kolami",
+        "Description": "A Central Dravidian language spoken by the Kolam tribal community in northern Telangana. Kolami is considered endangered due to a declining number of speakers and has limited written literature.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kolami_language"
+      },
+      {
+        "Language/Dialect Name": "Koya",
+        "Description": "Belonging to the Dravidian language family, Koya is spoken by the Koya tribe in the forested regions of Telangana, particularly along the Godavari River. The language has its own script and is used in traditional rituals and folklore.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Koya_language"
+      },
+      {
+        "Language/Dialect Name": "Chenchu",
+        "Description": "A Dravidian language spoken by the Chenchu tribal community in the Nallamala forest region of Telangana. Chenchu is primarily oral and is used in daily communication and traditional practices.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chenchu_language"
+      },
+      {
+        "Language/Dialect Name": "Naiki",
+        "Description": "Also known as Naiki Gond, this language is spoken by certain tribal groups in Telangana. It is closely related to Gondi and shares many linguistic features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Naiki_language"
+      }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Kokborok",
+        "Description": "Also known as Tripuri, Kokborok is a Sino-Tibetan language spoken by the Tripuri people in Tripura. It is one of the state's official languages and has several dialects, including Debbarma, Riang, and Noatia.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kokborok"
+      },
+      {
+        "Language/Dialect Name": "Chakma",
+        "Description": "A member of the Indo-Aryan language family, Chakma is spoken by the Chakma community in Tripura. It has its own script, known as Chakma script or Ajhā pāṭh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chakma_language"
+      },
+      {
+        "Language/Dialect Name": "Halam",
+        "Description": "Halam is a Sino-Tibetan language spoken by the Halam community in Tripura. It comprises various sub-dialects, reflecting the diversity within the Halam tribe.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Halam_language"
+      },
+      {
+        "Language/Dialect Name": "Mog",
+        "Description": "Also known as Marma, Mog is a Tibeto-Burman language spoken by the Mog community in Tripura. It shares similarities with the Arakanese language of Myanmar.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Marma_language"
+      },
+      {
+        "Language/Dialect Name": "Garo",
+        "Description": "Garo is a Tibeto-Burman language spoken by the Garo tribe in Tripura. It has multiple dialects and is also spoken in Meghalaya and neighboring regions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Garo_language"
+      },
+      {
+        "Language/Dialect Name": "Bishnupriya Manipuri",
+        "Description": "An Indo-Aryan language, Bishnupriya Manipuri is spoken by a section of the Manipuri community in Tripura. It incorporates elements from Sanskrit, Bengali, and Meitei.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bishnupriya_Manipuri_language"
+      },
+      {
+        "Language/Dialect Name": "Manipuri (Meitei)",
+        "Description": "A Sino-Tibetan language, Manipuri is spoken by the Meitei community in Tripura. It is also the official language of the neighboring state of Manipur.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Meitei_language"
+      },
+      {
+        "Language/Dialect Name": "Kuki-Mizo",
+        "Description": "A cluster of Tibeto-Burman languages spoken by Kuki and Mizo communities in Tripura. These languages exhibit mutual intelligibility and share cultural ties.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kuki_language"
+      },
+      {
+        "Language/Dialect Name": "Reang (Bru)",
+        "Description": "Reang, also known as Bru, is a Sino-Tibetan language spoken by the Reang tribe in Tripura. It is considered endangered due to declining numbers of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Reang_language"
+      },
+      {
+        "Language/Dialect Name": "Munda",
+        "Description": "An Austroasiatic language spoken by the Munda tribe in Tripura. It is part of the larger Munda language family prevalent in central and eastern India.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Munda_languages"
+      }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Garhwali",
+        "Description": "Garhwali is an Indo-Aryan language spoken predominantly in the Garhwal region of Uttarakhand, encompassing districts like Pauri Garhwal, Tehri Garhwal, and Uttarkashi. It has several dialects, including Srinagariya, Badhani, and Tehri, each reflecting the unique cultural nuances of their respective areas.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Garhwali_language"
+      },
+      {
+        "Language/Dialect Name": "Kumaoni",
+        "Description": "Kumaoni is an Indo-Aryan language spoken in the Kumaon region of Uttarakhand, covering districts such as Almora, Nainital, and Pithoragarh. The language boasts various dialects, including Central Kumaoni, Eastern Kumaoni, and Western Kumaoni, each exhibiting distinct linguistic features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kumaoni_language"
+      },
+      {
+        "Language/Dialect Name": "Jaunsari",
+        "Description": "Jaunsari is spoken by the Jaunsari tribal community in the Jaunsar-Bawar region of Dehradun district. While often considered a dialect of Garhwali, Jaunsari possesses unique linguistic characteristics that set it apart. UNESCO has classified Jaunsari as a 'definitely endangered' language.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jaunsari_language"
+      },
+      {
+        "Language/Dialect Name": "Rangkas",
+        "Description": "Rangkas is a Sino-Tibetan language once spoken by the Rangkas community in the Pithoragarh district. The language is now considered extinct, with no known speakers remaining.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rangkas_language"
+      },
+      {
+        "Language/Dialect Name": "Byangsi",
+        "Description": "Byangsi is a Sino-Tibetan language spoken by the Byangsi community in the Byans Valley of Pithoragarh district. It is one of the lesser-known languages of Uttarakhand, reflecting the rich linguistic diversity of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Byangsi_language"
+      },
+      {
+        "Language/Dialect Name": "Chaudangsi",
+        "Description": "Chaudangsi is spoken by the Chaudangsi community in the Darma Valley of Pithoragarh district. This Sino-Tibetan language is closely related to Byangsi and shares several linguistic features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chaudangsi_language"
+      },
+      {
+        "Language/Dialect Name": "Darmiya",
+        "Description": "Darmiya is a Sino-Tibetan language spoken in the Darma Valley of Pithoragarh district. It is one of the lesser-known languages of Uttarakhand, contributing to the state's rich linguistic tapestry.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Darmiya_language"
+      },
+      {
+        "Language/Dialect Name": "Raji",
+        "Description": "Raji is a Sino-Tibetan language spoken by the Raji tribal community in the Pithoragarh and Champawat districts. The language is considered endangered, with a declining number of speakers.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Raji_language"
+      },
+      {
+        "Language/Dialect Name": "Rawat",
+        "Description": "Rawat is a Sino-Tibetan language spoken by the Rawat community in the Bageshwar and Pithoragarh districts. It is among the lesser-documented languages of Uttarakhand.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rawat_language"
+      },
+      {
+        "Language/Dialect Name": "Jad",
+        "Description": "Jad is a Sino-Tibetan language spoken by the Jad community in the Uttarkashi district. The language is part of the broader Tibeto-Burman language family and reflects the cultural heritage of the Jad people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jad_language"
+      },
+      {
+        "Language/Dialect Name": "Rongpo",
+        "Description": "Rongpo is a Sino-Tibetan language spoken by the Rongpo community in the Chamoli district. It contributes to the linguistic diversity of Uttarakhand's Himalayan region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rongpo_language"
+      },
+      {
+        "Language/Dialect Name": "Buksa",
+        "Description": "Buksa is an Indo-Aryan language spoken by the Buksa tribal community in the Udham Singh Nagar district. It is one of the minority languages of Uttarakhand, reflecting the state's cultural diversity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Buksa_language"
+      },
+      {
+        "Language/Dialect Name": "Tharu",
+        "Description": "Tharu is an Indo-Aryan language spoken by the Tharu community in the southern plains of Uttarakhand, particularly in the Udham Singh Nagar district. The language has several dialects and is also spoken in neighboring Nepal.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tharu_languages"
+      },
+      {
+        "Language/Dialect Name": "Doteli",
+        "Description": "Doteli is an Indo-Aryan language spoken by a segment of the population in the eastern regions of Uttarakhand, particularly in areas bordering Nepal. It shares linguistic similarities with Kumaoni and Nepali.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Doteli_language"
+      },
+      {
+        "Language/Dialect Name": "Mahasu Pahari",
+        "Description": "Mahasu Pahari is an Indo-Aryan language spoken in the western parts of Uttarakhand, especially in the Uttarkashi district. It is closely related to other Pahari languages of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mahasu_Pahari_language"
+      }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Awadhi",
+        "Description": "Awadhi is an Indo-Aryan dialect spoken in the Awadh region of Uttar Pradesh, encompassing districts such as Lucknow, Faizabad, and Barabanki. It has a rich literary tradition, with classical works like 'Ramcharitmanas' by Tulsidas composed in Awadhi. The dialect reflects the cultural heritage of central Uttar Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Awadhi_language"
+      },
+      {
+        "Language/Dialect Name": "Braj Bhasha",
+        "Description": "Braj Bhasha is spoken in the Braj region, including Mathura, Agra, and Aligarh districts. Known for its association with the poetry of Surdas and its use in devotional songs dedicated to Lord Krishna, Braj Bhasha holds significant cultural importance in Uttar Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Braj_Bhasha"
+      },
+      {
+        "Language/Dialect Name": "Bundeli",
+        "Description": "Bundeli is spoken in the Bundelkhand region, covering districts like Jhansi, Mahoba, and Banda. It is closely related to Braj Bhasha and has its own distinct linguistic features, contributing to the cultural diversity of Uttar Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bundeli_language"
+      },
+      {
+        "Language/Dialect Name": "Bhojpuri",
+        "Description": "Bhojpuri is an Eastern Indo-Aryan language spoken in the Purvanchal region of Uttar Pradesh, including districts such as Varanasi, Gorakhpur, and Azamgarh. It has a vibrant oral tradition and is also spoken in parts of Bihar and Jharkhand.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhojpuri_language"
+      },
+      {
+        "Language/Dialect Name": "Kannauji",
+        "Description": "Kannauji is spoken in the Kannauj region, covering districts like Kannauj, Farrukhabad, and Etawah. It serves as a transitional dialect between Awadhi and Braj Bhasha, reflecting the linguistic blend of central Uttar Pradesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kannauji_dialect"
+      },
+      {
+        "Language/Dialect Name": "Bagheli",
+        "Description": "Bagheli is spoken in the southeastern districts of Uttar Pradesh, such as Mirzapur and Sonbhadra. It shares similarities with Awadhi and has its own unique linguistic characteristics, contributing to the state's linguistic diversity.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bagheli_language"
+      },
+      {
+        "Language/Dialect Name": "Khariboli",
+        "Description": "Khariboli, also known as Kauravi, is spoken in the western districts of Uttar Pradesh, including Meerut and Saharanpur. It forms the basis of Standard Hindi and has played a crucial role in the development of modern Hindi literature.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Khariboli"
+      },
+      {
+        "Language/Dialect Name": "Urdu",
+        "Description": "Urdu is widely spoken in Uttar Pradesh, particularly in cities like Lucknow and Aligarh. It has a rich literary heritage and has been used extensively in poetry and prose, reflecting the cultural amalgamation of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Urdu"
+      },
+      {
+        "Language/Dialect Name": "Tharu",
+        "Description": "Tharu is a language spoken by the Tharu tribal community in the Terai region of Uttar Pradesh, especially in districts like Lakhimpur Kheri and Bahraich. It belongs to the Indo-Aryan language family and reflects the unique cultural heritage of the Tharu people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tharu_languages"
+      },
+      {
+        "Language/Dialect Name": "Bhoksa",
+        "Description": "Bhoksa is a lesser-known language spoken by the Bhoksa tribal community in parts of Uttar Pradesh. It is considered endangered, with a declining number of speakers, and efforts are being made to document and preserve this unique dialect.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhoksa_people"
+      }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "items": [
+      {
+        "Language/Dialect Name": "Bengali",
+        "Description": "Bengali is the official and most widely spoken language in West Bengal, belonging to the Indo-Aryan language family. It has a rich literary tradition and serves as a unifying medium among various communities in the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bengali_language"
+      },
+      {
+        "Language/Dialect Name": "Rarhi",
+        "Description": "Rarhi is a dialect of Bengali spoken in the southwestern and central parts of West Bengal, including districts like Kolkata, Howrah, Hooghly, and parts of Nadia. It is characterized by specific phonological and lexical features distinct from other Bengali dialects.",
+        "Reference Link": "https://en.wikibooks.org/wiki/Bengali/Dialects"
+      },
+      {
+        "Language/Dialect Name": "Varendri",
+        "Description": "Varendri is a Bengali dialect spoken in the northern regions of West Bengal, particularly in the Malda division. It shares linguistic features with dialects spoken in the Rajshahi division of Bangladesh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bengali_dialects"
+      },
+      {
+        "Language/Dialect Name": "Santali",
+        "Description": "Santali is an Austroasiatic language spoken by the Santal tribe in parts of West Bengal, especially in the districts of Purulia, Bankura, and Paschim Medinipur. It has its own script, Ol Chiki, and a rich oral tradition.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Santali_language"
+      },
+      {
+        "Language/Dialect Name": "Kurmali",
+        "Description": "Kurmali is an Indo-Aryan language spoken by the Kurmi community in the western districts of West Bengal, such as Purulia and Paschim Medinipur. It reflects the cultural heritage of the Kurmi people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kurmali_language"
+      },
+      {
+        "Language/Dialect Name": "Rajbanshi",
+        "Description": "Rajbanshi is spoken in the northern districts of West Bengal, including Cooch Behar and Jalpaiguri. It is closely related to Assamese and Maithili and holds cultural significance for the Rajbanshi community.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Rajbanshi_language"
+      },
+      {
+        "Language/Dialect Name": "Surjapuri",
+        "Description": "Surjapuri is a language spoken in the northern parts of West Bengal, particularly in the Uttar Dinajpur district. It is considered a mix of Maithili and Bengali and reflects the linguistic diversity of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Surjapuri_language"
+      },
+      {
+        "Language/Dialect Name": "Mundari",
+        "Description": "Mundari is an Austroasiatic language spoken by the Munda tribe in parts of West Bengal, especially in the districts of Purulia and Paschim Medinipur. It has a rich oral tradition and is integral to the cultural identity of the Munda people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mundari_language"
+      },
+      {
+        "Language/Dialect Name": "Lepcha",
+        "Description": "Lepcha is a Sino-Tibetan language spoken by the Lepcha community in the Darjeeling district of West Bengal. It has its own script and is known for its unique phonological features.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lepcha_language"
+      },
+      {
+        "Language/Dialect Name": "Bhutia",
+        "Description": "Bhutia is a Tibeto-Burman language spoken by the Bhutia community in the Darjeeling hills of West Bengal. It reflects the cultural heritage of the Bhutia people and has influences from Tibetan.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhutia_language"
+      },
+      {
+        "Language/Dialect Name": "Toto",
+        "Description": "Toto is a Sino-Tibetan language spoken by the Toto tribe in the Alipurduar district of West Bengal. It is considered endangered, with a small number of speakers, and is unique to the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Toto_language"
+      },
+      {
+        "Language/Dialect Name": "Chakma",
+        "Description": "Chakma is an Indo-Aryan language spoken by the Chakma community in parts of West Bengal. It has its own script and shares linguistic features with Bengali and Assamese.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chakma_language"
+      },
+      {
+        "Language/Dialect Name": "Nepali",
+        "Description": "Nepali is spoken by the Gorkha community in the Darjeeling district of West Bengal. It is an Indo-Aryan language with its own rich literary tradition and is recognized as one of the official languages in the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nepali_language"
+      },
+      {
+        "Language/Dialect Name": "Hindi",
+        "Description": "Hindi is spoken by a significant number of people in West Bengal, especially in urban areas like Kolkata. It serves as a lingua franca among various communities and reflects the linguistic diversity of the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hindi"
+      },
+      {
+        "Language/Dialect Name": "Urdu",
+        "Description": "Urdu is spoken by the Muslim community in West Bengal, particularly in Kolkata and Murshidabad. It has a rich literary tradition and shares linguistic features with Hindi and Bengali.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Urdu"
+      }
+    ]
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Language/Dialect Name": "Great Andamanese",
+        "Description": "Once comprising multiple languages spoken by the Great Andamanese tribes, this language family has seen a significant decline. Today, a mixed language known as 'Present Great Andamanese' is spoken by a small number of individuals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Great_Andamanese_languages"
+      },
+      {
+        "Language/Dialect Name": "Ongan",
+        "Description": "This language family includes two languages: Önge and Jarawa. Both are spoken by indigenous tribes in the Andaman Islands and are considered endangered.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ongan_languages"
+      },
+      {
+        "Language/Dialect Name": "Önge",
+        "Description": "Spoken by the Önge tribe in Little Andaman Island, this language is part of the Ongan family and has very few speakers remaining.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Önge_language"
+      },
+      {
+        "Language/Dialect Name": "Jarawa",
+        "Description": "Used by the Jarawa people of South and Middle Andaman Islands, this language is also part of the Ongan family and remains unwritten.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jarawa_language_(Andaman_Islands)"
+      },
+      {
+        "Language/Dialect Name": "Sentinelese",
+        "Description": "The unclassified language of the Sentinelese people of North Sentinel Island remains unstudied due to the tribe's isolation and resistance to contact.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sentinelese_language"
+      },
+      {
+        "Language/Dialect Name": "Jangil",
+        "Description": "An extinct language once spoken by the Jangil tribe in the interior of Rutland Island. The tribe became extinct in the 20th century.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jangil_language"
+      },
+      {
+        "Language/Dialect Name": "Nicobarese",
+        "Description": "A group of related languages spoken by the Nicobarese people in the Nicobar Islands. They belong to the Austroasiatic language family and include several dialects.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Nicobarese_languages"
+      },
+      {
+        "Language/Dialect Name": "Shompen",
+        "Description": "Spoken by the Shompen people of the interior Nicobar Islands, this language is considered part of the Austroasiatic family and is distinct from Nicobarese.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Shompen_language"
+      },
+      {
+        "Language/Dialect Name": "Aka-Bea",
+        "Description": "One of the Great Andamanese languages, formerly spoken in the southern parts of South Andaman Island. It is now considered extinct.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Aka-Bea_language"
+      },
+      {
+        "Language/Dialect Name": "Aka-Jeru",
+        "Description": "Another language from the Great Andamanese family, once spoken in the northern parts of the Andaman Islands. It has very few speakers today.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Aka-Jeru_language"
+      },
+      {
+        "Language/Dialect Name": "Aka-Kora",
+        "Description": "A Great Andamanese language that was spoken in the northeastern part of Middle Andaman Island. It is now extinct.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Aka-Kora_language"
+      },
+      {
+        "Language/Dialect Name": "Aka-Bo",
+        "Description": "Formerly spoken on North Andaman Island, this Great Andamanese language became extinct with the death of its last speaker in 2010.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Aka-Bo_language"
+      },
+      {
+        "Language/Dialect Name": "Aka-Cari",
+        "Description": "Once spoken in the northernmost islands, this Great Andamanese language is now extinct.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Aka-Cari_language"
+      },
+      {
+        "Language/Dialect Name": "Aka-Kede",
+        "Description": "A Great Andamanese language that was spoken in the central Andaman Islands. It is now considered extinct.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Aka-Kede_language"
+      },
+      {
+        "Language/Dialect Name": "Aka-Kol",
+        "Description": "Another extinct Great Andamanese language, formerly spoken in the central regions of the Andaman Islands.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Aka-Kol_language"
+      },
+      {
+        "Language/Dialect Name": "Aka-Pucikwar",
+        "Description": "Part of the Great Andamanese family, this language was spoken in the central Andaman Islands and is now extinct.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Aka-Pucikwar_language"
+      },
+      {
+        "Language/Dialect Name": "Akar-Bale",
+        "Description": "A Great Andamanese language that was spoken in the eastern parts of Middle Andaman Island. It is now extinct.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Akar-Bale_language"
+      },
+      {
+        "Language/Dialect Name": "A-Pucikwar",
+        "Description": "Once spoken in the central Andaman Islands, this Great Andamanese language is now extinct.",
+        "Reference Link": "https://en.wikipedia.org/wiki/A-Pucikwar_language"
+      },
+      {
+        "Language/Dialect Name": "A-Pai",
+        "Description": "A dialect of the Great Andamanese language family, now considered extinct.",
+        "Reference Link": "https://en.wikipedia.org/wiki/A-Pai_language"
+      },
+      {
+        "Language/Dialect Name": "Akar-Bale",
+        "Description": "Another dialect of the Great Andamanese family, formerly spoken in the Andaman Islands and now extinct.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Akar-Bale_language"
+      }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Language/Dialect Name": "Hindi",
+        "Description": "A widely spoken language in Chandigarh, Hindi is used by approximately 73.60% of the population. It serves as a primary means of communication in daily life and is prevalent in education and administration.",
+        "Reference Link": "https://testbook.com/question-answer/what-is-the-official-language-of-chandigarh--5f07ee0df97e920d1386ea07"
+      },
+      {
+        "Language/Dialect Name": "Punjabi",
+        "Description": "Spoken by about 22.03% of Chandigarh's residents, Punjabi reflects the city's cultural ties to the state of Punjab. It is commonly used in households and local businesses.",
+        "Reference Link": "https://testbook.com/question-answer/what-is-the-official-language-of-chandigarh--5f07ee0df97e920d1386ea07"
+      },
+      {
+        "Language/Dialect Name": "English",
+        "Description": "Serving as the sole official language of Chandigarh, English is utilized in government operations, legal proceedings, and educational institutions. It facilitates communication in this diverse city.",
+        "Reference Link": "https://testbook.com/question-answer/what-is-the-official-language-of-chandigarh--5f07ee0df97e920d1386ea07"
+      },
+      {
+        "Language/Dialect Name": "Haryanvi",
+        "Description": "A dialect of Hindi spoken in the neighboring state of Haryana, Haryanvi influences the linguistic landscape of Chandigarh due to its proximity and shared cultural heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Western_Hindi_languages"
+      },
+      {
+        "Language/Dialect Name": "Puadhi",
+        "Description": "A dialect of Punjabi spoken in the Puadh region, which includes parts of Punjab, Haryana, and Chandigarh. Puadhi contributes to the linguistic diversity of the area.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Puadhi_dialect"
+      },
+      {
+        "Language/Dialect Name": "Hindustani",
+        "Description": "A blend of Hindi and Urdu, Hindustani is commonly spoken in urban areas like Chandigarh, reflecting the city's cosmopolitan nature.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Western_Hindi_languages"
+      },
+      {
+        "Language/Dialect Name": "Punglish",
+        "Description": "A colloquial mix of Punjabi and English, Punglish is popular among the youth in Chandigarh, especially in informal settings like texting and social media.",
+        "Reference Link": "https://www.chandigarh.co.uk/culture/language.html"
+      },
+      {
+        "Language/Dialect Name": "Hinglish",
+        "Description": "A combination of Hindi and English, Hinglish is widely used in Chandigarh, particularly among younger generations, in casual conversations and digital communication.",
+        "Reference Link": "https://www.chandigarh.co.uk/culture/language.html"
+      }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Dama",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Language/Dialect Name": "Gujarati",
+        "Description": "Gujarati is the predominant language spoken in the union territory of Dadra and Nagar Haveli and Daman and Diu. It serves as the primary means of communication among the local population and is also used in official capacities.",
+        "Reference Link": "https://dded.gov.in/detail.php?id=24"
+      },
+      {
+        "Language/Dialect Name": "Marathi",
+        "Description": "Marathi is widely spoken in the region, reflecting the cultural influence of the neighboring state of Maharashtra. It is commonly used in daily communication and cultural expressions.",
+        "Reference Link": "https://www.mapsofindia.com/dadra-nagar-haveli/language.html"
+      },
+      {
+        "Language/Dialect Name": "Hindi",
+        "Description": "Hindi is understood by a vast majority of the people, even in rural areas. It serves as a lingua franca, facilitating communication among diverse linguistic communities.",
+        "Reference Link": "https://dded.gov.in/detail.php?id=24"
+      },
+      {
+        "Language/Dialect Name": "English",
+        "Description": "English is used for official work and is widely spoken by professionals, especially in business and hospitality sectors.",
+        "Reference Link": "https://dded.gov.in/detail.php?id=24"
+      },
+      {
+        "Language/Dialect Name": "Portuguese",
+        "Description": "Due to the region's colonial history, Portuguese was once widely spoken. Today, only a few individuals speak the language, often in a quaint dialect.",
+        "Reference Link": "https://dded.gov.in/detail.php?id=24"
+      },
+      {
+        "Language/Dialect Name": "Warli",
+        "Description": "Warli is an Indo-Aryan language spoken by the Warli tribal community, primarily in Dadra and Nagar Haveli. It reflects the rich cultural heritage of the Warli people, known for their distinctive art forms.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Marathi-Konkani_languages"
+      },
+      {
+        "Language/Dialect Name": "Dhodia",
+        "Description": "Dhodia is a language spoken by the Dhodia tribe in the region. It is part of the Bhil subgroup of Indo-Aryan languages and contributes to the area's tribal linguistic diversity.",
+        "Reference Link": "https://kids.britannica.com/students/article/Dadra-and-Nagar-Haveli/320880"
+      },
+      {
+        "Language/Dialect Name": "Bhili/Bildoli",
+        "Description": "Bhili, also known as Bildoli, is spoken by the Bhil tribal community in Dadra and Nagar Haveli. It is related to Gujarati and Rajasthani languages and is written using variations of the Devanagari script.",
+        "Reference Link": "https://www.mapsofindia.com/dadra-nagar-haveli/language.html"
+      },
+      {
+        "Language/Dialect Name": "Konkani",
+        "Description": "Konkani is spoken by some communities in the union territory, reflecting the cultural and linguistic diversity of the region.",
+        "Reference Link": "https://en.wikivoyage.org/wiki/Dadra_and_Nagar_Haveli_and_Daman_and_Diu"
+      }
+    ]
+  },
+  {
+    "name": "Delhi",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Language/Dialect Name": "Khari Boli",
+        "Description": "Considered the basis of Standard Hindi and Urdu, Khari Boli is an Indo-Aryan dialect that originated in the regions around Delhi. It gained prominence during the Mughal era and became the foundation for modern Hindustani languages.",
+        "Reference Link": "https://www.britannica.com/topic/Hindi-language"
+      },
+      {
+        "Language/Dialect Name": "Urdu",
+        "Description": "Emerging in Delhi during the Mughal period, Urdu developed as a lingua franca among soldiers and citizens, blending Persian, Turkish, Arabic, and local dialects. It became a significant cultural and literary language in Delhi.",
+        "Reference Link": "https://en.wikipedia.org/wiki/History_of_Hindustani_language"
+      },
+      {
+        "Language/Dialect Name": "Braj Bhasha",
+        "Description": "An Indo-Aryan language spoken in the region around Mathura, Braj Bhasha was an important literary medium from the 15th to the 19th century. It has influenced the linguistic landscape of Delhi.",
+        "Reference Link": "https://www.britannica.com/topic/Hindi-language"
+      },
+      {
+        "Language/Dialect Name": "Haryanvi",
+        "Description": "A dialect of Western Hindi, Haryanvi is spoken in the neighboring state of Haryana and has influenced the linguistic patterns in Delhi due to geographical proximity and migration.",
+        "Reference Link": "https://linguistics.illinois.edu/languages/hindi/about-hindi"
+      },
+      {
+        "Language/Dialect Name": "Punjabi",
+        "Description": "With significant migration from Punjab, Punjabi has become widely spoken in Delhi. It is an Indo-Aryan language with a rich literary tradition and has contributed to the cultural diversity of the city.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Languages_of_India"
+      },
+      {
+        "Language/Dialect Name": "Persian",
+        "Description": "During the Mughal era, Persian was the official language of administration and culture in Delhi. Its influence is evident in the city's architecture, literature, and the development of Urdu.",
+        "Reference Link": "https://en.wikipedia.org/wiki/History_of_Hindustani_language"
+      },
+      {
+        "Language/Dialect Name": "Rekhta",
+        "Description": "A form of Hindustani used in poetry, Rekhta blends Persian and local dialects. It gained prominence in Delhi's literary circles during the Mughal period.",
+        "Reference Link": "https://en.wikipedia.org/wiki/History_of_Hindustani_language"
+      }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Language/Dialect Name": "Kashmiri",
+        "Description": "Kashmiri is an Indo-Aryan language spoken by around 7 million people, primarily in the Kashmir Valley. It has a rich literary tradition and is one of the 22 scheduled languages of India. In 2020, it was declared an official language of Jammu and Kashmir.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kashmiri_language"
+      },
+      {
+        "Language/Dialect Name": "Dogri",
+        "Description": "Dogri is an Indo-Aryan language spoken in the Jammu region. It was recognized as a scheduled language in 2003 and became an official language of Jammu and Kashmir in 2020. Dogri has a rich oral tradition and is known for its folk songs and literature.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dogri_language"
+      },
+      {
+        "Language/Dialect Name": "Ladakhi (Bhoti)",
+        "Description": "Ladakhi, also known as Bhoti, is a Tibetic language spoken in the Ladakh region. It shares similarities with Tibetan and uses the Tibetan script. Ladakhi reflects the unique cultural and religious heritage of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ladakhi_language"
+      },
+      {
+        "Language/Dialect Name": "Balti",
+        "Description": "Balti is a Tibetic language spoken in the Kargil district of Jammu and Kashmir. It has preserved many archaic features of the Old Tibetan language and is written in the Perso-Arabic script. Balti culture is known for its rich traditions in music and dance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Balti_language"
+      },
+      {
+        "Language/Dialect Name": "Shina",
+        "Description": "Shina is a Dardic language spoken in the Gurez and Dras valleys. It has several dialects and is known for its rich oral literature, including folk tales and songs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Shina_language"
+      },
+      {
+        "Language/Dialect Name": "Gojri",
+        "Description": "Gojri is an Indo-Aryan language spoken by the Gujjar community in various parts of Jammu and Kashmir. It has a rich tradition of folk literature and is recognized for its unique cultural expressions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gojri_language"
+      },
+      {
+        "Language/Dialect Name": "Pahari-Pothwari",
+        "Description": "Pahari-Pothwari is spoken in the Pir Panjal Range, particularly in the Poonch and Rajouri districts. It serves as a linguistic bridge between Punjabi and Hindko and reflects the cultural diversity of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pahari-Pothwari"
+      },
+      {
+        "Language/Dialect Name": "Bhadarwahi",
+        "Description": "Bhadarwahi is an Indo-Aryan language spoken in the Bhaderwah region of Jammu and Kashmir. It has its own distinct linguistic features and contributes to the cultural diversity of the state.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhadarwahi_language"
+      },
+      {
+        "Language/Dialect Name": "Sarazi",
+        "Description": "Sarazi is spoken in the Doda district and serves as a transitional dialect between Kashmiri and Dogri. It reflects the linguistic diversity of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Sarazi_language"
+      },
+      {
+        "Language/Dialect Name": "Burushaski",
+        "Description": "Burushaski is a language isolate spoken by a small community in the northern regions of Jammu and Kashmir. It has no known linguistic relatives and is considered endangered.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Burushaski_language"
+      }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Language/Dialect Name": "Ladakhi (Bhoti)",
+        "Description": "Ladakhi, also known as Bhoti, is a Tibetic language spoken predominantly in the Leh district of Ladakh. It has several dialects, including Lehskat (spoken in Leh), Shamskat (northwest of Leh), Stotskat (in the Indus Valley), and Nubra (north of Leh). While it uses the Tibetan script, Ladakhi is not mutually intelligible with Standard Tibetan.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ladakhi_language"
+      },
+      {
+        "Language/Dialect Name": "Zangskari",
+        "Description": "Zangskari is a dialect of Ladakhi spoken in the Zanskar region. It has four sub-dialects: Stod, Zhung, Sham, and Lungna. Zangskari reflects the unique cultural and linguistic heritage of the Zanskar valley.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ladakhi_language"
+      },
+      {
+        "Language/Dialect Name": "Changthang",
+        "Description": "The Changthang dialect is spoken by the Changpa nomads in the Changtang region of eastern Ladakh. This dialect reflects the nomadic lifestyle and high-altitude pastoral culture of the Changpa people.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ladakhi_language"
+      },
+      {
+        "Language/Dialect Name": "Balti",
+        "Description": "Balti is a Tibetic language spoken in the Kargil district of Ladakh and in the Baltistan region of Pakistan. It has preserved many archaic features of Old Tibetan and is written in the Perso-Arabic script by Muslims and the Tibetan script by Buddhists.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Balti_language"
+      },
+      {
+        "Language/Dialect Name": "Purgi",
+        "Description": "Purgi is spoken in the Kargil district and is considered a transitional dialect between Ladakhi and Balti. It shares linguistic features with both languages and reflects the cultural amalgamation of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ladakhi%E2%80%93Balti_languages"
+      },
+      {
+        "Language/Dialect Name": "Brokskat",
+        "Description": "Brokskat is spoken by the Brokpa community in the Dha-Hanu region of Ladakh. It is an Eastern Dardic language and is considered endangered, with a limited number of speakers maintaining its use.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Brokskat_language"
+      },
+      {
+        "Language/Dialect Name": "Shina",
+        "Description": "Shina is a Dardic language spoken by the Dard-Shin community in the Dras and Gurez valleys. In Ladakh, it is primarily spoken in the Dras region of Kargil district.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Shina_language"
+      },
+      {
+        "Language/Dialect Name": "Brokpa",
+        "Description": "The Brokpa community, residing in the Dha-Hanu region, speaks a dialect known as Brokskat. This language is part of the Eastern Dardic group and is unique to this small community in Ladakh.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Brokpa,_Drokpa,_Dard_and_Shin"
+      }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Language/Dialect Name": "Jeseri (Dweep Bhasha)",
+        "Description": "Jeseri, also known as Dweep Bhasha, is a dialect of Malayalam spoken in the Lakshadweep archipelago, particularly on the islands of Chetlat, Bitra, Kiltan, Kadmat, Amini, Kavaratti, Androth, Agatti, and Kalpeni. It has similarities to Arabi Malayalam, reflecting historical interactions with Arabic-speaking traders.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jeseri"
+      },
+      {
+        "Language/Dialect Name": "Mahl",
+        "Description": "Mahl is a dialect of Dhivehi spoken on Minicoy Island (Maliku) in Lakshadweep. It shares linguistic features with the Maldivian language and has been influenced by Arabic and Persian due to historical maritime connections.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Maldivian_language"
+      },
+      {
+        "Language/Dialect Name": "Maliku",
+        "Description": "Maliku is a dialect of Dhivehi spoken on Minicoy Island in Lakshadweep. It shares linguistic features with the Maldivian language and has been influenced by Arabic and Persian due to historical maritime connections.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Maldivian_language"
+      },
+      {
+        "Language/Dialect Name": "Arabi Malayalam",
+        "Description": "Arabi Malayalam is a traditional dialect spoken by the Mappila community of the Malabar Coast, which has influenced the Jeseri dialect in Lakshadweep. It incorporates numerous Arabic loanwords, reflecting the Islamic cultural heritage of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Arabi_Malayalam"
+      }
+    ]
+  },
+  {
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Language/Dialect Name": "Tamil",
+        "Description": "Serving as the primary official language, Tamil is predominantly spoken in the Puducherry and Karaikal districts. It reflects the Dravidian heritage of the region.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Tamil_language",
+        "Unnamed: 3": ""
+      },
+      {
+        "Language/Dialect Name": "Telugu",
+        "Description": "Telugu holds official status in the Yanam district, where it is widely spoken by the local population.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Telugu_language",
+        "Unnamed: 3": ""
+      },
+      {
+        "Language/Dialect Name": "Malayalam",
+        "Description": "In the Mahé district, Malayalam is the official language, reflecting the area's cultural alignment with the neighboring state of Kerala.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Malayalam_language",
+        "Unnamed: 3": ""
+      },
+      {
+        "Language/Dialect Name": "French",
+        "Description": "A remnant of colonial history, French continues to influence Puducherry's culture. While its use has declined, it remains an official language and is evident in signage and some local institutions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Official_languages_of_Puducherry",
+        "Unnamed: 3": ""
+      },
+      {
+        "Language/Dialect Name": "English",
+        "Description": "Serving as a link language across the Union Territory, English is used for official purposes and is widely understood.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Official_languages_of_Puducherry",
+        "Unnamed: 3": ""
+      },
+      {
+        "Language/Dialect Name": "Tamil Dialects (e.g.",
+        "Description": "Pondicherry Tamil)",
+        "Reference Link": "Local variations of Tamil in Puducherry exhibit unique linguistic features influenced by historical French contact, distinguishing them from standard Tamil.",
+        "Unnamed: 3": "https://en.wikipedia.org/wiki/Puducherry"
+      },
+      {
+        "Language/Dialect Name": "French Creole (e.g.",
+        "Description": "Tamil-French Creole)",
+        "Reference Link": "Developed during the colonial period, this creole combines elements of French and Tamil, though it is now endangered with few remaining speakers.",
+        "Unnamed: 3": "https://en.wikipedia.org/wiki/Official_languages_of_Puducherry"
+      }
+    ]
+  }
+]

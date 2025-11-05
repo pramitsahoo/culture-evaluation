@@ -1,0 +1,222 @@
+Adaptation Statistics Per State:
+State: Andhra Pradesh
+  Total Concepts   : 37
+  Adapted Concepts : 0
+  Not Adapted      : 37
+  Matched Concepts : None
+
+State: Arunachal Pradesh
+  Total Concepts   : 20
+  Adapted Concepts : 0
+  Not Adapted      : 20
+  Matched Concepts : None
+
+State: Assam
+  Total Concepts   : 67
+  Adapted Concepts : 1
+  Not Adapted      : 66
+  Matched Concepts : Holi
+
+State: Bihar
+  Total Concepts   : 65
+  Adapted Concepts : 2
+  Not Adapted      : 63
+  Matched Concepts : Diwali, Holi
+
+State: Chhattisgarh
+  Total Concepts   : 29
+  Adapted Concepts : 0
+  Not Adapted      : 29
+  Matched Concepts : None
+
+State: Goa
+  Total Concepts   : 84
+  Adapted Concepts : 2
+  Not Adapted      : 82
+  Matched Concepts : Diwali, Holi
+
+State: Gujarat
+  Total Concepts   : 20
+  Adapted Concepts : 2
+  Not Adapted      : 18
+  Matched Concepts : Diwali, Holi
+
+State: Haryana
+  Total Concepts   : 24
+  Adapted Concepts : 2
+  Not Adapted      : 22
+  Matched Concepts : Holi, Diwali
+
+State: Himachal Pradesh
+  Total Concepts   : 20
+  Adapted Concepts : 0
+  Not Adapted      : 20
+  Matched Concepts : None
+
+State: Jharkhand
+  Total Concepts   : 23
+  Adapted Concepts : 2
+  Not Adapted      : 21
+  Matched Concepts : Diwali, Holi
+
+State: Karnataka
+  Total Concepts   : 16
+  Adapted Concepts : 0
+  Not Adapted      : 16
+  Matched Concepts : None
+
+State: Kerala
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Madhya Pradesh
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Maharashtra
+  Total Concepts   : 9
+  Adapted Concepts : 1
+  Not Adapted      : 8
+  Matched Concepts : Diwali
+
+State: Manipur
+  Total Concepts   : 31
+  Adapted Concepts : 2
+  Not Adapted      : 29
+  Matched Concepts : Diwali, Holi
+
+State: Meghalaya
+  Total Concepts   : 25
+  Adapted Concepts : 1
+  Not Adapted      : 24
+  Matched Concepts : Diwali
+
+State: Mizoram
+  Total Concepts   : 19
+  Adapted Concepts : 1
+  Not Adapted      : 18
+  Matched Concepts : Diwali
+
+State: Nagaland
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Odisha
+  Total Concepts   : 60
+  Adapted Concepts : 2
+  Not Adapted      : 58
+  Matched Concepts : Diwali, Holi
+
+State: Punjab
+  Total Concepts   : 10
+  Adapted Concepts : 2
+  Not Adapted      : 8
+  Matched Concepts : Holi, Diwali
+
+State: Rajasthan
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Sikkim
+  Total Concepts   : 8
+  Adapted Concepts : 0
+  Not Adapted      : 8
+  Matched Concepts : None
+
+State: Tamil Nadu
+  Total Concepts   : 12
+  Adapted Concepts : 0
+  Not Adapted      : 12
+  Matched Concepts : None
+
+State: Telangana
+  Total Concepts   : 11
+  Adapted Concepts : 0
+  Not Adapted      : 11
+  Matched Concepts : None
+
+State: Tripura
+  Total Concepts   : 11
+  Adapted Concepts : 1
+  Not Adapted      : 10
+  Matched Concepts : Diwali
+
+State: Uttarakhand
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Uttar Pradesh
+  Total Concepts   : 47
+  Adapted Concepts : 2
+  Not Adapted      : 45
+  Matched Concepts : Holi, Diwali
+
+State: West Bengal
+  Total Concepts   : 65
+  Adapted Concepts : 0
+  Not Adapted      : 65
+  Matched Concepts : None
+
+State: Andaman and Nicobar Islands
+  Total Concepts   : 31
+  Adapted Concepts : 2
+  Not Adapted      : 29
+  Matched Concepts : Holi, Diwali
+
+State: Chandigarh
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Dadra and Nagar Haveli and Dama
+  Total Concepts   : 16
+  Adapted Concepts : 2
+  Not Adapted      : 14
+  Matched Concepts : Diwali, Holi
+
+State: Delhi
+  Total Concepts   : 15
+  Adapted Concepts : 2
+  Not Adapted      : 13
+  Matched Concepts : Diwali, Holi
+
+State: Jammu and Kashmir
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Ladakh
+  Total Concepts   : 12
+  Adapted Concepts : 0
+  Not Adapted      : 12
+  Matched Concepts : None
+
+State: Lakshadweep
+  Total Concepts   : 6
+  Adapted Concepts : 0
+  Not Adapted      : 6
+  Matched Concepts : None
+
+State: Puducherry
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+Overall Statistics:
+Total Concepts         : 873
+Total Adapted Concepts : 29
+Total Not Adapted      : 844
+Overall Adaptation Score: 0.03

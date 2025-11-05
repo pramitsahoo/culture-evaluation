@@ -1,0 +1,222 @@
+Adaptation Statistics Per State:
+State: Andhra Pradesh
+  Total Concepts   : 37
+  Adapted Concepts : 1
+  Not Adapted      : 36
+  Matched Concepts : Christmas
+
+State: Arunachal Pradesh
+  Total Concepts   : 20
+  Adapted Concepts : 0
+  Not Adapted      : 20
+  Matched Concepts : None
+
+State: Assam
+  Total Concepts   : 67
+  Adapted Concepts : 0
+  Not Adapted      : 67
+  Matched Concepts : None
+
+State: Bihar
+  Total Concepts   : 65
+  Adapted Concepts : 1
+  Not Adapted      : 64
+  Matched Concepts : Diwali
+
+State: Chhattisgarh
+  Total Concepts   : 29
+  Adapted Concepts : 0
+  Not Adapted      : 29
+  Matched Concepts : None
+
+State: Goa
+  Total Concepts   : 84
+  Adapted Concepts : 2
+  Not Adapted      : 82
+  Matched Concepts : Diwali, Christmas
+
+State: Gujarat
+  Total Concepts   : 20
+  Adapted Concepts : 3
+  Not Adapted      : 17
+  Matched Concepts : Janmashtami, Diwali, Christmas
+
+State: Haryana
+  Total Concepts   : 24
+  Adapted Concepts : 1
+  Not Adapted      : 23
+  Matched Concepts : Diwali
+
+State: Himachal Pradesh
+  Total Concepts   : 20
+  Adapted Concepts : 0
+  Not Adapted      : 20
+  Matched Concepts : None
+
+State: Jharkhand
+  Total Concepts   : 23
+  Adapted Concepts : 1
+  Not Adapted      : 22
+  Matched Concepts : Diwali
+
+State: Karnataka
+  Total Concepts   : 16
+  Adapted Concepts : 0
+  Not Adapted      : 16
+  Matched Concepts : None
+
+State: Kerala
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Madhya Pradesh
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Maharashtra
+  Total Concepts   : 9
+  Adapted Concepts : 1
+  Not Adapted      : 8
+  Matched Concepts : Diwali
+
+State: Manipur
+  Total Concepts   : 31
+  Adapted Concepts : 3
+  Not Adapted      : 28
+  Matched Concepts : Christmas, Diwali, Janmashtami
+
+State: Meghalaya
+  Total Concepts   : 25
+  Adapted Concepts : 3
+  Not Adapted      : 22
+  Matched Concepts : Christmas, New Year, Diwali
+
+State: Mizoram
+  Total Concepts   : 19
+  Adapted Concepts : 3
+  Not Adapted      : 16
+  Matched Concepts : Christmas, New Year, Diwali
+
+State: Nagaland
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Odisha
+  Total Concepts   : 60
+  Adapted Concepts : 2
+  Not Adapted      : 58
+  Matched Concepts : Diwali, Janmashtami
+
+State: Punjab
+  Total Concepts   : 10
+  Adapted Concepts : 1
+  Not Adapted      : 9
+  Matched Concepts : Diwali
+
+State: Rajasthan
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Sikkim
+  Total Concepts   : 8
+  Adapted Concepts : 0
+  Not Adapted      : 8
+  Matched Concepts : None
+
+State: Tamil Nadu
+  Total Concepts   : 12
+  Adapted Concepts : 0
+  Not Adapted      : 12
+  Matched Concepts : None
+
+State: Telangana
+  Total Concepts   : 11
+  Adapted Concepts : 0
+  Not Adapted      : 11
+  Matched Concepts : None
+
+State: Tripura
+  Total Concepts   : 11
+  Adapted Concepts : 1
+  Not Adapted      : 10
+  Matched Concepts : Diwali
+
+State: Uttarakhand
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Uttar Pradesh
+  Total Concepts   : 47
+  Adapted Concepts : 2
+  Not Adapted      : 45
+  Matched Concepts : Diwali, Janmashtami
+
+State: West Bengal
+  Total Concepts   : 65
+  Adapted Concepts : 1
+  Not Adapted      : 64
+  Matched Concepts : Janmashtami
+
+State: Andaman and Nicobar Islands
+  Total Concepts   : 31
+  Adapted Concepts : 3
+  Not Adapted      : 28
+  Matched Concepts : Diwali, Christmas, Janmashtami
+
+State: Chandigarh
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Dadra and Nagar Haveli and Dama
+  Total Concepts   : 16
+  Adapted Concepts : 2
+  Not Adapted      : 14
+  Matched Concepts : Diwali, Christmas
+
+State: Delhi
+  Total Concepts   : 15
+  Adapted Concepts : 3
+  Not Adapted      : 12
+  Matched Concepts : Diwali, Christmas, Janmashtami
+
+State: Jammu and Kashmir
+  Total Concepts   : 10
+  Adapted Concepts : 0
+  Not Adapted      : 10
+  Matched Concepts : None
+
+State: Ladakh
+  Total Concepts   : 12
+  Adapted Concepts : 0
+  Not Adapted      : 12
+  Matched Concepts : None
+
+State: Lakshadweep
+  Total Concepts   : 6
+  Adapted Concepts : 0
+  Not Adapted      : 6
+  Matched Concepts : None
+
+State: Puducherry
+  Total Concepts   : 10
+  Adapted Concepts : 1
+  Not Adapted      : 9
+  Matched Concepts : Christmas
+
+Overall Statistics:
+Total Concepts         : 873
+Total Adapted Concepts : 35
+Total Not Adapted      : 838
+Overall Adaptation Score: 0.04

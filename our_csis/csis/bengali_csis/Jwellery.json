@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "কসুলাপেরু" },
+      { "Jewelry Name": "গুট্টাপুসালু" },
+      { "Jewelry Name": "ভাদানম" },
+      { "Jewelry Name": "পাপিদি বিল্লা" },
+      { "Jewelry Name": "ভাঙ্কি" },
+      { "Jewelry Name": "রানি হার" },
+      { "Jewelry Name": "চাঁদবালী" },
+      { "Jewelry Name": "পুলা যাদা" },
+      { "Jewelry Name": "সূত্রলু গোলুসু" },
+      { "Jewelry Name": "লক্ষ্মী কাদিয়াম" },
+      { "Jewelry Name": "নিযামি নাথ" },
+      { "Jewelry Name": "টেম্পল জুয়েলারি" }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "বেন্যোপ" },
+      { "Jewelry Name": "গিচলি" },
+      { "Jewelry Name": "লেনচ্চি" },
+      { "Jewelry Name": "আইশেরি" },
+      { "Jewelry Name": "অরুলায়া" },
+      { "Jewelry Name": "লেকাপন" },
+      { "Jewelry Name": "বেন" },
+      { "Jewelry Name": "ইয়োক্সা" },
+      { "Jewelry Name": "বিডেড নেকলেস" },
+      { "Jewelry Name": "কয়েন নেকলেস" },
+      { "Jewelry Name": "হেডব্যান্ডস" },
+      { "Jewelry Name": "ব্রাস চেইনস অ্যান্ড বেলস" },
+      { "Jewelry Name": "বিডেড হেয়ার অর্নামেন্টস" },
+      { "Jewelry Name": "বিডেড ওয়েস্টব্যান্ডস" },
+      { "Jewelry Name": "লেপার্ড জ’ পেনডেন্ট" },
+      { "Jewelry Name": "রিড ফাইবার হেডড্রেসেস" }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "গামখারু" },
+      { "Jewelry Name": "জোনবিরি" },
+      { "Jewelry Name": "দুগদুগী" },
+      { "Jewelry Name": "গালপাতা" },
+      { "Jewelry Name": "থুরিয়া" },
+      { "Jewelry Name": "সেনপাতি" },
+      { "Jewelry Name": "ধানসিরি" },
+      { "Jewelry Name": "মাগারদানা" },
+      { "Jewelry Name": "উকা-কেরু" },
+      { "Jewelry Name": "কেরুমনি" },
+      { "Jewelry Name": "ঢলব্রী" },
+      { "Jewelry Name": "জেথি পোতি" }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "চোকার" },
+      { "Jewelry Name": "চন্দ্রহার" },
+      { "Jewelry Name": "টিকলি" },
+      { "Jewelry Name": "পঞ্চলারি" },
+      { "Jewelry Name": "সাতলারি" },
+      { "Jewelry Name": "সীতা হার" },
+      { "Jewelry Name": "নাথ" },
+      { "Jewelry Name": "ঢোলনা" },
+      { "Jewelry Name": "লাহতি" },
+      { "Jewelry Name": "বিচুয়া" },
+      { "Jewelry Name": "মৌরি" },
+      { "Jewelry Name": "হাঁসুলী" },
+      { "Jewelry Name": "বাজুবন্ধ" }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "ফুল্লি" },
+      { "Jewelry Name": "বিচহিয়া" },
+      { "Jewelry Name": "পেরি" },
+      { "Jewelry Name": "সান্তি" },
+      { "Jewelry Name": "পাইজেব" },
+      { "Jewelry Name": "লাছা" },
+      { "Jewelry Name": "কার্ধন" },
+      { "Jewelry Name": "কামর পট্টা" },
+      { "Jewelry Name": "দুরাইয়া-পারচাইয়া" },
+      { "Jewelry Name": "হারিয়া" },
+      { "Jewelry Name": "কারা" },
+      { "Jewelry Name": "বানরিয়া" },
+      { "Jewelry Name": "কাকনি" },
+      { "Jewelry Name": "চুড়ি" },
+      { "Jewelry Name": "নাগমোরি" },
+      { "Jewelry Name": "বহুতি" },
+      { "Jewelry Name": "তিল্রী" },
+      { "Jewelry Name": "দুল্রী" },
+      { "Jewelry Name": "কান্তা" },
+      { "Jewelry Name": "হুসলি" },
+      { "Jewelry Name": "সুতিয়া" },
+      { "Jewelry Name": "ধর" },
+      { "Jewelry Name": "খিনওয়া" },
+      { "Jewelry Name": "করনফুল" }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "বাজুবন্ধ" },
+      { "Jewelry Name": "গথ" },
+      { "Jewelry Name": "তোদে" },
+      { "Jewelry Name": "পিচোদি" },
+      { "Jewelry Name": "পিডডুকাচি কাকনা" },
+      { "Jewelry Name": "কয়েন ব্যাংলস" },
+      { "Jewelry Name": "কসিতালি" },
+      { "Jewelry Name": "গালসিরি" },
+      { "Jewelry Name": "পাকে" },
+      { "Jewelry Name": "অম্বদা আতি" },
+      { "Jewelry Name": "পাটলি" },
+      { "Jewelry Name": "গোয়ান নাথ" },
+      { "Jewelry Name": "ভেল" },
+      { "Jewelry Name": "ভাকি" },
+      { "Jewelry Name": "পাটল্যা" }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "চন্দন হার" },
+      { "Jewelry Name": "কুন্দন ব্যাংলদি" },
+      { "Jewelry Name": "কালিগন্থি নেকপিস" },
+      { "Jewelry Name": "চুদামনি" },
+      { "Jewelry Name": "চুদলো" },
+      { "Jewelry Name": "পাটলা ব্যাংলস" },
+      { "Jewelry Name": "দামানি নেকলেস" },
+      { "Jewelry Name": "কান্থি নেকলেস" },
+      { "Jewelry Name": "বরলা" },
+      { "Jewelry Name": "রানি হার" },
+      { "Jewelry Name": "জাদৌ জুয়েলারি" },
+      { "Jewelry Name": "নবরত্ন জুয়েলারি" },
+      { "Jewelry Name": "মাতরমালা" },
+      { "Jewelry Name": "তিমানিয়া" },
+      { "Jewelry Name": "হাঁথ ফুল" }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "কাঠলা" },
+      { "Jewelry Name": "মালা" },
+      { "Jewelry Name": "হাঁসুলী" },
+      { "Jewelry Name": "ঝালরা" },
+      { "Jewelry Name": "করনফুল" },
+      { "Jewelry Name": "বুজনি" },
+      { "Jewelry Name": "ডান্ডলে" },
+      { "Jewelry Name": "মাতরমালা" },
+      { "Jewelry Name": "জোএমালা" },
+      { "Jewelry Name": "কাদি" },
+      { "Jewelry Name": "চালাকদে" },
+      { "Jewelry Name": "বরলা" },
+      { "Jewelry Name": "শিংগর পাত্তি" },
+      { "Jewelry Name": "টাগডি" },
+      { "Jewelry Name": "কান্থি" },
+      { "Jewelry Name": "পঞ্চমোরা" }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "চন্দনহার" },
+      { "Jewelry Name": "চিরি টিকা" },
+      { "Jewelry Name": "চুড়ি" },
+      { "Jewelry Name": "তোরা" },
+      { "Jewelry Name": "বুমানি" },
+      { "Jewelry Name": "ঝুমকি" },
+      { "Jewelry Name": "চন্দ্রসেনী হার" },
+      { "Jewelry Name": "চাঁদ বালি" },
+      { "Jewelry Name": "চিরি ফুল" },
+      { "Jewelry Name": "চাকার" },
+      { "Jewelry Name": "চন্দেরহার" },
+      { "Jewelry Name": "চিরি হর" },
+      { "Jewelry Name": "চিরি বালি" },
+      { "Jewelry Name": "চিরি নাথ" },
+      { "Jewelry Name": "চিরি কাদা" },
+      { "Jewelry Name": "চিরি ঝুমকা" },
+      { "Jewelry Name": "চিরি তোরা" },
+      { "Jewelry Name": "চিরি বুমানি" },
+      { "Jewelry Name": "চিরি ঝুমকি" },
+      { "Jewelry Name": "চিরি চুড়ি" }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "করনফুল" },
+      { "Jewelry Name": "খোঙ্গোসো" },
+      { "Jewelry Name": "চাওনওয়ানি খোঙ্গোসো" },
+      { "Jewelry Name": "পানাপত্তা খোঙ্গোসো" },
+      { "Jewelry Name": "কালিপ" },
+      { "Jewelry Name": "কানপাসা" },
+      { "Jewelry Name": "সুপ্রাকানা" },
+      { "Jewelry Name": "বেসারি" },
+      { "Jewelry Name": "হাসলি" },
+      { "Jewelry Name": "খাম্ভিয়া" },
+      { "Jewelry Name": "সীতা হার" },
+      { "Jewelry Name": "কান্তামালা" },
+      { "Jewelry Name": "চন্দ্রহার" },
+      { "Jewelry Name": "তাড" },
+      { "Jewelry Name": "বাজুবন্ধ" }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "কোক্কেথাথি" },
+      { "Jewelry Name": "মুঠিনা ভোলে ঝিমিকি" },
+      { "Jewelry Name": "কার্থামনি পাঠক" },
+      { "Jewelry Name": "জাদেনগরা" },
+      { "Jewelry Name": "গুরুবিনা কাদা" },
+      { "Jewelry Name": "কাসিনা বাল" },
+      { "Jewelry Name": "নন্দিন অঙ্গুতি" },
+      { "Jewelry Name": "ব্যাঘ্রনখা" },
+      { "Jewelry Name": "পিরদুক" },
+      { "Jewelry Name": "কাপ" },
+      { "Jewelry Name": "মাসলি" }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "পলক্কা মালা" },
+      { "Jewelry Name": "কাসু মালা" },
+      { "Jewelry Name": "মুল্লা মত্তু মালা" },
+      { "Jewelry Name": "নাগপদম" },
+      { "Jewelry Name": "আরণজানম" },
+      { "Jewelry Name": "ঝিমকি" },
+      { "Jewelry Name": "পুলা যাদা" },
+      { "Jewelry Name": "এলাক্কাথালী" },
+      { "Jewelry Name": "পাথাকাম" },
+      { "Jewelry Name": "থোডা" },
+      { "Jewelry Name": "ভাঙ্কি" },
+      { "Jewelry Name": "অড্ডিয়ানম" },
+      { "Jewelry Name": "কলুসু" }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "হাঁসুলী" },
+      { "Jewelry Name": "বরলা" },
+      { "Jewelry Name": "ঝেলা" },
+      { "Jewelry Name": "নাথ" },
+      { "Jewelry Name": "ল্যাক ব্যাংলস" },
+      { "Jewelry Name": "বিড জুয়েলারি" },
+      { "Jewelry Name": "কয়েন নেকলেসেস" },
+      { "Jewelry Name": "কার্ধন" },
+      { "Jewelry Name": "বলি" }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "নাথ" },
+      { "Jewelry Name": "থুষি" },
+      { "Jewelry Name": "কলহাপুরি সাজ" },
+      { "Jewelry Name": "পুতলি হার (লক্ষ্মী হার)" },
+      { "Jewelry Name": "বুগাদি" },
+      { "Jewelry Name": "তোদে" },
+      { "Jewelry Name": "মোহন মালা" },
+      { "Jewelry Name": "চুড়া" },
+      { "Jewelry Name": "মঙ্গালসূত্র" },
+      { "Jewelry Name": "অম্বদা পিন" },
+      { "Jewelry Name": "সাত লাদা" },
+      { "Jewelry Name": "ঝুমকা" },
+      { "Jewelry Name": "চন্দ্রকর বিন্দি" },
+      { "Jewelry Name": "ভাঙ্কি" },
+      { "Jewelry Name": "পাটল্যা" },
+      { "Jewelry Name": "চিঞ্চপেতি" },
+      { "Jewelry Name": "ভিকবালী" },
+      { "Jewelry Name": "অম্বদা পিন" },
+      { "Jewelry Name": "সাত লাদা" },
+      { "Jewelry Name": "ঝাজীর" }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "লিকচাও (কান্তা)" },
+      { "Jewelry Name": "লিখসোই" },
+      { "Jewelry Name": "খাউনাপ্পি" },
+      { "Jewelry Name": "কিয়াং-লিকফ্যাং" },
+      { "Jewelry Name": "মারে" },
+      { "Jewelry Name": "হেইবি মাপাল" },
+      { "Jewelry Name": "খিমাহর্ন" },
+      { "Jewelry Name": "পুয়ান্ডুম" },
+      { "Jewelry Name": "নগৌটেখেল" }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "পাইলা" },
+      { "Jewelry Name": "ক্যাঞ্জরি ক্সিয়ার" },
+      { "Jewelry Name": "রিজিটক" },
+      { "Jewelry Name": "নাদোংবি" },
+      { "Jewelry Name": "নাদিরং" },
+      { "Jewelry Name": "নাতাপসি" },
+      { "Jewelry Name": "জাকসন" },
+      { "Jewelry Name": "রিপোক" },
+      { "Jewelry Name": "জাকসিল" }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "পাউল হ্মাং" },
+      { "Jewelry Name": "থি-হ্না" },
+      { "Jewelry Name": "তাওলহলো" },
+      { "Jewelry Name": "পঞ্চাং" },
+      { "Jewelry Name": "খুম্বেউ" }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "বোয়ার টাস্ক নেকলেস" },
+      { "Jewelry Name": "বিডেড চোকার" },
+      { "Jewelry Name": "ব্রাস হেডগিয়ার" },
+      { "Jewelry Name": "শেল আর্মলেট" },
+      { "Jewelry Name": "কোরাল নেকলেস" },
+      { "Jewelry Name": "বোন ইয়ারিংস" },
+      { "Jewelry Name": "ব্রাস বেলস অঙ্কলেট" },
+      { "Jewelry Name": "টাইগার ক্ল ফ পেনডেন্ট" },
+      { "Jewelry Name": "ফেদারড হেডগিয়ার" },
+      { "Jewelry Name": "বিডেড ওয়েস্ট বেল্ট" }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "তারাকাসি" },
+      { "Jewelry Name": "সুনা বেসা অলংকার" },
+      { "Jewelry Name": "ওদিসি নৃত্য জুয়েলারি" },
+      { "Jewelry Name": "বন্ডা জুয়েলারি" },
+      { "Jewelry Name": "ডোকার জুয়েলারি" },
+      { "Jewelry Name": "চন্দ্রিকা" },
+      { "Jewelry Name": "ঝুম্পা" },
+      { "Jewelry Name": "শঙ্খ" },
+      { "Jewelry Name": "চিত" },
+      { "Jewelry Name": "কাদা" },
+      { "Jewelry Name": "গামুচা" }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "চুড়া" },
+      { "Jewelry Name": "কালিরে" },
+      { "Jewelry Name": "মা'ং টিকা" },
+      { "Jewelry Name": "নাথ" },
+      { "Jewelry Name": "ঝুমকা" },
+      { "Jewelry Name": "রানি হার" },
+      { "Jewelry Name": "পাসা" },
+      { "Jewelry Name": "সাজ্জি ফুল" },
+      { "Jewelry Name": "চোকার" },
+      { "Jewelry Name": "হাঁথ ফুল" },
+      { "Jewelry Name": "আনন্দ কারাজ কাদা" },
+      { "Jewelry Name": "টিকা" },
+      { "Jewelry Name": "জাদৌ জুয়েলারি" },
+      { "Jewelry Name": "ফুলকারি" },
+      { "Jewelry Name": "পিপাল পত্তি" },
+      { "Jewelry Name": "দামিনী" },
+      { "Jewelry Name": "ঝুমের" },
+      { "Jewelry Name": "চুড়া" },
+      { "Jewelry Name": "পাঞ্জাবি জাদৌ ব্যাংলস" },
+      { "Jewelry Name": "পাঞ্জাবি কৈন্থা" },
+      { "Jewelry Name": "পাঞ্জাবি সিলভার কাদা" },
+      { "Jewelry Name": "পাঞ্জাবি নাম নেকলেস" }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "মারওয়াড়ী" },
+      { "Jewelry Name": "মেওয়াড়ী" },
+      { "Jewelry Name": "ধুন্ধাড়ী" },
+      { "Jewelry Name": "শেখাওয়াতী" },
+      { "Jewelry Name": "হারাউতি" },
+      { "Jewelry Name": "মেওয়াটি" },
+      { "Jewelry Name": "বাগড়ী" },
+      { "Jewelry Name": "মালভী" },
+      { "Jewelry Name": "ওয়াগডি" },
+      { "Jewelry Name": "ভিলি" },
+      { "Jewelry Name": "গারাসিয়া" },
+      { "Jewelry Name": "গুজরি" },
+      { "Jewelry Name": "লামবাদি" },
+      { "Jewelry Name": "আহিরওয়াটি" },
+      { "Jewelry Name": "গাদে লোহর" }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "নেপালী" },
+      { "Jewelry Name": "সিকিমিজ (ভূটিয়া)" },
+      { "Jewelry Name": "লেপচা" },
+      { "Jewelry Name": "লিম্বু" },
+      { "Jewelry Name": "গুরুং" },
+      { "Jewelry Name": "মাগার" },
+      { "Jewelry Name": "রাই" },
+      { "Jewelry Name": "তামাং" },
+      { "Jewelry Name": "শের্পা" },
+      { "Jewelry Name": "নেওয়ার" },
+      { "Jewelry Name": "সুনুয়ার" },
+      { "Jewelry Name": "মুখিয়া" }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "টেম্পল জুয়েলারি" },
+      { "Jewelry Name": "কাসু মালা" },
+      { "Jewelry Name": "মাঙ্গা মালা" },
+      { "Jewelry Name": "ভাঙ্কি" },
+      { "Jewelry Name": "অড্ডিয়ানম" },
+      { "Jewelry Name": "জাদেনগা চুল" },
+      { "Jewelry Name": "নেথি চুট্টি" },
+      { "Jewelry Name": "ঝুমকি" },
+      { "Jewelry Name": "থালাইসামান" },
+      { "Jewelry Name": "রাক্কোদি" },
+      { "Jewelry Name": "মা'ং টিকা" },
+      { "Jewelry Name": "ভাঙ্কি" },
+      { "Jewelry Name": "থোডু" },
+      { "Jewelry Name": "মাট্টাল" },
+      { "Jewelry Name": "সিলাম্বু" },
+      { "Jewelry Name": "আরণজানম" },
+      { "Jewelry Name": "পাউম্বাদাম" },
+      { "Jewelry Name": "ফিলিগ্রি পেনডেন্ট" }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "পাপিদি বিল্লা" },
+      { "Jewelry Name": "ভাদানম" },
+      { "Jewelry Name": "পুলা যাদা" },
+      { "Jewelry Name": "চোকার" },
+      { "Jewelry Name": "নাথ" },
+      { "Jewelry Name": "সাতলাদা" },
+      { "Jewelry Name": "মা'ং টিকা" },
+      { "Jewelry Name": "ঝুমার" },
+      { "Jewelry Name": "জাদা হুয়া লাচ্চা" },
+      { "Jewelry Name": "কান ফুল" },
+      { "Jewelry Name": "চিন্তাক" },
+      { "Jewelry Name": "রানি হার" },
+      { "Jewelry Name": "জুগনি" },
+      { "Jewelry Name": "গোতে" },
+      { "Jewelry Name": "পায়াল" },
+      { "Jewelry Name": "জিন্টিয়ান" }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "রাঙবাউহ" },
+      { "Jewelry Name": "রিশা" },
+      { "Jewelry Name": "চন্দ্রহার" },
+      { "Jewelry Name": "পাঁচি" },
+      { "Jewelry Name": "পাহুঞ্চি" },
+      { "Jewelry Name": "বাঁশের জুয়েলারি" },
+      { "Jewelry Name": "কয়েন জুয়েলারি" }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "তেহরী নাথ" },
+      { "Jewelry Name": "বুলাক" },
+      { "Jewelry Name": "কুণ্ডল" },
+      { "Jewelry Name": "পাহুঞ্চি" },
+      { "Jewelry Name": "হাঁসুলী" },
+      { "Jewelry Name": "চন্দন হার" },
+      { "Jewelry Name": "গালোবন্ধ" },
+      { "Jewelry Name": "কানফুল" },
+      { "Jewelry Name": "বুলাক" },
+      { "Jewelry Name": "চারেউ" },
+      { "Jewelry Name": "গালোবন্ধ" },
+      { "Jewelry Name": "মা'ং টীকা" },
+      { "Jewelry Name": "পাউজি" },
+      { "Jewelry Name": "জাজীর" }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "মা'ং টিকা" },
+      { "Jewelry Name": "পাসা" },
+      { "Jewelry Name": "কাতেসারি চোকার" },
+      { "Jewelry Name": "ঝুমকা" },
+      { "Jewelry Name": "সুরমা দানি" },
+      { "Jewelry Name": "ঝাঞ্জহার" },
+      { "Jewelry Name": "হাঁথ ফুল" },
+      { "Jewelry Name": "চাঁদবালী" },
+      { "Jewelry Name": "রানি হার" },
+      { "Jewelry Name": "চুড়া" }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "items": [
+      { "Jewelry Name": "শাখা পোলা" },
+      { "Jewelry Name": "রতঞ্চুর" },
+      { "Jewelry Name": "টিকলি" },
+      { "Jewelry Name": "মুকুট" },
+      { "Jewelry Name": "ঝুমকো" },
+      { "Jewelry Name": "দুল" },
+      { "Jewelry Name": "বান পিন" },
+      { "Jewelry Name": "সাত নোলি হার" },
+      { "Jewelry Name": "হাঁসুলী" },
+      { "Jewelry Name": "কানকন" },
+      { "Jewelry Name": "বাজু" },
+      { "Jewelry Name": "তাবিজ" },
+      { "Jewelry Name": "তাগা" },
+      { "Jewelry Name": "চুরিজ" },
+      { "Jewelry Name": "পাউনজি নুপুর" },
+      { "Jewelry Name": "পদপদ্মা" },
+      { "Jewelry Name": "ভুমিজ" },
+      { "Jewelry Name": "হো" },
+      { "Jewelry Name": "জুয়াং" },
+      { "Jewelry Name": "বিচিয়া" },
+      { "Jewelry Name": "বডো পারজা" }
+    ]
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union Territory",
+    "items": [
+      { "Jewelry Name": "শেল জুয়েলারি" },
+      { "Jewelry Name": "নারিকেল শেল জুয়েলারি" },
+      { "Jewelry Name": "বাঁশ ও ক্যান জুয়েলারি" },
+      { "Jewelry Name": "মুক্তা জুয়েলারি" },
+      { "Jewelry Name": "ট্রাইবাল অলংকার" }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "items": [
+      { "Jewelry Name": "পাঞ্জাবি চুড়া" },
+      { "Jewelry Name": "কালিরে" },
+      { "Jewelry Name": "মা'ং টিকা" },
+      { "Jewelry Name": "নাথ" },
+      { "Jewelry Name": "ঝুমকা" },
+      { "Jewelry Name": "কুন্দন নেকলেস" },
+      { "Jewelry Name": "রানি হার" },
+      { "Jewelry Name": "অঙ্কলেট (পায়াল)" },
+      { "Jewelry Name": "বাজুবন্ধ" }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Dama",
+    "type": "Union Territory",
+    "items": [
+      { "Jewelry Name": "ইয়েদা" },
+      { "Jewelry Name": "মেটাল ব্যাংলস" },
+      { "Jewelry Name": "বিড নেকলেসেস" },
+      { "Jewelry Name": "কাদা" }
+    ]
+  },
+  {
+    "name": "Delhi",
+    "type": "Union Territory",
+    "items": [
+      { "Jewelry Name": "সাতলাদা" },
+      { "Jewelry Name": "কুন্দন জুয়েলারি" },
+      { "Jewelry Name": "ঝুমকা" },
+      { "Jewelry Name": "চাঁদবালী" },
+      { "Jewelry Name": "পাসা" },
+      { "Jewelry Name": "মা'ং টিকা" },
+      { "Jewelry Name": "হাঁথ ফুল" },
+      { "Jewelry Name": "চোকার" },
+      { "Jewelry Name": "পোলকি জুয়েলারি" },
+      { "Jewelry Name": "মীনাকারী জুয়েলারি" },
+      { "Jewelry Name": "নবরত্ন জুয়েলারি" },
+      { "Jewelry Name": "জাদৌ জুয়েলারি" },
+      { "Jewelry Name": "অঙ্কলেট (পায়াল)" },
+      { "Jewelry Name": "নাথ" },
+      { "Jewelry Name": "বাজুবন্ধ" },
+      { "Jewelry Name": "রানি হার নেকলেস" }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "Union Territory",
+    "items": [
+      { "Jewelry Name": "দেজহূর" },
+      { "Jewelry Name": "গুনুস" },
+      { "Jewelry Name": "হালকাবন্দ" },
+      { "Jewelry Name": "জিগ্গনি" },
+      { "Jewelry Name": "আত্তা-হর" },
+      { "Jewelry Name": "কানা-ডোর" },
+      { "Jewelry Name": "কুণ্ডলাস" },
+      { "Jewelry Name": "নুপুরা" },
+      { "Jewelry Name": "চাউংক ফুল" },
+      { "Jewelry Name": "তাজ" },
+      { "Jewelry Name": "সন্ডুস (ব্রানশিল)" }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "items": [
+      { "Jewelry Name": "পেরাক" },
+      { "Jewelry Name": "গাউ" },
+      { "Jewelry Name": "যগমা" },
+      { "Jewelry Name": "জুগিন" },
+      { "Jewelry Name": "খাটাগ" },
+      { "Jewelry Name": "রিগি-বুম" },
+      { "Jewelry Name": "চ্যাংটসে" },
+      { "Jewelry Name": "ঝো" },
+      { "Jewelry Name": "ফিরু" },
+      { "Jewelry Name": "থেংথাক" }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "items": [
+      { "Jewelry Name": "আরণজানম" },
+      { "Jewelry Name": "সীশেল নেকলেস" },
+      { "Jewelry Name": "নারিকেল শেল ব্যাংলস" },
+      { "Jewelry Name": "কোইর ইয়ারিংস" },
+      { "Jewelry Name": "শেল ব্রেসলেটস" },
+      { "Jewelry Name": "বিডেড হেডপিস" },
+      { "Jewelry Name": "মুক্তা নোজ রিং" },
+      { "Jewelry Name": "ফিশবোন পেনডেন্ট" },
+      { "Jewelry Name": "টরটয়েস শেল হেয়ারপিন" }
+    ]
+  },
+  {
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "items": [
+      { "Jewelry Name": "টেরাকটা জুয়েলারি" },
+      { "Jewelry Name": "প্রাচীন মন্দির জুয়েলারি" },
+      { "Jewelry Name": "প্রথাগত সোনার চোকার" },
+      { "Jewelry Name": "হেরিটেজ ব্যাংলস" },
+      { "Jewelry Name": "মুক্তা নেকলেস" },
+      { "Jewelry Name": "সিলভার অঙ্কলেটস" },
+      { "Jewelry Name": "বিডেড ইয়ারিংস" },
+      { "Jewelry Name": "ফিলিগ্রি পেনডেন্টস" },
+      { "Jewelry Name": "স্টোন-স্টাডেড রিংস" },
+      { "Jewelry Name": "হেরিটেজ নোজ রিংস" }
+    ]
+  }
+]

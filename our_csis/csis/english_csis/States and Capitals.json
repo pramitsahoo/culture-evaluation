@@ -1,0 +1,403 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Amaravati",
+        "Description": "Official seat on the Krishna River,planned for Andhra’s administrative functions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Amaravati"
+      }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Itanagar",
+        "Description": "Capital in Himalayan foothills; center for tribal cultures and governance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Itanagar"
+      }
+    ]
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Dispur",
+        "Description": "Administrative core near Guwahati; known for Assamese heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dispur"
+      }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Patna",
+        "Description": "Historic city on the Ganges with significant ancient heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Patna"
+      }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Raipur",
+        "Description": "Industrial hub famed for steel markets and tribal influences.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Raipur"
+      }
+    ]
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Panaji",
+        "Description": "Coastal city on the Mandovi River with Indo-Portuguese charm.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Panaji"
+      }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Gandhinagar",
+        "Description": "A planned city north of Ahmedabad with notable civic architecture.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gandhinagar"
+      }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Chandigarh",
+        "Description": "Modernist city designed by Le Corbusier; shared with Punjab.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chandigarh"
+      }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Shimla",
+        "Description": "Summer capital in scenic hills; known for colonial-era buildings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Shimla"
+      }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Ranchi",
+        "Description": "Situated on a plateau; waterfalls and tribal heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Ranchi"
+      }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Bengaluru",
+        "Description": "India’s tech hub blending cosmopolitan vibe with Dravidian roots.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bangalore"
+      }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Thiruvananthapuram",
+        "Description": "Coastal city famed for British-era architecture and revered temples.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Thiruvananthapuram"
+      }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Bhopal",
+        "Description": "City of Lakes with rich cultural and historical importance.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhopal"
+      }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Mumbai",
+        "Description": "Financial center noted for Bollywood and colonial heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Mumbai"
+      }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Imphal",
+        "Description": "Located in the Manipur River valley; reflects Meitei culture.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Imphal"
+      }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Shillong",
+        "Description": "Known as Scotland of the East for rolling hills and waterfalls.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Shillong"
+      }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Aizawl",
+        "Description": "Hilltop city offering scenic views and Mizo cultural traditions.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Aizawl"
+      }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Kohima",
+        "Description": "Hilly urban center showcasing Naga heritage and festivals.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kohima"
+      }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Bhubaneswar",
+        "Description": "Celebrated for ancient temples and Kalinga architectural legacy.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Bhubaneswar"
+      }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Chandigarh",
+        "Description": "Modern grid city shared with Haryana; designed by Le Corbusier.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chandigarh"
+      }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Jaipur",
+        "Description": "The Pink City renowned for Rajput architecture and bustling bazaars.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jaipur"
+      }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Gangtok",
+        "Description": "Himalayan town with strong Buddhist cultural influences.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Gangtok"
+      }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Chennai",
+        "Description": "Coastal metropolis blending Dravidian heritage and modern industry.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chennai"
+      }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Hyderabad",
+        "Description": "Historic city known for Charminar and thriving tech sector.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Hyderabad"
+      }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Agartala",
+        "Description": "Border city with palaces and rich tribal heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Agartala"
+      }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Dehradun",
+        "Description": "Located in the Garhwal region with Himalayan foothills nearby.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Dehradun"
+      }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Lucknow",
+        "Description": "Famed for Nawabi culture, Awadhi cuisine, and colonial heritage.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Lucknow"
+      }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "items": [
+      {
+        "Capital City": "Kolkata",
+        "Description": "Cultural hub of India known for colonial architecture and literature.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kolkata"
+      }
+    ]
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Capital City": "Port Blair",
+        "Description": "Set on South Andaman Island, reflecting colonial traces.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Port_Blair"
+      }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Capital City": "Chandigarh",
+        "Description": "Union Territory capital; modernist urban design by Le Corbusier.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Chandigarh"
+      }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Dama",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Capital City": "Daman",
+        "Description": "Coastal city featuring Portuguese colonial heritage post-UT merger.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Daman,_Daman_and_Diu"
+      }
+    ]
+  },
+  {
+    "name": "Delhi",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Capital City": "New Delhi",
+        "Description": "India’s national capital with iconic administrative buildings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/New_Delhi"
+      }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Capital City": "Srinagar",
+        "Description": "Two capitals with distinct cultural and climatic settings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(union_territory)"
+      },
+      {
+        "Capital City": "Jammu",
+        "Description": "Two capitals with distinct cultural and climatic settings.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(union_territory)"
+      }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Capital City": "Leh",
+        "Description": "High-altitude town with Tibetan-Buddhist cultural influences.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Leh"
+      }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Capital City": "Kavaratti",
+        "Description": "Island capital known for pristine lagoons and coral reefs.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Kavaratti"
+      }
+    ]
+  },
+  {
+    "name": "Puducherry",
+    "type": "Union Territory",
+    "items": [
+      {
+        "Capital City": "Puducherry",
+        "Description": "Franco-Tamil heritage city on India’s southeastern coast.",
+        "Reference Link": "https://en.wikipedia.org/wiki/Pondicherry"
+      }
+    ]
+  }
+]
